@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Dark Knight Rises](https://serp.ly/@serpmedia/github/amazon/The+Dark+Knight+Rises)
+## 1. [The Dark Knight Rises](https://serp.ly/amazon/The+Dark+Knight+Rises)
 
 ![The Dark Knight Rises](https://image.tmdb.org/t/p/original/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg)
 
@@ -77,7 +77,7 @@ In "The Dark Knight Rises", Batman shoulders the blame for Harvey Dent's crimes,
 <hr>
 
 
-## 2. [Ready Player One](https://serp.ly/@serpmedia/github/amazon/Ready+Player+One)
+## 2. [Ready Player One](https://serp.ly/amazon/Ready+Player+One)
 
 ![Ready Player One](https://image.tmdb.org/t/p/original/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg)
 
@@ -117,7 +117,7 @@ A better reality awaits.
 <hr>
 
 
-## 3. [Spider-Man: Far From Home](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Far+From+Home)
+## 3. [Spider-Man: Far From Home](https://serp.ly/amazon/Spider-Man%3A+Far+From+Home)
 
 ![Spider-Man: Far From Home](https://image.tmdb.org/t/p/original/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg)
 
@@ -160,7 +160,7 @@ When Peter Parker and his friends travel to Europe for the summer, they find the
 <hr>
 
 
-## 4. [Rogue One: A Star Wars Story](https://serp.ly/@serpmedia/github/amazon/Rogue+One%3A+A+Star+Wars+Story)
+## 4. [Rogue One: A Star Wars Story](https://serp.ly/amazon/Rogue+One%3A+A+Star+Wars+Story)
 
 ![Rogue One: A Star Wars Story](https://image.tmdb.org/t/p/original/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg)
 
@@ -203,7 +203,7 @@ In "Rogue One: A Star Wars Story", a daring group of resistance fighters bands t
 <hr>
 
 
-## 5. [Captain Marvel](https://serp.ly/@serpmedia/github/amazon/Captain+Marvel)
+## 5. [Captain Marvel](https://serp.ly/amazon/Captain+Marvel)
 
 ![Captain Marvel](https://image.tmdb.org/t/p/original/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg)
 
@@ -246,7 +246,7 @@ Travel back to the 1990s with Carol Danvers as she transforms into one of the un
 <hr>
 
 
-## 6. [Darkest Hour](https://serp.ly/@serpmedia/github/amazon/Darkest+Hour)
+## 6. [Darkest Hour](https://serp.ly/amazon/Darkest+Hour)
 
 ![Darkest Hour](https://image.tmdb.org/t/p/original/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg)
 
@@ -289,7 +289,7 @@ In May 1940, as the shadow of World War II darkens Europe, Winston Churchill fac
 <hr>
 
 
-## 7. [The Place Beyond the Pines](https://serp.ly/@serpmedia/github/amazon/The+Place+Beyond+the+Pines)
+## 7. [The Place Beyond the Pines](https://serp.ly/amazon/The+Place+Beyond+the+Pines)
 
 ![The Place Beyond the Pines](https://image.tmdb.org/t/p/original/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg)
 
@@ -332,7 +332,7 @@ In "The Place Beyond the Pines", a motorcycle stunt rider faces a moral crossroa
 <hr>
 
 
-## 8. [Knowing](https://serp.ly/@serpmedia/github/amazon/Knowing)
+## 8. [Knowing](https://serp.ly/amazon/Knowing)
 
 ![Knowing](https://image.tmdb.org/t/p/original/7SJgkVoxCf7h6y3uA4tAR4Iowwp.jpg)
 
@@ -372,7 +372,7 @@ When an elementary school teacher opens a time capsule at his son's school, he d
 <hr>
 
 
-## 9. [Exodus: Gods and Kings](https://serp.ly/@serpmedia/github/amazon/Exodus%3A+Gods+and+Kings)
+## 9. [Exodus: Gods and Kings](https://serp.ly/amazon/Exodus%3A+Gods+and+Kings)
 
 ![Exodus: Gods and Kings](https://image.tmdb.org/t/p/original/uaDj37JtvLan9tihxZ18e6qL33b.jpg)
 
@@ -415,7 +415,7 @@ When the Egyptian Pharaoh Ramses turns against his own brother Moses, it kicks o
 <hr>
 
 
-## 10. [The King](https://serp.ly/@serpmedia/github/amazon/The+King)
+## 10. [The King](https://serp.ly/amazon/The+King)
 
 ![The King](https://image.tmdb.org/t/p/original/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg)
 
@@ -456,7 +456,7 @@ In 15th century England, a young prince named Hal leads a carefree life among th
 <hr>
 
 
-## 11. [Spies in Disguise](https://serp.ly/@serpmedia/github/amazon/Spies+in+Disguise)
+## 11. [Spies in Disguise](https://serp.ly/amazon/Spies+in+Disguise)
 
 ![Spies in Disguise](https://image.tmdb.org/t/p/original/30YacPAcxpNemhhwX0PVUl9pVA3.jpg)
 
@@ -499,7 +499,7 @@ When a suave super spy and his awkward inventor partner find themselves in over 
 <hr>
 
 
-## 12. [Robin Hood](https://serp.ly/@serpmedia/github/amazon/Robin+Hood)
+## 12. [Robin Hood](https://serp.ly/amazon/Robin+Hood)
 
 ![Robin Hood](https://image.tmdb.org/t/p/original/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg)
 
@@ -542,7 +542,7 @@ In this medieval tale, a war-hardened Crusader returns home to England to find h
 <hr>
 
 
-## 13. [Australia](https://serp.ly/@serpmedia/github/amazon/Australia)
+## 13. [Australia](https://serp.ly/amazon/Australia)
 
 ![Australia](https://image.tmdb.org/t/p/original/tFQpccGMTWe24eWxK5U9rb7tK3M.jpg)
 
@@ -582,7 +582,7 @@ In northern Australia before World War II, an English aristocrat inherits a spra
 <hr>
 
 
-## 14. [Killer Elite](https://serp.ly/@serpmedia/github/amazon/Killer+Elite)
+## 14. [Killer Elite](https://serp.ly/amazon/Killer+Elite)
 
 ![Killer Elite](https://image.tmdb.org/t/p/original/7O2U0WPFPSvNSUYZlhbnV081lBF.jpg)
 
@@ -625,7 +625,7 @@ When a dangerous military society threatens to expose their darkest secrets, for
 <hr>
 
 
-## 15. [Killing Them Softly](https://serp.ly/@serpmedia/github/amazon/Killing+Them+Softly)
+## 15. [Killing Them Softly](https://serp.ly/amazon/Killing+Them+Softly)
 
 ![Killing Them Softly](https://image.tmdb.org/t/p/original/heaz45kpFa4Oa7iLis0OBas68ls.jpg)
 
@@ -668,7 +668,7 @@ In a world where organized crime thrives, three foolish robbers upset the balanc
 <hr>
 
 
-## 16. [The New World](https://serp.ly/@serpmedia/github/amazon/The+New+World)
+## 16. [The New World](https://serp.ly/amazon/The+New+World)
 
 ![The New World](https://image.tmdb.org/t/p/original/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg)
 
@@ -708,7 +708,7 @@ In the 17th century, English explorer John Smith arrives in the New World, where
 <hr>
 
 
-## 17. [Black Sea](https://serp.ly/@serpmedia/github/amazon/Black+Sea)
+## 17. [Black Sea](https://serp.ly/amazon/Black+Sea)
 
 ![Black Sea](https://image.tmdb.org/t/p/original/oqOXFP35a2DjxjdpmEaOTIfI5TS.jpg)
 
@@ -748,7 +748,7 @@ In the depths of the Black Sea, a rogue submarine captain assembles a misfit cre
 <hr>
 
 
-## 18. [Starred Up](https://serp.ly/@serpmedia/github/amazon/Starred+Up)
+## 18. [Starred Up](https://serp.ly/amazon/Starred+Up)
 
 ![Starred Up](https://image.tmdb.org/t/p/original/e1DRGfyRxYQclvJOJiXwAw5gDg2.jpg)
 
@@ -786,7 +786,7 @@ When 19-year-old Eric is transferred to an adult prison facility, he's thrust in
 <hr>
 
 
-## 19. [To Catch a Killer](https://serp.ly/@serpmedia/github/amazon/To+Catch+a+Killer)
+## 19. [To Catch a Killer](https://serp.ly/amazon/To+Catch+a+Killer)
 
 ![To Catch a Killer](https://image.tmdb.org/t/p/original/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg)
 
@@ -827,7 +827,7 @@ In "To Catch a Killer", a gifted but troubled Baltimore detective is recruited b
 <hr>
 
 
-## 20. [Slow West](https://serp.ly/@serpmedia/github/amazon/Slow+West)
+## 20. [Slow West](https://serp.ly/amazon/Slow+West)
 
 ![Slow West](https://image.tmdb.org/t/p/original/j3PmbRZvf5KpNbapSjn8b0CpD6a.jpg)
 
@@ -872,7 +872,7 @@ When a 17-year-old Scottish boy travels to the American West in search of the wo
 <hr>
 
 
-## 21. [Trespass](https://serp.ly/@serpmedia/github/amazon/Trespass)
+## 21. [Trespass](https://serp.ly/amazon/Trespass)
 
 ![Trespass](https://image.tmdb.org/t/p/original/yP60huMcPTWOJfplRLi4FQAEQxX.jpg)
 
@@ -912,7 +912,7 @@ When four masked intruders storm into the Miller's luxurious waterfront home, tu
 <hr>
 
 
-## 22. [Vertical Limit](https://serp.ly/@serpmedia/github/amazon/Vertical+Limit)
+## 22. [Vertical Limit](https://serp.ly/amazon/Vertical+Limit)
 
 ![Vertical Limit](https://image.tmdb.org/t/p/original/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg)
 
@@ -952,7 +952,7 @@ Hold your breath.
 <hr>
 
 
-## 23. [Adore](https://serp.ly/@serpmedia/github/amazon/Adore)
+## 23. [Adore](https://serp.ly/amazon/Adore)
 
 ![Adore](https://image.tmdb.org/t/p/original/hIQqIeG7Ude0QRUFntdLtsAUEBB.jpg)
 
@@ -990,7 +990,7 @@ In the picturesque coastal town where they've spent their entire lives, best fri
 <hr>
 
 
-## 24. [Animal Kingdom](https://serp.ly/@serpmedia/github/amazon/Animal+Kingdom)
+## 24. [Animal Kingdom](https://serp.ly/amazon/Animal+Kingdom)
 
 ![Animal Kingdom](https://image.tmdb.org/t/p/original/zhj8YPQKuRev5N3KoHacsPnF4mB.jpg)
 
@@ -1033,7 +1033,7 @@ When Joshua "J" loses his mother to an overdose, he's taken in by his grandmothe
 <hr>
 
 
-## 25. [Lost River](https://serp.ly/@serpmedia/github/amazon/Lost+River)
+## 25. [Lost River](https://serp.ly/amazon/Lost+River)
 
 ![Lost River](https://image.tmdb.org/t/p/original/paG0O9cVcoQcXpNG8Nf0AnL7VWE.jpg)
 
@@ -1076,7 +1076,7 @@ Billy, a single mother of two, finds herself drawn into a dark underworld while 
 <hr>
 
 
-## 26. [Mississippi Grind](https://serp.ly/@serpmedia/github/amazon/Mississippi+Grind)
+## 26. [Mississippi Grind](https://serp.ly/amazon/Mississippi+Grind)
 
 ![Mississippi Grind](https://image.tmdb.org/t/p/original/vS3Bc6BiuZtAbSQpKhhRzPa7c2d.jpg)
 
@@ -1114,7 +1114,7 @@ When a down-on-his-luck gambler named Gerry meets the charismatic Curtis, their 
 <hr>
 
 
-## 27. [Quigley Down Under](https://serp.ly/@serpmedia/github/amazon/Quigley+Down+Under)
+## 27. [Quigley Down Under](https://serp.ly/amazon/Quigley+Down+Under)
 
 ![Quigley Down Under](https://image.tmdb.org/t/p/original/93HWOYFsjLsCJC8RawGLv1ANZwS.jpg)
 
@@ -1152,7 +1152,7 @@ American sharpshooter Matt Quigley arrives in Australia to find his skills sough
 <hr>
 
 
-## 28. [Babyteeth](https://serp.ly/@serpmedia/github/amazon/Babyteeth)
+## 28. [Babyteeth](https://serp.ly/amazon/Babyteeth)
 
 ![Babyteeth](https://image.tmdb.org/t/p/original/aINpljdt3VVMrCLtJW4BektwYOp.jpg)
 
@@ -1191,7 +1191,7 @@ When a teenager with terminal cancer falls unexpectedly in love with a local dru
 <hr>
 
 
-## 29. [Cyrano](https://serp.ly/@serpmedia/github/amazon/Cyrano)
+## 29. [Cyrano](https://serp.ly/amazon/Cyrano)
 
 ![Cyrano](https://image.tmdb.org/t/p/original/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg)
 
@@ -1234,7 +1234,7 @@ Have you ever loved someone?
 <hr>
 
 
-## 30. [The Marsh King's Daughter](https://serp.ly/@serpmedia/github/amazon/The+Marsh+King%27s+Daughter)
+## 30. [The Marsh King's Daughter](https://serp.ly/amazon/The+Marsh+King%27s+Daughter)
 
 ![The Marsh King's Daughter](https://image.tmdb.org/t/p/original/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg)
 
@@ -1275,7 +1275,7 @@ When the notorious 'Marsh King' escapes from prison, his daughter Helena's metic
 <hr>
 
 
-## 31. [Una](https://serp.ly/@serpmedia/github/amazon/Una)
+## 31. [Una](https://serp.ly/amazon/Una)
 
 ![Una](https://image.tmdb.org/t/p/original/xvEhxYOHf7eKzLWeorlyrg3Dpru.jpg)
 
@@ -1314,7 +1314,7 @@ When a young woman visits an older man's workplace, their reunion brings his pas
 <hr>
 
 
-## 32. [I Am Heath Ledger](https://serp.ly/@serpmedia/github/amazon/I+Am+Heath+Ledger)
+## 32. [I Am Heath Ledger](https://serp.ly/amazon/I+Am+Heath+Ledger)
 
 ![I Am Heath Ledger](https://image.tmdb.org/t/p/original/96ScsrVx2tAlWuiZYgqwcuGYdYK.jpg)
 
@@ -1350,7 +1350,7 @@ Don't be afraid to fall.
 <hr>
 
 
-## 33. [The Land of Steady Habits](https://serp.ly/@serpmedia/github/amazon/The+Land+of+Steady+Habits)
+## 33. [The Land of Steady Habits](https://serp.ly/amazon/The+Land+of+Steady+Habits)
 
 ![The Land of Steady Habits](https://image.tmdb.org/t/p/original/e2cdubbzgDBIVG8lELeQUq50qiZ.jpg)
 
@@ -1387,7 +1387,7 @@ After leaving his wife and job in search of happiness, Anders embarks on a heart
 <hr>
 
 
-## 34. [Sirens](https://serp.ly/@serpmedia/github/amazon/Sirens)
+## 34. [Sirens](https://serp.ly/amazon/Sirens)
 
 ![Sirens](https://image.tmdb.org/t/p/original/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg)
 
@@ -1428,7 +1428,7 @@ In 1930s Australia, Anglican clergyman Anthony Campion visits painter Norman Lin
 <hr>
 
 
-## 35. [$9.99](https://serp.ly/@serpmedia/github/amazon/%249.99)
+## 35. [$9.99](https://serp.ly/amazon/%249.99)
 
 ![$9.99](https://image.tmdb.org/t/p/original/nX4pmuluKq4MqgrmgfIpOr8Orgo.jpg)
 
@@ -1464,7 +1464,7 @@ Joy. Sorrow. Desire. Love. Pain. Fear. Lust. Redemption. Want to know the Meanin
 <hr>
 
 
-## 36. [Gorillaz: Reject False Icons](https://serp.ly/@serpmedia/github/amazon/Gorillaz%3A+Reject+False+Icons)
+## 36. [Gorillaz: Reject False Icons](https://serp.ly/amazon/Gorillaz%3A+Reject+False+Icons)
 
 ![Gorillaz: Reject False Icons](https://image.tmdb.org/t/p/original/qnw5su7OZM8mF7HrU2FAIu0ALEx.jpg)
 
@@ -1498,7 +1498,7 @@ Joy. Sorrow. Desire. Love. Pain. Fear. Lust. Redemption. Want to know the Meanin
 <hr>
 
 
-## 37. [Beautiful Kate](https://serp.ly/@serpmedia/github/amazon/Beautiful+Kate)
+## 37. [Beautiful Kate](https://serp.ly/amazon/Beautiful+Kate)
 
 ![Beautiful Kate](https://image.tmdb.org/t/p/original/ewcjDwk8RwbR2ERo9uq2qXbW7R.jpg)
 
@@ -1536,7 +1536,7 @@ Ned Kendall returns to his family home to bid farewell to his ailing father, bri
 <hr>
 
 
-## 38. [Needle](https://serp.ly/@serpmedia/github/amazon/Needle)
+## 38. [Needle](https://serp.ly/amazon/Needle)
 
 ![Needle](https://image.tmdb.org/t/p/original/yo1uRNVyLFVJtT4g4KMnvJ7uBbE.jpg)
 
@@ -1574,7 +1574,7 @@ When college student Ben inherits a mysterious mechanical box that creates voodo
 <hr>
 
 
-## 39. [The Year My Voice Broke](https://serp.ly/@serpmedia/github/amazon/The+Year+My+Voice+Broke)
+## 39. [The Year My Voice Broke](https://serp.ly/amazon/The+Year+My+Voice+Broke)
 
 ![The Year My Voice Broke](https://image.tmdb.org/t/p/original/kEVkhw9hQYknBhtTapHlVoHzOW8.jpg)
 
@@ -1610,7 +1610,7 @@ In 1962 rural Australia, a prepubescent boy watches his best friend and first lo
 <hr>
 
 
-## 40. [Untogether](https://serp.ly/@serpmedia/github/amazon/Untogether)
+## 40. [Untogether](https://serp.ly/amazon/Untogether)
 
 ![Untogether](https://image.tmdb.org/t/p/original/kfypuQSaXQTSXQk837qPwRW3H8K.jpg)
 
@@ -1646,7 +1646,7 @@ Once a teenage prodigy, a recovering addict tries to reunite with her writing ca
 <hr>
 
 
-## 41. [Cosi](https://serp.ly/@serpmedia/github/amazon/Cosi)
+## 41. [Cosi](https://serp.ly/amazon/Cosi)
 
 ![Cosi](https://image.tmdb.org/t/p/original/g4b3tEgmPSq7mZ7db1r9i5jHEHV.jpg)
 
@@ -1684,7 +1684,7 @@ When chasing your dreams... it helps to be a little crazy!
 <hr>
 
 
-## 42. [Map of the Human Heart](https://serp.ly/@serpmedia/github/amazon/Map+of+the+Human+Heart)
+## 42. [Map of the Human Heart](https://serp.ly/amazon/Map+of+the+Human+Heart)
 
 ![Map of the Human Heart](https://image.tmdb.org/t/p/original/ritKJM436bbvFhXlWKbwKzjs8SM.jpg)
 
@@ -1720,7 +1720,7 @@ In a remote Arctic village, British mapmaker Walter Russell forms an unlikely al
 <hr>
 
 
-## 43. [Spotswood](https://serp.ly/@serpmedia/github/amazon/Spotswood)
+## 43. [Spotswood](https://serp.ly/amazon/Spotswood)
 
 ![Spotswood](https://image.tmdb.org/t/p/original/t7YiAgDrraufIDlwAFU3fKtm0Hz.jpg)
 
@@ -1756,7 +1756,7 @@ When a small moccasin factory hires an efficiency expert, his modernization plan
 <hr>
 
 
-## 44. [Guns for Hire](https://serp.ly/@serpmedia/github/amazon/Guns+for+Hire)
+## 44. [Guns for Hire](https://serp.ly/amazon/Guns+for+Hire)
 
 ![Guns for Hire](https://image.tmdb.org/t/p/original/umsPInK2ZLwba72VqyvKMQ3ctdZ.jpg)
 
@@ -1790,7 +1790,7 @@ When a quirky loner runs a business that blurs the line between towing services 
 <hr>
 
 
-## 45. [Marvel Studios Assembled: The Making of Secret Invasion](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Secret+Invasion)
+## 45. [Marvel Studios Assembled: The Making of Secret Invasion](https://serp.ly/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Secret+Invasion)
 
 ![Marvel Studios Assembled: The Making of Secret Invasion](https://image.tmdb.org/t/p/original/8YDNwj9gsAQlcHQALPtjJipoGx8.jpg)
 
@@ -1821,7 +1821,7 @@ Join Marvel Studios' filmmaking team as they reveal the creative process behind 
 <hr>
 
 
-## 46. [The Big Steal](https://serp.ly/@serpmedia/github/amazon/The+Big+Steal)
+## 46. [The Big Steal](https://serp.ly/amazon/The+Big+Steal)
 
 ![The Big Steal](https://image.tmdb.org/t/p/original/ftSsSxHQ3Sl5wXhNagcKSW0ANht.jpg)
 
@@ -1855,7 +1855,7 @@ Danny has two dreams: a Jaguar and Joanna Johnson. When a shady car dealerCONNED
 <hr>
 
 
-## 47. [Amy](https://serp.ly/@serpmedia/github/amazon/Amy)
+## 47. [Amy](https://serp.ly/amazon/Amy)
 
 ![Amy](https://image.tmdb.org/t/p/original/w8s2BUyvDUWQbkm6xZ3gBWwGD9Z.jpg)
 
@@ -1892,7 +1892,7 @@ When 8-year-old Amy's father, Franco, dies tragically on stage during a rock per
 <hr>
 
 
-## 48. [Child Star: The Shirley Temple Story](https://serp.ly/@serpmedia/github/amazon/Child+Star%3A+The+Shirley+Temple+Story)
+## 48. [Child Star: The Shirley Temple Story](https://serp.ly/amazon/Child+Star%3A+The+Shirley+Temple+Story)
 
 ![Child Star: The Shirley Temple Story](https://image.tmdb.org/t/p/original/e0ZIx4fzCP9lKeqxUseOk8K4i8D.jpg)
 
@@ -1925,7 +1925,7 @@ In the 1930s, as America grappled with the Great Depression, a remarkable little
 <hr>
 
 
-## 49. [Black and White](https://serp.ly/@serpmedia/github/amazon/Black+and+White)
+## 49. [Black and White](https://serp.ly/amazon/Black+and+White)
 
 ![Black and White](https://image.tmdb.org/t/p/original/thlVGcAf4GczBTYb0Y9aKkV51PF.jpg)
 
@@ -1961,7 +1961,7 @@ In 1958 Australia, the murder of a young white girl rocks the nation to its core
 <hr>
 
 
-## 50. [Return Home](https://serp.ly/@serpmedia/github/amazon/Return+Home)
+## 50. [Return Home](https://serp.ly/amazon/Return+Home)
 
 ![Return Home](https://image.tmdb.org/t/p/original/xywZQ8GSzjNc91IPlRbdoKQCcqS.jpg)
 
@@ -1997,7 +1997,7 @@ When a successful businessman visits his struggling brother's service station, t
 <hr>
 
 
-## 51. [Metal Skin](https://serp.ly/@serpmedia/github/amazon/Metal+Skin)
+## 51. [Metal Skin](https://serp.ly/amazon/Metal+Skin)
 
 ![Metal Skin](https://image.tmdb.org/t/p/original/1rPtJZbFIusaA8Ieg3MnJgzJv3U.jpg)
 
@@ -2033,7 +2033,7 @@ When psycho Joe gets a job at a local supermarket, he meets Dazey, a fellow "pet
 <hr>
 
 
-## 52. [Idiot Box](https://serp.ly/@serpmedia/github/amazon/Idiot+Box)
+## 52. [Idiot Box](https://serp.ly/amazon/Idiot+Box)
 
 ![Idiot Box](https://image.tmdb.org/t/p/original/p91Kz3u2p0x37c9M21zVQpyNCJ.jpg)
 
@@ -2067,7 +2067,7 @@ Mick and Kev, a pair of bored youngsters in Sydney's western suburbs, turn every
 <hr>
 
 
-## 53. [The Stories: The Making of 'Rogue One: A Star Wars Story'](https://serp.ly/@serpmedia/github/amazon/The+Stories%3A+The+Making+of+%27Rogue+One%3A+A+Star+Wars+Story%27)
+## 53. [The Stories: The Making of 'Rogue One: A Star Wars Story'](https://serp.ly/amazon/The+Stories%3A+The+Making+of+%27Rogue+One%3A+A+Star+Wars+Story%27)
 
 ![The Stories: The Making of 'Rogue One: A Star Wars Story'](https://image.tmdb.org/t/p/original/xuI27etRYWk7vP0aCUTTnIfnpC4.jpg)
 
@@ -2101,7 +2101,7 @@ Mick and Kev, a pair of bored youngsters in Sydney's western suburbs, turn every
 <hr>
 
 
-## 54. [Prime Mover](https://serp.ly/@serpmedia/github/amazon/Prime+Mover)
+## 54. [Prime Mover](https://serp.ly/amazon/Prime+Mover)
 
 ![Prime Mover](https://image.tmdb.org/t/p/original/l0SqMbXFUJoWBIJmk6SARNBDloj.jpg)
 
@@ -2137,7 +2137,7 @@ Prime Mover follows a long-haul trucker whose journey reveals the stark contrast
 <hr>
 
 
-## 55. [Sample People](https://serp.ly/@serpmedia/github/amazon/Sample+People)
+## 55. [Sample People](https://serp.ly/amazon/Sample+People)
 
 ![Sample People](https://image.tmdb.org/t/p/original/6WuTLAY7XEZVDw8RP0DjjAd0vDU.jpg)
 
@@ -2175,7 +2175,7 @@ When four diverse groups of Sydney-siders seek escape routes over one sweltering
 <hr>
 
 
-## 56. [Second Chance](https://serp.ly/@serpmedia/github/amazon/Second+Chance)
+## 56. [Second Chance](https://serp.ly/amazon/Second+Chance)
 
 <br>
 
@@ -2207,7 +2207,7 @@ When a young Melbourne lawyer is sent to Broome as punishment for his failings, 
 <hr>
 
 
-## 57. [Mullet](https://serp.ly/@serpmedia/github/amazon/Mullet)
+## 57. [Mullet](https://serp.ly/amazon/Mullet)
 
 ![Mullet](https://image.tmdb.org/t/p/original/cUGB8qZm4Ejlv8m3FCQLvGmLcJa.jpg)
 
@@ -2241,7 +2241,7 @@ After a few years in the city, Eddie returns to his coastal hometown in New Sout
 <hr>
 
 
-## 58. [Lover Boy](https://serp.ly/@serpmedia/github/amazon/Lover+Boy)
+## 58. [Lover Boy](https://serp.ly/amazon/Lover+Boy)
 
 ![Lover Boy](https://image.tmdb.org/t/p/original/iSvfNg7H9lkeEkdYDBy4tqOC9v2.jpg)
 
@@ -2277,7 +2277,7 @@ In suburban Melbourne, an awkward and inexperienced teenage boy's life changes w
 <hr>
 
 
-## 59. [Secret Men's Business](https://serp.ly/@serpmedia/github/amazon/Secret+Men%27s+Business)
+## 59. [Secret Men's Business](https://serp.ly/amazon/Secret+Men%27s+Business)
 
 ![Secret Men's Business](https://image.tmdb.org/t/p/original/tUO2tWUc2IQWFfGFDuMIM9VBp2W.jpg)
 
@@ -2311,7 +2311,7 @@ When four old friends reunite after the death of their beloved school teacher, t
 <hr>
 
 
-## 60. [Nirvana Street Murder](https://serp.ly/@serpmedia/github/amazon/Nirvana+Street+Murder)
+## 60. [Nirvana Street Murder](https://serp.ly/amazon/Nirvana+Street+Murder)
 
 ![Nirvana Street Murder](https://image.tmdb.org/t/p/original/vv2udGY2yICgmqQF2weeA3QnvoC.jpg)
 
@@ -2347,7 +2347,7 @@ When one brother goes on the run, the other finds himself torn between an affair
 <hr>
 
 
-## 61. [True Love and Chaos](https://serp.ly/@serpmedia/github/amazon/True+Love+and+Chaos)
+## 61. [True Love and Chaos](https://serp.ly/amazon/True+Love+and+Chaos)
 
 ![True Love and Chaos](https://image.tmdb.org/t/p/original/vLAaCqq7CLnTXU3mOpuxGHHv9H3.jpg)
 
@@ -2383,7 +2383,7 @@ When a man agrees to help his lover with a personal journey, he keeps one crucia
 <hr>
 
 
-## 62. [Hunt Angels](https://serp.ly/@serpmedia/github/amazon/Hunt+Angels)
+## 62. [Hunt Angels](https://serp.ly/amazon/Hunt+Angels)
 
 ![Hunt Angels](https://image.tmdb.org/t/p/original/pbYDWpYg1Kbn1LVUUTvXe2KpUjT.jpg)
 
@@ -2417,7 +2417,7 @@ In 1930s Australia, filmmaking partners Rupert Kathner and Alma Brooks fight to 
 <hr>
 
 
-## 63. [Larrikins](https://serp.ly/@serpmedia/github/amazon/Larrikins)
+## 63. [Larrikins](https://serp.ly/amazon/Larrikins)
 
 ![Larrikins](https://image.tmdb.org/t/p/original/o5CTmq9rWyDOyM7248XtBLqIJvP.jpg)
 
@@ -2445,7 +2445,7 @@ When an uptight bilby escapes his sheltered life in his family burrow, he ventur
 <hr>
 
 
-## 64. [SLOW WEST in SUPER EIGHT](https://serp.ly/@serpmedia/github/amazon/SLOW+WEST+in+SUPER+EIGHT)
+## 64. [SLOW WEST in SUPER EIGHT](https://serp.ly/amazon/SLOW+WEST+in+SUPER+EIGHT)
 
 <br>
 
@@ -2471,7 +2471,7 @@ When an uptight bilby escapes his sheltered life in his family burrow, he ventur
 <hr>
 
 
-## 65. [The Still Point](https://serp.ly/@serpmedia/github/amazon/The+Still+Point)
+## 65. [The Still Point](https://serp.ly/amazon/The+Still+Point)
 
 ![The Still Point](https://image.tmdb.org/t/p/original/8inBe6UYD0I76j4YbXbZABT1L8Q.jpg)
 
@@ -2502,7 +2502,7 @@ The Still Point centers on Sarah, a 15-year-old deaf girl navigating the complex
 <hr>
 
 
-## 66. [Freaky Tales](https://serp.ly/@serpmedia/github/amazon/Freaky+Tales)
+## 66. [Freaky Tales](https://serp.ly/amazon/Freaky+Tales)
 
 ![Freaky Tales](https://image.tmdb.org/t/p/original/43FSWxGdmuOUGUy7CDNvlqMgu4k.jpg)
 
@@ -2533,7 +2533,7 @@ In 1987 Oakland, four unlikely heroes rise against the odds in stories that inte
 <hr>
 
 
-## 67. [Say a Little Prayer](https://serp.ly/@serpmedia/github/amazon/Say+a+Little+Prayer)
+## 67. [Say a Little Prayer](https://serp.ly/amazon/Say+a+Little+Prayer)
 
 ![Say a Little Prayer](https://image.tmdb.org/t/p/original/bKMjWyDZD3ZCx0y1WFFBAJIbY9z.jpg)
 
@@ -2564,7 +2564,7 @@ Seymour, a shy 11-year-old, forms an unexpected connection with Angie, a trouble
 <hr>
 
 
-## 68. [The Singer and the Swinger](https://serp.ly/@serpmedia/github/amazon/The+Singer+and+the+Swinger)
+## 68. [The Singer and the Swinger](https://serp.ly/amazon/The+Singer+and+the+Swinger)
 
 ![The Singer and the Swinger](https://image.tmdb.org/t/p/original/2Dlf9szq3lNHamnZ4W7emcBg8Cw.jpg)
 
@@ -2595,7 +2595,7 @@ In 1950s Australia, an unlikely friendship forms between Johnny O'Keefe and Lee 
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -2641,7 +2641,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Flying Doctors](https://serp.ly/@serpmedia/github/amazon/The+Flying+Doctors)
+## 2. [The Flying Doctors](https://serp.ly/amazon/The+Flying+Doctors)
 
 ![The Flying Doctors](https://image.tmdb.org/t/p/original/Aj4xa7lo9RwTV6DpZ3Pcjgp26Ht.jpg)
 
@@ -2683,7 +2683,7 @@ The Flying Doctors brings to life the heroic work of Australia's Royal Flying Do
 <hr>
 
 
-## 3. [The Man from Snowy River](https://serp.ly/@serpmedia/github/amazon/The+Man+from+Snowy+River)
+## 3. [The Man from Snowy River](https://serp.ly/amazon/The+Man+from+Snowy+River)
 
 ![The Man from Snowy River](https://image.tmdb.org/t/p/original/7Z5T7wyhLmz8jyb9APYdq3utMyp.jpg)
 
@@ -2725,7 +2725,7 @@ In this Australian television series based on Banjo Paterson's poem "The Man fro
 <hr>
 
 
-## 4. [Honest Trailers](https://serp.ly/@serpmedia/github/amazon/Honest+Trailers)
+## 4. [Honest Trailers](https://serp.ly/amazon/Honest+Trailers)
 
 ![Honest Trailers](https://image.tmdb.org/t/p/original/5wZDu7JVXqmzJLthh1ngIfLmKIS.jpg)
 
@@ -2769,7 +2769,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 5. [Who Do You Think You Are?](https://serp.ly/@serpmedia/github/amazon/Who+Do+You+Think+You+Are%3F)
+## 5. [Who Do You Think You Are?](https://serp.ly/amazon/Who+Do+You+Think+You+Are%3F)
 
 ![Who Do You Think You Are?](https://image.tmdb.org/t/p/original/t30ooiQxmQy2O2SSLVSsvMqCNgU.jpg)
 
@@ -2813,7 +2813,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 6. [Star Wars: The Bad Batch](https://serp.ly/@serpmedia/github/amazon/Star+Wars%3A+The+Bad+Batch)
+## 6. [Star Wars: The Bad Batch](https://serp.ly/amazon/Star+Wars%3A+The+Bad+Batch)
 
 ![Star Wars: The Bad Batch](https://image.tmdb.org/t/p/original/cDQAvfgAqnKuklerrZylZr6PCQa.jpg)
 
@@ -2857,7 +2857,7 @@ In the immediate aftermath of the Clone Wars, an elite squadron of experimental 
 <hr>
 
 
-## 7. [Marvel Studios Legends](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Legends)
+## 7. [Marvel Studios Legends](https://serp.ly/amazon/Marvel+Studios+Legends)
 
 ![Marvel Studios Legends](https://image.tmdb.org/t/p/original/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg)
 
@@ -2903,7 +2903,7 @@ As the universe expands, explore the stories of those destined to become legends
 <hr>
 
 
-## 8. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 8. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2947,7 +2947,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 9. [The Outsider](https://serp.ly/@serpmedia/github/amazon/The+Outsider)
+## 9. [The Outsider](https://serp.ly/amazon/The+Outsider)
 
 ![The Outsider](https://image.tmdb.org/t/p/original/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg)
 
@@ -2991,7 +2991,7 @@ The Outsider delves into the darkest corners of human belief when an ordinary po
 <hr>
 
 
-## 10. [Farscape](https://serp.ly/@serpmedia/github/amazon/Farscape)
+## 10. [Farscape](https://serp.ly/amazon/Farscape)
 
 ![Farscape](https://image.tmdb.org/t/p/original/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg)
 
@@ -3037,7 +3037,7 @@ When astronaut John Crichton's experimental space mission goes awry, he's hurled
 <hr>
 
 
-## 11. [Secret Invasion](https://serp.ly/@serpmedia/github/amazon/Secret+Invasion)
+## 11. [Secret Invasion](https://serp.ly/amazon/Secret+Invasion)
 
 ![Secret Invasion](https://image.tmdb.org/t/p/original/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg)
 
@@ -3081,7 +3081,7 @@ When Nick Fury and Talos uncover a secret Skrull invasion, they realize these sh
 <hr>
 
 
-## 12. [Halifax f.p.](https://serp.ly/@serpmedia/github/amazon/Halifax+f.p.)
+## 12. [Halifax f.p.](https://serp.ly/amazon/Halifax+f.p.)
 
 ![Halifax f.p.](https://image.tmdb.org/t/p/original/rxXXLTmNTAk5r2AW5gmDI0Sy6gR.jpg)
 
@@ -3123,7 +3123,7 @@ When a forensic psychiatrist investigates cases in Melbourne, her expertise in m
 <hr>
 
 
-## 13. [Infinity Train](https://serp.ly/@serpmedia/github/amazon/Infinity+Train)
+## 13. [Infinity Train](https://serp.ly/amazon/Infinity+Train)
 
 ![Infinity Train](https://image.tmdb.org/t/p/original/wEhc48kGjoWw8qcHu2Lar7NFrgG.jpg)
 
@@ -3165,7 +3165,7 @@ The Infinity Train welcomes you aboard an extraordinary journey through intercon
 <hr>
 
 
-## 14. [The New Look](https://serp.ly/@serpmedia/github/amazon/The+New+Look)
+## 14. [The New Look](https://serp.ly/amazon/The+New+Look)
 
 ![The New Look](https://image.tmdb.org/t/p/original/aQBpF8VmEIgow41OL9h4nU4WN6v.jpg)
 
@@ -3211,7 +3211,7 @@ Creation is survival.
 <hr>
 
 
-## 15. [Girls](https://serp.ly/@serpmedia/github/amazon/Girls)
+## 15. [Girls](https://serp.ly/amazon/Girls)
 
 ![Girls](https://image.tmdb.org/t/p/original/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg)
 
@@ -3255,7 +3255,7 @@ Follow four twenty-something girls - Hannah, Marnie, and cousins Jessa and Shosh
 <hr>
 
 
-## 16. [Tangle](https://serp.ly/@serpmedia/github/amazon/Tangle)
+## 16. [Tangle](https://serp.ly/amazon/Tangle)
 
 ![Tangle](https://image.tmdb.org/t/p/original/A5ge4YBYj0IS6hYcsWj1xb8y9DR.jpg)
 
@@ -3297,7 +3297,7 @@ When two generations of wealthy families collide in Melbourne, their worlds of m
 <hr>
 
 
-## 17. [Bloodline](https://serp.ly/@serpmedia/github/amazon/Bloodline)
+## 17. [Bloodline](https://serp.ly/amazon/Bloodline)
 
 ![Bloodline](https://image.tmdb.org/t/p/original/uEaqgEjAShqrziUia4XBzvXXGXP.jpg)
 
@@ -3341,7 +3341,7 @@ The Rayburns are pillars of their Florida Keys community, but their perfect faca
 <hr>
 
 
-## 18. [Police Rescue](https://serp.ly/@serpmedia/github/amazon/Police+Rescue)
+## 18. [Police Rescue](https://serp.ly/amazon/Police+Rescue)
 
 ![Police Rescue](https://image.tmdb.org/t/p/original/191mvmC214GbGJjCn63Aw1QEdQ2.jpg)
 
@@ -3383,7 +3383,7 @@ When disaster strikes in Sydney, the New South Wales Police Rescue Squad springs
 <hr>
 
 
-## 19. [Faraway Downs](https://serp.ly/@serpmedia/github/amazon/Faraway+Downs)
+## 19. [Faraway Downs](https://serp.ly/amazon/Faraway+Downs)
 
 ![Faraway Downs](https://image.tmdb.org/t/p/original/pdD1STyfzRMo9xp1Nvt957K5sA9.jpg)
 
@@ -3427,7 +3427,7 @@ When English aristocrat Lady Sarah Ashley inherits a sprawling cattle ranch in A
 <hr>
 
 
-## 20. [The Henderson Kids](https://serp.ly/@serpmedia/github/amazon/The+Henderson+Kids)
+## 20. [The Henderson Kids](https://serp.ly/amazon/The+Henderson+Kids)
 
 ![The Henderson Kids](https://image.tmdb.org/t/p/original/2NTcQnWJ9vNshLqsW0J4Kk3cxX0.jpg)
 
@@ -3471,7 +3471,7 @@ The Henderson Kids aired on Network Ten from 1985 to 1987, offering 24 episodes 
 <hr>
 
 
-## 21. [Zoo Family](https://serp.ly/@serpmedia/github/amazon/Zoo+Family)
+## 21. [Zoo Family](https://serp.ly/amazon/Zoo+Family)
 
 ![Zoo Family](https://image.tmdb.org/t/p/original/g54WktOGkhWiPqjExUW6eJ4PFrw.jpg)
 
@@ -3513,7 +3513,7 @@ When a family moves into Melbourne Zoo, their lives become intertwined with the 
 <hr>
 
 
-## 22. [Love Is a Four Letter Word](https://serp.ly/@serpmedia/github/amazon/Love+Is+a+Four+Letter+Word)
+## 22. [Love Is a Four Letter Word](https://serp.ly/amazon/Love+Is+a+Four+Letter+Word)
 
 <br>
 
@@ -3550,7 +3550,7 @@ Love Is a Four Letter Word delves into the real concerns of urban 20-somethings 
 <hr>
 
 
-## 23. [Roughnecks](https://serp.ly/@serpmedia/github/amazon/Roughnecks)
+## 23. [Roughnecks](https://serp.ly/amazon/Roughnecks)
 
 ![Roughnecks](https://image.tmdb.org/t/p/original/2YU2SbvEHOKzHhPJr0guCIbFwJR.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Fear Street: 1978](https://serp.ly/@serpmedia/github/amazon/Fear+Street%3A+1978)
+## 1. [Fear Street: 1978](https://serp.ly/amazon/Fear+Street%3A+1978)
 
 ![Fear Street: 1978](https://image.tmdb.org/t/p/original/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg)
 
@@ -73,7 +73,7 @@ It's 1978 at Camp Nightwing, where two rival groups must put aside their differe
 <hr>
 
 
-## 2. [Fear Street: 1666](https://serp.ly/@serpmedia/github/amazon/Fear+Street%3A+1666)
+## 2. [Fear Street: 1666](https://serp.ly/amazon/Fear+Street%3A+1666)
 
 ![Fear Street: 1666](https://image.tmdb.org/t/p/original/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg)
 
@@ -112,7 +112,7 @@ In a colonial town gripped by a hysterical witch-hunt, 1666 marks the beginning 
 <hr>
 
 
-## 3. [Moonshot](https://serp.ly/@serpmedia/github/amazon/Moonshot)
+## 3. [Moonshot](https://serp.ly/amazon/Moonshot)
 
 ![Moonshot](https://image.tmdb.org/t/p/original/thqgzBPEDYQX0taszVus5nYMtTZ.jpg)
 
@@ -151,7 +151,7 @@ Moonshot whisks you to a future where Mars orbits as the ultimate playground for
 <hr>
 
 
-## 4. [Sea Change](https://serp.ly/@serpmedia/github/amazon/Sea+Change)
+## 4. [Sea Change](https://serp.ly/amazon/Sea+Change)
 
 ![Sea Change](https://image.tmdb.org/t/p/original/reo3gZ3ZafLtVvVD27lPn8WryUw.jpg)
 
@@ -185,7 +185,7 @@ When a teenage girl stumbles upon a hidden truth about her family's legacy, she 
 <hr>
 
 
-## 5. [House Mother](https://serp.ly/@serpmedia/github/amazon/House+Mother)
+## 5. [House Mother](https://serp.ly/amazon/House+Mother)
 
 ![House Mother](https://image.tmdb.org/t/p/original/1Qi2Fei5u0V2b9i1WkIYBQ7nNuF.jpg)
 
@@ -213,7 +213,7 @@ Sarah Chalmers, a sheltered Mennonite teenager, makes the bold decision to leave
 <hr>
 
 
-## 6. [Secret Santa](https://serp.ly/@serpmedia/github/amazon/Secret+Santa)
+## 6. [Secret Santa](https://serp.ly/amazon/Secret+Santa)
 
 <br>
 
@@ -242,7 +242,7 @@ When a young woman receives a Secret Santa gift, she becomes obsessed with uncov
 <hr>
 
 
-## 1. [Dynasty](https://serp.ly/@serpmedia/github/amazon/Dynasty)
+## 1. [Dynasty](https://serp.ly/amazon/Dynasty)
 
 ![Dynasty](https://image.tmdb.org/t/p/original/rVQ35erLIoV8hyh7lIKAMiChmOO.jpg)
 
@@ -286,7 +286,7 @@ Stay rich or lie trying.
 <hr>
 
 
-## 2. [Hunters](https://serp.ly/@serpmedia/github/amazon/Hunters)
+## 2. [Hunters](https://serp.ly/amazon/Hunters)
 
 ![Hunters](https://image.tmdb.org/t/p/original/mjsz10d1abJXZwT9b8CTgniRJh9.jpg)
 
@@ -328,7 +328,7 @@ In 1977 New York City, a diverse group of Nazi Hunters uncovers a shocking plot:
 <hr>
 
 
-## 3. [ONE PIECE](https://serp.ly/@serpmedia/github/amazon/ONE+PIECE)
+## 3. [ONE PIECE](https://serp.ly/amazon/ONE+PIECE)
 
 ![ONE PIECE](https://image.tmdb.org/t/p/original/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg)
 
@@ -374,7 +374,7 @@ When a young pirate named Monkey D. Luffy sails off with his straw hat and loyal
 <hr>
 
 
-## 4. [Philip K. Dick's Electric Dreams](https://serp.ly/@serpmedia/github/amazon/Philip+K.+Dick%27s+Electric+Dreams)
+## 4. [Philip K. Dick's Electric Dreams](https://serp.ly/amazon/Philip+K.+Dick%27s+Electric+Dreams)
 
 ![Philip K. Dick's Electric Dreams](https://image.tmdb.org/t/p/original/tyaNrGepu4HbkjLFkK6vgua1vgn.jpg)
 
@@ -416,7 +416,7 @@ When a young pirate named Monkey D. Luffy sails off with his straw hat and loyal
 <hr>
 
 
-## 5. [The Romanoffs](https://serp.ly/@serpmedia/github/amazon/The+Romanoffs)
+## 5. [The Romanoffs](https://serp.ly/amazon/The+Romanoffs)
 
 ![The Romanoffs](https://image.tmdb.org/t/p/original/chZjmnJhKt9nliQy7gvwIPp7QQm.jpg)
 

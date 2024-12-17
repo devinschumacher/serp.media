@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Spider-Man: Into the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Into+the+Spider-Verse)
+## 1. [Spider-Man: Into the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Into+the+Spider-Verse)
 
 ![Spider-Man: Into the Spider-Verse](https://image.tmdb.org/t/p/original/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg)
 
@@ -80,7 +80,7 @@ When a radioactive spider bites Miles Morales, a ordinary Brooklyn teen transfor
 <hr>
 
 
-## 2. [Spider-Man: Across the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Across+the+Spider-Verse)
+## 2. [Spider-Man: Across the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Across+the+Spider-Verse)
 
 ![Spider-Man: Across the Spider-Verse](https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg)
 
@@ -120,7 +120,7 @@ Join Miles Morales as he races across the Spider-Verse to save Gwen Stacy and pr
 <hr>
 
 
-## 3. [Bumblebee](https://serp.ly/@serpmedia/github/amazon/Bumblebee)
+## 3. [Bumblebee](https://serp.ly/amazon/Bumblebee)
 
 ![Bumblebee](https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg)
 
@@ -163,7 +163,7 @@ In 1987, a battered Bumblebee seeks refuge in a Californian beach town junkyard,
 <hr>
 
 
-## 4. [Ender's Game](https://serp.ly/@serpmedia/github/amazon/Ender%27s+Game)
+## 4. [Ender's Game](https://serp.ly/amazon/Ender%27s+Game)
 
 ![Ender's Game](https://image.tmdb.org/t/p/original/vrEpLNkv30qw7JiVyorgR6NOWDm.jpg)
 
@@ -206,7 +206,7 @@ In a future where Earth faces extermination, its most brilliant children are rec
 <hr>
 
 
-## 5. [True Grit](https://serp.ly/@serpmedia/github/amazon/True+Grit)
+## 5. [True Grit](https://serp.ly/amazon/True+Grit)
 
 ![True Grit](https://image.tmdb.org/t/p/original/tCrB8pcjadZjsDk7rleGJaIv78k.jpg)
 
@@ -249,7 +249,7 @@ After her father is murdered by a hired hand, a 14-year-old farm girl makes a bo
 <hr>
 
 
-## 6. [Pitch Perfect 2](https://serp.ly/@serpmedia/github/amazon/Pitch+Perfect+2)
+## 6. [Pitch Perfect 2](https://serp.ly/amazon/Pitch+Perfect+2)
 
 ![Pitch Perfect 2](https://image.tmdb.org/t/p/original/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg)
 
@@ -292,7 +292,7 @@ When the Bellas are kicked out of the Aca-Circuit after a presidential humiliati
 <hr>
 
 
-## 7. [The Edge of Seventeen](https://serp.ly/@serpmedia/github/amazon/The+Edge+of+Seventeen)
+## 7. [The Edge of Seventeen](https://serp.ly/amazon/The+Edge+of+Seventeen)
 
 ![The Edge of Seventeen](https://image.tmdb.org/t/p/original/gVg5pMfHPwYDjsxC4G6qmMPrHOX.jpg)
 
@@ -335,7 +335,7 @@ The Edge of Seventeen follows two high school best friends whose relationship ch
 <hr>
 
 
-## 8. [Begin Again](https://serp.ly/@serpmedia/github/amazon/Begin+Again)
+## 8. [Begin Again](https://serp.ly/amazon/Begin+Again)
 
 ![Begin Again](https://image.tmdb.org/t/p/original/qx4HXHXt528hS4rwePZbZo20xqZ.jpg)
 
@@ -375,7 +375,7 @@ After Gretta's boyfriend Dave ends their relationship, she forms an unlikely all
 <hr>
 
 
-## 9. [Pitch Perfect 3](https://serp.ly/@serpmedia/github/amazon/Pitch+Perfect+3)
+## 9. [Pitch Perfect 3](https://serp.ly/amazon/Pitch+Perfect+3)
 
 ![Pitch Perfect 3](https://image.tmdb.org/t/p/original/iHxmTTFMuuPIwwj39C4Zkk9IL4m.jpg)
 
@@ -418,7 +418,7 @@ The Bellas are back for their biggest challenge yet in "Pitch Perfect 3"! After 
 <hr>
 
 
-## 10. [Charlie's Angels](https://serp.ly/@serpmedia/github/amazon/Charlie%27s+Angels)
+## 10. [Charlie's Angels](https://serp.ly/amazon/Charlie%27s+Angels)
 
 ![Charlie's Angels](https://image.tmdb.org/t/p/original/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg)
 
@@ -463,7 +463,7 @@ Elena Houghlin is a brilliant scientist who has developed Calisto, a groundbreak
 <hr>
 
 
-## 11. [The Marvels](https://serp.ly/@serpmedia/github/amazon/The+Marvels)
+## 11. [The Marvels](https://serp.ly/amazon/The+Marvels)
 
 ![The Marvels](https://image.tmdb.org/t/p/original/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg)
 
@@ -506,7 +506,7 @@ When Captain Marvel returns to Earth after wreaking havoc on the Supreme Intelli
 <hr>
 
 
-## 12. [3 Days to Kill](https://serp.ly/@serpmedia/github/amazon/3+Days+to+Kill)
+## 12. [3 Days to Kill](https://serp.ly/amazon/3+Days+to+Kill)
 
 ![3 Days to Kill](https://image.tmdb.org/t/p/original/xhSoCoiMAXa4rOM7KhFSOs3gbh7.jpg)
 
@@ -549,7 +549,7 @@ When a high-stakes spy decides to leave his dangerous life behind, his plans are
 <hr>
 
 
-## 13. [Barely Lethal](https://serp.ly/@serpmedia/github/amazon/Barely+Lethal)
+## 13. [Barely Lethal](https://serp.ly/amazon/Barely+Lethal)
 
 ![Barely Lethal](https://image.tmdb.org/t/p/original/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg)
 
@@ -592,7 +592,7 @@ When a 16-year-old international assassin grows tired of her dangerous life, she
 <hr>
 
 
-## 14. [The Homesman](https://serp.ly/@serpmedia/github/amazon/The+Homesman)
+## 14. [The Homesman](https://serp.ly/amazon/The+Homesman)
 
 ![The Homesman](https://image.tmdb.org/t/p/original/eGpuOhkm1wG2AxEJShazH5NVGAO.jpg)
 
@@ -630,7 +630,7 @@ In the unforgiving Nebraska Territories, three pioneer women succumb to madness 
 <hr>
 
 
-## 15. [Between Two Ferns: The Movie](https://serp.ly/@serpmedia/github/amazon/Between+Two+Ferns%3A+The+Movie)
+## 15. [Between Two Ferns: The Movie](https://serp.ly/amazon/Between+Two+Ferns%3A+The+Movie)
 
 ![Between Two Ferns: The Movie](https://image.tmdb.org/t/p/original/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg)
 
@@ -669,7 +669,7 @@ When Galifianakis' public access TV show "Between Two Ferns" goes viral on Funny
 <hr>
 
 
-## 16. [Romeo & Juliet](https://serp.ly/@serpmedia/github/amazon/Romeo+%26+Juliet)
+## 16. [Romeo & Juliet](https://serp.ly/amazon/Romeo+%26+Juliet)
 
 ![Romeo & Juliet](https://image.tmdb.org/t/p/original/9FZ3wTjY9rUvIoobJFv8ozoTwTT.jpg)
 
@@ -710,7 +710,7 @@ The most dangerous love story ever told.
 <hr>
 
 
-## 17. [Term Life](https://serp.ly/@serpmedia/github/amazon/Term+Life)
+## 17. [Term Life](https://serp.ly/amazon/Term+Life)
 
 ![Term Life](https://image.tmdb.org/t/p/original/9oAVYDh7RHW3wzQWbGsRB7RFE6J.jpg)
 
@@ -753,7 +753,7 @@ In "Term Life", a father desperate to reconnect with his estranged daughter make
 <hr>
 
 
-## 18. [Taylor Swift: The 1989 World Tour - Live](https://serp.ly/@serpmedia/github/amazon/Taylor+Swift%3A+The+1989+World+Tour+-+Live)
+## 18. [Taylor Swift: The 1989 World Tour - Live](https://serp.ly/amazon/Taylor+Swift%3A+The+1989+World+Tour+-+Live)
 
 ![Taylor Swift: The 1989 World Tour - Live](https://image.tmdb.org/t/p/original/gQ9jfW7t1wI7ELyerWwM8uThNe.jpg)
 
@@ -789,7 +789,7 @@ This live concert film captures Taylor Swift's complete 1989 World Tour setlist,
 <hr>
 
 
-## 19. [The Keeping Room](https://serp.ly/@serpmedia/github/amazon/The+Keeping+Room)
+## 19. [The Keeping Room](https://serp.ly/amazon/The+Keeping+Room)
 
 ![The Keeping Room](https://image.tmdb.org/t/p/original/5hj2RoLiD31AuUfnYKA2HBlIb6n.jpg)
 
@@ -825,7 +825,7 @@ In this uniquely reimagined American Western, set against the backdrop of the Ci
 <hr>
 
 
-## 20. [10,000 Saints](https://serp.ly/@serpmedia/github/amazon/10%2C000+Saints)
+## 20. [10,000 Saints](https://serp.ly/amazon/10%2C000+Saints)
 
 ![10,000 Saints](https://image.tmdb.org/t/p/original/zZpQfrdXhNq5sqMMzDQkpqZQxXq.jpg)
 
@@ -863,7 +863,7 @@ In the raw, roaring New York City of the late 1980s, a multigenerational story u
 <hr>
 
 
-## 21. [Hateship Loveship](https://serp.ly/@serpmedia/github/amazon/Hateship+Loveship)
+## 21. [Hateship Loveship](https://serp.ly/amazon/Hateship+Loveship)
 
 ![Hateship Loveship](https://image.tmdb.org/t/p/original/kvdVpjrRREFBCowBhOGs6Tj14ld.jpg)
 
@@ -902,7 +902,7 @@ When a shy caretaker begins to suspect that the father of her teenage charge is 
 <hr>
 
 
-## 22. [Marvel Studios Assembled: The Making of Hawkeye](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Hawkeye)
+## 22. [Marvel Studios Assembled: The Making of Hawkeye](https://serp.ly/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Hawkeye)
 
 ![Marvel Studios Assembled: The Making of Hawkeye](https://image.tmdb.org/t/p/original/pQOLNPHe4rwXl3RpKNa0VWjYNLR.jpg)
 
@@ -935,7 +935,7 @@ Go beyond the bow and discover what made an Avenger a legend.
 <hr>
 
 
-## 23. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
+## 23. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
 
 ![Marvel Studios' 2021 Disney+ Day Special](https://image.tmdb.org/t/p/original/zh0B5DDP93e3zokktb5aHHfIh01.jpg)
 
@@ -966,7 +966,7 @@ Go beyond the bow and discover what made an Avenger a legend.
 <hr>
 
 
-## 24. [Always at The Carlyle](https://serp.ly/@serpmedia/github/amazon/Always+at+The+Carlyle)
+## 24. [Always at The Carlyle](https://serp.ly/amazon/Always+at+The+Carlyle)
 
 ![Always at The Carlyle](https://image.tmdb.org/t/p/original/ywkkKF4abwARo9WBk6WrwcGNn6B.jpg)
 
@@ -1003,7 +1003,7 @@ The Carlyle hotel has long been a favorite among both international travelers an
 <hr>
 
 
-## 25. [Elton John: I'm Still Standing - A Grammy Salute](https://serp.ly/@serpmedia/github/amazon/Elton+John%3A+I%27m+Still+Standing+-+A+Grammy+Salute)
+## 25. [Elton John: I'm Still Standing - A Grammy Salute](https://serp.ly/amazon/Elton+John%3A+I%27m+Still+Standing+-+A+Grammy+Salute)
 
 ![Elton John: I'm Still Standing - A Grammy Salute](https://image.tmdb.org/t/p/original/6dyNvikni2kltUjtNjJ0q6w1JdZ.jpg)
 
@@ -1037,7 +1037,7 @@ This Grammy tribute comes close to perfection, featuring an impressive lineup of
 <hr>
 
 
-## 26. [Letters to Jackie: Remembering President Kennedy](https://serp.ly/@serpmedia/github/amazon/Letters+to+Jackie%3A+Remembering+President+Kennedy)
+## 26. [Letters to Jackie: Remembering President Kennedy](https://serp.ly/amazon/Letters+to+Jackie%3A+Remembering+President+Kennedy)
 
 ![Letters to Jackie: Remembering President Kennedy](https://image.tmdb.org/t/p/original/tXs57SFZfoivRYVMsQNaOxkQ1at.jpg)
 
@@ -1071,7 +1071,7 @@ This Grammy tribute comes close to perfection, featuring an impressive lineup of
 <hr>
 
 
-## 27. [She's a Fox](https://serp.ly/@serpmedia/github/amazon/She%27s+a+Fox)
+## 27. [She's a Fox](https://serp.ly/amazon/She%27s+a+Fox)
 
 ![She's a Fox](https://image.tmdb.org/t/p/original/xIPFX0qldyK03IGEPh2zz0mnRhh.jpg)
 
@@ -1105,7 +1105,7 @@ When fifth-grader Cameron Sawyer develops a crush on the coolest girl in school,
 <hr>
 
 
-## 28. [iHeartRadio Summer Pool Party 2016](https://serp.ly/@serpmedia/github/amazon/iHeartRadio+Summer+Pool+Party+2016)
+## 28. [iHeartRadio Summer Pool Party 2016](https://serp.ly/amazon/iHeartRadio+Summer+Pool+Party+2016)
 
 <br>
 
@@ -1131,7 +1131,7 @@ Fontainebleau's BleauLive concert series kicks off with a star-studded pool part
 <hr>
 
 
-## 29. [iHeartRadio Jingle Ball 2016](https://serp.ly/@serpmedia/github/amazon/iHeartRadio+Jingle+Ball+2016)
+## 29. [iHeartRadio Jingle Ball 2016](https://serp.ly/amazon/iHeartRadio+Jingle+Ball+2016)
 
 ![iHeartRadio Jingle Ball 2016](https://image.tmdb.org/t/p/original/b9P3TE34IOcKpTZ94tYlXuadkrF.jpg)
 
@@ -1162,7 +1162,7 @@ Join Elvis Duran in Madison Square Garden for a concert featuring Justin Bieber,
 <hr>
 
 
-## 30. [Without Wings](https://serp.ly/@serpmedia/github/amazon/Without+Wings)
+## 30. [Without Wings](https://serp.ly/amazon/Without+Wings)
 
 ![Without Wings](https://image.tmdb.org/t/p/original/voLe0RPWE6UNhiMBPScyF16NDq2.jpg)
 
@@ -1197,7 +1197,7 @@ Sarah is a resilient child navigating the aftermath of her father's abandonment.
 <hr>
 
 
-## 31. [The Magic Bracelet](https://serp.ly/@serpmedia/github/amazon/The+Magic+Bracelet)
+## 31. [The Magic Bracelet](https://serp.ly/amazon/The+Magic+Bracelet)
 
 <br>
 
@@ -1226,7 +1226,7 @@ When best friends Angela, Ashley, and a cheese-obsessed dog receive a mysterious
 <hr>
 
 
-## 32. [Grand Cru](https://serp.ly/@serpmedia/github/amazon/Grand+Cru)
+## 32. [Grand Cru](https://serp.ly/amazon/Grand+Cru)
 
 ![Grand Cru](https://image.tmdb.org/t/p/original/j8o0raUNbGgO9YEnnGZ4a0FEXTo.jpg)
 
@@ -1259,7 +1259,7 @@ When a 12-year-old girl's mother faces job loss, she embarks on a thrilling adve
 <hr>
 
 
-## 33. [Voicemails for Isabelle](https://serp.ly/@serpmedia/github/amazon/Voicemails+for+Isabelle)
+## 33. [Voicemails for Isabelle](https://serp.ly/amazon/Voicemails+for+Isabelle)
 
 <br>
 
@@ -1280,7 +1280,7 @@ In the bustling city of Los Angeles, a young woman's dating life becomes the cen
 <hr>
 
 
-## 34. [Untitled Ryan Coogler Vampire Project](https://serp.ly/@serpmedia/github/amazon/Untitled+Ryan+Coogler+Vampire+Project)
+## 34. [Untitled Ryan Coogler Vampire Project](https://serp.ly/amazon/Untitled+Ryan+Coogler+Vampire+Project)
 
 ![Untitled Ryan Coogler Vampire Project](https://image.tmdb.org/t/p/original/ANruqRvo6O0DjMUcfZL1WC80U8.jpg)
 
@@ -1305,7 +1305,7 @@ In this vampire story set in the 1930s Jim Crow South, Michael B. Jordan stars i
 <hr>
 
 
-## 35. [Spider-Man: Beyond the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Beyond+the+Spider-Verse)
+## 35. [Spider-Man: Beyond the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Beyond+the+Spider-Verse)
 
 ![Spider-Man: Beyond the Spider-Verse](https://image.tmdb.org/t/p/original/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg)
 
@@ -1328,7 +1328,7 @@ When Miles Morales disappears into the home dimension of the spider that bit him
 <hr>
 
 
-## 36. [From Dickinson, With Love](https://serp.ly/@serpmedia/github/amazon/From+Dickinson%2C+With+Love)
+## 36. [From Dickinson, With Love](https://serp.ly/amazon/From+Dickinson%2C+With+Love)
 
 ![From Dickinson, With Love](https://image.tmdb.org/t/p/original/knwcc0u2OLROyWpZnpUjmZfjSsT.jpg)
 
@@ -1359,7 +1359,7 @@ When Miles Morales disappears into the home dimension of the spider that bit him
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1403,7 +1403,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1449,7 +1449,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 3. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1493,7 +1493,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 4. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 4. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1537,7 +1537,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 5. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 5. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -1579,7 +1579,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 6. [The Graham Norton Show](https://serp.ly/@serpmedia/github/amazon/The+Graham+Norton+Show)
+## 6. [The Graham Norton Show](https://serp.ly/amazon/The+Graham+Norton+Show)
 
 ![The Graham Norton Show](https://image.tmdb.org/t/p/original/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg)
 
@@ -1623,7 +1623,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 7. [Sesame Street](https://serp.ly/@serpmedia/github/amazon/Sesame+Street)
+## 7. [Sesame Street](https://serp.ly/amazon/Sesame+Street)
 
 ![Sesame Street](https://image.tmdb.org/t/p/original/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg)
 
@@ -1669,7 +1669,7 @@ Join the lovable inhabitants of Sesame Street as they teach preschoolers valuabl
 <hr>
 
 
-## 8. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 8. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -1711,7 +1711,7 @@ Join the lovable inhabitants of Sesame Street as they teach preschoolers valuabl
 <hr>
 
 
-## 9. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 9. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -1755,7 +1755,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 10. [American Music Awards](https://serp.ly/@serpmedia/github/amazon/American+Music+Awards)
+## 10. [American Music Awards](https://serp.ly/amazon/American+Music+Awards)
 
 ![American Music Awards](https://image.tmdb.org/t/p/original/lMfGSoq6otbyu7orszqAH4s9TQU.jpg)
 
@@ -1801,7 +1801,7 @@ The American Music Awards (AMAs) is a documentary series that showcases the most
 <hr>
 
 
-## 11. [The Voice](https://serp.ly/@serpmedia/github/amazon/The+Voice)
+## 11. [The Voice](https://serp.ly/amazon/The+Voice)
 
 ![The Voice](https://image.tmdb.org/t/p/original/t79aBTcPC4vEeeDMv8cWE9tnVwe.jpg)
 
@@ -1847,7 +1847,7 @@ The Voice is a reality singing competition that aired from 2012 to 2023. Over tw
 <hr>
 
 
-## 12. [Hawkeye](https://serp.ly/@serpmedia/github/amazon/Hawkeye)
+## 12. [Hawkeye](https://serp.ly/amazon/Hawkeye)
 
 ![Hawkeye](https://image.tmdb.org/t/p/original/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg)
 
@@ -1891,7 +1891,7 @@ When former Avenger Clint Barton sets out to return home for Christmas, he doesn
 <hr>
 
 
-## 13. [MTV Europe Music Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Europe+Music+Awards)
+## 13. [MTV Europe Music Awards](https://serp.ly/amazon/MTV+Europe+Music+Awards)
 
 ![MTV Europe Music Awards](https://image.tmdb.org/t/p/original/zML5BA3UYG4nQ8Cl4NXFQxJC9Vr.jpg)
 
@@ -1932,7 +1932,7 @@ Travel back in time to the origins of the MTV Europe Music Awards, where it all 
 <hr>
 
 
-## 14. [Sherri](https://serp.ly/@serpmedia/github/amazon/Sherri)
+## 14. [Sherri](https://serp.ly/amazon/Sherri)
 
 ![Sherri](https://image.tmdb.org/t/p/original/tNpISQ0ymMpZmfRCeJXceAjyzev.jpg)
 
@@ -1976,7 +1976,7 @@ Sherri Shepherd brings her Emmy Award-winning experience as a co-host of "The Vi
 <hr>
 
 
-## 15. [Arcane](https://serp.ly/@serpmedia/github/amazon/Arcane)
+## 15. [Arcane](https://serp.ly/amazon/Arcane)
 
 ![Arcane](https://image.tmdb.org/t/p/original/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg)
 
@@ -2022,7 +2022,7 @@ In a world where magic and technology collide, two sisters find themselves on op
 <hr>
 
 
-## 16. [Radio Disney Music Awards](https://serp.ly/@serpmedia/github/amazon/Radio+Disney+Music+Awards)
+## 16. [Radio Disney Music Awards](https://serp.ly/amazon/Radio+Disney+Music+Awards)
 
 ![Radio Disney Music Awards](https://image.tmdb.org/t/p/original/nq7jAkkF5j6YO3Zer590ivQlF0e.jpg)
 
@@ -2064,7 +2064,7 @@ The Radio Disney Music Awards evolved from a radio-only event to become a televi
 <hr>
 
 
-## 17. [Dickinson](https://serp.ly/@serpmedia/github/amazon/Dickinson)
+## 17. [Dickinson](https://serp.ly/amazon/Dickinson)
 
 ![Dickinson](https://image.tmdb.org/t/p/original/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg)
 
@@ -2108,7 +2108,7 @@ When Emily Dickinson decides to become the world's greatest poet, she embarks on
 <hr>
 
 
-## 18. [Golden Globe Awards](https://serp.ly/@serpmedia/github/amazon/Golden+Globe+Awards)
+## 18. [Golden Globe Awards](https://serp.ly/amazon/Golden+Globe+Awards)
 
 ![Golden Globe Awards](https://image.tmdb.org/t/p/original/kwPQHGHTTgJ8x5KTQDB8F2T4dzC.jpg)
 
@@ -2152,7 +2152,7 @@ The Golden Globe Awards, founded in 1944, showcase the Hollywood Foreign Press A
 <hr>
 
 
-## 19. [Sons of Tucson](https://serp.ly/@serpmedia/github/amazon/Sons+of+Tucson)
+## 19. [Sons of Tucson](https://serp.ly/amazon/Sons+of+Tucson)
 
 ![Sons of Tucson](https://image.tmdb.org/t/p/original/uby1dF8qZQLMnxiwXPCpANq81yL.jpg)
 
@@ -2194,7 +2194,7 @@ When the Gunderson boys' father goes to prison, they hire a charming schemer nam
 <hr>
 
 
-## 20. [Back to You](https://serp.ly/@serpmedia/github/amazon/Back+to+You)
+## 20. [Back to You](https://serp.ly/amazon/Back+to+You)
 
 ![Back to You](https://image.tmdb.org/t/p/original/csGDLzcZA9XsmzSzfFMUzjOeSdQ.jpg)
 

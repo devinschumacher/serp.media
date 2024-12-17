@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Z-O-M-B-I-E-S](https://serp.ly/@serpmedia/github/amazon/Z-O-M-B-I-E-S)
+## 1. [Z-O-M-B-I-E-S](https://serp.ly/amazon/Z-O-M-B-I-E-S)
 
 ![Z-O-M-B-I-E-S](https://image.tmdb.org/t/p/original/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg)
 
@@ -73,7 +73,7 @@ When two unusual freshmen arrive at Seabrook High, an unexpected friendship form
 <hr>
 
 
-## 2. [Z-O-M-B-I-E-S 2](https://serp.ly/@serpmedia/github/amazon/Z-O-M-B-I-E-S+2)
+## 2. [Z-O-M-B-I-E-S 2](https://serp.ly/amazon/Z-O-M-B-I-E-S+2)
 
 ![Z-O-M-B-I-E-S 2](https://image.tmdb.org/t/p/original/frTwEqSMWQ27oQeuiBO5PT0ZNqq.jpg)
 
@@ -109,7 +109,7 @@ After a transformative semester at Seabrook High, Zed and Addison return to stee
 <hr>
 
 
-## 3. [Z-O-M-B-I-E-S 3](https://serp.ly/@serpmedia/github/amazon/Z-O-M-B-I-E-S+3)
+## 3. [Z-O-M-B-I-E-S 3](https://serp.ly/amazon/Z-O-M-B-I-E-S+3)
 
 ![Z-O-M-B-I-E-S 3](https://image.tmdb.org/t/p/original/vqzdv4nArhuZxd7il0boKaVxQMF.jpg)
 
@@ -147,7 +147,7 @@ Seabrook High welcomes an out-of-this-world challenge when alien visitors arrive
 <hr>
 
 
-## 4. [Justice League: Crisis on Infinite Earths Part One](https://serp.ly/@serpmedia/github/amazon/Justice+League%3A+Crisis+on+Infinite+Earths+Part+One)
+## 4. [Justice League: Crisis on Infinite Earths Part One](https://serp.ly/amazon/Justice+League%3A+Crisis+on+Infinite+Earths+Part+One)
 
 ![Justice League: Crisis on Infinite Earths Part One](https://image.tmdb.org/t/p/original/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg)
 
@@ -185,7 +185,7 @@ Worlds will live, worlds will die and nothing will ever be the same.
 <hr>
 
 
-## 5. [Legion of Super-Heroes](https://serp.ly/@serpmedia/github/amazon/Legion+of+Super-Heroes)
+## 5. [Legion of Super-Heroes](https://serp.ly/amazon/Legion+of+Super-Heroes)
 
 ![Legion of Super-Heroes](https://image.tmdb.org/t/p/original/8M6bA5t2q5u1nWDTEIXuGDwvboW.jpg)
 
@@ -221,7 +221,7 @@ After the destruction of Krypton, Kara struggles to find her place on Earth. Wit
 <hr>
 
 
-## 6. [Justice League: Crisis on Infinite Earths Part Two](https://serp.ly/@serpmedia/github/amazon/Justice+League%3A+Crisis+on+Infinite+Earths+Part+Two)
+## 6. [Justice League: Crisis on Infinite Earths Part Two](https://serp.ly/amazon/Justice+League%3A+Crisis+on+Infinite+Earths+Part+Two)
 
 ![Justice League: Crisis on Infinite Earths Part Two](https://image.tmdb.org/t/p/original/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg)
 
@@ -255,7 +255,7 @@ The Justice League faces their darkest hour as an army of shadow demons threaten
 <hr>
 
 
-## 7. [Disney Parks Presents a Disney Channel Holiday Celebration](https://serp.ly/@serpmedia/github/amazon/Disney+Parks+Presents+a+Disney+Channel+Holiday+Celebration)
+## 7. [Disney Parks Presents a Disney Channel Holiday Celebration](https://serp.ly/amazon/Disney+Parks+Presents+a+Disney+Channel+Holiday+Celebration)
 
 ![Disney Parks Presents a Disney Channel Holiday Celebration](https://image.tmdb.org/t/p/original/6fC9lNhK6PPEdQOtnFo5qO2juEd.jpg)
 
@@ -289,7 +289,7 @@ When it comes to holiday cheer, this Disney Channel celebration brings the magic
 <hr>
 
 
-## 8. [Disney Hall of Villains](https://serp.ly/@serpmedia/github/amazon/Disney+Hall+of+Villains)
+## 8. [Disney Hall of Villains](https://serp.ly/amazon/Disney+Hall+of+Villains)
 
 ![Disney Hall of Villains](https://image.tmdb.org/t/p/original/5ukaMxajfgGnxBWUqUaAsH8MOFN.jpg)
 
@@ -323,7 +323,7 @@ Meg Donnelly hosts this 30-minute tour through a haunted hallway where Disney's 
 <hr>
 
 
-## 9. [Disney Channel Summer Sing-Along](https://serp.ly/@serpmedia/github/amazon/Disney+Channel+Summer+Sing-Along)
+## 9. [Disney Channel Summer Sing-Along](https://serp.ly/amazon/Disney+Channel+Summer+Sing-Along)
 
 ![Disney Channel Summer Sing-Along](https://image.tmdb.org/t/p/original/er2sbtjYpXUZP2CYbTIOERT7ukA.jpg)
 
@@ -357,7 +357,7 @@ Disney Channel is bringing together its most beloved stars in a summer sing-alon
 <hr>
 
 
-## 10. [Disney Parks Presents 25 Days of Christmas Holiday Party](https://serp.ly/@serpmedia/github/amazon/Disney+Parks+Presents+25+Days+of+Christmas+Holiday+Party)
+## 10. [Disney Parks Presents 25 Days of Christmas Holiday Party](https://serp.ly/amazon/Disney+Parks+Presents+25+Days+of+Christmas+Holiday+Party)
 
 ![Disney Parks Presents 25 Days of Christmas Holiday Party](https://image.tmdb.org/t/p/original/bf1PT1MtW2Ck1kJXevFTrH6zIo4.jpg)
 
@@ -393,7 +393,7 @@ Join Jordan Fisher and the stars of "Coop & Cami Ask the World" for a special ha
 <hr>
 
 
-## 11. [Disney's Holiday Magic Quest](https://serp.ly/@serpmedia/github/amazon/Disney%27s+Holiday+Magic+Quest)
+## 11. [Disney's Holiday Magic Quest](https://serp.ly/amazon/Disney%27s+Holiday+Magic+Quest)
 
 ![Disney's Holiday Magic Quest](https://image.tmdb.org/t/p/original/mP5I5x5XqOwfFpWr8qylH5zBvrn.jpg)
 
@@ -421,7 +421,7 @@ Join the "ZOMBIES" gang as they bite into new adventures at Walt Disney World! N
 <hr>
 
 
-## 12. [The Wonderful World of Disney: Magical Holiday Celebration](https://serp.ly/@serpmedia/github/amazon/The+Wonderful+World+of+Disney%3A+Magical+Holiday+Celebration)
+## 12. [The Wonderful World of Disney: Magical Holiday Celebration](https://serp.ly/amazon/The+Wonderful+World+of+Disney%3A+Magical+Holiday+Celebration)
 
 ![The Wonderful World of Disney: Magical Holiday Celebration](https://image.tmdb.org/t/p/original/r3aG15V31UXIoiWCsJDdWnCTi10.jpg)
 
@@ -457,7 +457,7 @@ The joy of the season shines even brighter when mixed with a little (or a LOT of
 <hr>
 
 
-## 13. [ZOMBI-Thon with Big City Greens](https://serp.ly/@serpmedia/github/amazon/ZOMBI-Thon+with+Big+City+Greens)
+## 13. [ZOMBI-Thon with Big City Greens](https://serp.ly/amazon/ZOMBI-Thon+with+Big+City+Greens)
 
 ![ZOMBI-Thon with Big City Greens](https://image.tmdb.org/t/p/original/bAi39wcb6Vb1OtcONqk5nEJYONy.jpg)
 
@@ -491,7 +491,7 @@ Join the Green Family as they host a special ZOMBIES-themed variety show featuri
 <hr>
 
 
-## 14. [Disney's Summer Magic Quest](https://serp.ly/@serpmedia/github/amazon/Disney%27s+Summer+Magic+Quest)
+## 14. [Disney's Summer Magic Quest](https://serp.ly/amazon/Disney%27s+Summer+Magic+Quest)
 
 ![Disney's Summer Magic Quest](https://image.tmdb.org/t/p/original/xjByWIYUVf07Ws8MHij5NnjeNo5.jpg)
 
@@ -522,7 +522,7 @@ Join the "ZOMBIES" superstars in an epic summer quest through EPCOT, where they'
 <hr>
 
 
-## 15. [Disney Channel Holiday Party @ Walt Disney World](https://serp.ly/@serpmedia/github/amazon/Disney+Channel+Holiday+Party+%40+Walt+Disney+World)
+## 15. [Disney Channel Holiday Party @ Walt Disney World](https://serp.ly/amazon/Disney+Channel+Holiday+Party+%40+Walt+Disney+World)
 
 ![Disney Channel Holiday Party @ Walt Disney World](https://image.tmdb.org/t/p/original/737uiN1cnk8ygvl1ISi0jL9gU0z.jpg)
 
@@ -553,7 +553,7 @@ Meg Donnelly and Milo Manheim present a holiday spectacular with artist Matthew 
 <hr>
 
 
-## 16. [Disney Parks Magical Christmas Day Parade](https://serp.ly/@serpmedia/github/amazon/Disney+Parks+Magical+Christmas+Day+Parade)
+## 16. [Disney Parks Magical Christmas Day Parade](https://serp.ly/amazon/Disney+Parks+Magical+Christmas+Day+Parade)
 
 ![Disney Parks Magical Christmas Day Parade](https://image.tmdb.org/t/p/original/9ikQYfxRVZOC7FQCPHmPmh5sV41.jpg)
 
@@ -581,7 +581,7 @@ Disney Parks Magical Christmas Day Parade embodies the holiday spirit through it
 <hr>
 
 
-## 17. [The Broken Ones](https://serp.ly/@serpmedia/github/amazon/The+Broken+Ones)
+## 17. [The Broken Ones](https://serp.ly/amazon/The+Broken+Ones)
 
 ![The Broken Ones](https://image.tmdb.org/t/p/original/fJ1BsMIBxfssYaZ6Bi3unqoR1Bt.jpg)
 
@@ -612,7 +612,7 @@ In this heartfelt 2018 drama, two strangers meet one night and form an unlikely 
 <hr>
 
 
-## 18. [Justice League: Crisis on Infinite Earths Part Three](https://serp.ly/@serpmedia/github/amazon/Justice+League%3A+Crisis+on+Infinite+Earths+Part+Three)
+## 18. [Justice League: Crisis on Infinite Earths Part Three](https://serp.ly/amazon/Justice+League%3A+Crisis+on+Infinite+Earths+Part+Three)
 
 ![Justice League: Crisis on Infinite Earths Part Three](https://image.tmdb.org/t/p/original/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg)
 
@@ -637,7 +637,7 @@ In the epic finale of "Justice League: Crisis on Infinite Earths, " the Anti-Mon
 <hr>
 
 
-## 19. [Z-O-M-B-I-E-S 4: Dawn of the Vampires](https://serp.ly/@serpmedia/github/amazon/Z-O-M-B-I-E-S+4%3A+Dawn+of+the+Vampires)
+## 19. [Z-O-M-B-I-E-S 4: Dawn of the Vampires](https://serp.ly/amazon/Z-O-M-B-I-E-S+4%3A+Dawn+of+the+Vampires)
 
 ![Z-O-M-B-I-E-S 4: Dawn of the Vampires](https://image.tmdb.org/t/p/original/nkpcMMvykHF5FY1xclHzgO22Lmr.jpg)
 
@@ -663,7 +663,7 @@ Join Zed and Addison on an epic road trip across New Zealand and the United Stat
 <hr>
 
 
-## 1. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 1. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -708,7 +708,7 @@ Join Zed and Addison on an epic road trip across New Zealand and the United Stat
 <hr>
 
 
-## 2. [Celebrity Family Feud](https://serp.ly/@serpmedia/github/amazon/Celebrity+Family+Feud)
+## 2. [Celebrity Family Feud](https://serp.ly/amazon/Celebrity+Family+Feud)
 
 ![Celebrity Family Feud](https://image.tmdb.org/t/p/original/ylt6w9U9JVD4Ma5HMUeY9Z6csw5.jpg)
 
@@ -753,7 +753,7 @@ Join Zed and Addison on an epic road trip across New Zealand and the United Stat
 <hr>
 
 
-## 3. [High School Musical: The Musical: The Series](https://serp.ly/@serpmedia/github/amazon/High+School+Musical%3A+The+Musical%3A+The+Series)
+## 3. [High School Musical: The Musical: The Series](https://serp.ly/amazon/High+School+Musical%3A+The+Musical%3A+The+Series)
 
 ![High School Musical: The Musical: The Series](https://image.tmdb.org/t/p/original/2KmbFkZD42I8Q7IZy4WxmZm9W6O.jpg)
 
@@ -798,7 +798,7 @@ When East High School decides to stage its first-ever production of "High School
 <hr>
 
 
-## 4. [American Housewife](https://serp.ly/@serpmedia/github/amazon/American+Housewife)
+## 4. [American Housewife](https://serp.ly/amazon/American+Housewife)
 
 ![American Housewife](https://image.tmdb.org/t/p/original/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg)
 
@@ -843,7 +843,7 @@ Still the wife of the party.
 <hr>
 
 
-## 5. [Zombies: The Re-Animated Series](https://serp.ly/@serpmedia/github/amazon/Zombies%3A+The+Re-Animated+Series)
+## 5. [Zombies: The Re-Animated Series](https://serp.ly/amazon/Zombies%3A+The+Re-Animated+Series)
 
 ![Zombies: The Re-Animated Series](https://image.tmdb.org/t/p/original/sR8ldiTmgeZ2JBJTdvSdzPE37KO.jpg)
 
@@ -885,7 +885,7 @@ Every day at Seabrook High is a surprise, especially when you're part of a stude
 <hr>
 
 
-## 6. [The Winchesters](https://serp.ly/@serpmedia/github/amazon/The+Winchesters)
+## 6. [The Winchesters](https://serp.ly/amazon/The+Winchesters)
 
 ![The Winchesters](https://image.tmdb.org/t/p/original/oyleYabGfn6c50bIo4M3c7ogrfL.jpg)
 
@@ -930,7 +930,7 @@ Before Sam and Dean, there was John and Mary. Told from the perspective of narra
 <hr>
 
 
-## 7. [Theme Song Takeover](https://serp.ly/@serpmedia/github/amazon/Theme+Song+Takeover)
+## 7. [Theme Song Takeover](https://serp.ly/amazon/Theme+Song+Takeover)
 
 ![Theme Song Takeover](https://image.tmdb.org/t/p/original/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg)
 
@@ -975,7 +975,7 @@ Before Sam and Dean, there was John and Mary. Told from the perspective of narra
 <hr>
 
 
-## 8. [ZOMBIES: Addison's Moonstone Mystery](https://serp.ly/@serpmedia/github/amazon/ZOMBIES%3A+Addison%27s+Moonstone+Mystery)
+## 8. [ZOMBIES: Addison's Moonstone Mystery](https://serp.ly/amazon/ZOMBIES%3A+Addison%27s+Moonstone+Mystery)
 
 ![ZOMBIES: Addison's Moonstone Mystery](https://image.tmdb.org/t/p/original/pkbmrflWAJl1DgHwhE9qoUGWhKW.jpg)
 
@@ -1018,7 +1018,7 @@ When a mysterious new student named Vanna arrives at Seabrook High, she shakes u
 <hr>
 
 
-## 9. [Miss Tilly's Fun Time TV Minute](https://serp.ly/@serpmedia/github/amazon/Miss+Tilly%27s+Fun+Time+TV+Minute)
+## 9. [Miss Tilly's Fun Time TV Minute](https://serp.ly/amazon/Miss+Tilly%27s+Fun+Time+TV+Minute)
 
 ![Miss Tilly's Fun Time TV Minute](https://image.tmdb.org/t/p/original/8FY4PT7i8Eq6sIbZO8mS4ZhS4ST.jpg)
 
@@ -1061,7 +1061,7 @@ When Disney Channel star Tilly invites her fellow live-action stars to sit down 
 <hr>
 
 
-## 10. [ZOMBIES: Addison’s Monster Mystery](https://serp.ly/@serpmedia/github/amazon/ZOMBIES%3A+Addison%E2%80%99s+Monster+Mystery)
+## 10. [ZOMBIES: Addison’s Monster Mystery](https://serp.ly/amazon/ZOMBIES%3A+Addison%E2%80%99s+Monster+Mystery)
 
 ![ZOMBIES: Addison’s Monster Mystery](https://image.tmdb.org/t/p/original/i0zFojtq3dBGTNbDmIBw1jrywpc.jpg)
 
@@ -1106,7 +1106,7 @@ Addison is hosting the Halloween Fall Ball and going above and beyond to make it
 <hr>
 
 
-## 11. [Disney QUIZney](https://serp.ly/@serpmedia/github/amazon/Disney+QUIZney)
+## 11. [Disney QUIZney](https://serp.ly/amazon/Disney+QUIZney)
 
 ![Disney QUIZney](https://image.tmdb.org/t/p/original/amV8gO5GZJUCkRAo0WKjTZtCp3m.jpg)
 
@@ -1145,7 +1145,7 @@ Join an interactive adventure through Disney stories and characters! In this sev
 <hr>
 
 
-## 12. [Team Toon](https://serp.ly/@serpmedia/github/amazon/Team+Toon)
+## 12. [Team Toon](https://serp.ly/amazon/Team+Toon)
 
 ![Team Toon](https://image.tmdb.org/t/p/original/4fxBuV9MLnXbHmCIYLKNDcFUns4.jpg)
 

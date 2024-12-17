@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Maze Runner: The Scorch Trials](https://serp.ly/@serpmedia/github/amazon/Maze+Runner%3A+The+Scorch+Trials)
+## 1. [Maze Runner: The Scorch Trials](https://serp.ly/amazon/Maze+Runner%3A+The+Scorch+Trials)
 
 ![Maze Runner: The Scorch Trials](https://image.tmdb.org/t/p/original/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg)
 
@@ -80,7 +80,7 @@ The Maze Was Just the Beginning.
 <hr>
 
 
-## 2. [Maze Runner: The Death Cure](https://serp.ly/@serpmedia/github/amazon/Maze+Runner%3A+The+Death+Cure)
+## 2. [Maze Runner: The Death Cure](https://serp.ly/amazon/Maze+Runner%3A+The+Death+Cure)
 
 ![Maze Runner: The Death Cure](https://image.tmdb.org/t/p/original/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg)
 
@@ -120,7 +120,7 @@ The end will be WCKD
 <hr>
 
 
-## 3. [New Year's Eve](https://serp.ly/@serpmedia/github/amazon/New+Year%27s+Eve)
+## 3. [New Year's Eve](https://serp.ly/amazon/New+Year%27s+Eve)
 
 ![New Year's Eve](https://image.tmdb.org/t/p/original/nNh8PDzkx4dUdNYtlzAiprpNs5e.jpg)
 
@@ -160,7 +160,7 @@ The one night anything is possible.
 <hr>
 
 
-## 4. [Assimilate](https://serp.ly/@serpmedia/github/amazon/Assimilate)
+## 4. [Assimilate](https://serp.ly/amazon/Assimilate)
 
 ![Assimilate](https://image.tmdb.org/t/p/original/jbMZEbL9FuhvHOS5Yivz5Vwbbhk.jpg)
 
@@ -196,7 +196,7 @@ When three friends start a web series about their town, they uncover a terrifyin
 <hr>
 
 
-## 5. [Girl vs. Monster](https://serp.ly/@serpmedia/github/amazon/Girl+vs.+Monster)
+## 5. [Girl vs. Monster](https://serp.ly/amazon/Girl+vs.+Monster)
 
 ![Girl vs. Monster](https://image.tmdb.org/t/p/original/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg)
 
@@ -232,7 +232,7 @@ When Skylar accidentally unleashes monsters from her parents' secret containment
 <hr>
 
 
-## 6. [Trust](https://serp.ly/@serpmedia/github/amazon/Trust)
+## 6. [Trust](https://serp.ly/amazon/Trust)
 
 ![Trust](https://image.tmdb.org/t/p/original/tVmymE4f7QgekI0Cp59lXtERspf.jpg)
 
@@ -266,7 +266,7 @@ In the glamorous world of art, gallery owner Brooke Gatwick's life changes when 
 <hr>
 
 
-## 7. [Finding You](https://serp.ly/@serpmedia/github/amazon/Finding+You)
+## 7. [Finding You](https://serp.ly/amazon/Finding+You)
 
 ![Finding You](https://image.tmdb.org/t/p/original/mRSsYtYcbhNAfHBp3ha1Nr65agi.jpg)
 
@@ -304,7 +304,7 @@ When aspiring violinist Finley arrives in a small Irish coastal village for her 
 <hr>
 
 
-## 8. [R.L. Stine's Monsterville: The Cabinet of Souls](https://serp.ly/@serpmedia/github/amazon/R.L.+Stine%27s+Monsterville%3A+The+Cabinet+of+Souls)
+## 8. [R.L. Stine's Monsterville: The Cabinet of Souls](https://serp.ly/amazon/R.L.+Stine%27s+Monsterville%3A+The+Cabinet+of+Souls)
 
 ![R.L. Stine's Monsterville: The Cabinet of Souls](https://image.tmdb.org/t/p/original/z3qgKFySWDs7vCjMn5gSxGV2fpI.jpg)
 
@@ -340,7 +340,7 @@ When a mysterious showman brings his twisted carnival acts to their small town, 
 <hr>
 
 
-## 9. [Natural Selection](https://serp.ly/@serpmedia/github/amazon/Natural+Selection)
+## 9. [Natural Selection](https://serp.ly/amazon/Natural+Selection)
 
 ![Natural Selection](https://image.tmdb.org/t/p/original/b5iM5gLr0O0HAcy3ib3RVkZvt37.jpg)
 
@@ -376,7 +376,7 @@ Tyler is a young man desperately seeking direction in a world that feels like it
 <hr>
 
 
-## 10. [Air Force One Down](https://serp.ly/@serpmedia/github/amazon/Air+Force+One+Down)
+## 10. [Air Force One Down](https://serp.ly/amazon/Air+Force+One+Down)
 
 ![Air Force One Down](https://image.tmdb.org/t/p/original/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg)
 
@@ -412,7 +412,7 @@ On her first assignment aboard Air Force One, a rookie Secret Service agent face
 <hr>
 
 
-## 11. [Love, Classified](https://serp.ly/@serpmedia/github/amazon/Love%2C+Classified)
+## 11. [Love, Classified](https://serp.ly/amazon/Love%2C+Classified)
 
 ![Love, Classified](https://image.tmdb.org/t/p/original/h6oA5yWqcCyZ0q5358059jz5f8b.jpg)
 
@@ -448,7 +448,7 @@ When romance novelist Emilia returns to town for a book signing, she stirs up a 
 <hr>
 
 
-## 12. [Fool's Paradise](https://serp.ly/@serpmedia/github/amazon/Fool%27s+Paradise)
+## 12. [Fool's Paradise](https://serp.ly/amazon/Fool%27s+Paradise)
 
 ![Fool's Paradise](https://image.tmdb.org/t/p/original/pPv4KYbcG16xmr2Q0rlV2Brqh6g.jpg)
 
@@ -487,7 +487,7 @@ In this 2023 release, a struggling publicist stumbles upon a unique opportunity 
 <hr>
 
 
-## 13. [Spirit Riding Free: Spirit of Christmas](https://serp.ly/@serpmedia/github/amazon/Spirit+Riding+Free%3A+Spirit+of+Christmas)
+## 13. [Spirit Riding Free: Spirit of Christmas](https://serp.ly/amazon/Spirit+Riding+Free%3A+Spirit+of+Christmas)
 
 ![Spirit Riding Free: Spirit of Christmas](https://image.tmdb.org/t/p/original/lLPex9m7NqSl67I2na2qZEMgja0.jpg)
 
@@ -518,7 +518,7 @@ Lucky and her friends dash into town on Christmas Eve, eager to complete their h
 <hr>
 
 
-## 14. [Untitled Horror Movie](https://serp.ly/@serpmedia/github/amazon/Untitled+Horror+Movie)
+## 14. [Untitled Horror Movie](https://serp.ly/amazon/Untitled+Horror+Movie)
 
 ![Untitled Horror Movie](https://image.tmdb.org/t/p/original/HizqO0Htv6e68pWu0gzsoDthXq.jpg)
 
@@ -554,7 +554,7 @@ When a popular TV show faces cancellation, six actors turn to horror fiction for
 <hr>
 
 
-## 15. [A Wife's Nightmare](https://serp.ly/@serpmedia/github/amazon/A+Wife%27s+Nightmare)
+## 15. [A Wife's Nightmare](https://serp.ly/amazon/A+Wife%27s+Nightmare)
 
 ![A Wife's Nightmare](https://image.tmdb.org/t/p/original/pn7RmgsaG67g6HjrYMShLII3O4Z.jpg)
 
@@ -588,7 +588,7 @@ Liz returns home from a mental breakdown to find a young woman named Caitlin wai
 <hr>
 
 
-## 16. [Tom Sawyer & Huckleberry Finn](https://serp.ly/@serpmedia/github/amazon/Tom+Sawyer+%26+Huckleberry+Finn)
+## 16. [Tom Sawyer & Huckleberry Finn](https://serp.ly/amazon/Tom+Sawyer+%26+Huckleberry+Finn)
 
 ![Tom Sawyer & Huckleberry Finn](https://image.tmdb.org/t/p/original/knPu1emto64YzrM1aQQ2sdKCalK.jpg)
 
@@ -624,7 +624,7 @@ Tom Sawyer and his best friend Huckleberry Finn's Mississippi River journey tran
 <hr>
 
 
-## 17. [Jade](https://serp.ly/@serpmedia/github/amazon/Jade)
+## 17. [Jade](https://serp.ly/amazon/Jade)
 
 ![Jade](https://image.tmdb.org/t/p/original/qz6vvVSNPxuvEHKagfdvoVLz8yb.jpg)
 
@@ -660,7 +660,7 @@ In "Jade", a grieving woman finds herself caught between a powerful businessman 
 <hr>
 
 
-## 18. [Indiscretion](https://serp.ly/@serpmedia/github/amazon/Indiscretion)
+## 18. [Indiscretion](https://serp.ly/amazon/Indiscretion)
 
 ![Indiscretion](https://image.tmdb.org/t/p/original/fBqnegI286dGFBiEWxCgcaPxahC.jpg)
 
@@ -694,7 +694,7 @@ When a married woman's secret affair resurfaces, her former lover's obsessive pu
 <hr>
 
 
-## 19. [All Roads Lead Home](https://serp.ly/@serpmedia/github/amazon/All+Roads+Lead+Home)
+## 19. [All Roads Lead Home](https://serp.ly/amazon/All+Roads+Lead+Home)
 
 ![All Roads Lead Home](https://image.tmdb.org/t/p/original/lUnHCKJbAL9uo9GMXXhZ2j17mva.jpg)
 
@@ -728,7 +728,7 @@ When a 12-year-old girl loses her mother in a tragic car accident, she struggles
 <hr>
 
 
-## 20. [Sugar](https://serp.ly/@serpmedia/github/amazon/Sugar)
+## 20. [Sugar](https://serp.ly/amazon/Sugar)
 
 ![Sugar](https://image.tmdb.org/t/p/original/cT9W7ihLuvv1X2FfR6GRrAfSwhZ.jpg)
 
@@ -766,7 +766,7 @@ Sugar transports viewers aboard a lavish cruise ship where two Canadian women be
 <hr>
 
 
-## 21. [Little Savages](https://serp.ly/@serpmedia/github/amazon/Little+Savages)
+## 21. [Little Savages](https://serp.ly/amazon/Little+Savages)
 
 ![Little Savages](https://image.tmdb.org/t/p/original/i5lezFRw98uv5xSriZD4S00WkAI.jpg)
 
@@ -802,7 +802,7 @@ In the charming lake town of Culver, a boy genius and his sister team up for an 
 <hr>
 
 
-## 22. [Contest](https://serp.ly/@serpmedia/github/amazon/Contest)
+## 22. [Contest](https://serp.ly/amazon/Contest)
 
 ![Contest](https://image.tmdb.org/t/p/original/x3048yeGivOGgg3OXEzWGTZGYoq.jpg)
 
@@ -838,7 +838,7 @@ When high school outsider Tommy is unexpectedly befriended by the school's star 
 <hr>
 
 
-## 23. [Is That a Gun in Your Pocket?](https://serp.ly/@serpmedia/github/amazon/Is+That+a+Gun+in+Your+Pocket%3F)
+## 23. [Is That a Gun in Your Pocket?](https://serp.ly/amazon/Is+That+a+Gun+in+Your+Pocket%3F)
 
 ![Is That a Gun in Your Pocket?](https://image.tmdb.org/t/p/original/cPXvtB9VytQDhzEC4bSEbRrX064.jpg)
 
@@ -877,7 +877,7 @@ When a tragic gun incident rocks a Texas school, the women of the town decide to
 <hr>
 
 
-## 24. [A Sort of Homecoming](https://serp.ly/@serpmedia/github/amazon/A+Sort+of+Homecoming)
+## 24. [A Sort of Homecoming](https://serp.ly/amazon/A+Sort+of+Homecoming)
 
 ![A Sort of Homecoming](https://image.tmdb.org/t/p/original/qT8hlCw3KbkkidqoV1AvddBJg9L.jpg)
 
@@ -913,7 +913,7 @@ When New York news producer Amy Mitchell receives an unexpected call from her hi
 <hr>
 
 
-## 25. [Last Ounce of Courage](https://serp.ly/@serpmedia/github/amazon/Last+Ounce+of+Courage)
+## 25. [Last Ounce of Courage](https://serp.ly/amazon/Last+Ounce+of+Courage)
 
 ![Last Ounce of Courage](https://image.tmdb.org/t/p/original/ozzB0mH3DjdNCUO8LeKPI42qXwp.jpg)
 
@@ -952,7 +952,7 @@ In a small town where faith and freedom reign, Mayor Bob Revere's decorated mili
 <hr>
 
 
-## 26. [True Justice: Family Ties](https://serp.ly/@serpmedia/github/amazon/True+Justice%3A+Family+Ties)
+## 26. [True Justice: Family Ties](https://serp.ly/amazon/True+Justice%3A+Family+Ties)
 
 ![True Justice: Family Ties](https://image.tmdb.org/t/p/original/pN7VxfVY0dtgcoaA1CD3dir649U.jpg)
 
@@ -986,7 +986,7 @@ When a law school student discovers her brother was wrongfully convicted, she te
 <hr>
 
 
-## 27. [Charlotte](https://serp.ly/@serpmedia/github/amazon/Charlotte)
+## 27. [Charlotte](https://serp.ly/amazon/Charlotte)
 
 ![Charlotte](https://image.tmdb.org/t/p/original/9NDAW9Duu1GKD0L2qkRZ6ijZ5bh.jpg)
 
@@ -1022,7 +1022,7 @@ When a teenager takes a babysitting job at a new house, she stumbles upon a dark
 <hr>
 
 
-## 28. [Last Will](https://serp.ly/@serpmedia/github/amazon/Last+Will)
+## 28. [Last Will](https://serp.ly/amazon/Last+Will)
 
 ![Last Will](https://image.tmdb.org/t/p/original/6A3oM4GztODF0ofn4jYJeJpYkhw.jpg)
 
@@ -1056,7 +1056,7 @@ When a wealthy woman's husband is murdered, she becomes the prime suspect in a c
 <hr>
 
 
-## 29. [Get Off My Porch](https://serp.ly/@serpmedia/github/amazon/Get+Off+My+Porch)
+## 29. [Get Off My Porch](https://serp.ly/amazon/Get+Off+My+Porch)
 
 ![Get Off My Porch](https://image.tmdb.org/t/p/original/A5j7rdU4WQR4Q14jKHqkfKbkfZI.jpg)
 
@@ -1090,7 +1090,7 @@ When Girl Scouts knock on his door offering "delicious" cookies, a man's life be
 <hr>
 
 
-## 30. [Kappa Kappa Die](https://serp.ly/@serpmedia/github/amazon/Kappa+Kappa+Die)
+## 30. [Kappa Kappa Die](https://serp.ly/amazon/Kappa+Kappa+Die)
 
 ![Kappa Kappa Die](https://image.tmdb.org/t/p/original/9yBBJk9paX87nC9WhS2eWpUbjJ5.jpg)
 
@@ -1128,7 +1128,7 @@ After her older sister dies in a mysterious accident, Shauna joins the same soro
 <hr>
 
 
-## 31. [Sam Steele and the Junior Detective Agency](https://serp.ly/@serpmedia/github/amazon/Sam+Steele+and+the+Junior+Detective+Agency)
+## 31. [Sam Steele and the Junior Detective Agency](https://serp.ly/amazon/Sam+Steele+and+the+Junior+Detective+Agency)
 
 ![Sam Steele and the Junior Detective Agency](https://image.tmdb.org/t/p/original/i30Oz97Tkm2BMN4GTH1VZgW6UCZ.jpg)
 
@@ -1162,7 +1162,7 @@ When 13-year-old Sam Steele Jr. decides to follow in his father's footsteps, he 
 <hr>
 
 
-## 32. [Matchmaker Mary](https://serp.ly/@serpmedia/github/amazon/Matchmaker+Mary)
+## 32. [Matchmaker Mary](https://serp.ly/amazon/Matchmaker+Mary)
 
 ![Matchmaker Mary](https://image.tmdb.org/t/p/original/oMuJHdwt4lx6Jxj8zzs1VjLQHuP.jpg)
 
@@ -1198,7 +1198,7 @@ When sixth-grader Mary brings three adorable puppies into her life, she discover
 <hr>
 
 
-## 33. [Dance Dads](https://serp.ly/@serpmedia/github/amazon/Dance+Dads)
+## 33. [Dance Dads](https://serp.ly/amazon/Dance+Dads)
 
 ![Dance Dads](https://image.tmdb.org/t/p/original/wSEqGw7CeSVxSfaVx1gl90EBDsP.jpg)
 
@@ -1228,7 +1228,7 @@ When a dad realizes he's lost touch with his family, he comes up with an unconve
 <hr>
 
 
-## 34. [Urban Legend](https://serp.ly/@serpmedia/github/amazon/Urban+Legend)
+## 34. [Urban Legend](https://serp.ly/amazon/Urban+Legend)
 
 ![Urban Legend](https://image.tmdb.org/t/p/original/iVnvPcPM1QtHokNI9QBTC9CQzB0.jpg)
 
@@ -1251,7 +1251,7 @@ When a series of gruesome deaths begins to mirror the most terrifying urban lege
 <hr>
 
 
-## 35. [Sam Steele and the Crystal Chalice](https://serp.ly/@serpmedia/github/amazon/Sam+Steele+and+the+Crystal+Chalice)
+## 35. [Sam Steele and the Crystal Chalice](https://serp.ly/amazon/Sam+Steele+and+the+Crystal+Chalice)
 
 ![Sam Steele and the Crystal Chalice](https://image.tmdb.org/t/p/original/gkpmV2rD7S6D4zo8aOWBtb8rxQV.jpg)
 
@@ -1282,7 +1282,7 @@ Sam Steele Junior dreads his latest term paper assignment: researching a 1950s S
 <hr>
 
 
-## 36. [Samaritan](https://serp.ly/@serpmedia/github/amazon/Samaritan)
+## 36. [Samaritan](https://serp.ly/amazon/Samaritan)
 
 ![Samaritan](https://image.tmdb.org/t/p/original/nzalh8Mj5kzMdATsKw1XzKWT6y9.jpg)
 
@@ -1311,7 +1311,7 @@ In a new neighborhood, a paranoid woman relies on a safety app to monitor local 
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1357,7 +1357,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 2. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -1399,7 +1399,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 3. [The Flash](https://serp.ly/@serpmedia/github/amazon/The+Flash)
+## 3. [The Flash](https://serp.ly/amazon/The+Flash)
 
 ![The Flash](https://image.tmdb.org/t/p/original/yZevl2vHQgmosfwUdVNzviIfaWS.jpg)
 
@@ -1443,7 +1443,7 @@ When CSI investigator Barry Allen wakes from a nine-month coma after a lightning
 <hr>
 
 
-## 4. [Arrow](https://serp.ly/@serpmedia/github/amazon/Arrow)
+## 4. [Arrow](https://serp.ly/amazon/Arrow)
 
 ![Arrow](https://image.tmdb.org/t/p/original/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg)
 
@@ -1487,7 +1487,7 @@ When billionaire playboy Oliver Queen returns to town after a five-year absence,
 <hr>
 
 
-## 5. [Supergirl](https://serp.ly/@serpmedia/github/amazon/Supergirl)
+## 5. [Supergirl](https://serp.ly/amazon/Supergirl)
 
 ![Supergirl](https://image.tmdb.org/t/p/original/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg)
 
@@ -1531,7 +1531,7 @@ When a disaster strikes, 24-year-old Kara Zor-El must embrace the powers she's b
 <hr>
 
 
-## 6. [The Fosters](https://serp.ly/@serpmedia/github/amazon/The+Fosters)
+## 6. [The Fosters](https://serp.ly/amazon/The+Fosters)
 
 ![The Fosters](https://image.tmdb.org/t/p/original/h8pYmBwj76Pi2vt8HFnzdlsjEsA.jpg)
 
@@ -1575,7 +1575,7 @@ When dedicated police officer Stef Foster and school vice principal Lena Adams w
 <hr>
 
 
-## 7. [R. L. Stine's The Haunting Hour](https://serp.ly/@serpmedia/github/amazon/R.+L.+Stine%27s+The+Haunting+Hour)
+## 7. [R. L. Stine's The Haunting Hour](https://serp.ly/amazon/R.+L.+Stine%27s+The+Haunting+Hour)
 
 ![R. L. Stine's The Haunting Hour](https://image.tmdb.org/t/p/original/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg)
 
@@ -1617,7 +1617,7 @@ When dedicated police officer Stef Foster and school vice principal Lena Adams w
 <hr>
 
 
-## 8. [Drop Dead Diva](https://serp.ly/@serpmedia/github/amazon/Drop+Dead+Diva)
+## 8. [Drop Dead Diva](https://serp.ly/amazon/Drop+Dead+Diva)
 
 ![Drop Dead Diva](https://image.tmdb.org/t/p/original/4J8DKF6UOfcHIWcyap9NK1acnoU.jpg)
 
@@ -1661,7 +1661,7 @@ When a supermodel's life changes in an instant, her soul finds an unexpected hom
 <hr>
 
 
-## 9. [Batwoman](https://serp.ly/@serpmedia/github/amazon/Batwoman)
+## 9. [Batwoman](https://serp.ly/amazon/Batwoman)
 
 ![Batwoman](https://image.tmdb.org/t/p/original/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg)
 
@@ -1705,7 +1705,7 @@ When Kate Kane soars onto the streets of Gotham as Batwoman, she brings with her
 <hr>
 
 
-## 10. [Shadowhunters](https://serp.ly/@serpmedia/github/amazon/Shadowhunters)
+## 10. [Shadowhunters](https://serp.ly/amazon/Shadowhunters)
 
 ![Shadowhunters](https://image.tmdb.org/t/p/original/66YHvvVduC21xcMXPpBBF0ywyVZ.jpg)
 
@@ -1751,7 +1751,7 @@ When Clary Fray's mother disappears, she makes a deal with a band of Shadowhunte
 <hr>
 
 
-## 11. [Glee](https://serp.ly/@serpmedia/github/amazon/Glee)
+## 11. [Glee](https://serp.ly/amazon/Glee)
 
 ![Glee](https://image.tmdb.org/t/p/original/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg)
 
@@ -1795,7 +1795,7 @@ When optimistic high school teacher Will Schuester takes over McKinley High's st
 <hr>
 
 
-## 12. [Unforgettable](https://serp.ly/@serpmedia/github/amazon/Unforgettable)
+## 12. [Unforgettable](https://serp.ly/amazon/Unforgettable)
 
 ![Unforgettable](https://image.tmdb.org/t/p/original/6NsNh4qDhYiGp7SiHyk0Ec3Dns6.jpg)
 
@@ -1839,7 +1839,7 @@ When former Syracuse detective Carrie Wells joins the New York City Police Depar
 <hr>
 
 
-## 13. [The Thundermans](https://serp.ly/@serpmedia/github/amazon/The+Thundermans)
+## 13. [The Thundermans](https://serp.ly/amazon/The+Thundermans)
 
 ![The Thundermans](https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg)
 
@@ -1881,7 +1881,7 @@ When ordinary family life intersects with extraordinary superpowers, the Thunder
 <hr>
 
 
-## 14. [Transformers: Rescue Bots](https://serp.ly/@serpmedia/github/amazon/Transformers%3A+Rescue+Bots)
+## 14. [Transformers: Rescue Bots](https://serp.ly/amazon/Transformers%3A+Rescue+Bots)
 
 ![Transformers: Rescue Bots](https://image.tmdb.org/t/p/original/wtugHPxksnORftAs7EOGK3Oy0I5.jpg)
 
@@ -1923,7 +1923,7 @@ When a team of young Autobots is given a vital mission by Optimus Prime, they mu
 <hr>
 
 
-## 15. [Jessie](https://serp.ly/@serpmedia/github/amazon/Jessie)
+## 15. [Jessie](https://serp.ly/amazon/Jessie)
 
 ![Jessie](https://image.tmdb.org/t/p/original/tspQe0FuiaUj0U1R1norNbiYTe4.jpg)
 
@@ -1965,7 +1965,7 @@ When a Texas teen decides to trade starry nights for the bright lights of New Yo
 <hr>
 
 
-## 16. [Workaholics](https://serp.ly/@serpmedia/github/amazon/Workaholics)
+## 16. [Workaholics](https://serp.ly/amazon/Workaholics)
 
 ![Workaholics](https://image.tmdb.org/t/p/original/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg)
 
@@ -2007,7 +2007,7 @@ When three recent college dropouts become roommates and teammates at a telemarke
 <hr>
 
 
-## 17. [Radio Disney Music Awards](https://serp.ly/@serpmedia/github/amazon/Radio+Disney+Music+Awards)
+## 17. [Radio Disney Music Awards](https://serp.ly/amazon/Radio+Disney+Music+Awards)
 
 ![Radio Disney Music Awards](https://image.tmdb.org/t/p/original/nq7jAkkF5j6YO3Zer590ivQlF0e.jpg)
 
@@ -2049,7 +2049,7 @@ The Radio Disney Music Awards evolved from a radio-only event to become a televi
 <hr>
 
 
-## 18. [The Stand](https://serp.ly/@serpmedia/github/amazon/The+Stand)
+## 18. [The Stand](https://serp.ly/amazon/The+Stand)
 
 ![The Stand](https://image.tmdb.org/t/p/original/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg)
 
@@ -2091,7 +2091,7 @@ In a world devastated by plague and darkness, 108-year-old Mother Abagail leads 
 <hr>
 
 
-## 19. [Touch](https://serp.ly/@serpmedia/github/amazon/Touch)
+## 19. [Touch](https://serp.ly/amazon/Touch)
 
 ![Touch](https://image.tmdb.org/t/p/original/rIVMxrngJI7UbRGIpQhL8EACoNU.jpg)
 
@@ -2135,7 +2135,7 @@ When single father Martin Bohm's mundane life takes an extraordinary turn, he di
 <hr>
 
 
-## 20. [Kickin' It](https://serp.ly/@serpmedia/github/amazon/Kickin%27+It)
+## 20. [Kickin' It](https://serp.ly/amazon/Kickin%27+It)
 
 ![Kickin' It](https://image.tmdb.org/t/p/original/spbGbQZD8C5ikgrkUoMO5FGlAcp.jpg)
 
@@ -2179,7 +2179,7 @@ When Jack joins the Bobby Wasabi Martial Arts Academy, he stumbles into a world 
 <hr>
 
 
-## 21. [The Grinder](https://serp.ly/@serpmedia/github/amazon/The+Grinder)
+## 21. [The Grinder](https://serp.ly/amazon/The+Grinder)
 
 ![The Grinder](https://image.tmdb.org/t/p/original/4oKpcD8KcLI7Fsh9WmUE8D4ys9C.jpg)
 
@@ -2223,7 +2223,7 @@ When television lawyer Dean Sanderson returns to his small hometown after the ca
 <hr>
 
 
-## 22. [Walker Independence](https://serp.ly/@serpmedia/github/amazon/Walker+Independence)
+## 22. [Walker Independence](https://serp.ly/amazon/Walker+Independence)
 
 ![Walker Independence](https://image.tmdb.org/t/p/original/n0sgBHsLs0dgC1uYXtxvbZ8eywP.jpg)
 
@@ -2267,7 +2267,7 @@ In the late 1800s, an affluent Bostonian named Abby Walker's world changes when 
 <hr>
 
 
-## 23. [One Killer Question](https://serp.ly/@serpmedia/github/amazon/One+Killer+Question)
+## 23. [One Killer Question](https://serp.ly/amazon/One+Killer+Question)
 
 ![One Killer Question](https://image.tmdb.org/t/p/original/rhY1sOMxkQG7nLQ70jOgJ501MVN.jpg)
 
@@ -2313,7 +2313,7 @@ You have questions. We have answer.
 <hr>
 
 
-## 24. [Acting for a Cause](https://serp.ly/@serpmedia/github/amazon/Acting+for+a+Cause)
+## 24. [Acting for a Cause](https://serp.ly/amazon/Acting+for+a+Cause)
 
 ![Acting for a Cause](https://image.tmdb.org/t/p/original/1s82xEuPydA2A5CbhPmGCPBVKaG.jpg)
 
@@ -2357,7 +2357,7 @@ When the pandemic hit in 2020, Brando Crawford turned to theater - not the kind 
 <hr>
 
 
-## 25. [Happyland](https://serp.ly/@serpmedia/github/amazon/Happyland)
+## 25. [Happyland](https://serp.ly/amazon/Happyland)
 
 ![Happyland](https://image.tmdb.org/t/p/original/m3riy0k37YQv7PK71W3gb8DYri6.jpg)
 
@@ -2399,7 +2399,7 @@ Lucy, a teenage daughter of an idealistic theme park princess mom, has grown up 
 <hr>
 
 
-## 26. [Crisis Aftermath](https://serp.ly/@serpmedia/github/amazon/Crisis+Aftermath)
+## 26. [Crisis Aftermath](https://serp.ly/amazon/Crisis+Aftermath)
 
 ![Crisis Aftermath](https://image.tmdb.org/t/p/original/kaCjmS5tyAcfCrcdKuqxQ1CwvZ9.jpg)
 
@@ -2441,7 +2441,7 @@ Lucy, a teenage daughter of an idealistic theme park princess mom, has grown up 
 <hr>
 
 
-## 27. [Happy Together](https://serp.ly/@serpmedia/github/amazon/Happy+Together)
+## 27. [Happy Together](https://serp.ly/amazon/Happy+Together)
 
 ![Happy Together](https://image.tmdb.org/t/p/original/h9vLHRPf4OxxiYEh9vqxBfRDLcJ.jpg)
 

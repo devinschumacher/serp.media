@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Grown Ups 2](https://serp.ly/@serpmedia/github/amazon/Grown+Ups+2)
+## 1. [Grown Ups 2](https://serp.ly/amazon/Grown+Ups+2)
 
 ![Grown Ups 2](https://image.tmdb.org/t/p/original/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg)
 
@@ -77,7 +77,7 @@ When Lenny moves his family back to their small hometown, they're thrown into a 
 <hr>
 
 
-## 2. [The Christmas Chronicles](https://serp.ly/@serpmedia/github/amazon/The+Christmas+Chronicles)
+## 2. [The Christmas Chronicles](https://serp.ly/amazon/The+Christmas+Chronicles)
 
 ![The Christmas Chronicles](https://image.tmdb.org/t/p/original/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg)
 
@@ -116,7 +116,7 @@ Join siblings Kate and Teddy as they embark on a thrilling adventure to prove Sa
 <hr>
 
 
-## 3. [Walk of Shame](https://serp.ly/@serpmedia/github/amazon/Walk+of+Shame)
+## 3. [Walk of Shame](https://serp.ly/amazon/Walk+of+Shame)
 
 ![Walk of Shame](https://image.tmdb.org/t/p/original/3zMS66gtw8ccvy1BWD6thJ67jgX.jpg)
 
@@ -159,7 +159,7 @@ A promising reporter's career hangs in the balance after a late-night encounter 
 <hr>
 
 
-## 4. [Injustice](https://serp.ly/@serpmedia/github/amazon/Injustice)
+## 4. [Injustice](https://serp.ly/amazon/Injustice)
 
 ![Injustice](https://image.tmdb.org/t/p/original/rzrSeqqpm1BwJ3tcTznztBtLLSD.jpg)
 
@@ -195,7 +195,7 @@ When Lois Lane is killed, Superman descends into darkness, threatening to destro
 <hr>
 
 
-## 5. [Black Christmas](https://serp.ly/@serpmedia/github/amazon/Black+Christmas)
+## 5. [Black Christmas](https://serp.ly/amazon/Black+Christmas)
 
 ![Black Christmas](https://image.tmdb.org/t/p/original/ggxi18MGqi0lucWvfsdYkzSdGUJ.jpg)
 
@@ -238,7 +238,7 @@ As the residents of sorority house Pi Kappa Sigma prepare for the festive season
 <hr>
 
 
-## 6. [The Breed](https://serp.ly/@serpmedia/github/amazon/The+Breed)
+## 6. [The Breed](https://serp.ly/amazon/The+Breed)
 
 ![The Breed](https://image.tmdb.org/t/p/original/84wIp36RZ1zpVBoJTjwzGjZVRxD.jpg)
 
@@ -276,7 +276,7 @@ When brothers John and Matt inherit their uncle's island cabin, they plan a rela
 <hr>
 
 
-## 7. [The Out-of-Towners](https://serp.ly/@serpmedia/github/amazon/The+Out-of-Towners)
+## 7. [The Out-of-Towners](https://serp.ly/amazon/The+Out-of-Towners)
 
 ![The Out-of-Towners](https://image.tmdb.org/t/p/original/wOmLJYh7oOfATE236XpoDfcXhOh.jpg)
 
@@ -316,7 +316,7 @@ Henry and Nancy Clark, a married couple, find themselves in New York City for He
 <hr>
 
 
-## 8. [Strange Wilderness](https://serp.ly/@serpmedia/github/amazon/Strange+Wilderness)
+## 8. [Strange Wilderness](https://serp.ly/amazon/Strange+Wilderness)
 
 ![Strange Wilderness](https://image.tmdb.org/t/p/original/eDEKfmeQ5ZhdKqtig97L5gyi7NR.jpg)
 
@@ -359,7 +359,7 @@ When a wilderness TV show needs a ratings boost, two animal enthusiasts travel t
 <hr>
 
 
-## 9. [Journey Back to Christmas](https://serp.ly/@serpmedia/github/amazon/Journey+Back+to+Christmas)
+## 9. [Journey Back to Christmas](https://serp.ly/amazon/Journey+Back+to+Christmas)
 
 ![Journey Back to Christmas](https://image.tmdb.org/t/p/original/5N6QVpPHkNhc1ba6HAaNRwi8B2M.jpg)
 
@@ -393,7 +393,7 @@ Hanna's world changes when the Christmas Comet appears after 70 years, leading h
 <hr>
 
 
-## 10. [Carolina Moon](https://serp.ly/@serpmedia/github/amazon/Carolina+Moon)
+## 10. [Carolina Moon](https://serp.ly/amazon/Carolina+Moon)
 
 ![Carolina Moon](https://image.tmdb.org/t/p/original/81ZkfbaFlihJyObWOdYVJFaxNET.jpg)
 
@@ -429,7 +429,7 @@ In "Carolina Moon", a woman with psychic visions returns to her hometown to face
 <hr>
 
 
-## 11. [New Best Friend](https://serp.ly/@serpmedia/github/amazon/New+Best+Friend)
+## 11. [New Best Friend](https://serp.ly/amazon/New+Best+Friend)
 
 ![New Best Friend](https://image.tmdb.org/t/p/original/jfLukUjlYMvKSlYysdJeNKI8EVN.jpg)
 
@@ -465,7 +465,7 @@ A poor college freshman, Alicia, is paired with a wealthy classmate, Hadley, for
 <hr>
 
 
-## 12. [Going Greek](https://serp.ly/@serpmedia/github/amazon/Going+Greek)
+## 12. [Going Greek](https://serp.ly/amazon/Going+Greek)
 
 ![Going Greek](https://image.tmdb.org/t/p/original/8btEohZgUniiRXNyxNjl5gm6uXw.jpg)
 
@@ -501,7 +501,7 @@ When Jake Taylor's geeky cousin forces him to join the wildest fraternity on cam
 <hr>
 
 
-## 13. [The Smokers](https://serp.ly/@serpmedia/github/amazon/The+Smokers)
+## 13. [The Smokers](https://serp.ly/amazon/The+Smokers)
 
 ![The Smokers](https://image.tmdb.org/t/p/original/fM3zD5LK1uj9txrIrubcUTje7SB.jpg)
 
@@ -537,7 +537,7 @@ Three tired of being used and abused by the opposite sex decide to turn the tabl
 <hr>
 
 
-## 14. [Kill the Man](https://serp.ly/@serpmedia/github/amazon/Kill+the+Man)
+## 14. [Kill the Man](https://serp.ly/amazon/Kill+the+Man)
 
 ![Kill the Man](https://image.tmdb.org/t/p/original/vPvb3TybLlvAVPPu848IzNavywF.jpg)
 
@@ -573,7 +573,7 @@ When two shop owners hit a promotional mid-court basketball shot, they win $100,
 <hr>
 
 
-## 15. [Mr. Dramatic](https://serp.ly/@serpmedia/github/amazon/Mr.+Dramatic)
+## 15. [Mr. Dramatic](https://serp.ly/amazon/Mr.+Dramatic)
 
 ![Mr. Dramatic](https://image.tmdb.org/t/p/original/mZVKJVqMJhT69S9pvfvPxj8bKpP.jpg)
 
@@ -609,7 +609,7 @@ After several disappointing relationships, a young woman ventures into the ruthl
 <hr>
 
 
-## 16. [Rockets' Red Glare](https://serp.ly/@serpmedia/github/amazon/Rockets%27+Red+Glare)
+## 16. [Rockets' Red Glare](https://serp.ly/amazon/Rockets%27+Red+Glare)
 
 ![Rockets' Red Glare](https://image.tmdb.org/t/p/original/iBCSFlIsl9tulLOAo5sjYvloQW1.jpg)
 
@@ -640,7 +640,7 @@ When a Vietnam veteran returns home to find his brother profoundly disabled, he 
 <hr>
 
 
-## 17. [I’m Still Here: Real Diaries of Young People Who Lived During the Holocaust](https://serp.ly/@serpmedia/github/amazon/I%E2%80%99m+Still+Here%3A+Real+Diaries+of+Young+People+Who+Lived+During+the+Holocaust)
+## 17. [I’m Still Here: Real Diaries of Young People Who Lived During the Holocaust](https://serp.ly/amazon/I%E2%80%99m+Still+Here%3A+Real+Diaries+of+Young+People+Who+Lived+During+the+Holocaust)
 
 ![I’m Still Here: Real Diaries of Young People Who Lived During the Holocaust](https://image.tmdb.org/t/p/original/pSYZIPgIlBaTQMiWrnIcpa3EKLa.jpg)
 
@@ -673,7 +673,7 @@ This powerful documentary brings together the personal diaries of young people w
 <hr>
 
 
-## 18. [Celebrity Mix](https://serp.ly/@serpmedia/github/amazon/Celebrity+Mix)
+## 18. [Celebrity Mix](https://serp.ly/amazon/Celebrity+Mix)
 
 <br>
 
@@ -702,7 +702,7 @@ This powerful documentary brings together the personal diaries of young people w
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -746,7 +746,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -790,7 +790,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 3. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -834,7 +834,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 4. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 4. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -876,7 +876,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 5. [Dawson's Creek](https://serp.ly/@serpmedia/github/amazon/Dawson%27s+Creek)
+## 5. [Dawson's Creek](https://serp.ly/amazon/Dawson%27s+Creek)
 
 ![Dawson's Creek](https://image.tmdb.org/t/p/original/arT93dBemanftfWTcf9I0JRIlxU.jpg)
 
@@ -920,7 +920,7 @@ Dawson's Creek invites you into the lives of a close-knit group of friends as th
 <hr>
 
 
-## 6. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 6. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -964,7 +964,7 @@ Dawson's Creek invites you into the lives of a close-knit group of friends as th
 <hr>
 
 
-## 7. [Rules of Engagement](https://serp.ly/@serpmedia/github/amazon/Rules+of+Engagement)
+## 7. [Rules of Engagement](https://serp.ly/amazon/Rules+of+Engagement)
 
 ![Rules of Engagement](https://image.tmdb.org/t/p/original/fLpcVz9020H1gGmK23PW5UpCNtd.jpg)
 
@@ -1006,7 +1006,7 @@ When it comes to relationships, people often say it's like a roller coaster - an
 <hr>
 
 
-## 8. [To Tell the Truth](https://serp.ly/@serpmedia/github/amazon/To+Tell+the+Truth)
+## 8. [To Tell the Truth](https://serp.ly/amazon/To+Tell+the+Truth)
 
 ![To Tell the Truth](https://image.tmdb.org/t/p/original/v4GTvwZ90Er0xGx9fGK3XMLHsAD.jpg)
 
@@ -1050,7 +1050,7 @@ When it comes to relationships, people often say it's like a roller coaster - an
 <hr>
 
 
-## 9. [Nashville](https://serp.ly/@serpmedia/github/amazon/Nashville)
+## 9. [Nashville](https://serp.ly/amazon/Nashville)
 
 ![Nashville](https://image.tmdb.org/t/p/original/mAV0aALo4MsJQ8xdqIadBWeV0BU.jpg)
 
@@ -1092,7 +1092,7 @@ In Nashville, Rayna Jaymes and Juliette Barnes encounter personal and profession
 <hr>
 
 
-## 10. [The Cleaning Lady](https://serp.ly/@serpmedia/github/amazon/The+Cleaning+Lady)
+## 10. [The Cleaning Lady](https://serp.ly/amazon/The+Cleaning+Lady)
 
 ![The Cleaning Lady](https://image.tmdb.org/t/p/original/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg)
 
@@ -1140,7 +1140,7 @@ When a brilliant doctor comes to the U. S. to save her son's life, she never exp
 <hr>
 
 
-## 11. [And Just Like That…](https://serp.ly/@serpmedia/github/amazon/And+Just+Like+That%E2%80%A6)
+## 11. [And Just Like That…](https://serp.ly/amazon/And+Just+Like+That%E2%80%A6)
 
 ![And Just Like That…](https://image.tmdb.org/t/p/original/ckl3YTckH7JeeTx55NQMFf7pMRL.jpg)
 
@@ -1186,7 +1186,7 @@ Revisit the lives of Carrie, Miranda, and Charlotte in this compelling series th
 <hr>
 
 
-## 12. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 12. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1230,7 +1230,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 13. [The Ellen DeGeneres Show](https://serp.ly/@serpmedia/github/amazon/The+Ellen+DeGeneres+Show)
+## 13. [The Ellen DeGeneres Show](https://serp.ly/amazon/The+Ellen+DeGeneres+Show)
 
 ![The Ellen DeGeneres Show](https://image.tmdb.org/t/p/original/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg)
 
@@ -1272,7 +1272,7 @@ Revisit a golden era of television with "The Ellen DeGeneres Show, " the beloved
 <hr>
 
 
-## 14. [Scream Queens](https://serp.ly/@serpmedia/github/amazon/Scream+Queens)
+## 14. [Scream Queens](https://serp.ly/amazon/Scream+Queens)
 
 ![Scream Queens](https://image.tmdb.org/t/p/original/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg)
 
@@ -1316,7 +1316,7 @@ Pretty evil.
 <hr>
 
 
-## 15. [The $100,000 Pyramid](https://serp.ly/@serpmedia/github/amazon/The+%24100%2C000+Pyramid)
+## 15. [The $100,000 Pyramid](https://serp.ly/amazon/The+%24100%2C000+Pyramid)
 
 ![The $100,000 Pyramid](https://image.tmdb.org/t/p/original/q4M2OYBvyDgmmSCKgj5PgbFBY1y.jpg)
 
@@ -1360,7 +1360,7 @@ The $100,000 Pyramid is a scripted game show that aired from 2016 to 2023. Conte
 <hr>
 
 
-## 16. [Splitting Up Together](https://serp.ly/@serpmedia/github/amazon/Splitting+Up+Together)
+## 16. [Splitting Up Together](https://serp.ly/amazon/Splitting+Up+Together)
 
 ![Splitting Up Together](https://image.tmdb.org/t/p/original/jMxlolm8TcNKNNMRyjxWqvpiIQ8.jpg)
 
@@ -1404,7 +1404,7 @@ When Lena and Martin decide to divorce, they make an unusual choice that tests t
 <hr>
 
 
-## 17. [Sherri](https://serp.ly/@serpmedia/github/amazon/Sherri)
+## 17. [Sherri](https://serp.ly/amazon/Sherri)
 
 ![Sherri](https://image.tmdb.org/t/p/original/tNpISQ0ymMpZmfRCeJXceAjyzev.jpg)
 
@@ -1448,7 +1448,7 @@ Sherri Shepherd brings her Emmy Award-winning experience as a co-host of "The Vi
 <hr>
 
 
-## 18. [10.5: Apocalypse](https://serp.ly/@serpmedia/github/amazon/10.5%3A+Apocalypse)
+## 18. [10.5: Apocalypse](https://serp.ly/amazon/10.5%3A+Apocalypse)
 
 ![10.5: Apocalypse](https://image.tmdb.org/t/p/original/5J3LDmL2sA6PeY1yA7zsODv855C.jpg)
 
@@ -1491,7 +1491,7 @@ When seismic activities peak with a catastrophic 10.5 earthquake, top seismologi
 <hr>
 
 
-## 19. [That's My Jam](https://serp.ly/@serpmedia/github/amazon/That%27s+My+Jam)
+## 19. [That's My Jam](https://serp.ly/amazon/That%27s+My+Jam)
 
 ![That's My Jam](https://image.tmdb.org/t/p/original/x9gySjJuo5jsPZuvsXOK1BTItrk.jpg)
 
@@ -1535,7 +1535,7 @@ When seismic activities peak with a catastrophic 10.5 earthquake, top seismologi
 <hr>
 
 
-## 20. [Busy Tonight](https://serp.ly/@serpmedia/github/amazon/Busy+Tonight)
+## 20. [Busy Tonight](https://serp.ly/amazon/Busy+Tonight)
 
 ![Busy Tonight](https://image.tmdb.org/t/p/original/wpvzO2q1t3VCLIlsc3omhjv2DQT.jpg)
 
@@ -1581,7 +1581,7 @@ When seismic activities peak with a catastrophic 10.5 earthquake, top seismologi
 <hr>
 
 
-## 21. [Medal of Honor](https://serp.ly/@serpmedia/github/amazon/Medal+of+Honor)
+## 21. [Medal of Honor](https://serp.ly/amazon/Medal+of+Honor)
 
 ![Medal of Honor](https://image.tmdb.org/t/p/original/ljXTw77h4IENaB228rimG1NV3n8.jpg)
 
@@ -1623,7 +1623,7 @@ Travel back in time with "Medal of Honor, " a docudrama series that recreates th
 <hr>
 
 
-## 22. [The Showbiz Show with David Spade](https://serp.ly/@serpmedia/github/amazon/The+Showbiz+Show+with+David+Spade)
+## 22. [The Showbiz Show with David Spade](https://serp.ly/amazon/The+Showbiz+Show+with+David+Spade)
 
 <br>
 
@@ -1663,7 +1663,7 @@ Join David Spade as he takes his wit and charm from Saturday Night Live to your 
 <hr>
 
 
-## 23. [Match Game](https://serp.ly/@serpmedia/github/amazon/Match+Game)
+## 23. [Match Game](https://serp.ly/amazon/Match+Game)
 
 ![Match Game](https://image.tmdb.org/t/p/original/f4GmtNrtIzpqFNAxk3DFzk4zMmR.jpg)
 
@@ -1705,7 +1705,7 @@ Match Game revives the iconic 1970s program with a dynamic competition between t
 <hr>
 
 
-## 24. [My Guide to Becoming a Rock Star](https://serp.ly/@serpmedia/github/amazon/My+Guide+to+Becoming+a+Rock+Star)
+## 24. [My Guide to Becoming a Rock Star](https://serp.ly/amazon/My+Guide+to+Becoming+a+Rock+Star)
 
 ![My Guide to Becoming a Rock Star](https://image.tmdb.org/t/p/original/vcwORLlpN89bfUxLs4bhQwZ1p1d.jpg)
 
@@ -1744,7 +1744,7 @@ Join Oliver Hudson in this hilarious journey through the rockstar lifestyle, as 
 <hr>
 
 
-## 25. [Gone Mental with Lior](https://serp.ly/@serpmedia/github/amazon/Gone+Mental+with+Lior)
+## 25. [Gone Mental with Lior](https://serp.ly/amazon/Gone+Mental+with+Lior)
 
 ![Gone Mental with Lior](https://image.tmdb.org/t/p/original/71roKqKzqD3jHBWQxUVi2Bqk7FP.jpg)
 
@@ -1786,7 +1786,7 @@ Mentalist Lior Suchard reveals the secrets of the human mind in this captivating
 <hr>
 
 
-## 26. [The Mountain](https://serp.ly/@serpmedia/github/amazon/The+Mountain)
+## 26. [The Mountain](https://serp.ly/amazon/The+Mountain)
 
 ![The Mountain](https://image.tmdb.org/t/p/original/oeyiB5RskwfblHMrKvA2M4GEzGl.jpg)
 
@@ -1828,7 +1828,7 @@ The Mountain invites you into the heart of Boundary Mountain, a stunning resort 
 <hr>
 
 
-## 27. [Celebrities Uncensored](https://serp.ly/@serpmedia/github/amazon/Celebrities+Uncensored)
+## 27. [Celebrities Uncensored](https://serp.ly/amazon/Celebrities+Uncensored)
 
 ![Celebrities Uncensored](https://image.tmdb.org/t/p/original/cwZ6ZXREDPOtsAiAUcA4uKBhy1e.jpg)
 

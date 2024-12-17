@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [mid90s](https://serp.ly/@serpmedia/github/amazon/mid90s)
+## 1. [mid90s](https://serp.ly/amazon/mid90s)
 
 ![mid90s](https://image.tmdb.org/t/p/original/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg)
 
@@ -77,7 +77,7 @@ When a 13-year-old skater from 1990s Los Angeles falls, he learns to get back up
 <hr>
 
 
-## 2. [Waves](https://serp.ly/@serpmedia/github/amazon/Waves)
+## 2. [Waves](https://serp.ly/amazon/Waves)
 
 ![Waves](https://image.tmdb.org/t/p/original/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg)
 
@@ -117,7 +117,7 @@ When a devoted father pushes his two children to excel in high school, his plans
 <hr>
 
 
-## 3. [Brigsby Bear](https://serp.ly/@serpmedia/github/amazon/Brigsby+Bear)
+## 3. [Brigsby Bear](https://serp.ly/amazon/Brigsby+Bear)
 
 ![Brigsby Bear](https://image.tmdb.org/t/p/original/9QepAxHR9am4nKWZqIDpIQjuB5.jpg)
 
@@ -158,7 +158,7 @@ When the beloved TV show "Brigsby Bear Adventures" ends unexpectedly, James's wo
 <hr>
 
 
-## 4. [Mainstream](https://serp.ly/@serpmedia/github/amazon/Mainstream)
+## 4. [Mainstream](https://serp.ly/amazon/Mainstream)
 
 ![Mainstream](https://image.tmdb.org/t/p/original/9KXWDsbbp2dcjMNzYRzkuRfrpzc.jpg)
 
@@ -199,7 +199,7 @@ When a young woman starts making YouTube videos with a charismatic stranger, she
 <hr>
 
 
-## 5. [Nineteen on Fire](https://serp.ly/@serpmedia/github/amazon/Nineteen+on+Fire)
+## 5. [Nineteen on Fire](https://serp.ly/amazon/Nineteen+on+Fire)
 
 She's gonna get it back.
 
@@ -235,7 +235,7 @@ Beth wakes up after a night she can't remember to find her guitar missing. She'l
 <hr>
 
 
-## 6. [To The Moon](https://serp.ly/@serpmedia/github/amazon/To+The+Moon)
+## 6. [To The Moon](https://serp.ly/amazon/To+The+Moon)
 
 ![To The Moon](https://image.tmdb.org/t/p/original/sqXWyHSb0Uo78ITZWIxG5ThlWaa.jpg)
 
@@ -266,7 +266,7 @@ When 17-year-old Gia Rose receives an invitation to join an exclusive online com
 <hr>
 
 
-## 7. [Miles](https://serp.ly/@serpmedia/github/amazon/Miles)
+## 7. [Miles](https://serp.ly/amazon/Miles)
 
 ![Miles](https://image.tmdb.org/t/p/original/zNmVAJGr8GomLddvIra2BmtqIiw.jpg)
 
@@ -297,7 +297,7 @@ When 17-year-old Gia Rose receives an invitation to join an exclusive online com
 <hr>
 
 
-## 8. [Tűz Anya](https://serp.ly/@serpmedia/github/amazon/T%C5%B1z+Anya)
+## 8. [Tűz Anya](https://serp.ly/amazon/T%C5%B1z+Anya)
 
 ![Tűz Anya](https://image.tmdb.org/t/p/original/v8ipdIEFbODP9XOsDPinYTVyoIj.jpg)
 
@@ -328,7 +328,7 @@ In this enchanting short film adaptation of "FAIRY TALES" by Petra Collins & Ale
 <hr>
 
 
-## 1. [Euphoria](https://serp.ly/@serpmedia/github/amazon/Euphoria)
+## 1. [Euphoria](https://serp.ly/amazon/Euphoria)
 
 ![Euphoria](https://image.tmdb.org/t/p/original/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg)
 
@@ -374,7 +374,7 @@ Remember this feeling.
 <hr>
 
 
-## 2. [Ray Donovan](https://serp.ly/@serpmedia/github/amazon/Ray+Donovan)
+## 2. [Ray Donovan](https://serp.ly/amazon/Ray+Donovan)
 
 ![Ray Donovan](https://image.tmdb.org/t/p/original/zxftW7ZGVrOCqH2ifuruieCTb5X.jpg)
 
@@ -418,7 +418,7 @@ When the legendary fixer Ray Donovan is called upon to handle LA's most high-pro
 <hr>
 
 
-## 3. [A Little Late with Lilly Singh](https://serp.ly/@serpmedia/github/amazon/A+Little+Late+with+Lilly+Singh)
+## 3. [A Little Late with Lilly Singh](https://serp.ly/amazon/A+Little+Late+with+Lilly+Singh)
 
 ![A Little Late with Lilly Singh](https://image.tmdb.org/t/p/original/1o8OOaHP4JTKCSDDgsBrkRZVA1O.jpg)
 
@@ -462,7 +462,7 @@ When Lilly Singh trades her daytime persona as a successful comedian and author 
 <hr>
 
 
-## 4. [Fantasmas](https://serp.ly/@serpmedia/github/amazon/Fantasmas)
+## 4. [Fantasmas](https://serp.ly/amazon/Fantasmas)
 
 ![Fantasmas](https://image.tmdb.org/t/p/original/3aGkoKJLA0URkJHU7XDXB58C02G.jpg)
 
@@ -506,7 +506,7 @@ When Julio Torres loses a valuable gold oyster earring, his search for the missi
 <hr>
 
 
-## 5. [The OA](https://serp.ly/@serpmedia/github/amazon/The+OA)
+## 5. [The OA](https://serp.ly/amazon/The+OA)
 
 ![The OA](https://image.tmdb.org/t/p/original/rueY4slMeKtTGitm0raFUJvgaa5.jpg)
 
@@ -550,7 +550,7 @@ When Prairie Johnson returns to her hometown with her sight mysteriously restore
 <hr>
 
 
-## 6. [The Idol](https://serp.ly/@serpmedia/github/amazon/The+Idol)
+## 6. [The Idol](https://serp.ly/amazon/The+Idol)
 
 ![The Idol](https://image.tmdb.org/t/p/original/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg)
 
@@ -594,7 +594,7 @@ After a nervous breakdown derailed her last tour, Jocelyn returns to pop stardom
 <hr>
 
 
-## 7. [Love](https://serp.ly/@serpmedia/github/amazon/Love)
+## 7. [Love](https://serp.ly/amazon/Love)
 
 ![Love](https://image.tmdb.org/t/p/original/wvtW9YoMkovpMqyZCWUbQC6FJlg.jpg)
 

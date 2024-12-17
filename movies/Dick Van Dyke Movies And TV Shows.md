@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Night at the Museum](https://serp.ly/@serpmedia/github/amazon/Night+at+the+Museum)
+## 1. [Night at the Museum](https://serp.ly/amazon/Night+at+the+Museum)
 
 ![Night at the Museum](https://image.tmdb.org/t/p/original/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg)
 
@@ -80,7 +80,7 @@ When night watchman Larry Daley stumbles upon an ancient curse at the natural hi
 <hr>
 
 
-## 2. [Night at the Museum: Secret of the Tomb](https://serp.ly/@serpmedia/github/amazon/Night+at+the+Museum%3A+Secret+of+the+Tomb)
+## 2. [Night at the Museum: Secret of the Tomb](https://serp.ly/amazon/Night+at+the+Museum%3A+Secret+of+the+Tomb)
 
 ![Night at the Museum: Secret of the Tomb](https://image.tmdb.org/t/p/original/xwgy305K6qDs3D20xUO4OZu1HPY.jpg)
 
@@ -123,7 +123,7 @@ Larry Daley must race against time to save the magic of The Tablet of Ahkmenrah,
 <hr>
 
 
-## 3. [Mary Poppins](https://serp.ly/@serpmedia/github/amazon/Mary+Poppins)
+## 3. [Mary Poppins](https://serp.ly/amazon/Mary+Poppins)
 
 ![Mary Poppins](https://image.tmdb.org/t/p/original/ei8hhYCMfURfPOXKBnyl61be2iV.jpg)
 
@@ -166,7 +166,7 @@ In this heartwarming 1964 musical, Mr. Banks searches for the perfect nanny for 
 <hr>
 
 
-## 4. [Mary Poppins Returns](https://serp.ly/@serpmedia/github/amazon/Mary+Poppins+Returns)
+## 4. [Mary Poppins Returns](https://serp.ly/amazon/Mary+Poppins+Returns)
 
 ![Mary Poppins Returns](https://image.tmdb.org/t/p/original/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg)
 
@@ -206,7 +206,7 @@ Mary Poppins returns to the Banks family, helping them evade grave dangers throu
 <hr>
 
 
-## 5. [Alexander and the Terrible, Horrible, No Good, Very Bad Day](https://serp.ly/@serpmedia/github/amazon/Alexander+and+the+Terrible%2C+Horrible%2C+No+Good%2C+Very+Bad+Day)
+## 5. [Alexander and the Terrible, Horrible, No Good, Very Bad Day](https://serp.ly/amazon/Alexander+and+the+Terrible%2C+Horrible%2C+No+Good%2C+Very+Bad+Day)
 
 ![Alexander and the Terrible, Horrible, No Good, Very Bad Day](https://image.tmdb.org/t/p/original/pxbAepXQjsGFDHaR3dPndFSxDU0.jpg)
 
@@ -246,7 +246,7 @@ One day can change everything. Alexander's morning starts with gum stuck in his 
 <hr>
 
 
-## 6. [Dick Tracy](https://serp.ly/@serpmedia/github/amazon/Dick+Tracy)
+## 6. [Dick Tracy](https://serp.ly/amazon/Dick+Tracy)
 
 ![Dick Tracy](https://image.tmdb.org/t/p/original/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg)
 
@@ -289,7 +289,7 @@ Their turf. Their game. Their rules. They didn't count on HIS law...
 <hr>
 
 
-## 7. [Chitty Chitty Bang Bang](https://serp.ly/@serpmedia/github/amazon/Chitty+Chitty+Bang+Bang)
+## 7. [Chitty Chitty Bang Bang](https://serp.ly/amazon/Chitty+Chitty+Bang+Bang)
 
 ![Chitty Chitty Bang Bang](https://image.tmdb.org/t/p/original/qoihSE1zxxDSBWCi5oz910IToDY.jpg)
 
@@ -332,7 +332,7 @@ When a struggling inventor finally creates a successful flying car, it catches t
 <hr>
 
 
-## 8. [Curious George](https://serp.ly/@serpmedia/github/amazon/Curious+George)
+## 8. [Curious George](https://serp.ly/amazon/Curious+George)
 
 ![Curious George](https://image.tmdb.org/t/p/original/aGHC2lVMJtCwH6L40K5QnMeNIds.jpg)
 
@@ -372,7 +372,7 @@ When The Man in the Yellow Hat stumbles upon Curious George in the jungle, he di
 <hr>
 
 
-## 9. [Bye Bye Birdie](https://serp.ly/@serpmedia/github/amazon/Bye+Bye+Birdie)
+## 9. [Bye Bye Birdie](https://serp.ly/amazon/Bye+Bye+Birdie)
 
 ![Bye Bye Birdie](https://image.tmdb.org/t/p/original/u3m2kU5aFj6V6cNYOd9a22Iia7O.jpg)
 
@@ -412,7 +412,7 @@ When a young singer visits a small town for what should be aroutine performance,
 <hr>
 
 
-## 10. [What a Way to Go!](https://serp.ly/@serpmedia/github/amazon/What+a+Way+to+Go%21)
+## 10. [What a Way to Go!](https://serp.ly/amazon/What+a+Way+to+Go%21)
 
 ![What a Way to Go!](https://image.tmdb.org/t/p/original/6fuRkL3OhoeubEOULCMVJsUTaAU.jpg)
 
@@ -454,7 +454,7 @@ When it comes to Marriage Number 4, this widow has some serious stories to tell 
 <hr>
 
 
-## 11. [The Great Buster: A Celebration](https://serp.ly/@serpmedia/github/amazon/The+Great+Buster%3A+A+Celebration)
+## 11. [The Great Buster: A Celebration](https://serp.ly/amazon/The+Great+Buster%3A+A+Celebration)
 
 ![The Great Buster: A Celebration](https://image.tmdb.org/t/p/original/8MJDh9WsMYuJzVV7ASsf4HP20A4.jpg)
 
@@ -488,7 +488,7 @@ When it comes to Marriage Number 4, this widow has some serious stories to tell 
 <hr>
 
 
-## 12. [Gilbert](https://serp.ly/@serpmedia/github/amazon/Gilbert)
+## 12. [Gilbert](https://serp.ly/amazon/Gilbert)
 
 ![Gilbert](https://image.tmdb.org/t/p/original/bixUm35DzCtiapbS8UjGzWCbhij.jpg)
 
@@ -527,7 +527,7 @@ A Gilbert Gottfried story.
 <hr>
 
 
-## 13. [The Boys: The Sherman Brothers' Story](https://serp.ly/@serpmedia/github/amazon/The+Boys%3A+The+Sherman+Brothers%27+Story)
+## 13. [The Boys: The Sherman Brothers' Story](https://serp.ly/amazon/The+Boys%3A+The+Sherman+Brothers%27+Story)
 
 ![The Boys: The Sherman Brothers' Story](https://image.tmdb.org/t/p/original/oA5eXc6fefFxlKAxKEJWqACEu2V.jpg)
 
@@ -566,7 +566,7 @@ Robert B. Sherman and Richard M. Sherman were the creative forces behind Disney'
 <hr>
 
 
-## 14. [Fitzwilly](https://serp.ly/@serpmedia/github/amazon/Fitzwilly)
+## 14. [Fitzwilly](https://serp.ly/amazon/Fitzwilly)
 
 ![Fitzwilly](https://image.tmdb.org/t/p/original/xYdN2e6FJFqpOWX0AQydVTABFli.jpg)
 
@@ -602,7 +602,7 @@ When Miss Vicki's father passes away, leaving her as the world's greatest philan
 <hr>
 
 
-## 15. [Walt: The Man Behind the Myth](https://serp.ly/@serpmedia/github/amazon/Walt%3A+The+Man+Behind+the+Myth)
+## 15. [Walt: The Man Behind the Myth](https://serp.ly/amazon/Walt%3A+The+Man+Behind+the+Myth)
 
 ![Walt: The Man Behind the Myth](https://image.tmdb.org/t/p/original/yuxMH1XcDqbGvqsSS8SA0YrRLl.jpg)
 
@@ -633,7 +633,7 @@ From Mickey Mouse to the Magic Kingdom, Walt Disney turned his dreams into reali
 <hr>
 
 
-## 16. [Cold Turkey](https://serp.ly/@serpmedia/github/amazon/Cold+Turkey)
+## 16. [Cold Turkey](https://serp.ly/amazon/Cold+Turkey)
 
 ![Cold Turkey](https://image.tmdb.org/t/p/original/k1NBOkxBS3v6y7bdNAS2KcymPpl.jpg)
 
@@ -671,7 +671,7 @@ When Reverend Brooks launches a town-wide challenge to quit smoking for a month,
 <hr>
 
 
-## 17. [Lt. Robin Crusoe U.S.N.](https://serp.ly/@serpmedia/github/amazon/Lt.+Robin+Crusoe+U.S.N.)
+## 17. [Lt. Robin Crusoe U.S.N.](https://serp.ly/amazon/Lt.+Robin+Crusoe+U.S.N.)
 
 ![Lt. Robin Crusoe U.S.N.](https://image.tmdb.org/t/p/original/yXxf8Is4LG48e2SOloFq7U43SbK.jpg)
 
@@ -707,7 +707,7 @@ When navy pilot Lt. Robin Crusoe bails out of his troubled plane, he lands on a 
 <hr>
 
 
-## 18. [Divorce American Style](https://serp.ly/@serpmedia/github/amazon/Divorce+American+Style)
+## 18. [Divorce American Style](https://serp.ly/amazon/Divorce+American+Style)
 
 ![Divorce American Style](https://image.tmdb.org/t/p/original/5QLwwLUDkuBCYYGaLZZipalRW95.jpg)
 
@@ -743,7 +743,7 @@ If you thought divorce was ugly, try marriage!
 <hr>
 
 
-## 19. [Buttons](https://serp.ly/@serpmedia/github/amazon/Buttons)
+## 19. [Buttons](https://serp.ly/amazon/Buttons)
 
 ![Buttons](https://image.tmdb.org/t/p/original/wubas6UwHGYd5MMyc5LdWbROazp.jpg)
 
@@ -779,7 +779,7 @@ In a world where child labor and industrial tycoons reign, two orphan girls find
 <hr>
 
 
-## 20. [The Muppets Go Hollywood](https://serp.ly/@serpmedia/github/amazon/The+Muppets+Go+Hollywood)
+## 20. [The Muppets Go Hollywood](https://serp.ly/amazon/The+Muppets+Go+Hollywood)
 
 ![The Muppets Go Hollywood](https://image.tmdb.org/t/p/original/ytdirqn3SxUdnIePMfdKUfTONNl.jpg)
 
@@ -817,7 +817,7 @@ Join Kermit the Frog at the Cocoanut Grove nightclub for an unforgettable celebr
 <hr>
 
 
-## 21. [Wait for Your Laugh](https://serp.ly/@serpmedia/github/amazon/Wait+for+Your+Laugh)
+## 21. [Wait for Your Laugh](https://serp.ly/amazon/Wait+for+Your+Laugh)
 
 ![Wait for Your Laugh](https://image.tmdb.org/t/p/original/gHDgahq7h3kKwf2YKoCMjmg04r7.jpg)
 
@@ -856,7 +856,7 @@ The longest career in showbiz history
 <hr>
 
 
-## 22. [Never a Dull Moment](https://serp.ly/@serpmedia/github/amazon/Never+a+Dull+Moment)
+## 22. [Never a Dull Moment](https://serp.ly/amazon/Never+a+Dull+Moment)
 
 ![Never a Dull Moment](https://image.tmdb.org/t/p/original/yqiVnCMSHeMGUEpFlx7bOCMUAK7.jpg)
 
@@ -892,7 +892,7 @@ When actor Jack practices for a new role, he accidentally walks into a real-life
 <hr>
 
 
-## 23. [Diagnosis Murder: Diagnosis of Murder](https://serp.ly/@serpmedia/github/amazon/Diagnosis+Murder%3A+Diagnosis+of+Murder)
+## 23. [Diagnosis Murder: Diagnosis of Murder](https://serp.ly/amazon/Diagnosis+Murder%3A+Diagnosis+of+Murder)
 
 ![Diagnosis Murder: Diagnosis of Murder](https://image.tmdb.org/t/p/original/bZs6abapTxIkLKrkXg4rakO5oC7.jpg)
 
@@ -928,7 +928,7 @@ When his patient Nick Osborn is accused of murdering his boss, Dr. Mark Sloan re
 <hr>
 
 
-## 24. [Mary Poppins Returns: Behind the Magic](https://serp.ly/@serpmedia/github/amazon/Mary+Poppins+Returns%3A+Behind+the+Magic)
+## 24. [Mary Poppins Returns: Behind the Magic](https://serp.ly/amazon/Mary+Poppins+Returns%3A+Behind+the+Magic)
 
 ![Mary Poppins Returns: Behind the Magic](https://image.tmdb.org/t/p/original/1RJHseqPPz6BdooL2YxiFlj0oHj.jpg)
 
@@ -959,7 +959,7 @@ When his patient Nick Osborn is accused of murdering his boss, Dr. Mark Sloan re
 <hr>
 
 
-## 25. [The Art of Love](https://serp.ly/@serpmedia/github/amazon/The+Art+of+Love)
+## 25. [The Art of Love](https://serp.ly/amazon/The+Art+of+Love)
 
 ![The Art of Love](https://image.tmdb.org/t/p/original/oLAWoy6MGAKgJqgKTWNFyWGrwqX.jpg)
 
@@ -995,7 +995,7 @@ When an American artist struggling to make his mark in Paris fakes his own death
 <hr>
 
 
-## 26. [The Town Santa Forgot](https://serp.ly/@serpmedia/github/amazon/The+Town+Santa+Forgot)
+## 26. [The Town Santa Forgot](https://serp.ly/amazon/The+Town+Santa+Forgot)
 
 ![The Town Santa Forgot](https://image.tmdb.org/t/p/original/ydeFP9gByQDAinK46OUKOoqwBVa.jpg)
 
@@ -1029,7 +1029,7 @@ When a spoiled brat sends an exceptionally long list to Santa Claus, the festive
 <hr>
 
 
-## 27. [Murder 101](https://serp.ly/@serpmedia/github/amazon/Murder+101)
+## 27. [Murder 101](https://serp.ly/amazon/Murder+101)
 
 ![Murder 101](https://image.tmdb.org/t/p/original/jB19vrcqRehFBWVGx59JjvXyZ77.jpg)
 
@@ -1060,7 +1060,7 @@ When a local executive is murdered in an explosion at his mansion, suspicions fa
 <hr>
 
 
-## 28. [If You're Not In The Obit, Eat Breakfast](https://serp.ly/@serpmedia/github/amazon/If+You%27re+Not+In+The+Obit%2C+Eat+Breakfast)
+## 28. [If You're Not In The Obit, Eat Breakfast](https://serp.ly/amazon/If+You%27re+Not+In+The+Obit%2C+Eat+Breakfast)
 
 ![If You're Not In The Obit, Eat Breakfast](https://image.tmdb.org/t/p/original/7hLg7BuyExANDzaSHyOmqxBdqJE.jpg)
 
@@ -1096,7 +1096,7 @@ After 90 people don't retire. They inspire.
 <hr>
 
 
-## 29. [Murder 101: If Wishes Were Horses](https://serp.ly/@serpmedia/github/amazon/Murder+101%3A+If+Wishes+Were+Horses)
+## 29. [Murder 101: If Wishes Were Horses](https://serp.ly/amazon/Murder+101%3A+If+Wishes+Were+Horses)
 
 ![Murder 101: If Wishes Were Horses](https://image.tmdb.org/t/p/original/6qM1vlxAEMKSx10YIv1FuFhKnjL.jpg)
 
@@ -1124,7 +1124,7 @@ When a prized racehorse goes missing, Dr. Maxwell teams up with Detective Bryant
 <hr>
 
 
-## 30. [Murder 101: College Can be Murder](https://serp.ly/@serpmedia/github/amazon/Murder+101%3A+College+Can+be+Murder)
+## 30. [Murder 101: College Can be Murder](https://serp.ly/amazon/Murder+101%3A+College+Can+be+Murder)
 
 ![Murder 101: College Can be Murder](https://image.tmdb.org/t/p/original/vQavPDIAcq0BjMNvpqRwrbkURh4.jpg)
 
@@ -1157,7 +1157,7 @@ When criminology professor Dr. Jonathan Maxwell suspects that his colleague Prof
 <hr>
 
 
-## 31. [Roger Rabbit and the Secrets of Toon Town](https://serp.ly/@serpmedia/github/amazon/Roger+Rabbit+and+the+Secrets+of+Toon+Town)
+## 31. [Roger Rabbit and the Secrets of Toon Town](https://serp.ly/amazon/Roger+Rabbit+and+the+Secrets+of+Toon+Town)
 
 ![Roger Rabbit and the Secrets of Toon Town](https://image.tmdb.org/t/p/original/75IxgMIqzpwy9mQ2Ovydkemux0y.jpg)
 
@@ -1193,7 +1193,7 @@ Behind-the-scenes live action/animation magic... see how they did it!
 <hr>
 
 
-## 32. [The Comic](https://serp.ly/@serpmedia/github/amazon/The+Comic)
+## 32. [The Comic](https://serp.ly/amazon/The+Comic)
 
 ![The Comic](https://image.tmdb.org/t/p/original/vjYGI1Ezf51Pq089setvW3Nr8gY.jpg)
 
@@ -1229,7 +1229,7 @@ A funny new motion picture that tells Hollywood like it was!
 <hr>
 
 
-## 33. [The Runner Stumbles](https://serp.ly/@serpmedia/github/amazon/The+Runner+Stumbles)
+## 33. [The Runner Stumbles](https://serp.ly/amazon/The+Runner+Stumbles)
 
 ![The Runner Stumbles](https://image.tmdb.org/t/p/original/s3rDzhczRBIinkKNEsUALKDvant.jpg)
 
@@ -1263,7 +1263,7 @@ When a nun is found murdered, a local priest becomes the prime suspect. As the i
 <hr>
 
 
-## 34. [Disney 100: A Century of Dreams - A Special Edition of 20/20](https://serp.ly/@serpmedia/github/amazon/Disney+100%3A+A+Century+of+Dreams+-+A+Special+Edition+of+20%2F20)
+## 34. [Disney 100: A Century of Dreams - A Special Edition of 20/20](https://serp.ly/amazon/Disney+100%3A+A+Century+of+Dreams+-+A+Special+Edition+of+20%2F20)
 
 ![Disney 100: A Century of Dreams - A Special Edition of 20/20](https://image.tmdb.org/t/p/original/tPEJK7pxe05oKenyHQTXE5UbkCN.jpg)
 
@@ -1297,7 +1297,7 @@ When a nun is found murdered, a local priest becomes the prime suspect. As the i
 <hr>
 
 
-## 35. [Julie Andrews Forever](https://serp.ly/@serpmedia/github/amazon/Julie+Andrews+Forever)
+## 35. [Julie Andrews Forever](https://serp.ly/amazon/Julie+Andrews+Forever)
 
 ![Julie Andrews Forever](https://image.tmdb.org/t/p/original/bef70zaa1gOqEdl0fgRvmiOCFOo.jpg)
 
@@ -1333,7 +1333,7 @@ Academy Award winner Julie Andrews brings both magic and melody to the screen in
 <hr>
 
 
-## 36. [Murder 101: The Locked Room Mystery](https://serp.ly/@serpmedia/github/amazon/Murder+101%3A+The+Locked+Room+Mystery)
+## 36. [Murder 101: The Locked Room Mystery](https://serp.ly/amazon/Murder+101%3A+The+Locked+Room+Mystery)
 
 ![Murder 101: The Locked Room Mystery](https://image.tmdb.org/t/p/original/y3lArHF4fR43SrYVgOqcAdMcHPb.jpg)
 
@@ -1364,7 +1364,7 @@ When the leader of a new age retreat is found murdered in a locked room surround
 <hr>
 
 
-## 37. [Disneyland Around the Seasons](https://serp.ly/@serpmedia/github/amazon/Disneyland+Around+the+Seasons)
+## 37. [Disneyland Around the Seasons](https://serp.ly/amazon/Disneyland+Around+the+Seasons)
 
 ![Disneyland Around the Seasons](https://image.tmdb.org/t/p/original/3LE2lleMSmliz32BbQxflD9QeYn.jpg)
 
@@ -1395,7 +1395,7 @@ Join Walt Disney himself for a special tour of Disneyland featuring the park's n
 <hr>
 
 
-## 38. [Diagnosis Murder: Town Without Pity](https://serp.ly/@serpmedia/github/amazon/Diagnosis+Murder%3A+Town+Without+Pity)
+## 38. [Diagnosis Murder: Town Without Pity](https://serp.ly/amazon/Diagnosis+Murder%3A+Town+Without+Pity)
 
 ![Diagnosis Murder: Town Without Pity](https://image.tmdb.org/t/p/original/p52kCCCtqrFxLplIS96W8YUnEie.jpg)
 
@@ -1431,7 +1431,7 @@ When Carol makes an urgent call to her father, Dr. Mark Sloan, from the small mo
 <hr>
 
 
-## 39. [Batman: New Times](https://serp.ly/@serpmedia/github/amazon/Batman%3A+New+Times)
+## 39. [Batman: New Times](https://serp.ly/amazon/Batman%3A+New+Times)
 
 ![Batman: New Times](https://image.tmdb.org/t/p/original/mHwJLxyyO1ewVIi0f31Buvob3D0.jpg)
 
@@ -1465,7 +1465,7 @@ Join Batman and Robin on an animated adventure through time and space! Mini Mate
 <hr>
 
 
-## 40. [Supercalifragilisticexpialidocious: The Making of 'Mary Poppins'](https://serp.ly/@serpmedia/github/amazon/Supercalifragilisticexpialidocious%3A+The+Making+of+%27Mary+Poppins%27)
+## 40. [Supercalifragilisticexpialidocious: The Making of 'Mary Poppins'](https://serp.ly/amazon/Supercalifragilisticexpialidocious%3A+The+Making+of+%27Mary+Poppins%27)
 
 ![Supercalifragilisticexpialidocious: The Making of 'Mary Poppins'](https://image.tmdb.org/t/p/original/qh4dFFMvyWo51lSnS9w13RnbKir.jpg)
 
@@ -1501,7 +1501,7 @@ Join Walt Disney on an unprecedented journey behind the scenes of the beloved 19
 <hr>
 
 
-## 41. [Diagnosis Murder: A Twist of the Knife](https://serp.ly/@serpmedia/github/amazon/Diagnosis+Murder%3A+A+Twist+of+the+Knife)
+## 41. [Diagnosis Murder: A Twist of the Knife](https://serp.ly/amazon/Diagnosis+Murder%3A+A+Twist+of+the+Knife)
 
 <br>
 
@@ -1533,7 +1533,7 @@ When famous heart surgeon Dr. Rachel Walters performs a routine operation at a c
 <hr>
 
 
-## 42. [Some Kind of a Nut](https://serp.ly/@serpmedia/github/amazon/Some+Kind+of+a+Nut)
+## 42. [Some Kind of a Nut](https://serp.ly/amazon/Some+Kind+of+a+Nut)
 
 ![Some Kind of a Nut](https://image.tmdb.org/t/p/original/JntT7k6R3H5puUG5YFPf7wgmyD.jpg)
 
@@ -1569,7 +1569,7 @@ When a New York City bank teller becomes a media celebrity for refusing to shave
 <hr>
 
 
-## 43. [The Gin Game](https://serp.ly/@serpmedia/github/amazon/The+Gin+Game)
+## 43. [The Gin Game](https://serp.ly/amazon/The+Gin+Game)
 
 ![The Gin Game](https://image.tmdb.org/t/p/original/2Q2XB4hJAJP5kO4Qj79DYwpKPXr.jpg)
 
@@ -1603,7 +1603,7 @@ In this heartfelt comedy, Mary Tyler Moore and Dick Van Dyke star as nursing hom
 <hr>
 
 
-## 44. [Diagnosis Murder: The House on Sycamore Street](https://serp.ly/@serpmedia/github/amazon/Diagnosis+Murder%3A+The+House+on+Sycamore+Street)
+## 44. [Diagnosis Murder: The House on Sycamore Street](https://serp.ly/amazon/Diagnosis+Murder%3A+The+House+on+Sycamore+Street)
 
 <br>
 
@@ -1635,7 +1635,7 @@ When Dr. Mark Sloan receives news of his former student Dr. Drummond's apparent 
 <hr>
 
 
-## 45. [Trolland](https://serp.ly/@serpmedia/github/amazon/Trolland)
+## 45. [Trolland](https://serp.ly/amazon/Trolland)
 
 ![Trolland](https://image.tmdb.org/t/p/original/qZhCCTHeq9J8mlSScJMW0zDHx67.jpg)
 
@@ -1671,7 +1671,7 @@ In "Trolland", mischief unfolds beneath the surface of a peaceful campsite as a 
 <hr>
 
 
-## 46. [The Best of Disney: 50 Years of Magic](https://serp.ly/@serpmedia/github/amazon/The+Best+of+Disney%3A+50+Years+of+Magic)
+## 46. [The Best of Disney: 50 Years of Magic](https://serp.ly/amazon/The+Best+of+Disney%3A+50+Years+of+Magic)
 
 <br>
 
@@ -1703,7 +1703,7 @@ Disney Studios' 50th anniversary brings together celebrities in Burbank, Califor
 <hr>
 
 
-## 47. [Dick Van Dyke: 98 Years of Magic](https://serp.ly/@serpmedia/github/amazon/Dick+Van+Dyke%3A+98+Years+of+Magic)
+## 47. [Dick Van Dyke: 98 Years of Magic](https://serp.ly/amazon/Dick+Van+Dyke%3A+98+Years+of+Magic)
 
 ![Dick Van Dyke: 98 Years of Magic](https://image.tmdb.org/t/p/original/ys7MMH98GxDoQWPP8VKwnOsaJye.jpg)
 
@@ -1737,7 +1737,7 @@ Disney Studios' 50th anniversary brings together celebrities in Burbank, Califor
 <hr>
 
 
-## 48. [Ghost of a Chance](https://serp.ly/@serpmedia/github/amazon/Ghost+of+a+Chance)
+## 48. [Ghost of a Chance](https://serp.ly/amazon/Ghost+of+a+Chance)
 
 ![Ghost of a Chance](https://image.tmdb.org/t/p/original/kc1QBJfqCihUnCsqD2tU36ry8RS.jpg)
 
@@ -1771,7 +1771,7 @@ When a veteran policeman accidentally causes a musician's death, he sets off a c
 <hr>
 
 
-## 49. [Night of 100 Stars II](https://serp.ly/@serpmedia/github/amazon/Night+of+100+Stars+II)
+## 49. [Night of 100 Stars II](https://serp.ly/amazon/Night+of+100+Stars+II)
 
 ![Night of 100 Stars II](https://image.tmdb.org/t/p/original/mQtYzJUViK66XTKJki3CQf5sRKj.jpg)
 
@@ -1805,7 +1805,7 @@ The Actors Fund of America receives its second "Night of 100 Stars" benefit, fol
 <hr>
 
 
-## 50. [A Tribute to Laurel & Hardy](https://serp.ly/@serpmedia/github/amazon/A+Tribute+to+Laurel+%26+Hardy)
+## 50. [A Tribute to Laurel & Hardy](https://serp.ly/amazon/A+Tribute+to+Laurel+%26+Hardy)
 
 ![A Tribute to Laurel & Hardy](https://image.tmdb.org/t/p/original/8hMixnEuLX1gzKdJdJylcu3CP6B.jpg)
 
@@ -1841,7 +1841,7 @@ The Actors Fund of America receives its second "Night of 100 Stars" benefit, fol
 <hr>
 
 
-## 51. [Merry Xmas](https://serp.ly/@serpmedia/github/amazon/Merry+Xmas)
+## 51. [Merry Xmas](https://serp.ly/amazon/Merry+Xmas)
 
 ![Merry Xmas](https://image.tmdb.org/t/p/original/hZygd8ivbKo4yZPBuT63OFNQxcB.jpg)
 
@@ -1872,7 +1872,7 @@ When a playful father announces his divorce after 55 years of marriage, his shoc
 <hr>
 
 
-## 52. [The Morning After](https://serp.ly/@serpmedia/github/amazon/The+Morning+After)
+## 52. [The Morning After](https://serp.ly/amazon/The+Morning+After)
 
 ![The Morning After](https://image.tmdb.org/t/p/original/6AO32rXyJzbbv98q67CUU58oDr6.jpg)
 
@@ -1906,7 +1906,7 @@ When a high-powered PR executive refuses to acknowledge his alcoholism, it threa
 <hr>
 
 
-## 53. [Donald Duck's 50th Birthday](https://serp.ly/@serpmedia/github/amazon/Donald+Duck%27s+50th+Birthday)
+## 53. [Donald Duck's 50th Birthday](https://serp.ly/amazon/Donald+Duck%27s+50th+Birthday)
 
 ![Donald Duck's 50th Birthday](https://image.tmdb.org/t/p/original/iZGimjMQsOcGIwL10ZvONNx1zwg.jpg)
 
@@ -1940,7 +1940,7 @@ Join Donald Duck as he celebrates his 50th birthday with a special parade at Dis
 <hr>
 
 
-## 54. [Sheldon Leonard's Wonderful Life](https://serp.ly/@serpmedia/github/amazon/Sheldon+Leonard%27s+Wonderful+Life)
+## 54. [Sheldon Leonard's Wonderful Life](https://serp.ly/amazon/Sheldon+Leonard%27s+Wonderful+Life)
 
 ![Sheldon Leonard's Wonderful Life](https://image.tmdb.org/t/p/original/xwIw41bEYKSnFRP3XD3fcEjxnTY.jpg)
 
@@ -1975,7 +1975,7 @@ Join us in celebrating the legacy of Sheldon Leonard, the unsung hero of televis
 <hr>
 
 
-## 55. [The Dick Van Dyke Show Revisited](https://serp.ly/@serpmedia/github/amazon/The+Dick+Van+Dyke+Show+Revisited)
+## 55. [The Dick Van Dyke Show Revisited](https://serp.ly/amazon/The+Dick+Van+Dyke+Show+Revisited)
 
 ![The Dick Van Dyke Show Revisited](https://image.tmdb.org/t/p/original/2ewAHvdTWm3iTLhTjhnwit99Hqx.jpg)
 
@@ -2009,7 +2009,7 @@ When Alan Brady offers Rob and Sally an unusually large sum to write his eulogy,
 <hr>
 
 
-## 56. [The World of Amateur Radio](https://serp.ly/@serpmedia/github/amazon/The+World+of+Amateur+Radio)
+## 56. [The World of Amateur Radio](https://serp.ly/amazon/The+World+of+Amateur+Radio)
 
 ![The World of Amateur Radio](https://image.tmdb.org/t/p/original/pnkZbpjDrWEnERzndXSSyrw15LF.jpg)
 
@@ -2042,7 +2042,7 @@ The World of Amateur Radio
 <hr>
 
 
-## 57. [Dick Van Dyke and the Other Woman](https://serp.ly/@serpmedia/github/amazon/Dick+Van+Dyke+and+the+Other+Woman)
+## 57. [Dick Van Dyke and the Other Woman](https://serp.ly/amazon/Dick+Van+Dyke+and+the+Other+Woman)
 
 ![Dick Van Dyke and the Other Woman](https://image.tmdb.org/t/p/original/76oiq7P3UNIGIrjDtw6w6aJ55el.jpg)
 
@@ -2075,7 +2075,7 @@ When Mary Tyler Moore steps back into Dick Van Dyke's world, their reunion spark
 <hr>
 
 
-## 58. [Drop-Out Father](https://serp.ly/@serpmedia/github/amazon/Drop-Out+Father)
+## 58. [Drop-Out Father](https://serp.ly/amazon/Drop-Out+Father)
 
 ![Drop-Out Father](https://image.tmdb.org/t/p/original/2F5Os8z9cJIGiaS8U75AanpdAQJ.jpg)
 
@@ -2111,7 +2111,7 @@ When a successful advertising executive decides to shake up his family's routine
 <hr>
 
 
-## 59. [Night of 100 Stars III](https://serp.ly/@serpmedia/github/amazon/Night+of+100+Stars+III)
+## 59. [Night of 100 Stars III](https://serp.ly/amazon/Night+of+100+Stars+III)
 
 ![Night of 100 Stars III](https://image.tmdb.org/t/p/original/886JJFF8s2z3x5txGkaVRnmeMU9.jpg)
 
@@ -2145,7 +2145,7 @@ Join an unforgettable evening of entertainment at The Actors' Fund of America's 
 <hr>
 
 
-## 60. [Strong Medicine](https://serp.ly/@serpmedia/github/amazon/Strong+Medicine)
+## 60. [Strong Medicine](https://serp.ly/amazon/Strong+Medicine)
 
 ![Strong Medicine](https://image.tmdb.org/t/p/original/l7jVlgCRehyRGO3uuu7buXJfyuf.jpg)
 
@@ -2181,7 +2181,7 @@ When a young woman joins a prestigious pharmaceutical company developing a groun
 <hr>
 
 
-## 61. [Julie and Dick at Covent Garden](https://serp.ly/@serpmedia/github/amazon/Julie+and+Dick+at+Covent+Garden)
+## 61. [Julie and Dick at Covent Garden](https://serp.ly/amazon/Julie+and+Dick+at+Covent+Garden)
 
 ![Julie and Dick at Covent Garden](https://image.tmdb.org/t/p/original/zHwpiEH6xqK4HRNAl45oDgQ7irl.jpg)
 
@@ -2217,7 +2217,7 @@ When Julie Andrews and Dick Van Dyke bring their comic timing and musical flair 
 <hr>
 
 
-## 62. [Holiday Greetings from 'The Ed Sullivan Show'](https://serp.ly/@serpmedia/github/amazon/Holiday+Greetings+from+%27The+Ed+Sullivan+Show%27)
+## 62. [Holiday Greetings from 'The Ed Sullivan Show'](https://serp.ly/amazon/Holiday+Greetings+from+%27The+Ed+Sullivan+Show%27)
 
 <br>
 
@@ -2249,7 +2249,7 @@ When Julie Andrews and Dick Van Dyke bring their comic timing and musical flair 
 <hr>
 
 
-## 63. [CBS Salutes Lucy: The First 25 Years](https://serp.ly/@serpmedia/github/amazon/CBS+Salutes+Lucy%3A+The+First+25+Years)
+## 63. [CBS Salutes Lucy: The First 25 Years](https://serp.ly/amazon/CBS+Salutes+Lucy%3A+The+First+25+Years)
 
 ![CBS Salutes Lucy: The First 25 Years](https://image.tmdb.org/t/p/original/9oZmc4w4lc4EMIYzPFyQhURcGUE.jpg)
 
@@ -2283,7 +2283,7 @@ When Julie Andrews and Dick Van Dyke bring their comic timing and musical flair 
 <hr>
 
 
-## 64. [Diagnosis Murder: Without Warning](https://serp.ly/@serpmedia/github/amazon/Diagnosis+Murder%3A+Without+Warning)
+## 64. [Diagnosis Murder: Without Warning](https://serp.ly/amazon/Diagnosis+Murder%3A+Without+Warning)
 
 ![Diagnosis Murder: Without Warning](https://image.tmdb.org/t/p/original/qpKrtx6o3Dw81xfuNfD26KxHgR7.jpg)
 
@@ -2317,7 +2317,7 @@ When a mysterious death leads Detective Steve Johnson to a remote farm, he uncov
 <hr>
 
 
-## 65. [Hollywood's Funniest All-Star Bloopers](https://serp.ly/@serpmedia/github/amazon/Hollywood%27s+Funniest+All-Star+Bloopers)
+## 65. [Hollywood's Funniest All-Star Bloopers](https://serp.ly/amazon/Hollywood%27s+Funniest+All-Star+Bloopers)
 
 ![Hollywood's Funniest All-Star Bloopers](https://image.tmdb.org/t/p/original/yOIrUPMXPDuOalIYyVsdp1ycV5s.jpg)
 
@@ -2347,7 +2347,7 @@ Family Fun With 100 Film & TV Icons
 <hr>
 
 
-## 66. [TV's Funniest Comedians - 14 Stars Do Classic Routines](https://serp.ly/@serpmedia/github/amazon/TV%27s+Funniest+Comedians+-+14+Stars+Do+Classic+Routines)
+## 66. [TV's Funniest Comedians - 14 Stars Do Classic Routines](https://serp.ly/amazon/TV%27s+Funniest+Comedians+-+14+Stars+Do+Classic+Routines)
 
 ![TV's Funniest Comedians - 14 Stars Do Classic Routines](https://image.tmdb.org/t/p/original/cQnELfYsehh466Uob2fuXftkoXB.jpg)
 
@@ -2375,7 +2375,7 @@ This 1986 compilation gathers stand-up performances from television's early year
 <hr>
 
 
-## 67. [Danny Kaye Christmas Show](https://serp.ly/@serpmedia/github/amazon/Danny+Kaye+Christmas+Show)
+## 67. [Danny Kaye Christmas Show](https://serp.ly/amazon/Danny+Kaye+Christmas+Show)
 
 <br>
 
@@ -2401,7 +2401,7 @@ This 1986 compilation gathers stand-up performances from television's early year
 <hr>
 
 
-## 68. [The Caretaker 3D](https://serp.ly/@serpmedia/github/amazon/The+Caretaker+3D)
+## 68. [The Caretaker 3D](https://serp.ly/amazon/The+Caretaker+3D)
 
 <br>
 
@@ -2427,7 +2427,7 @@ In the late 1930s, a dedicated caretaker maintained the HOLLYWOODLAND sign's 400
 <hr>
 
 
-## 69. [Wrong Way Kid](https://serp.ly/@serpmedia/github/amazon/Wrong+Way+Kid)
+## 69. [Wrong Way Kid](https://serp.ly/amazon/Wrong+Way+Kid)
 
 <br>
 
@@ -2453,7 +2453,7 @@ When a bookworm who's 203 years old crawls into Chris's life, it kicks off one w
 <hr>
 
 
-## 70. [Broadway: Beyond the Golden Age](https://serp.ly/@serpmedia/github/amazon/Broadway%3A+Beyond+the+Golden+Age)
+## 70. [Broadway: Beyond the Golden Age](https://serp.ly/amazon/Broadway%3A+Beyond+the+Golden+Age)
 
 ![Broadway: Beyond the Golden Age](https://image.tmdb.org/t/p/original/2zhIhomqfZty0ggjxSs1oHxBw1F.jpg)
 
@@ -2486,7 +2486,7 @@ When a bookworm who's 203 years old crawls into Chris's life, it kicks off one w
 <hr>
 
 
-## 71. [Omnibus - Cuckoo: A Celebration of Mr. Laurel and Mr. Hardy](https://serp.ly/@serpmedia/github/amazon/Omnibus+-+Cuckoo%3A+A+Celebration+of+Mr.+Laurel+and+Mr.+Hardy)
+## 71. [Omnibus - Cuckoo: A Celebration of Mr. Laurel and Mr. Hardy](https://serp.ly/amazon/Omnibus+-+Cuckoo%3A+A+Celebration+of+Mr.+Laurel+and+Mr.+Hardy)
 
 <br>
 
@@ -2512,7 +2512,7 @@ When a bookworm who's 203 years old crawls into Chris's life, it kicks off one w
 <hr>
 
 
-## 72. [Chita Rivera: A Lot Of Livin' To Do](https://serp.ly/@serpmedia/github/amazon/Chita+Rivera%3A+A+Lot+Of+Livin%27+To+Do)
+## 72. [Chita Rivera: A Lot Of Livin' To Do](https://serp.ly/amazon/Chita+Rivera%3A+A+Lot+Of+Livin%27+To+Do)
 
 ![Chita Rivera: A Lot Of Livin' To Do](https://image.tmdb.org/t/p/original/5JbN05twXUGDljM0EA8LLc6hT6b.jpg)
 
@@ -2540,7 +2540,7 @@ Join Chita Rivera as she looks back on a lifetime in entertainment, from her ear
 <hr>
 
 
-## 73. [Stanley Kramer: A Man's Search for Truth](https://serp.ly/@serpmedia/github/amazon/Stanley+Kramer%3A+A+Man%27s+Search+for+Truth)
+## 73. [Stanley Kramer: A Man's Search for Truth](https://serp.ly/amazon/Stanley+Kramer%3A+A+Man%27s+Search+for+Truth)
 
 <br>
 
@@ -2569,7 +2569,7 @@ Join Chita Rivera as she looks back on a lifetime in entertainment, from her ear
 <hr>
 
 
-## 74. [Jack Paar: Smart Television](https://serp.ly/@serpmedia/github/amazon/Jack+Paar%3A+Smart+Television)
+## 74. [Jack Paar: Smart Television](https://serp.ly/amazon/Jack+Paar%3A+Smart+Television)
 
 ![Jack Paar: Smart Television](https://image.tmdb.org/t/p/original/xsp6Eqv63UcaR7gSvWqF2PeeUp8.jpg)
 
@@ -2602,7 +2602,7 @@ PBS documentary examining the work of Jack Paar.
 <hr>
 
 
-## 75. [Salute to Stan Laurel](https://serp.ly/@serpmedia/github/amazon/Salute+to+Stan+Laurel)
+## 75. [Salute to Stan Laurel](https://serp.ly/amazon/Salute+to+Stan+Laurel)
 
 <br>
 
@@ -2633,7 +2633,7 @@ PBS documentary examining the work of Jack Paar.
 <hr>
 
 
-## 76. [Musical Comedy Tonight III](https://serp.ly/@serpmedia/github/amazon/Musical+Comedy+Tonight+III)
+## 76. [Musical Comedy Tonight III](https://serp.ly/amazon/Musical+Comedy+Tonight+III)
 
 ![Musical Comedy Tonight III](https://image.tmdb.org/t/p/original/twFQuQ7n81DZE20qjM8SXHTiy5B.jpg)
 
@@ -2664,7 +2664,7 @@ Sylvia Fine hosts this 1985 musical comedy showcase featuring some of America's 
 <hr>
 
 
-## 77. [How to Survive the '70s and Maybe Even Bump Into Happiness](https://serp.ly/@serpmedia/github/amazon/How+to+Survive+the+%2770s+and+Maybe+Even+Bump+Into+Happiness)
+## 77. [How to Survive the '70s and Maybe Even Bump Into Happiness](https://serp.ly/amazon/How+to+Survive+the+%2770s+and+Maybe+Even+Bump+Into+Happiness)
 
 ![How to Survive the '70s and Maybe Even Bump Into Happiness](https://image.tmdb.org/t/p/original/p7Qw30tfZuCnRgM1cASUBdjG0tB.jpg)
 
@@ -2695,7 +2695,7 @@ Join Mary Tyler Moore, Harvey Korman, and John Ritter in this 1978 special that 
 <hr>
 
 
-## 78. [Classic TV Bloopers Uncensored](https://serp.ly/@serpmedia/github/amazon/Classic+TV+Bloopers+Uncensored)
+## 78. [Classic TV Bloopers Uncensored](https://serp.ly/amazon/Classic+TV+Bloopers+Uncensored)
 
 ![Classic TV Bloopers Uncensored](https://image.tmdb.org/t/p/original/9GQX1d2nDUx3x1GmErCHlDZwgKF.jpg)
 
@@ -2723,7 +2723,7 @@ Join Mary Tyler Moore, Harvey Korman, and John Ritter in this 1978 special that 
 <hr>
 
 
-## 79. [Walt Disney: One Man's Dream](https://serp.ly/@serpmedia/github/amazon/Walt+Disney%3A+One+Man%27s+Dream)
+## 79. [Walt Disney: One Man's Dream](https://serp.ly/amazon/Walt+Disney%3A+One+Man%27s+Dream)
 
 ![Walt Disney: One Man's Dream](https://image.tmdb.org/t/p/original/mG32Xuge03zo4HoVM5q9bb9pacx.jpg)
 
@@ -2751,7 +2751,7 @@ Join Mary Tyler Moore, Harvey Korman, and John Ritter in this 1978 special that 
 <hr>
 
 
-## 80. [The Country Girl](https://serp.ly/@serpmedia/github/amazon/The+Country+Girl)
+## 80. [The Country Girl](https://serp.ly/amazon/The+Country+Girl)
 
 ![The Country Girl](https://image.tmdb.org/t/p/original/fAbDAWIenw8SGqWn3rQC99XPDAG.jpg)
 
@@ -2784,7 +2784,7 @@ When director Bernie Dodd picks an alcoholic has-been actor for his latest proje
 <hr>
 
 
-## 81. [The Fabulous Fifties](https://serp.ly/@serpmedia/github/amazon/The+Fabulous+Fifties)
+## 81. [The Fabulous Fifties](https://serp.ly/amazon/The+Fabulous+Fifties)
 
 ![The Fabulous Fifties](https://image.tmdb.org/t/p/original/ydx8U72xEzkpLaWmBCgxrswnyo8.jpg)
 
@@ -2817,7 +2817,7 @@ Travel back to a golden age of television with "The Fabulous Fifties, " aCBS spe
 <hr>
 
 
-## 82. [Daughters of Privilege](https://serp.ly/@serpmedia/github/amazon/Daughters+of+Privilege)
+## 82. [Daughters of Privilege](https://serp.ly/amazon/Daughters+of+Privilege)
 
 ![Daughters of Privilege](https://image.tmdb.org/t/p/original/nAHtacUN1PmgluuTbYFrCx5F917.jpg)
 
@@ -2848,7 +2848,7 @@ When the daughter of a Florida newspaper owner becomes involved with her father'
 <hr>
 
 
-## 83. [The 90s Club](https://serp.ly/@serpmedia/github/amazon/The+90s+Club)
+## 83. [The 90s Club](https://serp.ly/amazon/The+90s+Club)
 
 <br>
 
@@ -2877,7 +2877,7 @@ When the daughter of a Florida newspaper owner becomes involved with her father'
 <hr>
 
 
-## 84. [Life Is Boring](https://serp.ly/@serpmedia/github/amazon/Life+Is+Boring)
+## 84. [Life Is Boring](https://serp.ly/amazon/Life+Is+Boring)
 
 <br>
 
@@ -2906,7 +2906,7 @@ In this 2016 independent film, a struggling poet navigates the gray area between
 <hr>
 
 
-## 85. [Golden Anniversary of Snow White and the Seven Dwarfs](https://serp.ly/@serpmedia/github/amazon/Golden+Anniversary+of+Snow+White+and+the+Seven+Dwarfs)
+## 85. [Golden Anniversary of Snow White and the Seven Dwarfs](https://serp.ly/amazon/Golden+Anniversary+of+Snow+White+and+the+Seven+Dwarfs)
 
 ![Golden Anniversary of Snow White and the Seven Dwarfs](https://image.tmdb.org/t/p/original/lcYR7ylXpMxKZKqZI9Geq1xV4XA.jpg)
 
@@ -2937,7 +2937,7 @@ When the Wicked Queen casts a spell over the seven dwarfs, making them feel too 
 <hr>
 
 
-## 86. [Tubby the Tuba](https://serp.ly/@serpmedia/github/amazon/Tubby+the+Tuba)
+## 86. [Tubby the Tuba](https://serp.ly/amazon/Tubby+the+Tuba)
 
 ![Tubby the Tuba](https://image.tmdb.org/t/p/original/3c2JMxUw8GcQZzblyVSyEGtTO6j.jpg)
 
@@ -2968,7 +2968,7 @@ When Tubby the Tuba decides to find a melody all his own, his journey leads him 
 <hr>
 
 
-## 87. [Found Money](https://serp.ly/@serpmedia/github/amazon/Found+Money)
+## 87. [Found Money](https://serp.ly/amazon/Found+Money)
 
 ![Found Money](https://image.tmdb.org/t/p/original/b3b3Ezu8T6YksFe4SpqYVdtJ4qm.jpg)
 
@@ -2999,7 +2999,7 @@ When two bank employees - an executive and a guard - lose their jobs, they team 
 <hr>
 
 
-## 88. [Dick Van Dyke In Rare Form](https://serp.ly/@serpmedia/github/amazon/Dick+Van+Dyke+In+Rare+Form)
+## 88. [Dick Van Dyke In Rare Form](https://serp.ly/amazon/Dick+Van+Dyke+In+Rare+Form)
 
 ![Dick Van Dyke In Rare Form](https://image.tmdb.org/t/p/original/9K33eiBHkIr8I8Kh5v2kDVCCvf1.jpg)
 
@@ -3030,7 +3030,7 @@ This charming collection captures Dick Van Dyke's early television career throug
 <hr>
 
 
-## 1. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 1. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -3072,7 +3072,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 2. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 2. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -3118,7 +3118,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 3. [The Mike Douglas Show](https://serp.ly/@serpmedia/github/amazon/The+Mike+Douglas+Show)
+## 3. [The Mike Douglas Show](https://serp.ly/amazon/The+Mike+Douglas+Show)
 
 ![The Mike Douglas Show](https://image.tmdb.org/t/p/original/qNk97cbF3dZyhkfIcJhjFDD64sM.jpg)
 
@@ -3162,7 +3162,7 @@ Revisit a golden age of television with "The Mike Douglas Show, " the beloved pr
 <hr>
 
 
-## 4. [Jake and the Fatman](https://serp.ly/@serpmedia/github/amazon/Jake+and+the+Fatman)
+## 4. [Jake and the Fatman](https://serp.ly/amazon/Jake+and+the+Fatman)
 
 ![Jake and the Fatman](https://image.tmdb.org/t/p/original/3WBkepiTwgemGDZadyJTV5SmS4l.jpg)
 
@@ -3204,7 +3204,7 @@ When it comes to solving tough cases, prosecutor J. L. "Fatman" McCabe and inves
 <hr>
 
 
-## 5. [The Golden Girls](https://serp.ly/@serpmedia/github/amazon/The+Golden+Girls)
+## 5. [The Golden Girls](https://serp.ly/amazon/The+Golden+Girls)
 
 ![The Golden Girls](https://image.tmdb.org/t/p/original/lJKAjneNGquVBmUqHY6ZFOFImfD.jpg)
 
@@ -3248,7 +3248,7 @@ When four distinct personalities come together in Southern Florida, their quirks
 <hr>
 
 
-## 6. [The Dick Cavett Show](https://serp.ly/@serpmedia/github/amazon/The+Dick+Cavett+Show)
+## 6. [The Dick Cavett Show](https://serp.ly/amazon/The+Dick+Cavett+Show)
 
 ![The Dick Cavett Show](https://image.tmdb.org/t/p/original/uDkndfnwbEGeSY4YmZbTRg4U5RQ.jpg)
 
@@ -3290,7 +3290,7 @@ Revisit a golden age of television with "The Dick Cavett Show, " the beloved tal
 <hr>
 
 
-## 7. [Days of Our Lives](https://serp.ly/@serpmedia/github/amazon/Days+of+Our+Lives)
+## 7. [Days of Our Lives](https://serp.ly/amazon/Days+of+Our+Lives)
 
 ![Days of Our Lives](https://image.tmdb.org/t/p/original/ieyvdmqnlzWeVU7IF3rjqVVJax9.jpg)
 
@@ -3334,7 +3334,7 @@ When evil geniuses and star-crossed lovers collide in the midwestern town of Sal
 <hr>
 
 
-## 8. [Columbo](https://serp.ly/@serpmedia/github/amazon/Columbo)
+## 8. [Columbo](https://serp.ly/amazon/Columbo)
 
 ![Columbo](https://image.tmdb.org/t/p/original/2JCD8vab3fircOU8cM2HJCxfv4I.jpg)
 
@@ -3378,7 +3378,7 @@ When a bumbling detective named Columbo stumbles into a murder case, his quirky 
 <hr>
 
 
-## 9. [Sabrina, the Teenage Witch](https://serp.ly/@serpmedia/github/amazon/Sabrina%2C+the+Teenage+Witch)
+## 9. [Sabrina, the Teenage Witch](https://serp.ly/amazon/Sabrina%2C+the+Teenage+Witch)
 
 ![Sabrina, the Teenage Witch](https://image.tmdb.org/t/p/original/yGuzsFLr9s4kr9H7NbgrFiaIfUc.jpg)
 
@@ -3420,7 +3420,7 @@ Sabrina Spellman's ordinary life changes forever on her sixteenth birthday when 
 <hr>
 
 
-## 10. [Airwolf](https://serp.ly/@serpmedia/github/amazon/Airwolf)
+## 10. [Airwolf](https://serp.ly/amazon/Airwolf)
 
 ![Airwolf](https://image.tmdb.org/t/p/original/4PAN7zPqmR9b73een97WkxqCTQN.jpg)
 
@@ -3466,7 +3466,7 @@ When a pilot agrees to help an intelligence agency search for his missing brothe
 <hr>
 
 
-## 11. [Scrubs](https://serp.ly/@serpmedia/github/amazon/Scrubs)
+## 11. [Scrubs](https://serp.ly/amazon/Scrubs)
 
 ![Scrubs](https://image.tmdb.org/t/p/original/u1z05trCA7AuSuDhi365grwdos1.jpg)
 
@@ -3508,7 +3508,7 @@ When John "J. D. " Dorian steps into Sacred Heart Hospital, he kicks off one wil
 <hr>
 
 
-## 12. [The Masked Singer](https://serp.ly/@serpmedia/github/amazon/The+Masked+Singer)
+## 12. [The Masked Singer](https://serp.ly/amazon/The+Masked+Singer)
 
 ![The Masked Singer](https://image.tmdb.org/t/p/original/g2y2duCEYzCsfG4vbnTKKhUST5w.jpg)
 
@@ -3554,7 +3554,7 @@ You'll never guess who...
 <hr>
 
 
-## 13. [What's My Line?](https://serp.ly/@serpmedia/github/amazon/What%27s+My+Line%3F)
+## 13. [What's My Line?](https://serp.ly/amazon/What%27s+My+Line%3F)
 
 ![What's My Line?](https://image.tmdb.org/t/p/original/A9T7xSQFnlxFgZkqC4lmHYPXhq4.jpg)
 
@@ -3596,7 +3596,7 @@ Revisit a golden age of television with "What's My Line? ", the beloved quiz sho
 <hr>
 
 
-## 14. [Tonight Starring Jack Paar](https://serp.ly/@serpmedia/github/amazon/Tonight+Starring+Jack+Paar)
+## 14. [Tonight Starring Jack Paar](https://serp.ly/amazon/Tonight+Starring+Jack+Paar)
 
 <br>
 
@@ -3636,7 +3636,7 @@ Revisit a golden age of television with "Tonight Starring Jack Paar, " the belov
 <hr>
 
 
-## 15. [Matlock](https://serp.ly/@serpmedia/github/amazon/Matlock)
+## 15. [Matlock](https://serp.ly/amazon/Matlock)
 
 ![Matlock](https://image.tmdb.org/t/p/original/2eGYyekQjcAXVmcYW1g4keR4plV.jpg)
 
@@ -3678,7 +3678,7 @@ When criminal defense attorney Ben Matlock takes a case, he doesn't just defend 
 <hr>
 
 
-## 16. [The Tonight Show with Jay Leno](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+with+Jay+Leno)
+## 16. [The Tonight Show with Jay Leno](https://serp.ly/amazon/The+Tonight+Show+with+Jay+Leno)
 
 ![The Tonight Show with Jay Leno](https://image.tmdb.org/t/p/original/xAFMZ3wFIEXTISryRZD94AAvWng.jpg)
 
@@ -3720,7 +3720,7 @@ Revisit a golden age of television with "The Tonight Show with Jay Leno, " the b
 <hr>
 
 
-## 17. [Diagnosis: Murder](https://serp.ly/@serpmedia/github/amazon/Diagnosis%3A+Murder)
+## 17. [Diagnosis: Murder](https://serp.ly/amazon/Diagnosis%3A+Murder)
 
 ![Diagnosis: Murder](https://image.tmdb.org/t/p/original/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg)
 
@@ -3762,7 +3762,7 @@ When a respected physician is asked to solve murders, his unique perspective lea
 <hr>
 
 
-## 18. [The Middle](https://serp.ly/@serpmedia/github/amazon/The+Middle)
+## 18. [The Middle](https://serp.ly/amazon/The+Middle)
 
 ![The Middle](https://image.tmdb.org/t/p/original/QdCyzFDoa6sUs6zqjvIdTHZ8Go.jpg)
 
@@ -3806,7 +3806,7 @@ The Middle unfolds in Orson, Indiana, where a married woman navigates the semi-d
 <hr>
 
 
-## 19. [Becker](https://serp.ly/@serpmedia/github/amazon/Becker)
+## 19. [Becker](https://serp.ly/amazon/Becker)
 
 ![Becker](https://image.tmdb.org/t/p/original/w8qCJKotfqh5M2oMsbFNt5xuWP7.jpg)
 
@@ -3848,7 +3848,7 @@ Dr. John Becker is a talented physician with a gruff exterior who runs a medical
 <hr>
 
 
-## 20. [Tony Awards](https://serp.ly/@serpmedia/github/amazon/Tony+Awards)
+## 20. [Tony Awards](https://serp.ly/amazon/Tony+Awards)
 
 ![Tony Awards](https://image.tmdb.org/t/p/original/6pxoHfywO6bFDOQa9bmWZ1hyKBt.jpg)
 
@@ -3894,7 +3894,7 @@ The Tony Awards, presented annually by the American Theatre Wing and The Broadwa
 <hr>
 
 
-## 21. [Wogan](https://serp.ly/@serpmedia/github/amazon/Wogan)
+## 21. [Wogan](https://serp.ly/amazon/Wogan)
 
 ![Wogan](https://image.tmdb.org/t/p/original/7NNaUmZWzJsqMvDNu2WB0HsVmvu.jpg)
 
@@ -3936,7 +3936,7 @@ Wogan is a British television chat show that aired from 1982 to 1992. Hosted by 
 <hr>
 
 
-## 22. [The Dick Van Dyke Show](https://serp.ly/@serpmedia/github/amazon/The+Dick+Van+Dyke+Show)
+## 22. [The Dick Van Dyke Show](https://serp.ly/amazon/The+Dick+Van+Dyke+Show)
 
 ![The Dick Van Dyke Show](https://image.tmdb.org/t/p/original/3eiFZrarzOd08323sHX7RbR7vdn.jpg)
 
@@ -3978,7 +3978,7 @@ When television comedy writer Rob Petrie isn't laughsing at home with his family
 <hr>
 
 
-## 23. [The Ed Sullivan Show](https://serp.ly/@serpmedia/github/amazon/The+Ed+Sullivan+Show)
+## 23. [The Ed Sullivan Show](https://serp.ly/amazon/The+Ed+Sullivan+Show)
 
 ![The Ed Sullivan Show](https://image.tmdb.org/t/p/original/gUEfDXUxwhgXBX7LSk57vJKXCTp.jpg)
 
@@ -4020,7 +4020,7 @@ Revisit a golden age of television with "The Ed Sullivan Show, " the beloved var
 <hr>
 
 
-## 24. [Great Performances](https://serp.ly/@serpmedia/github/amazon/Great+Performances)
+## 24. [Great Performances](https://serp.ly/amazon/Great+Performances)
 
 ![Great Performances](https://image.tmdb.org/t/p/original/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg)
 
@@ -4064,7 +4064,7 @@ Revisit a golden age of television with "The Ed Sullivan Show, " the beloved var
 <hr>
 
 
-## 25. [The Carol Burnett Show](https://serp.ly/@serpmedia/github/amazon/The+Carol+Burnett+Show)
+## 25. [The Carol Burnett Show](https://serp.ly/amazon/The+Carol+Burnett+Show)
 
 ![The Carol Burnett Show](https://image.tmdb.org/t/p/original/dGd9pG4PGzpJbdbPEnFxKrJ24z8.jpg)
 
@@ -4106,7 +4106,7 @@ Revisit a golden age of television with "The Ed Sullivan Show, " the beloved var
 <hr>
 
 
-## 26. [Alfred Hitchcock Presents](https://serp.ly/@serpmedia/github/amazon/Alfred+Hitchcock+Presents)
+## 26. [Alfred Hitchcock Presents](https://serp.ly/amazon/Alfred+Hitchcock+Presents)
 
 ![Alfred Hitchcock Presents](https://image.tmdb.org/t/p/original/ko0h8oz2bC1NWnhcuMnvNVDpfJj.jpg)
 
@@ -4148,7 +4148,7 @@ Revisit a golden age of television with "The Ed Sullivan Show, " the beloved var
 <hr>
 
 
-## 27. [The New Scooby-Doo Movies](https://serp.ly/@serpmedia/github/amazon/The+New+Scooby-Doo+Movies)
+## 27. [The New Scooby-Doo Movies](https://serp.ly/amazon/The+New+Scooby-Doo+Movies)
 
 ![The New Scooby-Doo Movies](https://image.tmdb.org/t/p/original/slBx9Vkh0ET9m2lgrD8KxJDL5T9.jpg)
 
@@ -4190,7 +4190,7 @@ Join Scooby-Doo and the Mystery Inc. gang as they solve mysteries that go beyond
 <hr>
 
 
-## 28. [Carol Burnett and Friends](https://serp.ly/@serpmedia/github/amazon/Carol+Burnett+and+Friends)
+## 28. [Carol Burnett and Friends](https://serp.ly/amazon/Carol+Burnett+and+Friends)
 
 <br>
 
@@ -4230,7 +4230,7 @@ When The Carol Burnett Show needed a shorter version for syndicated broadcast, t
 <hr>
 
 
-## 29. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 29. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -4274,7 +4274,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 30. [The Danny Kaye Show](https://serp.ly/@serpmedia/github/amazon/The+Danny+Kaye+Show)
+## 30. [The Danny Kaye Show](https://serp.ly/amazon/The+Danny+Kaye+Show)
 
 ![The Danny Kaye Show](https://image.tmdb.org/t/p/original/fbr2fONp9YZY46vsiHJWtDoTohm.jpg)
 
@@ -4318,7 +4318,7 @@ Revisit a golden age of television with "The Danny Kaye Show, " the beloved vari
 <hr>
 
 
-## 31. [The Bill Cosby Show](https://serp.ly/@serpmedia/github/amazon/The+Bill+Cosby+Show)
+## 31. [The Bill Cosby Show](https://serp.ly/amazon/The+Bill+Cosby+Show)
 
 ![The Bill Cosby Show](https://image.tmdb.org/t/p/original/5KsVVhrdb2wiCP45m1ObIDZ34KE.jpg)
 
@@ -4360,7 +4360,7 @@ When Bill Cosby transitions from his iconic role in I Spy to his own eponymous s
 <hr>
 
 
-## 32. [Kidding](https://serp.ly/@serpmedia/github/amazon/Kidding)
+## 32. [Kidding](https://serp.ly/amazon/Kidding)
 
 ![Kidding](https://image.tmdb.org/t/p/original/oYqvxrvN5PVd4Kvp46LnXVl42nW.jpg)
 
@@ -4404,7 +4404,7 @@ When Jeff Pickles, a beloved children's TV host, faces a personal crisis that th
 <hr>
 
 
-## 33. [The Secret Squirrel Show](https://serp.ly/@serpmedia/github/amazon/The+Secret+Squirrel+Show)
+## 33. [The Secret Squirrel Show](https://serp.ly/amazon/The+Secret+Squirrel+Show)
 
 ![The Secret Squirrel Show](https://image.tmdb.org/t/p/original/A9yvtVflorbf0MmzkzWkQ0nmg3U.jpg)
 
@@ -4446,7 +4446,7 @@ Join Secret Squirrel, Squiddly Diddly, and Winsome Witch in this charming 1960s 
 <hr>
 
 
-## 34. [Supertrain](https://serp.ly/@serpmedia/github/amazon/Supertrain)
+## 34. [Supertrain](https://serp.ly/amazon/Supertrain)
 
 ![Supertrain](https://image.tmdb.org/t/p/original/fw2huuNPXgF7t859geVe8dhLwNJ.jpg)
 
@@ -4488,7 +4488,7 @@ When a unique train pulls into town, it brings with it a series of adventures th
 <hr>
 
 
-## 35. [Battle of the Network Stars](https://serp.ly/@serpmedia/github/amazon/Battle+of+the+Network+Stars)
+## 35. [Battle of the Network Stars](https://serp.ly/amazon/Battle+of+the+Network+Stars)
 
 ![Battle of the Network Stars](https://image.tmdb.org/t/p/original/4KTe1voKfQOzLDKUsiejRjUUWO1.jpg)
 
@@ -4530,7 +4530,7 @@ When television stars from ABC, CBS, and NBC square off in a series of competiti
 <hr>
 
 
-## 36. [Naomi's New Morning](https://serp.ly/@serpmedia/github/amazon/Naomi%27s+New+Morning)
+## 36. [Naomi's New Morning](https://serp.ly/amazon/Naomi%27s+New+Morning)
 
 <br>
 
@@ -4570,7 +4570,7 @@ When Naomi Sinclair starts a new job at a trendy coffee shop, her morning routin
 <hr>
 
 
-## 37. [Inside Comedy](https://serp.ly/@serpmedia/github/amazon/Inside+Comedy)
+## 37. [Inside Comedy](https://serp.ly/amazon/Inside+Comedy)
 
 ![Inside Comedy](https://image.tmdb.org/t/p/original/8tHx9hWRUWX7GZCSlVAtUFmUCXR.jpg)
 
@@ -4612,7 +4612,7 @@ When Naomi Sinclair starts a new job at a trendy coffee shop, her morning routin
 <hr>
 
 
-## 38. [The New Dick Van Dyke Show](https://serp.ly/@serpmedia/github/amazon/The+New+Dick+Van+Dyke+Show)
+## 38. [The New Dick Van Dyke Show](https://serp.ly/amazon/The+New+Dick+Van+Dyke+Show)
 
 ![The New Dick Van Dyke Show](https://image.tmdb.org/t/p/original/enC1neRtm1mGHnQtMIAvwhCnKO0.jpg)
 
@@ -4654,7 +4654,7 @@ The New Dick Van Dyke Show" invites you to relive a golden age of television, fe
 <hr>
 
 
-## 39. [Van Dyke and Company](https://serp.ly/@serpmedia/github/amazon/Van+Dyke+and+Company)
+## 39. [Van Dyke and Company](https://serp.ly/amazon/Van+Dyke+and+Company)
 
 ![Van Dyke and Company](https://image.tmdb.org/t/p/original/9jMRHqK8wAaXqY99mL5b9H7Vz59.jpg)
 
@@ -4696,7 +4696,7 @@ Van Dyke and Company brings together Dick Van Dyke's legendary pantomime skills 
 <hr>
 
 
-## 40. [The Emmy Awards](https://serp.ly/@serpmedia/github/amazon/The+Emmy+Awards)
+## 40. [The Emmy Awards](https://serp.ly/amazon/The+Emmy+Awards)
 
 ![The Emmy Awards](https://image.tmdb.org/t/p/original/guW6wHjF0eVOfsS7NEfq2ZWSLDm.jpg)
 
@@ -4742,7 +4742,7 @@ The Emmy Awards, founded in 1949, honor the television industry's finest work ac
 <hr>
 
 
-## 41. [The Princes of Malibu](https://serp.ly/@serpmedia/github/amazon/The+Princes+of+Malibu)
+## 41. [The Princes of Malibu](https://serp.ly/amazon/The+Princes+of+Malibu)
 
 ![The Princes of Malibu](https://image.tmdb.org/t/p/original/avCUzTPJjGCWSbCKudio3TFfdKH.jpg)
 
@@ -4784,7 +4784,7 @@ When reality TV met the shores of Malibu, it kicked off one wild summer of 2005 
 <hr>
 
 
-## 42. [Tai Cheng](https://serp.ly/@serpmedia/github/amazon/Tai+Cheng)
+## 42. [Tai Cheng](https://serp.ly/amazon/Tai+Cheng)
 
 ![Tai Cheng](https://image.tmdb.org/t/p/original/kRSHASApWIktI10jslQprY99kkc.jpg)
 
@@ -4823,7 +4823,7 @@ When reality TV met the shores of Malibu, it kicked off one wild summer of 2005 
 <hr>
 
 
-## 43. [New Comedy Showcase](https://serp.ly/@serpmedia/github/amazon/New+Comedy+Showcase)
+## 43. [New Comedy Showcase](https://serp.ly/amazon/New+Comedy+Showcase)
 
 ![New Comedy Showcase](https://image.tmdb.org/t/p/original/mtoHDwQNp0jUQt51ZrlpSp1NbvV.jpg)
 
@@ -4862,7 +4862,7 @@ When reality TV met the shores of Malibu, it kicked off one wild summer of 2005 
 <hr>
 
 
-## 44. [The Van Dyke Show](https://serp.ly/@serpmedia/github/amazon/The+Van+Dyke+Show)
+## 44. [The Van Dyke Show](https://serp.ly/amazon/The+Van+Dyke+Show)
 
 ![The Van Dyke Show](https://image.tmdb.org/t/p/original/7nx95v6f0Hnx3RgDZW9jmbQpzYd.jpg)
 
@@ -4904,7 +4904,7 @@ When Dick Van Dyke brought his son Barry into the world of television, it kicked
 <hr>
 
 
-## 45. [Strong Medicine](https://serp.ly/@serpmedia/github/amazon/Strong+Medicine)
+## 45. [Strong Medicine](https://serp.ly/amazon/Strong+Medicine)
 
 ![Strong Medicine](https://image.tmdb.org/t/p/original/hrJCC0QAdXL4Huvsa12HGG537up.jpg)
 

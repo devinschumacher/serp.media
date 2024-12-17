@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Mrs. Harris Goes to Paris](https://serp.ly/@serpmedia/github/amazon/Mrs.+Harris+Goes+to+Paris)
+## 1. [Mrs. Harris Goes to Paris](https://serp.ly/amazon/Mrs.+Harris+Goes+to+Paris)
 
 ![Mrs. Harris Goes to Paris](https://image.tmdb.org/t/p/original/2SV7RYEqiPr3LpTaI33eUtYn09c.jpg)
 
@@ -78,7 +78,7 @@ In 1950s London, a cleaning lady falls in love with a stunning Christian Dior dr
 <hr>
 
 
-## 2. [Fatima](https://serp.ly/@serpmedia/github/amazon/Fatima)
+## 2. [Fatima](https://serp.ly/amazon/Fatima)
 
 ![Fatima](https://image.tmdb.org/t/p/original/lfA46pZbk4kxIaQvHyBPq0KH84Q.jpg)
 
@@ -117,7 +117,7 @@ In 1917 Portugal, as World War I rages on, a 10-year-old girl named Fatima and h
 <hr>
 
 
-## 3. [Amelia’s Children](https://serp.ly/@serpmedia/github/amazon/Amelia%E2%80%99s+Children)
+## 3. [Amelia’s Children](https://serp.ly/amazon/Amelia%E2%80%99s+Children)
 
 ![Amelia’s Children](https://image.tmdb.org/t/p/original/t4YAD0RElLZS1SO1iSULH6M8bXV.jpg)
 
@@ -153,7 +153,7 @@ When Edward travels to a majestic villa in Northern Portugal to meet his biologi
 <hr>
 
 
-## 4. [Change](https://serp.ly/@serpmedia/github/amazon/Change)
+## 4. [Change](https://serp.ly/amazon/Change)
 
 ![Change](https://image.tmdb.org/t/p/original/dx9Of33B0hIsO93UGmcw11inmbA.jpg)
 
@@ -184,7 +184,7 @@ In a world where winter turns to spring and summer fades into fall, one fact rem
 <hr>
 
 
-## 5. [Adelaide](https://serp.ly/@serpmedia/github/amazon/Adelaide)
+## 5. [Adelaide](https://serp.ly/amazon/Adelaide)
 
 ![Adelaide](https://image.tmdb.org/t/p/original/Ab8XwQ7cYh4gXHwKBjtOcMsiter.jpg)
 
@@ -218,7 +218,7 @@ When three sisters return home to Portugal for a family gathering, their lives a
 <hr>
 
 
-## 6. [Patrick](https://serp.ly/@serpmedia/github/amazon/Patrick)
+## 6. [Patrick](https://serp.ly/amazon/Patrick)
 
 ![Patrick](https://image.tmdb.org/t/p/original/qlFOULobBuuw4ZGVdI0XYXrVOQ2.jpg)
 
@@ -252,7 +252,7 @@ When a 20-year-old Parisian party boy runs a website that gets him arrested, he'
 <hr>
 
 
-## 7. [Flite](https://serp.ly/@serpmedia/github/amazon/Flite)
+## 7. [Flite](https://serp.ly/amazon/Flite)
 
 ![Flite](https://image.tmdb.org/t/p/original/k7hksNRt75lb1LflnKM8i2FKYRF.jpg)
 
@@ -288,7 +288,7 @@ In the semi-submerged London of 2053, the reigning hoverboard world champion fin
 <hr>
 
 
-## 8. [The Child](https://serp.ly/@serpmedia/github/amazon/The+Child)
+## 8. [The Child](https://serp.ly/amazon/The+Child)
 
 ![The Child](https://image.tmdb.org/t/p/original/9TUp8wJc3uDPQArYEA0u0TZI9Ty.jpg)
 
@@ -322,7 +322,7 @@ In 16th century Lisbon, a young man named Bela struggles to find his place in a 
 <hr>
 
 
-## 9. [Miami](https://serp.ly/@serpmedia/github/amazon/Miami)
+## 9. [Miami](https://serp.ly/amazon/Miami)
 
 ![Miami](https://image.tmdb.org/t/p/original/u54FsKXOJFTEXX9ag1XiDkFnAjp.jpg)
 
@@ -356,7 +356,7 @@ Miami is a thrilling story about a teenager who becomes dangerously obsessed wit
 <hr>
 
 
-## 10. [Tudo o Que Imagino](https://serp.ly/@serpmedia/github/amazon/Tudo+o+Que+Imagino)
+## 10. [Tudo o Que Imagino](https://serp.ly/amazon/Tudo+o+Que+Imagino)
 
 ![Tudo o Que Imagino](https://image.tmdb.org/t/p/original/eUvXvD7y2V2fr5nnjBM3go7IJnD.jpg)
 
@@ -392,7 +392,7 @@ Miami is a thrilling story about a teenager who becomes dangerously obsessed wit
 <hr>
 
 
-## 11. [Blood Lines](https://serp.ly/@serpmedia/github/amazon/Blood+Lines)
+## 11. [Blood Lines](https://serp.ly/amazon/Blood+Lines)
 
 ![Blood Lines](https://image.tmdb.org/t/p/original/5mTCWnHWVAhr6mCkiO3pAD2jzEF.jpg)
 
@@ -426,7 +426,7 @@ In "Blood Lines", a fascist plot threatens to overthrow the Portuguese governmen
 <hr>
 
 
-## 12. [Nothing Ever Happened](https://serp.ly/@serpmedia/github/amazon/Nothing+Ever+Happened)
+## 12. [Nothing Ever Happened](https://serp.ly/amazon/Nothing+Ever+Happened)
 
 ![Nothing Ever Happened](https://image.tmdb.org/t/p/original/nb3JFKiL5T38T3qxl9p7xXUUiAn.jpg)
 
@@ -460,7 +460,7 @@ When the elderly farmer António leaves his rural life to join his son Jorge in 
 <hr>
 
 
-## 13. [Floating](https://serp.ly/@serpmedia/github/amazon/Floating)
+## 13. [Floating](https://serp.ly/amazon/Floating)
 
 ![Floating](https://image.tmdb.org/t/p/original/cweYrK30AExirAMewzTcZnV51D1.jpg)
 
@@ -494,7 +494,7 @@ When the elderly farmer António leaves his rural life to join his son Jorge in 
 <hr>
 
 
-## 14. [Mother Mary](https://serp.ly/@serpmedia/github/amazon/Mother+Mary)
+## 14. [Mother Mary](https://serp.ly/amazon/Mother+Mary)
 
 ![Mother Mary](https://image.tmdb.org/t/p/original/oAByZ68RwF105YLW3M3Ex16DpTn.jpg)
 
@@ -517,7 +517,7 @@ Mother Mary intertwines a fictional musician's career with that of a renowned fa
 <hr>
 
 
-## 15. [Cidade](https://serp.ly/@serpmedia/github/amazon/Cidade)
+## 15. [Cidade](https://serp.ly/amazon/Cidade)
 
 <br>
 
@@ -543,7 +543,7 @@ Mother Mary intertwines a fictional musician's career with that of a renowned fa
 <hr>
 
 
-## 16. [O Outro Lado de Patrick](https://serp.ly/@serpmedia/github/amazon/O+Outro+Lado+de+Patrick)
+## 16. [O Outro Lado de Patrick](https://serp.ly/amazon/O+Outro+Lado+de+Patrick)
 
 ![O Outro Lado de Patrick](https://image.tmdb.org/t/p/original/j7CsibOHxlxa0E9mYA0kWdS8G3I.jpg)
 
@@ -571,7 +571,7 @@ Mother Mary intertwines a fictional musician's career with that of a renowned fa
 <hr>
 
 
-## 17. [Borderline](https://serp.ly/@serpmedia/github/amazon/Borderline)
+## 17. [Borderline](https://serp.ly/amazon/Borderline)
 
 ![Borderline](https://image.tmdb.org/t/p/original/5GBNqMh63j4ckk8VIjGHRQvXvWn.jpg)
 
@@ -596,7 +596,7 @@ When a dangerously romantic sociopath escapes from a mental institution, their u
 <hr>
 
 
-## 18. [Field of Blood](https://serp.ly/@serpmedia/github/amazon/Field+of+Blood)
+## 18. [Field of Blood](https://serp.ly/amazon/Field+of+Blood)
 
 ![Field of Blood](https://image.tmdb.org/t/p/original/90A6LhBsOXW9YyYI2N9OgBiBXBZ.jpg)
 
@@ -627,7 +627,7 @@ In "Field of Blood", a novelist's darkest creation comes to life, forcing the au
 <hr>
 
 
-## 19. [Forbidden Images](https://serp.ly/@serpmedia/github/amazon/Forbidden+Images)
+## 19. [Forbidden Images](https://serp.ly/amazon/Forbidden+Images)
 
 ![Forbidden Images](https://image.tmdb.org/t/p/original/kVgTwEOnvY7d6FRIT4fePyWzXUb.jpg)
 
@@ -658,7 +658,7 @@ When a respected art curator falls unexpectedly in love with a bold young artist
 <hr>
 
 
-## 20. [Dulcineia](https://serp.ly/@serpmedia/github/amazon/Dulcineia)
+## 20. [Dulcineia](https://serp.ly/amazon/Dulcineia)
 
 ![Dulcineia](https://image.tmdb.org/t/p/original/ajZlQdyNw8DC351JoK0R8G6o7g4.jpg)
 
@@ -691,7 +691,7 @@ Hugo returns to Porto for a gap year, hoping to reconnect with his family and fi
 <hr>
 
 
-## 21. [Magnetick Pathways](https://serp.ly/@serpmedia/github/amazon/Magnetick+Pathways)
+## 21. [Magnetick Pathways](https://serp.ly/amazon/Magnetick+Pathways)
 
 ![Magnetick Pathways](https://image.tmdb.org/t/p/original/9nkqpBjInhxtkN5Ub4VqdNDYmKM.jpg)
 
@@ -722,7 +722,7 @@ In a country teetering on the brink of collapse, Raymond's personal humiliation 
 <hr>
 
 
-## 22. [Equinox](https://serp.ly/@serpmedia/github/amazon/Equinox)
+## 22. [Equinox](https://serp.ly/amazon/Equinox)
 
 ![Equinox](https://image.tmdb.org/t/p/original/hK2uui9Cd9nqvrvrE5CHH9JuHvl.jpg)
 
@@ -756,7 +756,7 @@ In a country teetering on the brink of collapse, Raymond's personal humiliation 
 <hr>
 
 
-## 1. [Warrior Nun](https://serp.ly/@serpmedia/github/amazon/Warrior+Nun)
+## 1. [Warrior Nun](https://serp.ly/amazon/Warrior+Nun)
 
 ![Warrior Nun](https://image.tmdb.org/t/p/original/fLP0mA7FiERZhDP1NJUaHpm6XM8.jpg)
 
@@ -800,7 +800,7 @@ When a teenage orphan wakes up in a morgue, she discovers she's been chosen as t
 <hr>
 
 
-## 2. [Filha da Lei](https://serp.ly/@serpmedia/github/amazon/Filha+da+Lei)
+## 2. [Filha da Lei](https://serp.ly/amazon/Filha+da+Lei)
 
 ![Filha da Lei](https://image.tmdb.org/t/p/original/AeS5dsbE2HUsZ9ONP7zllqA4mj5.jpg)
 
@@ -842,7 +842,7 @@ When Portugal's most experienced criminal investigator, Isabel Garcia, is assign
 <hr>
 
 
-## 3. [A Criação](https://serp.ly/@serpmedia/github/amazon/A+Cria%C3%A7%C3%A3o)
+## 3. [A Criação](https://serp.ly/amazon/A+Cria%C3%A7%C3%A3o)
 
 ![A Criação](https://image.tmdb.org/t/p/original/bGHWSdIHvcXduNUiOk5nGRSEjAF.jpg)
 
@@ -884,7 +884,7 @@ When Portugal's most experienced criminal investigator, Isabel Garcia, is assign
 <hr>
 
 
-## 4. [Madre Paula](https://serp.ly/@serpmedia/github/amazon/Madre+Paula)
+## 4. [Madre Paula](https://serp.ly/amazon/Madre+Paula)
 
 ![Madre Paula](https://image.tmdb.org/t/p/original/pWCIjBxesGLcnU2V9iNqD6Uj2MD.jpg)
 
@@ -926,7 +926,7 @@ In 18th century Portugal, an unlikely romance unfolds between Paula, a nun from 
 <hr>
 
 
-## 5. [Jogo Duplo](https://serp.ly/@serpmedia/github/amazon/Jogo+Duplo)
+## 5. [Jogo Duplo](https://serp.ly/amazon/Jogo+Duplo)
 
 ![Jogo Duplo](https://image.tmdb.org/t/p/original/zHcr0MmzNnGF7RcufNhiBm6RZKE.jpg)
 

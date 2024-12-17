@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [To All the Boys I've Loved Before](https://serp.ly/@serpmedia/github/amazon/To+All+the+Boys+I%27ve+Loved+Before)
+## 1. [To All the Boys I've Loved Before](https://serp.ly/amazon/To+All+the+Boys+I%27ve+Loved+Before)
 
 ![To All the Boys I've Loved Before](https://image.tmdb.org/t/p/original/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg)
 
@@ -73,7 +73,7 @@ Lara Jean's private letters to every boy she's ever loved are mysteriously maile
 <hr>
 
 
-## 2. [To All the Boys: P.S. I Still Love You](https://serp.ly/@serpmedia/github/amazon/To+All+the+Boys%3A+P.S.+I+Still+Love+You)
+## 2. [To All the Boys: P.S. I Still Love You](https://serp.ly/amazon/To+All+the+Boys%3A+P.S.+I+Still+Love+You)
 
 ![To All the Boys: P.S. I Still Love You](https://image.tmdb.org/t/p/original/maib5VlmEqp5xlN8lptnBSftp2o.jpg)
 
@@ -112,7 +112,7 @@ Lara Jean and Peter have just taken their romance from pretend to officially rea
 <hr>
 
 
-## 3. [Tombstone](https://serp.ly/@serpmedia/github/amazon/Tombstone)
+## 3. [Tombstone](https://serp.ly/amazon/Tombstone)
 
 ![Tombstone](https://image.tmdb.org/t/p/original/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg)
 
@@ -152,7 +152,7 @@ In the rugged mining town of Tombstone, former marshal Wyatt Earp teams up with 
 <hr>
 
 
-## 4. [To All the Boys: Always and Forever](https://serp.ly/@serpmedia/github/amazon/To+All+the+Boys%3A+Always+and+Forever)
+## 4. [To All the Boys: Always and Forever](https://serp.ly/amazon/To+All+the+Boys%3A+Always+and+Forever)
 
 ![To All the Boys: Always and Forever](https://image.tmdb.org/t/p/original/iepqdM52f4w75fNcvgRF5QoIAjm.jpg)
 
@@ -188,7 +188,7 @@ Lara Jean is back from her family trip to Korea, and senior year of high school 
 <hr>
 
 
-## 5. [My Big Fat Greek Wedding](https://serp.ly/@serpmedia/github/amazon/My+Big+Fat+Greek+Wedding)
+## 5. [My Big Fat Greek Wedding](https://serp.ly/amazon/My+Big+Fat+Greek+Wedding)
 
 ![My Big Fat Greek Wedding](https://image.tmdb.org/t/p/original/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg)
 
@@ -231,7 +231,7 @@ When a young Greek woman falls in love with a non-Greek man, she faces the ultim
 <hr>
 
 
-## 6. [Serendipity](https://serp.ly/@serpmedia/github/amazon/Serendipity)
+## 6. [Serendipity](https://serp.ly/amazon/Serendipity)
 
 ![Serendipity](https://image.tmdb.org/t/p/original/srCE5lEIjVEG5eqWg9JcjZCK1aQ.jpg)
 
@@ -271,7 +271,7 @@ Sometimes true love can have more than one face. Sara and Jonathan discover this
 <hr>
 
 
-## 7. [The Boy Next Door](https://serp.ly/@serpmedia/github/amazon/The+Boy+Next+Door)
+## 7. [The Boy Next Door](https://serp.ly/amazon/The+Boy+Next+Door)
 
 ![The Boy Next Door](https://image.tmdb.org/t/p/original/tM0hpWw3GONam6TKcMMciecHjhT.jpg)
 
@@ -311,7 +311,7 @@ When a recently cheated-on married woman meets a younger man who's just moved in
 <hr>
 
 
-## 8. [Sex and the City 2](https://serp.ly/@serpmedia/github/amazon/Sex+and+the+City+2)
+## 8. [Sex and the City 2](https://serp.ly/amazon/Sex+and+the+City+2)
 
 ![Sex and the City 2](https://image.tmdb.org/t/p/original/iHSRxhZsPaVuLCivvV6WEkMVGWU.jpg)
 
@@ -351,7 +351,7 @@ Carrie on.
 <hr>
 
 
-## 9. [Street Kings](https://serp.ly/@serpmedia/github/amazon/Street+Kings)
+## 9. [Street Kings](https://serp.ly/amazon/Street+Kings)
 
 ![Street Kings](https://image.tmdb.org/t/p/original/csXyZ1BsDBlH0PXkOFWxggEf9WF.jpg)
 
@@ -394,7 +394,7 @@ When evidence links him to the murder of a fellow officer, Tom Ludlow - a troubl
 <hr>
 
 
-## 10. [The Silence](https://serp.ly/@serpmedia/github/amazon/The+Silence)
+## 10. [The Silence](https://serp.ly/amazon/The+Silence)
 
 ![The Silence](https://image.tmdb.org/t/p/original/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg)
 
@@ -434,7 +434,7 @@ In a world where deadly creatures hunt by sound, a teen and her family flee the 
 <hr>
 
 
-## 11. [Volcano](https://serp.ly/@serpmedia/github/amazon/Volcano)
+## 11. [Volcano](https://serp.ly/amazon/Volcano)
 
 ![Volcano](https://image.tmdb.org/t/p/original/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg)
 
@@ -477,7 +477,7 @@ When an earthquake cracks open the earth's surface in Los Angeles, it kicks off 
 <hr>
 
 
-## 12. [47 Meters Down: Uncaged](https://serp.ly/@serpmedia/github/amazon/47+Meters+Down%3A+Uncaged)
+## 12. [47 Meters Down: Uncaged](https://serp.ly/amazon/47+Meters+Down%3A+Uncaged)
 
 ![47 Meters Down: Uncaged](https://image.tmdb.org/t/p/original/g4z7mDmJmx23vsVg6XNWcnXb6gc.jpg)
 
@@ -520,7 +520,7 @@ Four teenage girls embark on an exhilarating diving expedition to explore a subm
 <hr>
 
 
-## 13. [My Big Fat Greek Wedding 2](https://serp.ly/@serpmedia/github/amazon/My+Big+Fat+Greek+Wedding+2)
+## 13. [My Big Fat Greek Wedding 2](https://serp.ly/amazon/My+Big+Fat+Greek+Wedding+2)
 
 ![My Big Fat Greek Wedding 2](https://image.tmdb.org/t/p/original/lfPqApnLVPsYfdbpSHNnHIxTdmd.jpg)
 
@@ -560,7 +560,7 @@ Revisit the lovable Portokalos family in "My Big Fat Greek Wedding 2," a 2016 co
 <hr>
 
 
-## 14. [Raise Your Voice](https://serp.ly/@serpmedia/github/amazon/Raise+Your+Voice)
+## 14. [Raise Your Voice](https://serp.ly/amazon/Raise+Your+Voice)
 
 ![Raise Your Voice](https://image.tmdb.org/t/p/original/3waZREH25DZ8XqZSndCxZ7IiVzR.jpg)
 
@@ -600,7 +600,7 @@ When a small-town singer loses her brother in a tragic car accident, she discove
 <hr>
 
 
-## 15. [Ramona and Beezus](https://serp.ly/@serpmedia/github/amazon/Ramona+and+Beezus)
+## 15. [Ramona and Beezus](https://serp.ly/amazon/Ramona+and+Beezus)
 
 ![Ramona and Beezus](https://image.tmdb.org/t/p/original/r9HUYkHyBgGIgqn9FZKBW4zGsYd.jpg)
 
@@ -640,7 +640,7 @@ A little sister goes a long way.
 <hr>
 
 
-## 16. [The Messengers](https://serp.ly/@serpmedia/github/amazon/The+Messengers)
+## 16. [The Messengers](https://serp.ly/amazon/The+Messengers)
 
 ![The Messengers](https://image.tmdb.org/t/p/original/ituR560dbnV4WAFPY0jJlEenGiW.jpg)
 
@@ -683,7 +683,7 @@ When the Solomons move from the city to a North Dakota farm, their lives change 
 <hr>
 
 
-## 17. [Raising Helen](https://serp.ly/@serpmedia/github/amazon/Raising+Helen)
+## 17. [Raising Helen](https://serp.ly/amazon/Raising+Helen)
 
 ![Raising Helen](https://image.tmdb.org/t/p/original/ubZin4oGXYp6hCn3WU6nrBre62y.jpg)
 
@@ -726,7 +726,7 @@ Helen Harris has a glamorous life working for one of New York's hottest modeling
 <hr>
 
 
-## 18. [The Burning Plain](https://serp.ly/@serpmedia/github/amazon/The+Burning+Plain)
+## 18. [The Burning Plain](https://serp.ly/amazon/The+Burning+Plain)
 
 ![The Burning Plain](https://image.tmdb.org/t/p/original/lZlChM3LmOLUCQCfnbaf2dQKe9J.jpg)
 
@@ -769,7 +769,7 @@ In the heart of a desolate plain, a tragic tale unfolds as two families confront
 <hr>
 
 
-## 19. [I Hate Valentine's Day](https://serp.ly/@serpmedia/github/amazon/I+Hate+Valentine%27s+Day)
+## 19. [I Hate Valentine's Day](https://serp.ly/amazon/I+Hate+Valentine%27s+Day)
 
 ![I Hate Valentine's Day](https://image.tmdb.org/t/p/original/j0iHgzfThoAlrgoiuix7BS1ezao.jpg)
 
@@ -810,7 +810,7 @@ In this Manhattan-based love story, a florist who strictly limits herself to fiv
 <hr>
 
 
-## 20. [God's Not Dead: A Light in Darkness](https://serp.ly/@serpmedia/github/amazon/God%27s+Not+Dead%3A+A+Light+in+Darkness)
+## 20. [God's Not Dead: A Light in Darkness](https://serp.ly/amazon/God%27s+Not+Dead%3A+A+Light+in+Darkness)
 
 ![God's Not Dead: A Light in Darkness](https://image.tmdb.org/t/p/original/1MwoZ4U8SGm7yIzfPFcTTbiiOYY.jpg)
 
@@ -853,7 +853,7 @@ When tragedy strikes, Pastor Dave faces the unimaginable destruction of his chur
 <hr>
 
 
-## 21. [My Big Fat Greek Wedding 3](https://serp.ly/@serpmedia/github/amazon/My+Big+Fat+Greek+Wedding+3)
+## 21. [My Big Fat Greek Wedding 3](https://serp.ly/amazon/My+Big+Fat+Greek+Wedding+3)
 
 ![My Big Fat Greek Wedding 3](https://image.tmdb.org/t/p/original/irEqWPmDqCuzsItzefFxX3xWpL8.jpg)
 
@@ -894,7 +894,7 @@ When Gus Portokalos passes away, his family embarks on a emotional journey to Gr
 <hr>
 
 
-## 22. [Flight of the Intruder](https://serp.ly/@serpmedia/github/amazon/Flight+of+the+Intruder)
+## 22. [Flight of the Intruder](https://serp.ly/amazon/Flight+of+the+Intruder)
 
 ![Flight of the Intruder](https://image.tmdb.org/t/p/original/tzjCePBItSRfZxLnOd3KBGHQIJl.jpg)
 
@@ -934,7 +934,7 @@ When U.S. Navy pilots Lt. Jake Grafton and Lt. Cmdr. Virgil Cole face the frustr
 <hr>
 
 
-## 23. [Baby on Board](https://serp.ly/@serpmedia/github/amazon/Baby+on+Board)
+## 23. [Baby on Board](https://serp.ly/amazon/Baby+on+Board)
 
 ![Baby on Board](https://image.tmdb.org/t/p/original/5fsemnPiqmx0RMFFVytHN0nRTXY.jpg)
 
@@ -970,7 +970,7 @@ When ambitious businesswoman Angela becomes unexpectedly pregnant, her carefully
 <hr>
 
 
-## 24. [Dinner Rush](https://serp.ly/@serpmedia/github/amazon/Dinner+Rush)
+## 24. [Dinner Rush](https://serp.ly/amazon/Dinner+Rush)
 
 ![Dinner Rush](https://image.tmdb.org/t/p/original/6qhSssp1RT3IU53OkomdpJsyJ0D.jpg)
 
@@ -1013,7 +1013,7 @@ In "Dinner Rush", an unlucky evening turns an ordinary restaurant into a battleg
 <hr>
 
 
-## 25. [All Saints](https://serp.ly/@serpmedia/github/amazon/All+Saints)
+## 25. [All Saints](https://serp.ly/amazon/All+Saints)
 
 ![All Saints](https://image.tmdb.org/t/p/original/sIE5BafMU0gPYOqBSiYzTxmHqGM.jpg)
 
@@ -1050,7 +1050,7 @@ In a small American church on the verge of closure, an unlikely alliance forms b
 <hr>
 
 
-## 26. [Gully](https://serp.ly/@serpmedia/github/amazon/Gully)
+## 26. [Gully](https://serp.ly/amazon/Gully)
 
 ![Gully](https://image.tmdb.org/t/p/original/ofKJOgQHjspogqBTYdIlhxV8BYH.jpg)
 
@@ -1084,7 +1084,7 @@ In this slightly dystopian vision of Los Angeles, we follow three disaffected te
 <hr>
 
 
-## 27. [Nora Roberts’ Montana Sky](https://serp.ly/@serpmedia/github/amazon/Nora+Roberts%E2%80%99+Montana+Sky)
+## 27. [Nora Roberts’ Montana Sky](https://serp.ly/amazon/Nora+Roberts%E2%80%99+Montana+Sky)
 
 ![Nora Roberts’ Montana Sky](https://image.tmdb.org/t/p/original/qivNMkGRJQatBQ86DonJWBnS0Gc.jpg)
 
@@ -1118,7 +1118,7 @@ After a prominent stock dealer's passing, he bequeaths his Montana farm to his t
 <hr>
 
 
-## 28. [The Lookalike](https://serp.ly/@serpmedia/github/amazon/The+Lookalike)
+## 28. [The Lookalike](https://serp.ly/amazon/The+Lookalike)
 
 ![The Lookalike](https://image.tmdb.org/t/p/original/nbh8jiX08b6QMAz2OUh7MGv6ErA.jpg)
 
@@ -1154,7 +1154,7 @@ When a drug lord's girlfriend passes away unexpectedly, two low-level criminals 
 <hr>
 
 
-## 29. [November Christmas](https://serp.ly/@serpmedia/github/amazon/November+Christmas)
+## 29. [November Christmas](https://serp.ly/amazon/November+Christmas)
 
 ![November Christmas](https://image.tmdb.org/t/p/original/5pyVraJsoQpSVFHSDYI3ners0qI.jpg)
 
@@ -1190,7 +1190,7 @@ In this heartwarming tale, a young father visits a local farm stand in August to
 <hr>
 
 
-## 30. [Elvis Has Left the Building](https://serp.ly/@serpmedia/github/amazon/Elvis+Has+Left+the+Building)
+## 30. [Elvis Has Left the Building](https://serp.ly/amazon/Elvis+Has+Left+the+Building)
 
 ![Elvis Has Left the Building](https://image.tmdb.org/t/p/original/ekTcDu7Ahs76IJsqV7ri2nvmyVu.jpg)
 
@@ -1230,7 +1230,7 @@ When a young Harmony crosses paths with Elvis, their lives become inexplicably i
 <hr>
 
 
-## 31. [Prancer Returns](https://serp.ly/@serpmedia/github/amazon/Prancer+Returns)
+## 31. [Prancer Returns](https://serp.ly/amazon/Prancer+Returns)
 
 ![Prancer Returns](https://image.tmdb.org/t/p/original/ntYcMliZ3ZrzkWLUiec5cPVCuAg.jpg)
 
@@ -1264,7 +1264,7 @@ When a young boy discovers a small deer in the forest, he believes it's Santa's 
 <hr>
 
 
-## 32. [Dreamland](https://serp.ly/@serpmedia/github/amazon/Dreamland)
+## 32. [Dreamland](https://serp.ly/amazon/Dreamland)
 
 ![Dreamland](https://image.tmdb.org/t/p/original/4wp2t4oE6oqPbGC40dq7OMKTFRQ.jpg)
 
@@ -1303,7 +1303,7 @@ In a dusty desert trailer park, a young woman faces an impossible choice: care f
 <hr>
 
 
-## 33. [The Hunt for the I-5 Killer](https://serp.ly/@serpmedia/github/amazon/The+Hunt+for+the+I-5+Killer)
+## 33. [The Hunt for the I-5 Killer](https://serp.ly/amazon/The+Hunt+for+the+I-5+Killer)
 
 ![The Hunt for the I-5 Killer](https://image.tmdb.org/t/p/original/9b5zxXpClYN9udN09spoZkYoEuY.jpg)
 
@@ -1337,7 +1337,7 @@ In a dusty desert trailer park, a young woman faces an impossible choice: care f
 <hr>
 
 
-## 34. [Bigger Than the Sky](https://serp.ly/@serpmedia/github/amazon/Bigger+Than+the+Sky)
+## 34. [Bigger Than the Sky](https://serp.ly/amazon/Bigger+Than+the+Sky)
 
 ![Bigger Than the Sky](https://image.tmdb.org/t/p/original/djKEJkN9D3pQAI8aGbz1Uq44g7C.jpg)
 
@@ -1377,7 +1377,7 @@ When a man's life takes an unexpected turn after being dumped by his girlfriend,
 <hr>
 
 
-## 35. [A Smile as Big as the Moon](https://serp.ly/@serpmedia/github/amazon/A+Smile+as+Big+as+the+Moon)
+## 35. [A Smile as Big as the Moon](https://serp.ly/amazon/A+Smile+as+Big+as+the+Moon)
 
 ![A Smile as Big as the Moon](https://image.tmdb.org/t/p/original/lobW53v1qv9eI3cMzuR3DcnNJXU.jpg)
 
@@ -1413,7 +1413,7 @@ When a dedicated special education teacher hears about Space Camp, a competitive
 <hr>
 
 
-## 36. [My Dead Boyfriend](https://serp.ly/@serpmedia/github/amazon/My+Dead+Boyfriend)
+## 36. [My Dead Boyfriend](https://serp.ly/amazon/My+Dead+Boyfriend)
 
 ![My Dead Boyfriend](https://image.tmdb.org/t/p/original/8iXjUgWKZWYktOsIOFfTyZCgA7K.jpg)
 
@@ -1452,7 +1452,7 @@ Mary's mundane life takes an unexpected turn when she comes home to find her boy
 <hr>
 
 
-## 37. [Kiss Me](https://serp.ly/@serpmedia/github/amazon/Kiss+Me)
+## 37. [Kiss Me](https://serp.ly/amazon/Kiss+Me)
 
 ![Kiss Me](https://image.tmdb.org/t/p/original/urChLWSNNv78bo4kwaLxu8HvgU.jpg)
 
@@ -1486,7 +1486,7 @@ When two 15-year-old girls, Zoe and Shelby, form an unexpected friendship with a
 <hr>
 
 
-## 38. [On Hostile Ground](https://serp.ly/@serpmedia/github/amazon/On+Hostile+Ground)
+## 38. [On Hostile Ground](https://serp.ly/amazon/On+Hostile+Ground)
 
 <br>
 
@@ -1520,7 +1520,7 @@ When a geologist discovers a dangerous sinkhole under New Orleans, he races agai
 <hr>
 
 
-## 39. [Countdown: The Sky's on Fire](https://serp.ly/@serpmedia/github/amazon/Countdown%3A+The+Sky%27s+on+Fire)
+## 39. [Countdown: The Sky's on Fire](https://serp.ly/amazon/Countdown%3A+The+Sky%27s+on+Fire)
 
 ![Countdown: The Sky's on Fire](https://image.tmdb.org/t/p/original/hIuJGnxClgCvw1LP9cdgSLsuZXv.jpg)
 
@@ -1554,7 +1554,7 @@ In a world where the ozone layer has vanished, lethal insects swarm through the 
 <hr>
 
 
-## 40. [Don't Look Back](https://serp.ly/@serpmedia/github/amazon/Don%27t+Look+Back)
+## 40. [Don't Look Back](https://serp.ly/amazon/Don%27t+Look+Back)
 
 ![Don't Look Back](https://image.tmdb.org/t/p/original/2jXV9TcVi3AVLz6fWUT4pP6oOwX.jpg)
 
@@ -1592,7 +1592,7 @@ When Jesse, a Los Angeles heroin addict, returns to Texas with a briefcase full 
 <hr>
 
 
-## 41. [Ricochet](https://serp.ly/@serpmedia/github/amazon/Ricochet)
+## 41. [Ricochet](https://serp.ly/amazon/Ricochet)
 
 ![Ricochet](https://image.tmdb.org/t/p/original/cruzP5KncvkeV4FxACaCKTg7eD8.jpg)
 
@@ -1626,7 +1626,7 @@ In high-society Savannah, two homicide detectives find their careers - and lives
 <hr>
 
 
-## 42. [Desperate But Not Serious](https://serp.ly/@serpmedia/github/amazon/Desperate+But+Not+Serious)
+## 42. [Desperate But Not Serious](https://serp.ly/amazon/Desperate+But+Not+Serious)
 
 ![Desperate But Not Serious](https://image.tmdb.org/t/p/original/yKlME83TXKD1kFyZV8k4krRlrXL.jpg)
 
@@ -1660,7 +1660,7 @@ When aspiring writer Lily receives an invitation to a wedding reception with her
 <hr>
 
 
-## 43. [The Warlord: Battle for the Galaxy](https://serp.ly/@serpmedia/github/amazon/The+Warlord%3A+Battle+for+the+Galaxy)
+## 43. [The Warlord: Battle for the Galaxy](https://serp.ly/amazon/The+Warlord%3A+Battle+for+the+Galaxy)
 
 ![The Warlord: Battle for the Galaxy](https://image.tmdb.org/t/p/original/q3GDWbPbduUjEjBPqm1McxEsD8R.jpg)
 
@@ -1696,7 +1696,7 @@ In the 21st century, after the fall of the Galactic Republic, technology has sta
 <hr>
 
 
-## 44. [To Serve and Protect](https://serp.ly/@serpmedia/github/amazon/To+Serve+and+Protect)
+## 44. [To Serve and Protect](https://serp.ly/amazon/To+Serve+and+Protect)
 
 ![To Serve and Protect](https://image.tmdb.org/t/p/original/yc5yltzJnIMQe2Pua1hJnkpgn7w.jpg)
 
@@ -1732,7 +1732,7 @@ When the worst serial killer in Texas history strikes, three generations of Dall
 <hr>
 
 
-## 45. [My Dinner with Jimi](https://serp.ly/@serpmedia/github/amazon/My+Dinner+with+Jimi)
+## 45. [My Dinner with Jimi](https://serp.ly/amazon/My+Dinner+with+Jimi)
 
 ![My Dinner with Jimi](https://image.tmdb.org/t/p/original/nEnKS339NdQyGg2nWKVagHgLoxw.jpg)
 
@@ -1766,7 +1766,7 @@ When the worst serial killer in Texas history strikes, three generations of Dall
 <hr>
 
 
-## 46. [Wedding Bell Blues](https://serp.ly/@serpmedia/github/amazon/Wedding+Bell+Blues)
+## 46. [Wedding Bell Blues](https://serp.ly/amazon/Wedding+Bell+Blues)
 
 ![Wedding Bell Blues](https://image.tmdb.org/t/p/original/a4juFEw1qG3dI8XaoV3AruFaqa9.jpg)
 
@@ -1802,7 +1802,7 @@ When three friends decide they'd rather be divorced than unmarried, they take of
 <hr>
 
 
-## 47. [The Morrison Murders: Based on a True Story](https://serp.ly/@serpmedia/github/amazon/The+Morrison+Murders%3A+Based+on+a+True+Story)
+## 47. [The Morrison Murders: Based on a True Story](https://serp.ly/amazon/The+Morrison+Murders%3A+Based+on+a+True+Story)
 
 ![The Morrison Murders: Based on a True Story](https://image.tmdb.org/t/p/original/cCvg2ZU1oh64ZRaiop56fdPjMMk.jpg)
 
@@ -1836,7 +1836,7 @@ When a husband and wife are murdered along with their youngest son, their two re
 <hr>
 
 
-## 48. [Scheidung auf amerikanisch](https://serp.ly/@serpmedia/github/amazon/Scheidung+auf+amerikanisch)
+## 48. [Scheidung auf amerikanisch](https://serp.ly/amazon/Scheidung+auf+amerikanisch)
 
 <br>
 
@@ -1865,7 +1865,7 @@ When a husband and wife are murdered along with their youngest son, their two re
 <hr>
 
 
-## 49. [Innocent Victims](https://serp.ly/@serpmedia/github/amazon/Innocent+Victims)
+## 49. [Innocent Victims](https://serp.ly/amazon/Innocent+Victims)
 
 ![Innocent Victims](https://image.tmdb.org/t/p/original/gAIBgpLA51vW5k6e9rJmqeozogI.jpg)
 
@@ -1899,7 +1899,7 @@ When Army Sergeant Tim Hennis iswrongly convicted of killing the wife andchildre
 <hr>
 
 
-## 50. [On Fire](https://serp.ly/@serpmedia/github/amazon/On+Fire)
+## 50. [On Fire](https://serp.ly/amazon/On+Fire)
 
 ![On Fire](https://image.tmdb.org/t/p/original/tS2NZfEMOfl7yvdEkXUHL0GSZXk.jpg)
 
@@ -1927,7 +1927,7 @@ When a young St. Louis boy suffers severe burns in a tragic accident, his journe
 <hr>
 
 
-## 1. [NCIS: Los Angeles](https://serp.ly/@serpmedia/github/amazon/NCIS%3A+Los+Angeles)
+## 1. [NCIS: Los Angeles](https://serp.ly/amazon/NCIS%3A+Los+Angeles)
 
 ![NCIS: Los Angeles](https://image.tmdb.org/t/p/original/TIIgcznwNfNr3KOZvxn26eKV99.jpg)
 
@@ -1971,7 +1971,7 @@ When the Naval Criminal Investigative Service establishes a new office in Los An
 <hr>
 
 
-## 2. [Sex and the City](https://serp.ly/@serpmedia/github/amazon/Sex+and+the+City)
+## 2. [Sex and the City](https://serp.ly/amazon/Sex+and+the+City)
 
 ![Sex and the City](https://image.tmdb.org/t/p/original/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg)
 
@@ -2015,7 +2015,7 @@ Sex and the City invites you into the stylish world of four late-thirtysomething
 <hr>
 
 
-## 3. [The Wonder Years](https://serp.ly/@serpmedia/github/amazon/The+Wonder+Years)
+## 3. [The Wonder Years](https://serp.ly/amazon/The+Wonder+Years)
 
 ![The Wonder Years](https://image.tmdb.org/t/p/original/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg)
 
@@ -2059,7 +2059,7 @@ Travel back to the 1960s and 70s with Kevin Arnold, a young boy navigating the c
 <hr>
 
 
-## 4. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 4. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -2103,7 +2103,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 5. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 5. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -2147,7 +2147,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 6. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 6. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -2189,7 +2189,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 7. [Northern Exposure](https://serp.ly/@serpmedia/github/amazon/Northern+Exposure)
+## 7. [Northern Exposure](https://serp.ly/amazon/Northern+Exposure)
 
 ![Northern Exposure](https://image.tmdb.org/t/p/original/4yPQY1PcH7W2j3fTE77xQcoEgbZ.jpg)
 
@@ -2233,7 +2233,7 @@ When a young Columbia University medical school graduate receives a scholarship 
 <hr>
 
 
-## 8. [The Tonight Show with Jay Leno](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+with+Jay+Leno)
+## 8. [The Tonight Show with Jay Leno](https://serp.ly/amazon/The+Tonight+Show+with+Jay+Leno)
 
 ![The Tonight Show with Jay Leno](https://image.tmdb.org/t/p/original/xAFMZ3wFIEXTISryRZD94AAvWng.jpg)
 
@@ -2275,7 +2275,7 @@ Revisit a golden age of television with "The Tonight Show with Jay Leno, " the b
 <hr>
 
 
-## 9. [The Tony Danza Show](https://serp.ly/@serpmedia/github/amazon/The+Tony+Danza+Show)
+## 9. [The Tony Danza Show](https://serp.ly/amazon/The+Tony+Danza+Show)
 
 <br>
 
@@ -2315,7 +2315,7 @@ Revisit a golden age of daytime television with "The Tony Danza Show, " the belo
 <hr>
 
 
-## 10. [And Just Like That…](https://serp.ly/@serpmedia/github/amazon/And+Just+Like+That%E2%80%A6)
+## 10. [And Just Like That…](https://serp.ly/amazon/And+Just+Like+That%E2%80%A6)
 
 ![And Just Like That…](https://image.tmdb.org/t/p/original/ckl3YTckH7JeeTx55NQMFf7pMRL.jpg)
 
@@ -2363,7 +2363,7 @@ Revisit the lives of Carrie, Miranda, and Charlotte in this compelling series th
 <hr>
 
 
-## 11. [XO, Kitty](https://serp.ly/@serpmedia/github/amazon/XO%2C+Kitty)
+## 11. [XO, Kitty](https://serp.ly/amazon/XO%2C+Kitty)
 
 ![XO, Kitty](https://image.tmdb.org/t/p/original/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg)
 
@@ -2407,7 +2407,7 @@ Teen matchmaker Kitty Song Covey thinks she has love all figured out. But when s
 <hr>
 
 
-## 12. [United States of Tara](https://serp.ly/@serpmedia/github/amazon/United+States+of+Tara)
+## 12. [United States of Tara](https://serp.ly/amazon/United+States+of+Tara)
 
 ![United States of Tara](https://image.tmdb.org/t/p/original/wSyF2mp4hjNbjCUJjwN7cTg1LQb.jpg)
 
@@ -2451,7 +2451,7 @@ When it comes to personality clashes, Tara's got the mother of all battles going
 <hr>
 
 
-## 13. [The Late Late Show with Craig Kilborn](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Kilborn)
+## 13. [The Late Late Show with Craig Kilborn](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Kilborn)
 
 ![The Late Late Show with Craig Kilborn](https://image.tmdb.org/t/p/original/2fABKyKKX6r4FUuCjd7qKmgNOID.jpg)
 
@@ -2493,7 +2493,7 @@ Join Craig Kilborn for "The Late Late Show, " a spirited talk series that aired 
 <hr>
 
 
-## 14. [Parenthood](https://serp.ly/@serpmedia/github/amazon/Parenthood)
+## 14. [Parenthood](https://serp.ly/amazon/Parenthood)
 
 ![Parenthood](https://image.tmdb.org/t/p/original/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg)
 
@@ -2537,7 +2537,7 @@ Parenthood delves into the heartwarming yet challenging experiences of the Brave
 <hr>
 
 
-## 15. [Man Seeking Woman](https://serp.ly/@serpmedia/github/amazon/Man+Seeking+Woman)
+## 15. [Man Seeking Woman](https://serp.ly/amazon/Man+Seeking+Woman)
 
 ![Man Seeking Woman](https://image.tmdb.org/t/p/original/g8bVnHg8hGAEe78ssTm6ZJwYDeS.jpg)
 
@@ -2579,7 +2579,7 @@ When Josh Greenberg's longtime girlfriend dumps him, the naive romantic enters t
 <hr>
 
 
-## 16. [How I Met Your Father](https://serp.ly/@serpmedia/github/amazon/How+I+Met+Your+Father)
+## 16. [How I Met Your Father](https://serp.ly/amazon/How+I+Met+Your+Father)
 
 ![How I Met Your Father](https://image.tmdb.org/t/p/original/gPvqh9AIIuoAV9SlFnjjZzxbNHz.jpg)
 
@@ -2623,7 +2623,7 @@ Sophie's modern dating life in 2021 New York becomes the backdrop for an epic st
 <hr>
 
 
-## 17. [Undone](https://serp.ly/@serpmedia/github/amazon/Undone)
+## 17. [Undone](https://serp.ly/amazon/Undone)
 
 ![Undone](https://image.tmdb.org/t/p/original/wwCclQaT9tIAHVbAkGwQvnNUSm6.jpg)
 
@@ -2665,7 +2665,7 @@ When Alma survives a devastating car accident, she emerges with an extraordinary
 <hr>
 
 
-## 18. [Sex&Drugs&Rock&Roll](https://serp.ly/@serpmedia/github/amazon/Sex%26Drugs%26Rock%26Roll)
+## 18. [Sex&Drugs&Rock&Roll](https://serp.ly/amazon/Sex%26Drugs%26Rock%26Roll)
 
 ![Sex&Drugs&Rock&Roll](https://image.tmdb.org/t/p/original/qj7PJgee5NNfWr46cKn5xuMiG09.jpg)
 
@@ -2707,7 +2707,7 @@ When the legendary Johnny Rock - former lead singer of The Heathens - hits rock 
 <hr>
 
 
-## 19. [Still the King](https://serp.ly/@serpmedia/github/amazon/Still+the+King)
+## 19. [Still the King](https://serp.ly/amazon/Still+the+King)
 
 ![Still the King](https://image.tmdb.org/t/p/original/5H8JZtGLlAjGpIG2sp14kluzEEm.jpg)
 
@@ -2749,7 +2749,7 @@ When a washed-up country music star crashes into an old church sign during a dru
 <hr>
 
 
-## 20. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 20. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -2795,7 +2795,7 @@ When a washed-up country music star crashes into an old church sign during a dru
 <hr>
 
 
-## 21. [The Visitor](https://serp.ly/@serpmedia/github/amazon/The+Visitor)
+## 21. [The Visitor](https://serp.ly/amazon/The+Visitor)
 
 ![The Visitor](https://image.tmdb.org/t/p/original/tlJR5IMAp4eZC66H8VoeSAXxPmp.jpg)
 
@@ -2837,7 +2837,7 @@ When a man returns to Earth after a 50-year extraterrestrial abduction, his adva
 <hr>
 
 
-## 22. [Lucky](https://serp.ly/@serpmedia/github/amazon/Lucky)
+## 22. [Lucky](https://serp.ly/amazon/Lucky)
 
 ![Lucky](https://image.tmdb.org/t/p/original/wPTU3m5kLbNnlNHl7wWrvCO48XO.jpg)
 
@@ -2876,7 +2876,7 @@ When a professional poker player's gambling addiction spirals out of control, hi
 <hr>
 
 
-## 23. [Rebel](https://serp.ly/@serpmedia/github/amazon/Rebel)
+## 23. [Rebel](https://serp.ly/amazon/Rebel)
 
 ![Rebel](https://image.tmdb.org/t/p/original/hyHAr6lk3EW2krnUp5RFkK6ouwB.jpg)
 
@@ -2920,7 +2920,7 @@ Annie "Rebel" Bello is a blue-collar legal advocate who fights for justice witho
 <hr>
 
 
-## 24. [Mata Hari](https://serp.ly/@serpmedia/github/amazon/Mata+Hari)
+## 24. [Mata Hari](https://serp.ly/amazon/Mata+Hari)
 
 ![Mata Hari](https://image.tmdb.org/t/p/original/vj94FuK8tb2o6wzWtJA8nKR2zHz.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Black Swan](https://serp.ly/@serpmedia/github/amazon/Black+Swan)
+## 1. [Black Swan](https://serp.ly/amazon/Black+Swan)
 
 ![Black Swan](https://image.tmdb.org/t/p/original/rH19vkjAzCZ0HIUvrgB3rowm68h.jpg)
 
@@ -77,7 +77,7 @@ Perfection is not just about control. It's also about letting go.
 <hr>
 
 
-## 2. [Ted](https://serp.ly/@serpmedia/github/amazon/Ted)
+## 2. [Ted](https://serp.ly/amazon/Ted)
 
 ![Ted](https://image.tmdb.org/t/p/original/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg)
 
@@ -117,7 +117,7 @@ When John Bennett's childhood wish of bringing his teddy bear to life comes true
 <hr>
 
 
-## 3. [Friends with Benefits](https://serp.ly/@serpmedia/github/amazon/Friends+with+Benefits)
+## 3. [Friends with Benefits](https://serp.ly/amazon/Friends+with+Benefits)
 
 ![Friends with Benefits](https://image.tmdb.org/t/p/original/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg)
 
@@ -157,7 +157,7 @@ When Dylan and Jamie decide to take their friendship to the next level, they thi
 <hr>
 
 
-## 4. [The Book of Eli](https://serp.ly/@serpmedia/github/amazon/The+Book+of+Eli)
+## 4. [The Book of Eli](https://serp.ly/amazon/The+Book+of+Eli)
 
 ![The Book of Eli](https://image.tmdb.org/t/p/original/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg)
 
@@ -197,7 +197,7 @@ In a world where the sun has set on civilization, one man walks across the scorc
 <hr>
 
 
-## 5. [Oz the Great and Powerful](https://serp.ly/@serpmedia/github/amazon/Oz+the+Great+and+Powerful)
+## 5. [Oz the Great and Powerful](https://serp.ly/amazon/Oz+the+Great+and+Powerful)
 
 ![Oz the Great and Powerful](https://image.tmdb.org/t/p/original/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg)
 
@@ -240,7 +240,7 @@ Oscar Diggs, a humble circus magician, finds himself unexpectedly transported fr
 <hr>
 
 
-## 6. [Jupiter Ascending](https://serp.ly/@serpmedia/github/amazon/Jupiter+Ascending)
+## 6. [Jupiter Ascending](https://serp.ly/amazon/Jupiter+Ascending)
 
 ![Jupiter Ascending](https://image.tmdb.org/t/p/original/2NCcAZ3M3F0FxENYmammBknwpVn.jpg)
 
@@ -283,7 +283,7 @@ In a universe where human genetic material is the most precious commodity, an im
 <hr>
 
 
-## 7. [Bad Moms](https://serp.ly/@serpmedia/github/amazon/Bad+Moms)
+## 7. [Bad Moms](https://serp.ly/amazon/Bad+Moms)
 
 ![Bad Moms](https://image.tmdb.org/t/p/original/9PaIkUnfOcU1wi5cFbamnmAkjEs.jpg)
 
@@ -326,7 +326,7 @@ Bad Moms follows three harried mothers who've reached their breaking point. Obse
 <hr>
 
 
-## 8. [Forgetting Sarah Marshall](https://serp.ly/@serpmedia/github/amazon/Forgetting+Sarah+Marshall)
+## 8. [Forgetting Sarah Marshall](https://serp.ly/amazon/Forgetting+Sarah+Marshall)
 
 ![Forgetting Sarah Marshall](https://image.tmdb.org/t/p/original/d4elOzyhNWVlxpG7BwigrumkFTe.jpg)
 
@@ -369,7 +369,7 @@ When aspiring musician Peter Bretter loses his girlfriend Sarah Marshall to rock
 <hr>
 
 
-## 9. [Date Night](https://serp.ly/@serpmedia/github/amazon/Date+Night)
+## 9. [Date Night](https://serp.ly/amazon/Date+Night)
 
 ![Date Night](https://image.tmdb.org/t/p/original/ucEWhj32KEDcFKHMWVeu8r1Q4ld.jpg)
 
@@ -409,7 +409,7 @@ Phil and Claire Foster thought their weekly date night would be just another ord
 <hr>
 
 
-## 10. [The Spy Who Dumped Me](https://serp.ly/@serpmedia/github/amazon/The+Spy+Who+Dumped+Me)
+## 10. [The Spy Who Dumped Me](https://serp.ly/amazon/The+Spy+Who+Dumped+Me)
 
 ![The Spy Who Dumped Me](https://image.tmdb.org/t/p/original/tpPERI5i6yjT73jYWyZ9iWltQ9L.jpg)
 
@@ -451,7 +451,7 @@ When two thirtysomething best friends have their ordinary evening interrupted by
 <hr>
 
 
-## 11. [A Bad Moms Christmas](https://serp.ly/@serpmedia/github/amazon/A+Bad+Moms+Christmas)
+## 11. [A Bad Moms Christmas](https://serp.ly/amazon/A+Bad+Moms+Christmas)
 
 ![A Bad Moms Christmas](https://image.tmdb.org/t/p/original/tzNm9lRIXJ6xrIKasRhvV1Nmv2B.jpg)
 
@@ -491,7 +491,7 @@ Join Amy, Kiki, and Carla as they transform Christmas from a stress-filled seaso
 <hr>
 
 
-## 12. [Max Payne](https://serp.ly/@serpmedia/github/amazon/Max+Payne)
+## 12. [Max Payne](https://serp.ly/amazon/Max+Payne)
 
 ![Max Payne](https://image.tmdb.org/t/p/original/3cWnCG5NyXJYARO2hmNqfbbgrMA.jpg)
 
@@ -534,7 +534,7 @@ When DEA agent Max Payne loses his family to a ruthless conspiracy, he teams up 
 <hr>
 
 
-## 13. [Annie](https://serp.ly/@serpmedia/github/amazon/Annie)
+## 13. [Annie](https://serp.ly/amazon/Annie)
 
 ![Annie](https://image.tmdb.org/t/p/original/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg)
 
@@ -577,7 +577,7 @@ When a young foster kid named Annie is taken in by a New York tycoon, their live
 <hr>
 
 
-## 14. [Luckiest Girl Alive](https://serp.ly/@serpmedia/github/amazon/Luckiest+Girl+Alive)
+## 14. [Luckiest Girl Alive](https://serp.ly/amazon/Luckiest+Girl+Alive)
 
 ![Luckiest Girl Alive](https://image.tmdb.org/t/p/original/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg)
 
@@ -614,7 +614,7 @@ In this gripping thriller, a powerful New York City woman's perfect life changes
 <hr>
 
 
-## 15. [Gia](https://serp.ly/@serpmedia/github/amazon/Gia)
+## 15. [Gia](https://serp.ly/amazon/Gia)
 
 ![Gia](https://image.tmdb.org/t/p/original/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg)
 
@@ -650,7 +650,7 @@ Traveling to New York City with dreams of becoming a fashion model, Gia Carangi 
 <hr>
 
 
-## 16. [Wonder Park](https://serp.ly/@serpmedia/github/amazon/Wonder+Park)
+## 16. [Wonder Park](https://serp.ly/amazon/Wonder+Park)
 
 ![Wonder Park](https://image.tmdb.org/t/p/original/8KomINZhIuJeB4oB7k7tkq8tmE.jpg)
 
@@ -690,7 +690,7 @@ Wonder Park brings June's biggest dreams to life as she discovers an incredible 
 <hr>
 
 
-## 17. [Honey, We Shrunk Ourselves](https://serp.ly/@serpmedia/github/amazon/Honey%2C+We+Shrunk+Ourselves)
+## 17. [Honey, We Shrunk Ourselves](https://serp.ly/amazon/Honey%2C+We+Shrunk+Ourselves)
 
 ![Honey, We Shrunk Ourselves](https://image.tmdb.org/t/p/original/nbU3UgIjxNTrSSe2gcOSGQjf55a.jpg)
 
@@ -728,7 +728,7 @@ When scientist Wayne Szalinski tests his latest invention, it goes horribly wron
 <hr>
 
 
-## 18. [Third Person](https://serp.ly/@serpmedia/github/amazon/Third+Person)
+## 18. [Third Person](https://serp.ly/amazon/Third+Person)
 
 ![Third Person](https://image.tmdb.org/t/p/original/8HfxGEbQnPvIzaYAHMvu947r8sQ.jpg)
 
@@ -771,7 +771,7 @@ In this sophisticated drama, an acclaimed novelist grapples with writer's block 
 <hr>
 
 
-## 19. [Extract](https://serp.ly/@serpmedia/github/amazon/Extract)
+## 19. [Extract](https://serp.ly/amazon/Extract)
 
 ![Extract](https://image.tmdb.org/t/p/original/cjen0vxjybwItQPH3NNCJuME2MY.jpg)
 
@@ -814,7 +814,7 @@ When factory owner Joel Reynold can't get his wife Suzie's attention, he cooks u
 <hr>
 
 
-## 20. [Blood Ties](https://serp.ly/@serpmedia/github/amazon/Blood+Ties)
+## 20. [Blood Ties](https://serp.ly/amazon/Blood+Ties)
 
 ![Blood Ties](https://image.tmdb.org/t/p/original/7tMuywiZUoaAihEIkCu3BAL1xPC.jpg)
 
@@ -856,7 +856,7 @@ In 1970s Brooklyn, two brothers find themselves on opposite sides of organized c
 <hr>
 
 
-## 21. [Family Guy Presents: It's a Trap!](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+It%27s+a+Trap%21)
+## 21. [Family Guy Presents: It's a Trap!](https://serp.ly/amazon/Family+Guy+Presents%3A+It%27s+a+Trap%21)
 
 ![Family Guy Presents: It's a Trap!](https://image.tmdb.org/t/p/original/nGER5w4H3g2ujD8Zodxn0WXk1l4.jpg)
 
@@ -889,7 +889,7 @@ Join the Griffin family for another hilarious homecoming as they're forced to ga
 <hr>
 
 
-## 22. [The Angriest Man in Brooklyn](https://serp.ly/@serpmedia/github/amazon/The+Angriest+Man+in+Brooklyn)
+## 22. [The Angriest Man in Brooklyn](https://serp.ly/amazon/The+Angriest+Man+in+Brooklyn)
 
 ![The Angriest Man in Brooklyn](https://image.tmdb.org/t/p/original/v0tiYRNhMYbefWlgWFmbhXiOwjr.jpg)
 
@@ -928,7 +928,7 @@ Henry, the perpetually unhappy man in Brooklyn, learns that a brain aneurysm wil
 <hr>
 
 
-## 23. [Family Guy Presents: Stewie Griffin: The Untold Story](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Stewie+Griffin%3A+The+Untold+Story)
+## 23. [Family Guy Presents: Stewie Griffin: The Untold Story](https://serp.ly/amazon/Family+Guy+Presents%3A+Stewie+Griffin%3A+The+Untold+Story)
 
 ![Family Guy Presents: Stewie Griffin: The Untold Story](https://image.tmdb.org/t/p/original/mro2I5vlcwn2XHwgSDwk1DvhanM.jpg)
 
@@ -964,7 +964,7 @@ Join the Griffin family for an outrageous adventure that begins when baby Stewie
 <hr>
 
 
-## 24. [American Psycho II: All American Girl](https://serp.ly/@serpmedia/github/amazon/American+Psycho+II%3A+All+American+Girl)
+## 24. [American Psycho II: All American Girl](https://serp.ly/amazon/American+Psycho+II%3A+All+American+Girl)
 
 ![American Psycho II: All American Girl](https://image.tmdb.org/t/p/original/mYBvrIV78mckZGdT5gpHtXOKVc2.jpg)
 
@@ -1002,7 +1002,7 @@ Angrier. Deadlier. Sexier.
 <hr>
 
 
-## 25. [Get Over It](https://serp.ly/@serpmedia/github/amazon/Get+Over+It)
+## 25. [Get Over It](https://serp.ly/amazon/Get+Over+It)
 
 ![Get Over It](https://image.tmdb.org/t/p/original/saVWvLE0haJTrH1c1YS68VTDKyC.jpg)
 
@@ -1042,7 +1042,7 @@ When high school basketball star Berke Landers gets dumped by his longtime girlf
 <hr>
 
 
-## 26. [Four Good Days](https://serp.ly/@serpmedia/github/amazon/Four+Good+Days)
+## 26. [Four Good Days](https://serp.ly/amazon/Four+Good+Days)
 
 ![Four Good Days](https://image.tmdb.org/t/p/original/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg)
 
@@ -1081,7 +1081,7 @@ When a mother helps her daughter recover from substance abuse, their four-day jo
 <hr>
 
 
-## 27. [After Sex](https://serp.ly/@serpmedia/github/amazon/After+Sex)
+## 27. [After Sex](https://serp.ly/amazon/After+Sex)
 
 ![After Sex](https://image.tmdb.org/t/p/original/4n41P5CKHFFkQ3s8VJieNmqUkn7.jpg)
 
@@ -1119,7 +1119,7 @@ Sex is just the beginning of the conversation in this intimate look at modern re
 <hr>
 
 
-## 28. [Boot Camp](https://serp.ly/@serpmedia/github/amazon/Boot+Camp)
+## 28. [Boot Camp](https://serp.ly/amazon/Boot+Camp)
 
 ![Boot Camp](https://image.tmdb.org/t/p/original/rSAIVxNJGRGcfvnzUzsL2VZJL7g.jpg)
 
@@ -1157,7 +1157,7 @@ When a group of troubled teens are sent to a rehabilitation program on the islan
 <hr>
 
 
-## 29. [Hell & Back](https://serp.ly/@serpmedia/github/amazon/Hell+%26+Back)
+## 29. [Hell & Back](https://serp.ly/amazon/Hell+%26+Back)
 
 ![Hell & Back](https://image.tmdb.org/t/p/original/7Sjz7cDxQOv4IMiWkEcknDjLC18.jpg)
 
@@ -1195,7 +1195,7 @@ When their friend winds up in the underworld, two buddies don't just wait for hi
 <hr>
 
 
-## 30. [Family Guy Presents: Something, Something, Something, Dark Side](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Something%2C+Something%2C+Something%2C+Dark+Side)
+## 30. [Family Guy Presents: Something, Something, Something, Dark Side](https://serp.ly/amazon/Family+Guy+Presents%3A+Something%2C+Something%2C+Something%2C+Dark+Side)
 
 ![Family Guy Presents: Something, Something, Something, Dark Side](https://image.tmdb.org/t/p/original/fWr85GtJlzY4ZwdB2eCu3pdzWHz.jpg)
 
@@ -1230,7 +1230,7 @@ When the lights go out at the Griffin house, Peter takes advantage of the power 
 <hr>
 
 
-## 31. [Breaking News in Yuba County](https://serp.ly/@serpmedia/github/amazon/Breaking+News+in+Yuba+County)
+## 31. [Breaking News in Yuba County](https://serp.ly/amazon/Breaking+News+in+Yuba+County)
 
 ![Breaking News in Yuba County](https://image.tmdb.org/t/p/original/pMyCYtgfBmMisX3RFc5eH6zIV5Y.jpg)
 
@@ -1271,7 +1271,7 @@ When a mundane discovery leads to the unthinkable, an ordinary woman's life tran
 <hr>
 
 
-## 32. [Family Guy Presents: Blue Harvest](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Blue+Harvest)
+## 32. [Family Guy Presents: Blue Harvest](https://serp.ly/amazon/Family+Guy+Presents%3A+Blue+Harvest)
 
 ![Family Guy Presents: Blue Harvest](https://image.tmdb.org/t/p/original/oZRuqRaliZaOYQwIHQd0EUee64F.jpg)
 
@@ -1304,7 +1304,7 @@ When a power outage strands the Griffins at home, Peter spins an epic tale of ad
 <hr>
 
 
-## 33. [Piranha](https://serp.ly/@serpmedia/github/amazon/Piranha)
+## 33. [Piranha](https://serp.ly/amazon/Piranha)
 
 ![Piranha](https://image.tmdb.org/t/p/original/sUzAJwxeGiODOVmsIGrgXcy9aj1.jpg)
 
@@ -1340,7 +1340,7 @@ Lost River Lake was a thriving resort, until an ambitious genetic experiment wen
 <hr>
 
 
-## 34. [Krippendorf's Tribe](https://serp.ly/@serpmedia/github/amazon/Krippendorf%27s+Tribe)
+## 34. [Krippendorf's Tribe](https://serp.ly/amazon/Krippendorf%27s+Tribe)
 
 ![Krippendorf's Tribe](https://image.tmdb.org/t/p/original/sO7JLE22pL17vuFGY7ZPpZyHWC.jpg)
 
@@ -1376,7 +1376,7 @@ When anthropologist James Krippendorf loses his funding and faces professional r
 <hr>
 
 
-## 35. [Santa with Muscles](https://serp.ly/@serpmedia/github/amazon/Santa+with+Muscles)
+## 35. [Santa with Muscles](https://serp.ly/amazon/Santa+with+Muscles)
 
 ![Santa with Muscles](https://image.tmdb.org/t/p/original/ldxrT4FkyJWENpqy0ZucCu1HgAj.jpg)
 
@@ -1414,7 +1414,7 @@ When muscle-bound Blake Thorne runs into trouble with the law, he turns to an un
 <hr>
 
 
-## 36. [Moving McAllister](https://serp.ly/@serpmedia/github/amazon/Moving+McAllister)
+## 36. [Moving McAllister](https://serp.ly/amazon/Moving+McAllister)
 
 ![Moving McAllister](https://image.tmdb.org/t/p/original/wUjpUvbSsmLQCZo7gx6ZzyFx3dA.jpg)
 
@@ -1450,7 +1450,7 @@ When law intern Rick Robinson agrees to help his boss Mr. McAllister move from M
 <hr>
 
 
-## 37. [Family Guy Presents: Stewie Kills Lois and Lois Kills Stewie](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Stewie+Kills+Lois+and+Lois+Kills+Stewie)
+## 37. [Family Guy Presents: Stewie Kills Lois and Lois Kills Stewie](https://serp.ly/amazon/Family+Guy+Presents%3A+Stewie+Kills+Lois+and+Lois+Kills+Stewie)
 
 ![Family Guy Presents: Stewie Kills Lois and Lois Kills Stewie](https://image.tmdb.org/t/p/original/n4ydGqXf7mVDxYsmabnlJTFyTJg.jpg)
 
@@ -1481,7 +1481,7 @@ When Stewie Griffin hatches a diabolical plan to eliminate his nemesis, Lois Gri
 <hr>
 
 
-## 38. [Family Guy Presents: Road to the North Pole](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Road+to+the+North+Pole)
+## 38. [Family Guy Presents: Road to the North Pole](https://serp.ly/amazon/Family+Guy+Presents%3A+Road+to+the+North+Pole)
 
 ![Family Guy Presents: Road to the North Pole](https://image.tmdb.org/t/p/original/qbpfbOU7WAxD90C3PqzkgWWpfj.jpg)
 
@@ -1514,7 +1514,7 @@ Join the Griffin family on a wild holiday adventure when Stewie encounters a rud
 <hr>
 
 
-## 39. [A Very Special Family Guy Freakin' Christmas](https://serp.ly/@serpmedia/github/amazon/A+Very+Special+Family+Guy+Freakin%27+Christmas)
+## 39. [A Very Special Family Guy Freakin' Christmas](https://serp.ly/amazon/A+Very+Special+Family+Guy+Freakin%27+Christmas)
 
 ![A Very Special Family Guy Freakin' Christmas](https://image.tmdb.org/t/p/original/uUNqRwHk9vNgisejGqpAtGwbohR.jpg)
 
@@ -1545,7 +1545,7 @@ When the Griffin family tackles Christmas, their personalities turn everyday hol
 <hr>
 
 
-## 40. [Black Swan: Metamorphosis](https://serp.ly/@serpmedia/github/amazon/Black+Swan%3A+Metamorphosis)
+## 40. [Black Swan: Metamorphosis](https://serp.ly/amazon/Black+Swan%3A+Metamorphosis)
 
 ![Black Swan: Metamorphosis](https://image.tmdb.org/t/p/original/i3SGAhTtArQgwvYropVwo1OKuxM.jpg)
 
@@ -1581,7 +1581,7 @@ When the Griffin family tackles Christmas, their personalities turn everyday hol
 <hr>
 
 
-## 41. [The Color of Time](https://serp.ly/@serpmedia/github/amazon/The+Color+of+Time)
+## 41. [The Color of Time](https://serp.ly/amazon/The+Color+of+Time)
 
 ![The Color of Time](https://image.tmdb.org/t/p/original/2NAUfTz26aRMplqPqXv55jxRi5q.jpg)
 
@@ -1620,7 +1620,7 @@ Travel back in time with Pulitzer Prize winner CK Williams as he reflects on a l
 <hr>
 
 
-## 42. [Milo](https://serp.ly/@serpmedia/github/amazon/Milo)
+## 42. [Milo](https://serp.ly/amazon/Milo)
 
 ![Milo](https://image.tmdb.org/t/p/original/lNKffmpdUqz7IDV0ly1t7vx0kYI.jpg)
 
@@ -1656,7 +1656,7 @@ Four young grade-school girls witness the murder of their classmate during an in
 <hr>
 
 
-## 43. [Family Guy Presents: Seth & Alex's Almost Live Comedy Show](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Seth+%26+Alex%27s+Almost+Live+Comedy+Show)
+## 43. [Family Guy Presents: Seth & Alex's Almost Live Comedy Show](https://serp.ly/amazon/Family+Guy+Presents%3A+Seth+%26+Alex%27s+Almost+Live+Comedy+Show)
 
 ![Family Guy Presents: Seth & Alex's Almost Live Comedy Show](https://image.tmdb.org/t/p/original/yoYp9LA7N8oEEMTRQfVnTCvLi7O.jpg)
 
@@ -1690,7 +1690,7 @@ Seth MacFarlane and Alex Borstein showcase their unique comedic talents in this 
 <hr>
 
 
-## 44. [Tony n' Tina's Wedding](https://serp.ly/@serpmedia/github/amazon/Tony+n%27+Tina%27s+Wedding)
+## 44. [Tony n' Tina's Wedding](https://serp.ly/amazon/Tony+n%27+Tina%27s+Wedding)
 
 ![Tony n' Tina's Wedding](https://image.tmdb.org/t/p/original/AmgWdDAvuQ8b5oxE6iR09i3UUhw.jpg)
 
@@ -1731,7 +1731,7 @@ Tony and Tina's wedding plans take an unexpected turn when their parents, former
 <hr>
 
 
-## 45. [The Hills with James Franco and Mila Kunis](https://serp.ly/@serpmedia/github/amazon/The+Hills+with+James+Franco+and+Mila+Kunis)
+## 45. [The Hills with James Franco and Mila Kunis](https://serp.ly/amazon/The+Hills+with+James+Franco+and+Mila+Kunis)
 
 ![The Hills with James Franco and Mila Kunis](https://image.tmdb.org/t/p/original/o0sBeVdSJUFdJ3I47MdQsd8Jstk.jpg)
 
@@ -1765,7 +1765,7 @@ Tony and Tina's wedding plans take an unexpected turn when their parents, former
 <hr>
 
 
-## 46. [FOX 25th Anniversary Special](https://serp.ly/@serpmedia/github/amazon/FOX+25th+Anniversary+Special)
+## 46. [FOX 25th Anniversary Special](https://serp.ly/amazon/FOX+25th+Anniversary+Special)
 
 ![FOX 25th Anniversary Special](https://image.tmdb.org/t/p/original/kAP8adm7nfF09f0KQxSSVgwE89O.jpg)
 
@@ -1796,7 +1796,7 @@ Join FOX in ringing in their 25th anniversary with a star-studded celebration hi
 <hr>
 
 
-## 47. [Extract: Mike Judge's Secret Recipe](https://serp.ly/@serpmedia/github/amazon/Extract%3A+Mike+Judge%27s+Secret+Recipe)
+## 47. [Extract: Mike Judge's Secret Recipe](https://serp.ly/amazon/Extract%3A+Mike+Judge%27s+Secret+Recipe)
 
 ![Extract: Mike Judge's Secret Recipe](https://image.tmdb.org/t/p/original/cvXrw70aNefF2xgwY9ayCoYe7k4.jpg)
 
@@ -1830,7 +1830,7 @@ Join FOX in ringing in their 25th anniversary with a star-studded celebration hi
 <hr>
 
 
-## 48. [Wake Up Dead Man: A Knives Out Mystery](https://serp.ly/@serpmedia/github/amazon/Wake+Up+Dead+Man%3A+A+Knives+Out+Mystery)
+## 48. [Wake Up Dead Man: A Knives Out Mystery](https://serp.ly/amazon/Wake+Up+Dead+Man%3A+A+Knives+Out+Mystery)
 
 ![Wake Up Dead Man: A Knives Out Mystery](https://image.tmdb.org/t/p/original/ioDzsrV1OZgIaYYIP1Vi4J2QVOF.jpg)
 
@@ -1853,7 +1853,7 @@ Benoit Blanc returns in his most dangerous case yet, where the stakes are higher
 <hr>
 
 
-## 49. [Goodrich](https://serp.ly/@serpmedia/github/amazon/Goodrich)
+## 49. [Goodrich](https://serp.ly/amazon/Goodrich)
 
 <br>
 
@@ -1874,7 +1874,7 @@ In modern Los Angeles, art dealer Andy Goodrich's life transforms when his secon
 <hr>
 
 
-## 50. [The 47 Night Stand](https://serp.ly/@serpmedia/github/amazon/The+47+Night+Stand)
+## 50. [The 47 Night Stand](https://serp.ly/amazon/The+47+Night+Stand)
 
 <br>
 
@@ -1900,7 +1900,7 @@ The 47 Night Stand is a romantic comedy that cleverly subverts audience expectat
 <hr>
 
 
-## 1. [The Boys](https://serp.ly/@serpmedia/github/amazon/The+Boys)
+## 1. [The Boys](https://serp.ly/amazon/The+Boys)
 
 ![The Boys](https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg)
 
@@ -1947,7 +1947,7 @@ In a world where superheroes walk the earth, a ragtag group of vigilantes known 
 <hr>
 
 
-## 2. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 2. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1992,7 +1992,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -2039,7 +2039,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [That '70s Show](https://serp.ly/@serpmedia/github/amazon/That+%2770s+Show)
+## 4. [That '70s Show](https://serp.ly/amazon/That+%2770s+Show)
 
 ![That '70s Show](https://image.tmdb.org/t/p/original/1rzL6DVmCSZ3jzLFon8mhYcRsUK.jpg)
 
@@ -2088,7 +2088,7 @@ Travel back to the decade of disco and denim with "That '70s Show, " a hilarious
 <hr>
 
 
-## 5. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 5. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -2133,7 +2133,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -2176,7 +2176,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 7. [Two and a Half Men](https://serp.ly/@serpmedia/github/amazon/Two+and+a+Half+Men)
+## 7. [Two and a Half Men](https://serp.ly/amazon/Two+and+a+Half+Men)
 
 ![Two and a Half Men](https://image.tmdb.org/t/p/original/xgfjxyV3g1S68opzuvG6G87muDp.jpg)
 
@@ -2221,7 +2221,7 @@ When a successful jingle writer's carefree lifestyle changes overnight with the 
 <hr>
 
 
-## 8. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 8. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -2264,7 +2264,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 9. [The Graham Norton Show](https://serp.ly/@serpmedia/github/amazon/The+Graham+Norton+Show)
+## 9. [The Graham Norton Show](https://serp.ly/amazon/The+Graham+Norton+Show)
 
 ![The Graham Norton Show](https://image.tmdb.org/t/p/original/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg)
 
@@ -2309,7 +2309,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 10. [Curb Your Enthusiasm](https://serp.ly/@serpmedia/github/amazon/Curb+Your+Enthusiasm)
+## 10. [Curb Your Enthusiasm](https://serp.ly/amazon/Curb+Your+Enthusiasm)
 
 ![Curb Your Enthusiasm](https://image.tmdb.org/t/p/original/mZqWmSq1M61Jlre3furVDSXvdrN.jpg)
 
@@ -2356,7 +2356,7 @@ Deep inside you know you're him.
 <hr>
 
 
-## 11. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 11. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -2403,7 +2403,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 12. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 12. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -2446,7 +2446,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 13. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 13. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -2491,7 +2491,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 14. [Baywatch](https://serp.ly/@serpmedia/github/amazon/Baywatch)
+## 14. [Baywatch](https://serp.ly/amazon/Baywatch)
 
 ![Baywatch](https://image.tmdb.org/t/p/original/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg)
 
@@ -2536,7 +2536,7 @@ The Baywatch lifeguards headline an adventurous series that showcases their icon
 <hr>
 
 
-## 15. [The Cleveland Show](https://serp.ly/@serpmedia/github/amazon/The+Cleveland+Show)
+## 15. [The Cleveland Show](https://serp.ly/amazon/The+Cleveland+Show)
 
 ![The Cleveland Show](https://image.tmdb.org/t/p/original/Qp4gvTc5Cp15VBdt77oXKQ54xF.jpg)
 
@@ -2579,7 +2579,7 @@ Join Cleveland Brown and his family on their outrageous adventures through life'
 <hr>
 
 
-## 16. [The Reichen Show](https://serp.ly/@serpmedia/github/amazon/The+Reichen+Show)
+## 16. [The Reichen Show](https://serp.ly/amazon/The+Reichen+Show)
 
 ![The Reichen Show](https://image.tmdb.org/t/p/original/x9fDBKqmmHHUvcaal1Tzw6iqTW.jpg)
 
@@ -2622,7 +2622,7 @@ Join Cleveland Brown and his family on their outrageous adventures through life'
 <hr>
 
 
-## 17. [Robot Chicken](https://serp.ly/@serpmedia/github/amazon/Robot+Chicken)
+## 17. [Robot Chicken](https://serp.ly/amazon/Robot+Chicken)
 
 ![Robot Chicken](https://image.tmdb.org/t/p/original/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg)
 
@@ -2667,7 +2667,7 @@ When an ordinary chicken meets an untimely end, mad scientist Fritz Huhnmorder b
 <hr>
 
 
-## 18. [Walker, Texas Ranger](https://serp.ly/@serpmedia/github/amazon/Walker%2C+Texas+Ranger)
+## 18. [Walker, Texas Ranger](https://serp.ly/amazon/Walker%2C+Texas+Ranger)
 
 ![Walker, Texas Ranger](https://image.tmdb.org/t/p/original/lldKpGEOlHJXMkb1pi7s7xCExmX.jpg)
 
@@ -2710,7 +2710,7 @@ When modern-day Texas Ranger Cordell Walker brings his rugged Old West tradition
 <hr>
 
 
-## 19. [The John Larroquette Show](https://serp.ly/@serpmedia/github/amazon/The+John+Larroquette+Show)
+## 19. [The John Larroquette Show](https://serp.ly/amazon/The+John+Larroquette+Show)
 
 ![The John Larroquette Show](https://image.tmdb.org/t/p/original/4PQmSvqPbLI4lqmwHxZh8W5A1ob.jpg)
 
@@ -2753,7 +2753,7 @@ After his stint as Dan Fielding on Night Court, John Larroquette traded the cour
 <hr>
 
 
-## 20. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 20. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2800,7 +2800,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 21. [Unhappily Ever After](https://serp.ly/@serpmedia/github/amazon/Unhappily+Ever+After)
+## 21. [Unhappily Ever After](https://serp.ly/amazon/Unhappily+Ever+After)
 
 ![Unhappily Ever After](https://image.tmdb.org/t/p/original/b0UUpXSoSWwvkZKFWcDGLQ2xHM5.jpg)
 
@@ -2843,7 +2843,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 22. [Grounded for Life](https://serp.ly/@serpmedia/github/amazon/Grounded+for+Life)
+## 22. [Grounded for Life](https://serp.ly/amazon/Grounded+for+Life)
 
 ![Grounded for Life](https://image.tmdb.org/t/p/original/sbcNGnpZsvZUuyHlGZ5LBbaEH6m.jpg)
 
@@ -2886,7 +2886,7 @@ When 32-year-old Sean Finnerty looks at his life, he's surprised to see where he
 <hr>
 
 
-## 23. [MTV Movie & TV Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Movie+%26+TV+Awards)
+## 23. [MTV Movie & TV Awards](https://serp.ly/amazon/MTV+Movie+%26+TV+Awards)
 
 ![MTV Movie & TV Awards](https://image.tmdb.org/t/p/original/77FuUQrJVO8GcyCpfHBZOICINwm.jpg)
 
@@ -2931,7 +2931,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 24. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 24. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -2976,7 +2976,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 25. [7th Heaven](https://serp.ly/@serpmedia/github/amazon/7th+Heaven)
+## 25. [7th Heaven](https://serp.ly/amazon/7th+Heaven)
 
 ![7th Heaven](https://image.tmdb.org/t/p/original/s6mkZKanKim3VGUIxR2gGGf9jn0.jpg)
 
@@ -3019,7 +3019,7 @@ When it comes to chaos, the Camden household has it all - seven children, numero
 <hr>
 
 
-## 26. [That '90s Show](https://serp.ly/@serpmedia/github/amazon/That+%2790s+Show)
+## 26. [That '90s Show](https://serp.ly/amazon/That+%2790s+Show)
 
 ![That '90s Show](https://image.tmdb.org/t/p/original/nZcufEuqZqNYMx6mNjlh2rmjDqx.jpg)
 
@@ -3066,7 +3066,7 @@ It's 1995 in Point Place, Wisconsin, and Leia Forman is spending her summer visi
 <hr>
 
 
-## 27. [Punk'd](https://serp.ly/@serpmedia/github/amazon/Punk%27d)
+## 27. [Punk'd](https://serp.ly/amazon/Punk%27d)
 
 ![Punk'd](https://image.tmdb.org/t/p/original/sqcaFHnnJU1nIbUikN3cpm9Mjn9.jpg)
 
@@ -3109,7 +3109,7 @@ When the biggest stars in the world get too high on the Hollywood hog, Master pr
 <hr>
 
 
-## 28. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 28. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -3154,7 +3154,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 29. [Get Real](https://serp.ly/@serpmedia/github/amazon/Get+Real)
+## 29. [Get Real](https://serp.ly/amazon/Get+Real)
 
 ![Get Real](https://image.tmdb.org/t/p/original/2JkgetFDwf1yvQ0ANXZTlpWE8w3.jpg)
 
@@ -3197,7 +3197,7 @@ When the Green family of Los Angeles sits down for dinner, their personalities t
 <hr>
 
 
-## 30. [Delirium](https://serp.ly/@serpmedia/github/amazon/Delirium)
+## 30. [Delirium](https://serp.ly/amazon/Delirium)
 
 ![Delirium](https://image.tmdb.org/t/p/original/ognhEEPaAmki6G0qx9Jn06cn2CL.jpg)
 
@@ -3241,7 +3241,7 @@ In a world where love is illegal and can be surgically removed, Lena Holoway has
 <hr>
 
 
-## 31. [Last Call with Carson Daly](https://serp.ly/@serpmedia/github/amazon/Last+Call+with+Carson+Daly)
+## 31. [Last Call with Carson Daly](https://serp.ly/amazon/Last+Call+with+Carson+Daly)
 
 ![Last Call with Carson Daly](https://image.tmdb.org/t/p/original/8Zw7Bqx0QcncLOiyO0D4kliljPw.jpg)
 
@@ -3286,7 +3286,7 @@ Revisit a golden age of late-night television with "Last Call with Carson Daly, 
 <hr>
 
 
-## 32. [Hudson Street](https://serp.ly/@serpmedia/github/amazon/Hudson+Street)
+## 32. [Hudson Street](https://serp.ly/amazon/Hudson+Street)
 
 ![Hudson Street](https://image.tmdb.org/t/p/original/lWYuo0EbYTsCM53mINgD7o8Q0ie.jpg)
 
@@ -3329,7 +3329,7 @@ When Tony Canetti, a divorced detective in Hoboken, New Jersey, isn't working ca
 <hr>
 
 
-## 33. [MADtv](https://serp.ly/@serpmedia/github/amazon/MADtv)
+## 33. [MADtv](https://serp.ly/amazon/MADtv)
 
 ![MADtv](https://image.tmdb.org/t/p/original/4tXHrqYbETym7Def99MeXrpPyRA.jpg)
 
@@ -3372,7 +3372,7 @@ MADtv takes its humorous inspiration from the iconic Mad magazine, bringing an h
 <hr>
 
 
-## 34. [Sammy](https://serp.ly/@serpmedia/github/amazon/Sammy)
+## 34. [Sammy](https://serp.ly/amazon/Sammy)
 
 ![Sammy](https://image.tmdb.org/t/p/original/h2184GKNxBKY5IOoISP5P9Gx9yy.jpg)
 
@@ -3415,7 +3415,7 @@ When James Blake becomes a TV star, his absent father Sammy returns to freeload 
 <hr>
 
 
-## 35. [Teen Choice Awards](https://serp.ly/@serpmedia/github/amazon/Teen+Choice+Awards)
+## 35. [Teen Choice Awards](https://serp.ly/amazon/Teen+Choice+Awards)
 
 ![Teen Choice Awards](https://image.tmdb.org/t/p/original/3q900BNcKbe3GHga4RVxSnoiqP4.jpg)
 

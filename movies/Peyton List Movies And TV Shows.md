@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Batman: Hush](https://serp.ly/@serpmedia/github/amazon/Batman%3A+Hush)
+## 1. [Batman: Hush](https://serp.ly/amazon/Batman%3A+Hush)
 
 ![Batman: Hush](https://image.tmdb.org/t/p/original/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg)
 
@@ -73,7 +73,7 @@ Bruce Wayne's meticulously constructed dual life takes an unexpected turn with t
 <hr>
 
 
-## 2. [The Greatest Game Ever Played](https://serp.ly/@serpmedia/github/amazon/The+Greatest+Game+Ever+Played)
+## 2. [The Greatest Game Ever Played](https://serp.ly/amazon/The+Greatest+Game+Ever+Played)
 
 ![The Greatest Game Ever Played](https://image.tmdb.org/t/p/original/egn7jAF9fTca9YvBgbc30CrkU3E.jpg)
 
@@ -114,7 +114,7 @@ In 1905, a young Francis Ouimet, just 20 years old, achieved the unthinkable. Pl
 <hr>
 
 
-## 3. [Meeting Evil](https://serp.ly/@serpmedia/github/amazon/Meeting+Evil)
+## 3. [Meeting Evil](https://serp.ly/amazon/Meeting+Evil)
 
 ![Meeting Evil](https://image.tmdb.org/t/p/original/aGbgCFTN7zUFF6NddoQC8L883HP.jpg)
 
@@ -153,7 +153,7 @@ When ordinary family man John crosses paths with the enigmatic Richie, their cha
 <hr>
 
 
-## 4. [Shuttle](https://serp.ly/@serpmedia/github/amazon/Shuttle)
+## 4. [Shuttle](https://serp.ly/amazon/Shuttle)
 
 ![Shuttle](https://image.tmdb.org/t/p/original/xZWYVT0YC5kDf6fetNAAifN1aAx.jpg)
 
@@ -189,7 +189,7 @@ When two friends return from a girls' weekend in Mexico, they find themselves st
 <hr>
 
 
-## 5. [A Maple Valley Christmas](https://serp.ly/@serpmedia/github/amazon/A+Maple+Valley+Christmas)
+## 5. [A Maple Valley Christmas](https://serp.ly/amazon/A+Maple+Valley+Christmas)
 
 ![A Maple Valley Christmas](https://image.tmdb.org/t/p/original/qLqT1uazzih2dn5PVSiqPDAx0l4.jpg)
 
@@ -225,7 +225,7 @@ In the picturesque town of Maple Valley, Erica runs a family ranch with her moth
 <hr>
 
 
-## 6. [Spinning Gold](https://serp.ly/@serpmedia/github/amazon/Spinning+Gold)
+## 6. [Spinning Gold](https://serp.ly/amazon/Spinning+Gold)
 
 ![Spinning Gold](https://image.tmdb.org/t/p/original/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg)
 
@@ -263,7 +263,7 @@ To make hit records, Casablanca Records broke every rule
 <hr>
 
 
-## 7. [Deep Winter](https://serp.ly/@serpmedia/github/amazon/Deep+Winter)
+## 7. [Deep Winter](https://serp.ly/amazon/Deep+Winter)
 
 ![Deep Winter](https://image.tmdb.org/t/p/original/wx4PprxTSL0wLI6TWTIy6gKU4P6.jpg)
 
@@ -297,7 +297,7 @@ To make hit records, Casablanca Records broke every rule
 <hr>
 
 
-## 8. [Mission Control](https://serp.ly/@serpmedia/github/amazon/Mission+Control)
+## 8. [Mission Control](https://serp.ly/amazon/Mission+Control)
 
 <br>
 
@@ -321,7 +321,7 @@ To make hit records, Casablanca Records broke every rule
 <hr>
 
 
-## 9. [RIDE THE TIGER](https://serp.ly/@serpmedia/github/amazon/RIDE+THE+TIGER)
+## 9. [RIDE THE TIGER](https://serp.ly/amazon/RIDE+THE+TIGER)
 
 ![RIDE THE TIGER](https://image.tmdb.org/t/p/original/jIr5kRoLoCRFVocAktF5yYT4Ebb.jpg)
 
@@ -354,7 +354,7 @@ TAKE THAT TIGER OUTSIDE FOR A RIDE...
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -400,7 +400,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 2. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -442,7 +442,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 3. [The Flash](https://serp.ly/@serpmedia/github/amazon/The+Flash)
+## 3. [The Flash](https://serp.ly/amazon/The+Flash)
 
 ![The Flash](https://image.tmdb.org/t/p/original/yZevl2vHQgmosfwUdVNzviIfaWS.jpg)
 
@@ -486,7 +486,7 @@ When CSI investigator Barry Allen wakes from a nine-month coma after a lightning
 <hr>
 
 
-## 4. [Without a Trace](https://serp.ly/@serpmedia/github/amazon/Without+a+Trace)
+## 4. [Without a Trace](https://serp.ly/amazon/Without+a+Trace)
 
 ![Without a Trace](https://image.tmdb.org/t/p/original/iNhE283iY7xtS8zCjhSxpTfOzn0.jpg)
 
@@ -528,7 +528,7 @@ When people vanish without a trace in New York City, a specialized FBI unit is c
 <hr>
 
 
-## 5. [One Tree Hill](https://serp.ly/@serpmedia/github/amazon/One+Tree+Hill)
+## 5. [One Tree Hill](https://serp.ly/amazon/One+Tree+Hill)
 
 ![One Tree Hill](https://image.tmdb.org/t/p/original/sOrelBaAhp7DZbPTivDwKEyPslC.jpg)
 
@@ -572,7 +572,7 @@ In Tree Hill, North Carolina, two half brothers share a last name but nothing el
 <hr>
 
 
-## 6. [The Rookie](https://serp.ly/@serpmedia/github/amazon/The+Rookie)
+## 6. [The Rookie](https://serp.ly/amazon/The+Rookie)
 
 ![The Rookie](https://image.tmdb.org/t/p/original/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg)
 
@@ -618,7 +618,7 @@ When small-town guy John Nolan decides to pursue his dream of becoming an LAPD o
 <hr>
 
 
-## 7. [CSI: Miami](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Miami)
+## 7. [CSI: Miami](https://serp.ly/amazon/CSI%3A+Miami)
 
 ![CSI: Miami](https://image.tmdb.org/t/p/original/pNW64pjaHvf6purNaFhq4SHYRfl.jpg)
 
@@ -660,7 +660,7 @@ Join the Miami-Dade Police Department's top Crime Scene Investigators as they tr
 <hr>
 
 
-## 8. [Monk](https://serp.ly/@serpmedia/github/amazon/Monk)
+## 8. [Monk](https://serp.ly/amazon/Monk)
 
 ![Monk](https://image.tmdb.org/t/p/original/3axGMbUecXXOPSeG47v2i9wK5y5.jpg)
 
@@ -704,7 +704,7 @@ When a brilliant detective loses his wife to a mysterious murder, his grief tran
 <hr>
 
 
-## 9. [Smallville](https://serp.ly/@serpmedia/github/amazon/Smallville)
+## 9. [Smallville](https://serp.ly/amazon/Smallville)
 
 ![Smallville](https://image.tmdb.org/t/p/original/aznhgiLDoxD3LWFY5USjJ4eewtL.jpg)
 
@@ -748,7 +748,7 @@ In "Smallville", we follow the incredible journey of Kal-el, a young refugee fro
 <hr>
 
 
-## 10. [Sex and the City](https://serp.ly/@serpmedia/github/amazon/Sex+and+the+City)
+## 10. [Sex and the City](https://serp.ly/amazon/Sex+and+the+City)
 
 ![Sex and the City](https://image.tmdb.org/t/p/original/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg)
 
@@ -794,7 +794,7 @@ Sex and the City invites you into the stylish world of four late-thirtysomething
 <hr>
 
 
-## 11. [Star Trek: Picard](https://serp.ly/@serpmedia/github/amazon/Star+Trek%3A+Picard)
+## 11. [Star Trek: Picard](https://serp.ly/amazon/Star+Trek%3A+Picard)
 
 ![Star Trek: Picard](https://image.tmdb.org/t/p/original/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg)
 
@@ -838,7 +838,7 @@ Twenty years after the events of Star Trek Nemesis, we find Admiral Picard retir
 <hr>
 
 
-## 12. [Gotham](https://serp.ly/@serpmedia/github/amazon/Gotham)
+## 12. [Gotham](https://serp.ly/amazon/Gotham)
 
 ![Gotham](https://image.tmdb.org/t/p/original/2knM0D9yGrnUgECWfj6OSJl4Poa.jpg)
 
@@ -882,7 +882,7 @@ In a city where corruption runs deep and justice is a luxury, one detective rise
 <hr>
 
 
-## 13. [NCIS: Hawai'i](https://serp.ly/@serpmedia/github/amazon/NCIS%3A+Hawai%27i)
+## 13. [NCIS: Hawai'i](https://serp.ly/amazon/NCIS%3A+Hawai%27i)
 
 ![NCIS: Hawai'i](https://image.tmdb.org/t/p/original/4R8xtDx2ge0GjEOnEwoR8V8X82q.jpg)
 
@@ -924,7 +924,7 @@ When the first female Special Agent in Charge of NCIS Pearl Harbor takes her unw
 <hr>
 
 
-## 14. [Ghost Whisperer](https://serp.ly/@serpmedia/github/amazon/Ghost+Whisperer)
+## 14. [Ghost Whisperer](https://serp.ly/amazon/Ghost+Whisperer)
 
 ![Ghost Whisperer](https://image.tmdb.org/t/p/original/nIboXXCporMO9Xskq7Rsf45Z6qW.jpg)
 
@@ -968,7 +968,7 @@ Melinda Gordon channelsmessages from the other side to help resolve conflicts be
 <hr>
 
 
-## 15. [CSI: NY](https://serp.ly/@serpmedia/github/amazon/CSI%3A+NY)
+## 15. [CSI: NY](https://serp.ly/amazon/CSI%3A+NY)
 
 ![CSI: NY](https://image.tmdb.org/t/p/original/xqiTpKqKhBwcBWh9jUm7anyatzD.jpg)
 
@@ -1012,7 +1012,7 @@ When a crime hits New York City, the detectives at the scene have backup from an
 <hr>
 
 
-## 16. [Mad Men](https://serp.ly/@serpmedia/github/amazon/Mad+Men)
+## 16. [Mad Men](https://serp.ly/amazon/Mad+Men)
 
 ![Mad Men](https://image.tmdb.org/t/p/original/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg)
 
@@ -1056,7 +1056,7 @@ Where the truth lies.
 <hr>
 
 
-## 17. [House of Lies](https://serp.ly/@serpmedia/github/amazon/House+of+Lies)
+## 17. [House of Lies](https://serp.ly/amazon/House+of+Lies)
 
 ![House of Lies](https://image.tmdb.org/t/p/original/xrrNWeMC9p2J0fEUCYYsyA67EdB.jpg)
 
@@ -1100,7 +1100,7 @@ Marty Kaan and his team of management consultants navigate the cutthroat world o
 <hr>
 
 
-## 18. [Colony](https://serp.ly/@serpmedia/github/amazon/Colony)
+## 18. [Colony](https://serp.ly/amazon/Colony)
 
 ![Colony](https://image.tmdb.org/t/p/original/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg)
 
@@ -1142,7 +1142,7 @@ In a not-so-distant future, Los Angeles becomes ground zero for an epic story of
 <hr>
 
 
-## 19. [90210](https://serp.ly/@serpmedia/github/amazon/90210)
+## 19. [90210](https://serp.ly/amazon/90210)
 
 ![90210](https://image.tmdb.org/t/p/original/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg)
 
@@ -1186,7 +1186,7 @@ When the Wilson family moves from Kansas to Beverly Hills, their two teenage chi
 <hr>
 
 
-## 20. [Charmed](https://serp.ly/@serpmedia/github/amazon/Charmed)
+## 20. [Charmed](https://serp.ly/amazon/Charmed)
 
 ![Charmed](https://image.tmdb.org/t/p/original/doXHjfOtEmX8kEq1tsMnNqq9YLZ.jpg)
 
@@ -1232,7 +1232,7 @@ When their mother passes away, three college sisters - Macy, Mel, and Maggie Ver
 <hr>
 
 
-## 21. [Blade Runner: Black Lotus](https://serp.ly/@serpmedia/github/amazon/Blade+Runner%3A+Black+Lotus)
+## 21. [Blade Runner: Black Lotus](https://serp.ly/amazon/Blade+Runner%3A+Black+Lotus)
 
 ![Blade Runner: Black Lotus](https://image.tmdb.org/t/p/original/aR06SJRDGqRmGQYXAXqeOkRZq7T.jpg)
 
@@ -1274,7 +1274,7 @@ In a neon-lit future where secrets and skills emerge from the shadows, a young w
 <hr>
 
 
-## 22. [FlashForward](https://serp.ly/@serpmedia/github/amazon/FlashForward)
+## 22. [FlashForward](https://serp.ly/amazon/FlashForward)
 
 ![FlashForward](https://image.tmdb.org/t/p/original/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg)
 
@@ -1318,7 +1318,7 @@ When the world blacks out for two minutes and seventeen seconds, everyone sees a
 <hr>
 
 
-## 23. [Frequency](https://serp.ly/@serpmedia/github/amazon/Frequency)
+## 23. [Frequency](https://serp.ly/amazon/Frequency)
 
 ![Frequency](https://image.tmdb.org/t/p/original/lf0LWiJHCgXRJTVkV2svAtYGInA.jpg)
 
@@ -1362,7 +1362,7 @@ When Detective Raimy Sullivan's old ham radio crackles to life, she's shocked to
 <hr>
 
 
-## 24. [Moonlight](https://serp.ly/@serpmedia/github/amazon/Moonlight)
+## 24. [Moonlight](https://serp.ly/amazon/Moonlight)
 
 ![Moonlight](https://image.tmdb.org/t/p/original/3rWk9g0Oup5WHcrpjvw5zW1WhLc.jpg)
 
@@ -1404,7 +1404,7 @@ Moonlight invites you to meet Mick St. John, a charismatic private investigator 
 <hr>
 
 
-## 25. [Charlie's Angels](https://serp.ly/@serpmedia/github/amazon/Charlie%27s+Angels)
+## 25. [Charlie's Angels](https://serp.ly/amazon/Charlie%27s+Angels)
 
 ![Charlie's Angels](https://image.tmdb.org/t/p/original/4UiQ46T777kvKJCx9F9DAI3HajP.jpg)
 
@@ -1448,7 +1448,7 @@ When three unconventional women work for the mysterious Charlie Townsend, their 
 <hr>
 
 
-## 26. [The Tomorrow People](https://serp.ly/@serpmedia/github/amazon/The+Tomorrow+People)
+## 26. [The Tomorrow People](https://serp.ly/amazon/The+Tomorrow+People)
 
 ![The Tomorrow People](https://image.tmdb.org/t/p/original/3EavFY6TuhDm4ERbDGrZ1oEqB57.jpg)
 
@@ -1492,7 +1492,7 @@ The Tomorrow People follows a diverse group of young individuals who embody the 
 <hr>
 
 
-## 27. [Day Break](https://serp.ly/@serpmedia/github/amazon/Day+Break)
+## 27. [Day Break](https://serp.ly/amazon/Day+Break)
 
 ![Day Break](https://image.tmdb.org/t/p/original/hYvpkSzMtCL5N5hTPKzGtsh70Yy.jpg)
 
@@ -1534,7 +1534,7 @@ Day Break is a distinctive TV series centered on Detective Brett Hopper, who fin
 <hr>
 
 
-## 28. [Windfall](https://serp.ly/@serpmedia/github/amazon/Windfall)
+## 28. [Windfall](https://serp.ly/amazon/Windfall)
 
 ![Windfall](https://image.tmdb.org/t/p/original/9DGRb9NAu9Awy5MA2mxGTxbaupr.jpg)
 
@@ -1576,7 +1576,7 @@ When a small city's residents win $398 million in the lottery, their lives chang
 <hr>
 
 
-## 29. [Big Shots](https://serp.ly/@serpmedia/github/amazon/Big+Shots)
+## 29. [Big Shots](https://serp.ly/amazon/Big+Shots)
 
 ![Big Shots](https://image.tmdb.org/t/p/original/ztJVBy8C5afXpSh6sdzxIcnHuix.jpg)
 
@@ -1618,7 +1618,7 @@ When four powerful CEOs become friends, their personal and professional lives in
 <hr>
 
 
-## 30. [Blood & Oil](https://serp.ly/@serpmedia/github/amazon/Blood+%26+Oil)
+## 30. [Blood & Oil](https://serp.ly/amazon/Blood+%26+Oil)
 
 ![Blood & Oil](https://image.tmdb.org/t/p/original/ch0Kbx9uSOJvZyX7Xx1wzTMOIAa.jpg)
 

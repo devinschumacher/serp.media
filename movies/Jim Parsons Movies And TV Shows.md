@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Hidden Figures](https://serp.ly/@serpmedia/github/amazon/Hidden+Figures)
+## 1. [Hidden Figures](https://serp.ly/amazon/Hidden+Figures)
 
 ![Hidden Figures](https://image.tmdb.org/t/p/original/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg)
 
@@ -80,7 +80,7 @@ Hidden Figures chronicles the exceptional contributions of three African-America
 <hr>
 
 
-## 2. [Home](https://serp.ly/@serpmedia/github/amazon/Home)
+## 2. [Home](https://serp.ly/amazon/Home)
 
 ![Home](https://image.tmdb.org/t/p/original/usFenYnk6mr8C62dB1MoAfSWMGR.jpg)
 
@@ -123,7 +123,7 @@ When Earth is taken over by the Boov, an alien race in search of a new home, all
 <hr>
 
 
-## 3. [Extremely Wicked, Shockingly Evil and Vile](https://serp.ly/@serpmedia/github/amazon/Extremely+Wicked%2C+Shockingly+Evil+and+Vile)
+## 3. [Extremely Wicked, Shockingly Evil and Vile](https://serp.ly/amazon/Extremely+Wicked%2C+Shockingly+Evil+and+Vile)
 
 ![Extremely Wicked, Shockingly Evil and Vile](https://image.tmdb.org/t/p/original/a7dVwEBU3vupg3hZQMeyL6ksz0F.jpg)
 
@@ -159,7 +159,7 @@ The story behind America's most notorious serial killer.
 <hr>
 
 
-## 4. [Garden State](https://serp.ly/@serpmedia/github/amazon/Garden+State)
+## 4. [Garden State](https://serp.ly/amazon/Garden+State)
 
 ![Garden State](https://image.tmdb.org/t/p/original/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg)
 
@@ -200,7 +200,7 @@ When Andrew returns to his hometown for his mother's funeral, he makes a calcula
 <hr>
 
 
-## 5. [The Muppets](https://serp.ly/@serpmedia/github/amazon/The+Muppets)
+## 5. [The Muppets](https://serp.ly/amazon/The+Muppets)
 
 ![The Muppets](https://image.tmdb.org/t/p/original/rsNbxonO8gtylIXwiv7JeqwJ4Kb.jpg)
 
@@ -243,7 +243,7 @@ Join Kermit the Frog and the Muppets in their biggest adventure yet. When their 
 <hr>
 
 
-## 6. [The Normal Heart](https://serp.ly/@serpmedia/github/amazon/The+Normal+Heart)
+## 6. [The Normal Heart](https://serp.ly/amazon/The+Normal+Heart)
 
 ![The Normal Heart](https://image.tmdb.org/t/p/original/3dfoCGiD61568Uu8wyiK7SMEZAu.jpg)
 
@@ -279,7 +279,7 @@ In the early 1980s, New York City becomes the epicenter of a burgeoning HIV/AIDS
 <hr>
 
 
-## 7. [Wish I Was Here](https://serp.ly/@serpmedia/github/amazon/Wish+I+Was+Here)
+## 7. [Wish I Was Here](https://serp.ly/amazon/Wish+I+Was+Here)
 
 ![Wish I Was Here](https://image.tmdb.org/t/p/original/hDDXIWLBS6rNPJS4tQvEXWxGXjK.jpg)
 
@@ -322,7 +322,7 @@ When his father falls ill, 35-year-old actor Aidan Bloom must home-school his tw
 <hr>
 
 
-## 8. [The Big Year](https://serp.ly/@serpmedia/github/amazon/The+Big+Year)
+## 8. [The Big Year](https://serp.ly/amazon/The+Big+Year)
 
 ![The Big Year](https://image.tmdb.org/t/p/original/q6Pr8fWKh664seri2MaQeIJ6eSI.jpg)
 
@@ -362,7 +362,7 @@ When three passionate bird-watchers set out to compete for the highest species c
 <hr>
 
 
-## 9. [The Boys in the Band](https://serp.ly/@serpmedia/github/amazon/The+Boys+in+the+Band)
+## 9. [The Boys in the Band](https://serp.ly/amazon/The+Boys+in+the+Band)
 
 ![The Boys in the Band](https://image.tmdb.org/t/p/original/2D2gi13hnrXWaspWuWmdbEZ8bef.jpg)
 
@@ -399,7 +399,7 @@ In 1968 New York, seven gay friends gather for a birthday celebration that turns
 <hr>
 
 
-## 10. [Visions](https://serp.ly/@serpmedia/github/amazon/Visions)
+## 10. [Visions](https://serp.ly/amazon/Visions)
 
 ![Visions](https://image.tmdb.org/t/p/original/3J7jwx3Cre1neDIs7YyAXy4ICc4.jpg)
 
@@ -437,7 +437,7 @@ After relocating to a vineyard with her family, a pregnant woman begins to exper
 <hr>
 
 
-## 11. [School for Scoundrels](https://serp.ly/@serpmedia/github/amazon/School+for+Scoundrels)
+## 11. [School for Scoundrels](https://serp.ly/amazon/School+for+Scoundrels)
 
 ![School for Scoundrels](https://image.tmdb.org/t/p/original/6SPeiQfuECcdQeKUh4ahMjtW0tZ.jpg)
 
@@ -480,7 +480,7 @@ When a young guy short on confidence enrolls in a class to win over his dream gi
 <hr>
 
 
-## 12. [10 Items or Less](https://serp.ly/@serpmedia/github/amazon/10+Items+or+Less)
+## 12. [10 Items or Less](https://serp.ly/amazon/10+Items+or+Less)
 
 ![10 Items or Less](https://image.tmdb.org/t/p/original/2MBxFTeRe4m7DC49PmIkMXMjMEO.jpg)
 
@@ -521,7 +521,7 @@ When an actor visits a grocery store in Los Angeles for research, he gets more t
 <hr>
 
 
-## 13. [For the Love of Spock](https://serp.ly/@serpmedia/github/amazon/For+the+Love+of+Spock)
+## 13. [For the Love of Spock](https://serp.ly/amazon/For+the+Love+of+Spock)
 
 ![For the Love of Spock](https://image.tmdb.org/t/p/original/1pDgqNx9GdW82QJU4Rc6egT3YAG.jpg)
 
@@ -560,7 +560,7 @@ Live long...
 <hr>
 
 
-## 14. [Spoiler Alert](https://serp.ly/@serpmedia/github/amazon/Spoiler+Alert)
+## 14. [Spoiler Alert](https://serp.ly/amazon/Spoiler+Alert)
 
 ![Spoiler Alert](https://image.tmdb.org/t/p/original/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg)
 
@@ -599,7 +599,7 @@ When Kit Cowan receives a terminal cancer diagnosis, he and his longtime partner
 <hr>
 
 
-## 15. [A Kid Like Jake](https://serp.ly/@serpmedia/github/amazon/A+Kid+Like+Jake)
+## 15. [A Kid Like Jake](https://serp.ly/amazon/A+Kid+Like+Jake)
 
 ![A Kid Like Jake](https://image.tmdb.org/t/p/original/xb0lsEUyytspi7fo1ggDybRvZVK.jpg)
 
@@ -636,7 +636,7 @@ When New York City kindergarten applications become available, Alex and Greg Whe
 <hr>
 
 
-## 16. [Michael Jackson's Halloween](https://serp.ly/@serpmedia/github/amazon/Michael+Jackson%27s+Halloween)
+## 16. [Michael Jackson's Halloween](https://serp.ly/amazon/Michael+Jackson%27s+Halloween)
 
 ![Michael Jackson's Halloween](https://image.tmdb.org/t/p/original/9pNSxJsK32pfl5x2fl1HcwOUjV2.jpg)
 
@@ -670,7 +670,7 @@ This animated special follows Vincent and Victoria on a magical journey of self-
 <hr>
 
 
-## 17. [Heights](https://serp.ly/@serpmedia/github/amazon/Heights)
+## 17. [Heights](https://serp.ly/amazon/Heights)
 
 ![Heights](https://image.tmdb.org/t/p/original/pMXCgZjJiHnXtBCdKM9WbKqYmbK.jpg)
 
@@ -709,7 +709,7 @@ On a fall day in New York City, photographer Isabel's doubts about her upcoming 
 <hr>
 
 
-## 18. [The Boys in the Band: Something Personal](https://serp.ly/@serpmedia/github/amazon/The+Boys+in+the+Band%3A+Something+Personal)
+## 18. [The Boys in the Band: Something Personal](https://serp.ly/amazon/The+Boys+in+the+Band%3A+Something+Personal)
 
 ![The Boys in the Band: Something Personal](https://image.tmdb.org/t/p/original/mGu4RHBAeOxdRW8ADzfbcrqlAOS.jpg)
 
@@ -743,7 +743,7 @@ Decades after his groundbreaking play brought gay life to center stage, Mart Cro
 <hr>
 
 
-## 19. [Gardener of Eden](https://serp.ly/@serpmedia/github/amazon/Gardener+of+Eden)
+## 19. [Gardener of Eden](https://serp.ly/amazon/Gardener+of+Eden)
 
 ![Gardener of Eden](https://image.tmdb.org/t/p/original/6Vq91cEOicwNKMqlLtYmg1WPdW.jpg)
 
@@ -777,7 +777,7 @@ In a small New Jersey town, a young deli-counter clerk's mundane life takes an u
 <hr>
 
 
-## 20. [Elf: Buddy's Musical Christmas](https://serp.ly/@serpmedia/github/amazon/Elf%3A+Buddy%27s+Musical+Christmas)
+## 20. [Elf: Buddy's Musical Christmas](https://serp.ly/amazon/Elf%3A+Buddy%27s+Musical+Christmas)
 
 ![Elf: Buddy's Musical Christmas](https://image.tmdb.org/t/p/original/injeUnNgrvt7Laui6wOEEISxeWe.jpg)
 
@@ -818,7 +818,7 @@ When Santa Claus tells the magical story of Buddy's journey to New York City to 
 <hr>
 
 
-## 21. [The Great New Wonderful](https://serp.ly/@serpmedia/github/amazon/The+Great+New+Wonderful)
+## 21. [The Great New Wonderful](https://serp.ly/amazon/The+Great+New+Wonderful)
 
 ![The Great New Wonderful](https://image.tmdb.org/t/p/original/x19ukByMbUdVk5DP0qm1LWmNzqe.jpg)
 
@@ -855,7 +855,7 @@ The Great New Wonderful weaves five distinctive stories against the backdrop of 
 <hr>
 
 
-## 22. [Must See TV: An All Star Tribute to James Burrows](https://serp.ly/@serpmedia/github/amazon/Must+See+TV%3A+An+All+Star+Tribute+to+James+Burrows)
+## 22. [Must See TV: An All Star Tribute to James Burrows](https://serp.ly/amazon/Must+See+TV%3A+An+All+Star+Tribute+to+James+Burrows)
 
 ![Must See TV: An All Star Tribute to James Burrows](https://image.tmdb.org/t/p/original/wLdBrJBywEBHTaoF1XrKHk1oj3Y.jpg)
 
@@ -889,7 +889,7 @@ When it comes to comedy direction, James Burrows has done it all - from the cozy
 <hr>
 
 
-## 23. [On the Road with Judas](https://serp.ly/@serpmedia/github/amazon/On+the+Road+with+Judas)
+## 23. [On the Road with Judas](https://serp.ly/amazon/On+the+Road+with+Judas)
 
 <br>
 
@@ -923,7 +923,7 @@ In this 2007 thriller, a New York businessman leads a double life as a computer 
 <hr>
 
 
-## 24. [Sunset Stories](https://serp.ly/@serpmedia/github/amazon/Sunset+Stories)
+## 24. [Sunset Stories](https://serp.ly/amazon/Sunset+Stories)
 
 ![Sunset Stories](https://image.tmdb.org/t/p/original/smm3IHxa679YKHqkJaPdVBERfUF.jpg)
 
@@ -961,7 +961,7 @@ When two strangers' paths cross in Los Angeles, their lives become oddly intertw
 <hr>
 
 
-## 25. [Truman & Tennessee: An Intimate Conversation](https://serp.ly/@serpmedia/github/amazon/Truman+%26+Tennessee%3A+An+Intimate+Conversation)
+## 25. [Truman & Tennessee: An Intimate Conversation](https://serp.ly/amazon/Truman+%26+Tennessee%3A+An+Intimate+Conversation)
 
 ![Truman & Tennessee: An Intimate Conversation](https://image.tmdb.org/t/p/original/yBLui5HtiyAFWQqVXjqSdJeRLdv.jpg)
 
@@ -995,7 +995,7 @@ Two literary giants of the 20th century, Truman Capote and Tennessee Williams, f
 <hr>
 
 
-## 26. [Harvey](https://serp.ly/@serpmedia/github/amazon/Harvey)
+## 26. [Harvey](https://serp.ly/amazon/Harvey)
 
 ![Harvey](https://image.tmdb.org/t/p/original/tcdswDSVCmAkXQDcN7ajcfALXTc.jpg)
 
@@ -1023,7 +1023,7 @@ Elwood P. Dowd has only one character flaw: an unwavering friendship with a six-
 <hr>
 
 
-## 27. [Brother Orange](https://serp.ly/@serpmedia/github/amazon/Brother+Orange)
+## 27. [Brother Orange](https://serp.ly/amazon/Brother+Orange)
 
 <br>
 
@@ -1044,7 +1044,7 @@ When BuzzFeed editor Matt Stopera's iPhone is stolen in 2014, he expects to neve
 <hr>
 
 
-## 28. [Harvey](https://serp.ly/@serpmedia/github/amazon/Harvey)
+## 28. [Harvey](https://serp.ly/amazon/Harvey)
 
 ![Harvey](https://image.tmdb.org/t/p/original/rozL0N6s6JgVIvECxiZDI6IsYfC.jpg)
 
@@ -1072,7 +1072,7 @@ When two-time Emmy® winner Jim Parsons returns to Broadway as Elwood P. Dowd in
 <hr>
 
 
-## 29. [Just by Looking at Him](https://serp.ly/@serpmedia/github/amazon/Just+by+Looking+at+Him)
+## 29. [Just by Looking at Him](https://serp.ly/amazon/Just+by+Looking+at+Him)
 
 ![Just by Looking at Him](https://image.tmdb.org/t/p/original/52aOWPmY21rKTK7QUn32g57G1Zs.jpg)
 
@@ -1095,7 +1095,7 @@ When it comes to finding love and connection, Elliot is in for a wild ride throu
 <hr>
 
 
-## 30. [Jordageddon](https://serp.ly/@serpmedia/github/amazon/Jordageddon)
+## 30. [Jordageddon](https://serp.ly/amazon/Jordageddon)
 
 ![Jordageddon](https://image.tmdb.org/t/p/original/pB6qdJPzOaROVHn9hvHIPpp0WZG.jpg)
 
@@ -1127,7 +1127,7 @@ In "Jordageddon", an Italian production released in 2023, the screen comes to li
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1173,7 +1173,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1219,7 +1219,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [Young Sheldon](https://serp.ly/@serpmedia/github/amazon/Young+Sheldon)
+## 3. [Young Sheldon](https://serp.ly/amazon/Young+Sheldon)
 
 ![Young Sheldon](https://image.tmdb.org/t/p/original/tKwjkqTSq5fJdSxIk4yOh61tOKD.jpg)
 
@@ -1263,7 +1263,7 @@ It all started with a big bang...or rather, in East Texas.
 <hr>
 
 
-## 4. [The Daily Show](https://serp.ly/@serpmedia/github/amazon/The+Daily+Show)
+## 4. [The Daily Show](https://serp.ly/amazon/The+Daily+Show)
 
 ![The Daily Show](https://image.tmdb.org/t/p/original/ixcfyK7it6FjRM36Te4OdblAq4X.jpg)
 
@@ -1309,7 +1309,7 @@ When news breaks, The Daily Show's fake news team is the first to fix it. Join t
 <hr>
 
 
-## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1353,7 +1353,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -1395,7 +1395,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 7. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 7. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -1437,7 +1437,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 8. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 8. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -1483,7 +1483,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 9. [Real Time with Bill Maher](https://serp.ly/@serpmedia/github/amazon/Real+Time+with+Bill+Maher)
+## 9. [Real Time with Bill Maher](https://serp.ly/amazon/Real+Time+with+Bill+Maher)
 
 ![Real Time with Bill Maher](https://image.tmdb.org/t/p/original/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg)
 
@@ -1529,7 +1529,7 @@ Revisit a golden age of television with "Real Time with Bill Maher, " the talk s
 <hr>
 
 
-## 10. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 10. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -1577,7 +1577,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 11. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 11. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1619,7 +1619,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 12. [The Big Bang Theory](https://serp.ly/@serpmedia/github/amazon/The+Big+Bang+Theory)
+## 12. [The Big Bang Theory](https://serp.ly/amazon/The+Big+Bang+Theory)
 
 ![The Big Bang Theory](https://image.tmdb.org/t/p/original/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg)
 
@@ -1663,7 +1663,7 @@ When physicist Leonard Hofstadter moves into an apartment next to the charming b
 <hr>
 
 
-## 13. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 13. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -1709,7 +1709,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 14. [Hollywood Medium with Tyler Henry](https://serp.ly/@serpmedia/github/amazon/Hollywood+Medium+with+Tyler+Henry)
+## 14. [Hollywood Medium with Tyler Henry](https://serp.ly/amazon/Hollywood+Medium+with+Tyler+Henry)
 
 ![Hollywood Medium with Tyler Henry](https://image.tmdb.org/t/p/original/2q3sQqqueyiZitIq3JHbOimMUbp.jpg)
 
@@ -1753,7 +1753,7 @@ When a small-town kid moves to Hollywood and becomes one of the city's top mediu
 <hr>
 
 
-## 15. [iCarly](https://serp.ly/@serpmedia/github/amazon/iCarly)
+## 15. [iCarly](https://serp.ly/amazon/iCarly)
 
 ![iCarly](https://image.tmdb.org/t/p/original/vprJasrLRtEqjyHCHzlOzChNo2o.jpg)
 
@@ -1795,7 +1795,7 @@ When three 8th-grade friends, Carly, Sam, and Freddie, turn their everyday life 
 <hr>
 
 
-## 16. [Eureka](https://serp.ly/@serpmedia/github/amazon/Eureka)
+## 16. [Eureka](https://serp.ly/amazon/Eureka)
 
 ![Eureka](https://image.tmdb.org/t/p/original/f2l5hUk63hPqYTucnFy2HmElFV0.jpg)
 
@@ -1839,7 +1839,7 @@ When U. S. Marshal Jack Carter crashes his car in the remote Pacific Northwest t
 <hr>
 
 
-## 17. [Judging Amy](https://serp.ly/@serpmedia/github/amazon/Judging+Amy)
+## 17. [Judging Amy](https://serp.ly/amazon/Judging+Amy)
 
 ![Judging Amy](https://image.tmdb.org/t/p/original/xwCYDipqGC5lWirdARXrDGIX22i.jpg)
 
@@ -1881,7 +1881,7 @@ Judging Amy invites you into the personal and professional life of a family cour
 <hr>
 
 
-## 18. [The Ellen DeGeneres Show](https://serp.ly/@serpmedia/github/amazon/The+Ellen+DeGeneres+Show)
+## 18. [The Ellen DeGeneres Show](https://serp.ly/amazon/The+Ellen+DeGeneres+Show)
 
 ![The Ellen DeGeneres Show](https://image.tmdb.org/t/p/original/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg)
 
@@ -1923,7 +1923,7 @@ Revisit a golden era of television with "The Ellen DeGeneres Show, " the beloved
 <hr>
 
 
-## 19. [Tony Awards](https://serp.ly/@serpmedia/github/amazon/Tony+Awards)
+## 19. [Tony Awards](https://serp.ly/amazon/Tony+Awards)
 
 ![Tony Awards](https://image.tmdb.org/t/p/original/6pxoHfywO6bFDOQa9bmWZ1hyKBt.jpg)
 
@@ -1967,7 +1967,7 @@ The Tony Awards, presented annually by the American Theatre Wing and The Broadwa
 <hr>
 
 
-## 20. [Hollywood](https://serp.ly/@serpmedia/github/amazon/Hollywood)
+## 20. [Hollywood](https://serp.ly/amazon/Hollywood)
 
 ![Hollywood](https://image.tmdb.org/t/p/original/8AvVBcuCpESqdQicuX7s4WOGo1V.jpg)
 
@@ -2013,7 +2013,7 @@ In post-World War II Hollywood, an ambitious group of aspiring actors and filmma
 <hr>
 
 
-## 21. [Pound Puppies](https://serp.ly/@serpmedia/github/amazon/Pound+Puppies)
+## 21. [Pound Puppies](https://serp.ly/amazon/Pound+Puppies)
 
 ![Pound Puppies](https://image.tmdb.org/t/p/original/qRRfKjKtYsVeEZkBmfYLYo2PEAc.jpg)
 
@@ -2055,7 +2055,7 @@ When Lucky and Cookie bunk in Shelter 17 with the other dogs, they discover an i
 <hr>
 
 
-## 22. [Ed](https://serp.ly/@serpmedia/github/amazon/Ed)
+## 22. [Ed](https://serp.ly/amazon/Ed)
 
 ![Ed](https://image.tmdb.org/t/p/original/dkbqibIYSx2wtQRCF37O5Vnnjx8.jpg)
 
@@ -2099,7 +2099,7 @@ When Ed Stevens loses everything - his job at a high-profile New York law firm a
 <hr>
 
 
-## 23. [Chelsea](https://serp.ly/@serpmedia/github/amazon/Chelsea)
+## 23. [Chelsea](https://serp.ly/amazon/Chelsea)
 
 ![Chelsea](https://image.tmdb.org/t/p/original/lDbyyKRDk5FmDY98eCc97gUEZod.jpg)
 
@@ -2141,7 +2141,7 @@ When Ed Stevens loses everything - his job at a high-profile New York law firm a
 <hr>
 
 
-## 24. [Who Do You Think You Are?](https://serp.ly/@serpmedia/github/amazon/Who+Do+You+Think+You+Are%3F)
+## 24. [Who Do You Think You Are?](https://serp.ly/amazon/Who+Do+You+Think+You+Are%3F)
 
 ![Who Do You Think You Are?](https://image.tmdb.org/t/p/original/crwTatZuf6Yz8ERwEuPz1PbD6Kl.jpg)
 
@@ -2185,7 +2185,7 @@ When Ed Stevens loses everything - his job at a high-profile New York law firm a
 <hr>
 
 
-## 25. [Pete the Cat](https://serp.ly/@serpmedia/github/amazon/Pete+the+Cat)
+## 25. [Pete the Cat](https://serp.ly/amazon/Pete+the+Cat)
 
 ![Pete the Cat](https://image.tmdb.org/t/p/original/eTug1KuDsrQ4jMIN6zaEnERfSnd.jpg)
 
@@ -2229,7 +2229,7 @@ Join Pete the Cat and his diverse group of friends as they navigate through play
 <hr>
 
 
-## 26. [Staged](https://serp.ly/@serpmedia/github/amazon/Staged)
+## 26. [Staged](https://serp.ly/amazon/Staged)
 
 ![Staged](https://image.tmdb.org/t/p/original/biZctcKYktjxP6CP2JzaJDoxs5p.jpg)
 
@@ -2271,7 +2271,7 @@ When a pandemic forces the cancellation of their highly-anticipated West End pro
 <hr>
 
 
-## 27. [Glenn Martin, DDS](https://serp.ly/@serpmedia/github/amazon/Glenn+Martin%2C+DDS)
+## 27. [Glenn Martin, DDS](https://serp.ly/amazon/Glenn+Martin%2C+DDS)
 
 ![Glenn Martin, DDS](https://image.tmdb.org/t/p/original/ecOHyZvLWWumvw7vnzM5AuZyxis.jpg)
 
@@ -2313,7 +2313,7 @@ Join Glenn Martin, DDS in this charming stop-motion animated series that aired o
 <hr>
 
 
-## 28. [The Emmy Awards](https://serp.ly/@serpmedia/github/amazon/The+Emmy+Awards)
+## 28. [The Emmy Awards](https://serp.ly/amazon/The+Emmy+Awards)
 
 ![The Emmy Awards](https://image.tmdb.org/t/p/original/guW6wHjF0eVOfsS7NEfq2ZWSLDm.jpg)
 
@@ -2357,7 +2357,7 @@ The Emmy Awards, founded in 1949, honor the television industry's finest work ac
 <hr>
 
 
-## 29. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 29. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -2401,7 +2401,7 @@ The Emmy Awards, founded in 1949, honor the television industry's finest work ac
 <hr>
 
 
-## 30. [CBS Mornings](https://serp.ly/@serpmedia/github/amazon/CBS+Mornings)
+## 30. [CBS Mornings](https://serp.ly/amazon/CBS+Mornings)
 
 ![CBS Mornings](https://image.tmdb.org/t/p/original/tJuCYaglqqaQR5cx4A53DY3LAnR.jpg)
 
@@ -2447,7 +2447,7 @@ The Emmy Awards, founded in 1949, honor the television industry's finest work ac
 <hr>
 
 
-## 31. [First in Human](https://serp.ly/@serpmedia/github/amazon/First+in+Human)
+## 31. [First in Human](https://serp.ly/amazon/First+in+Human)
 
 ![First in Human](https://image.tmdb.org/t/p/original/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg)
 
@@ -2491,7 +2491,7 @@ Join us inside Building 10, the epicenter of medical innovation, where groundbre
 <hr>
 
 
-## 32. [Teen Choice Awards](https://serp.ly/@serpmedia/github/amazon/Teen+Choice+Awards)
+## 32. [Teen Choice Awards](https://serp.ly/amazon/Teen+Choice+Awards)
 
 ![Teen Choice Awards](https://image.tmdb.org/t/p/original/3q900BNcKbe3GHga4RVxSnoiqP4.jpg)
 

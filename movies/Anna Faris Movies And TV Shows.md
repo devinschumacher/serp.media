@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [22 Jump Street](https://serp.ly/@serpmedia/github/amazon/22+Jump+Street)
+## 1. [22 Jump Street](https://serp.ly/amazon/22+Jump+Street)
 
 ![22 Jump Street](https://image.tmdb.org/t/p/original/850chzYHYbT3IISl6Q7dbBuFP2B.jpg)
 
@@ -80,7 +80,7 @@ After conquering high school twice, officers Schmidt and Jenko trade their famil
 <hr>
 
 
-## 2. [Brokeback Mountain](https://serp.ly/@serpmedia/github/amazon/Brokeback+Mountain)
+## 2. [Brokeback Mountain](https://serp.ly/amazon/Brokeback+Mountain)
 
 ![Brokeback Mountain](https://image.tmdb.org/t/p/original/5UZ283LuT8ClE4Iqw3u4gGZizab.jpg)
 
@@ -123,7 +123,7 @@ In 1963 Wyoming, two young men - Jack, a rodeo cowboy, and Ennis, a ranch hand -
 <hr>
 
 
-## 3. [Lost in Translation](https://serp.ly/@serpmedia/github/amazon/Lost+in+Translation)
+## 3. [Lost in Translation](https://serp.ly/amazon/Lost+in+Translation)
 
 ![Lost in Translation](https://image.tmdb.org/t/p/original/4k4Yz08WGfbu8ITIjaG99XTeco8.jpg)
 
@@ -163,7 +163,7 @@ Lost in Translation tells the story of two Americans in Tokyo who form an unexpe
 <hr>
 
 
-## 4. [Scary Movie](https://serp.ly/@serpmedia/github/amazon/Scary+Movie)
+## 4. [Scary Movie](https://serp.ly/amazon/Scary+Movie)
 
 ![Scary Movie](https://image.tmdb.org/t/p/original/lRQiJXETkCnVVurHmglNvMXrZOx.jpg)
 
@@ -206,7 +206,7 @@ When a group of teenagers starts getting picked off by a masked killer, their de
 <hr>
 
 
-## 5. [Cloudy with a Chance of Meatballs](https://serp.ly/@serpmedia/github/amazon/Cloudy+with+a+Chance+of+Meatballs)
+## 5. [Cloudy with a Chance of Meatballs](https://serp.ly/amazon/Cloudy+with+a+Chance+of+Meatballs)
 
 ![Cloudy with a Chance of Meatballs](https://image.tmdb.org/t/p/original/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg)
 
@@ -249,7 +249,7 @@ Inventor Flint Lockwood transforms everyday clouds into gastronomic delights for
 <hr>
 
 
-## 6. [The Dictator](https://serp.ly/@serpmedia/github/amazon/The+Dictator)
+## 6. [The Dictator](https://serp.ly/amazon/The+Dictator)
 
 ![The Dictator](https://image.tmdb.org/t/p/original/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg)
 
@@ -292,7 +292,7 @@ In a comedic twist on political filmmaking, "The Dictator" follows the eccentric
 <hr>
 
 
-## 7. [Scary Movie 2](https://serp.ly/@serpmedia/github/amazon/Scary+Movie+2)
+## 7. [Scary Movie 2](https://serp.ly/amazon/Scary+Movie+2)
 
 ![Scary Movie 2](https://image.tmdb.org/t/p/original/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg)
 
@@ -332,7 +332,7 @@ Join a group of students as they venture into the infamous Hell House, where the
 <hr>
 
 
-## 8. [Scary Movie 3](https://serp.ly/@serpmedia/github/amazon/Scary+Movie+3)
+## 8. [Scary Movie 3](https://serp.ly/amazon/Scary+Movie+3)
 
 ![Scary Movie 3](https://image.tmdb.org/t/p/original/A6t3OUc1PSb7Tyvsinh9vJA1HlL.jpg)
 
@@ -375,7 +375,7 @@ News anchorwoman Cindy Campbell returns for the thrilling conclusion of the Scar
 <hr>
 
 
-## 9. [Cloudy with a Chance of Meatballs 2](https://serp.ly/@serpmedia/github/amazon/Cloudy+with+a+Chance+of+Meatballs+2)
+## 9. [Cloudy with a Chance of Meatballs 2](https://serp.ly/amazon/Cloudy+with+a+Chance+of+Meatballs+2)
 
 ![Cloudy with a Chance of Meatballs 2](https://image.tmdb.org/t/p/original/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg)
 
@@ -418,7 +418,7 @@ Join Flint and his friends as they return to the island to clean up the disastro
 <hr>
 
 
-## 10. [Scary Movie 4](https://serp.ly/@serpmedia/github/amazon/Scary+Movie+4)
+## 10. [Scary Movie 4](https://serp.ly/amazon/Scary+Movie+4)
 
 ![Scary Movie 4](https://image.tmdb.org/t/p/original/vL03Mk1ES5uo1ZdXovz6NtgsbSb.jpg)
 
@@ -463,7 +463,7 @@ Bury the grudge. Burn the village. See the saw.
 <hr>
 
 
-## 11. [The Emoji Movie](https://serp.ly/@serpmedia/github/amazon/The+Emoji+Movie)
+## 11. [The Emoji Movie](https://serp.ly/amazon/The+Emoji+Movie)
 
 ![The Emoji Movie](https://image.tmdb.org/t/p/original/f5pF4OYzh4wb1dYL2ARQNdqUsEZ.jpg)
 
@@ -503,7 +503,7 @@ Join Gene, a multi-expressional emoji, on an epic journey to become a normal emo
 <hr>
 
 
-## 12. [Alvin and the Chipmunks: The Squeakquel](https://serp.ly/@serpmedia/github/amazon/Alvin+and+the+Chipmunks%3A+The+Squeakquel)
+## 12. [Alvin and the Chipmunks: The Squeakquel](https://serp.ly/amazon/Alvin+and+the+Chipmunks%3A+The+Squeakquel)
 
 ![Alvin and the Chipmunks: The Squeakquel](https://image.tmdb.org/t/p/original/8mdPqOga5fty15nXmaNcK1fsNMa.jpg)
 
@@ -543,7 +543,7 @@ Join Alvin, Simon, and Theodore as they trade music super stardom for school lif
 <hr>
 
 
-## 13. [What's Your Number?](https://serp.ly/@serpmedia/github/amazon/What%27s+Your+Number%3F)
+## 13. [What's Your Number?](https://serp.ly/amazon/What%27s+Your+Number%3F)
 
 ![What's Your Number?](https://image.tmdb.org/t/p/original/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg)
 
@@ -584,7 +584,7 @@ Join Alvin, Simon, and Theodore as they trade music super stardom for school lif
 <hr>
 
 
-## 14. [The Hot Chick](https://serp.ly/@serpmedia/github/amazon/The+Hot+Chick)
+## 14. [The Hot Chick](https://serp.ly/amazon/The+Hot+Chick)
 
 ![The Hot Chick](https://image.tmdb.org/t/p/original/lnnGE4TKa05t20SZ2batuAhXCp4.jpg)
 
@@ -625,7 +625,7 @@ When the most popular girl in school, Jessica Spencer, switches bodies with Cliv
 <hr>
 
 
-## 15. [Alvin and the Chipmunks: Chipwrecked](https://serp.ly/@serpmedia/github/amazon/Alvin+and+the+Chipmunks%3A+Chipwrecked)
+## 15. [Alvin and the Chipmunks: Chipwrecked](https://serp.ly/amazon/Alvin+and+the+Chipmunks%3A+Chipwrecked)
 
 ![Alvin and the Chipmunks: Chipwrecked](https://image.tmdb.org/t/p/original/7qm7OSNzw57leNtgEizdKVKqyqD.jpg)
 
@@ -665,7 +665,7 @@ Join Alvin and the Chipmunks as they set sail on a tropical adventure that turns
 <hr>
 
 
-## 16. [The House Bunny](https://serp.ly/@serpmedia/github/amazon/The+House+Bunny)
+## 16. [The House Bunny](https://serp.ly/amazon/The+House+Bunny)
 
 ![The House Bunny](https://image.tmdb.org/t/p/original/4oGGJ824vqIqDtyMvMuK44pDEmx.jpg)
 
@@ -708,7 +708,7 @@ When Shelley's wild lifestyle lands her in trouble, she's given a chance to star
 <hr>
 
 
-## 17. [Movie 43](https://serp.ly/@serpmedia/github/amazon/Movie+43)
+## 17. [Movie 43](https://serp.ly/amazon/Movie+43)
 
 ![Movie 43](https://image.tmdb.org/t/p/original/uYa06GxHsCsELx9vOQ11vsT0Aa6.jpg)
 
@@ -748,7 +748,7 @@ The biggest cast ever assembled for the most outrageous comedy ever made.
 <hr>
 
 
-## 18. [Just Friends](https://serp.ly/@serpmedia/github/amazon/Just+Friends)
+## 18. [Just Friends](https://serp.ly/amazon/Just+Friends)
 
 ![Just Friends](https://image.tmdb.org/t/p/original/jgs2mdFlx8NJzbxXTHeQxvQbN6n.jpg)
 
@@ -789,7 +789,7 @@ During a festive Christmas visit to his hometown, a man runs into the high schoo
 <hr>
 
 
-## 19. [Alvin and the Chipmunks: The Road Chip](https://serp.ly/@serpmedia/github/amazon/Alvin+and+the+Chipmunks%3A+The+Road+Chip)
+## 19. [Alvin and the Chipmunks: The Road Chip](https://serp.ly/amazon/Alvin+and+the+Chipmunks%3A+The+Road+Chip)
 
 ![Alvin and the Chipmunks: The Road Chip](https://image.tmdb.org/t/p/original/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg)
 
@@ -832,7 +832,7 @@ When Dave's new girlfriend plans a surprise proposal in New York City, Alvin and
 <hr>
 
 
-## 20. [Overboard](https://serp.ly/@serpmedia/github/amazon/Overboard)
+## 20. [Overboard](https://serp.ly/amazon/Overboard)
 
 ![Overboard](https://image.tmdb.org/t/p/original/41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg)
 
@@ -877,7 +877,7 @@ When a wealthy yacht owner is thrown overboard, he becomes the target of revenge
 <hr>
 
 
-## 21. [My Super Ex-Girlfriend](https://serp.ly/@serpmedia/github/amazon/My+Super+Ex-Girlfriend)
+## 21. [My Super Ex-Girlfriend](https://serp.ly/amazon/My+Super+Ex-Girlfriend)
 
 ![My Super Ex-Girlfriend](https://image.tmdb.org/t/p/original/vs4jcY5NQA24zFGihY2EiqEA5hI.jpg)
 
@@ -915,7 +915,7 @@ When architect Matt Saunders dumps his superhero girlfriend Jenny Johnson, she t
 <hr>
 
 
-## 22. [Keanu](https://serp.ly/@serpmedia/github/amazon/Keanu)
+## 22. [Keanu](https://serp.ly/amazon/Keanu)
 
 ![Keanu](https://image.tmdb.org/t/p/original/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg)
 
@@ -958,7 +958,7 @@ When their beloved cat goes missing, an unlikely group of friends concocts a dar
 <hr>
 
 
-## 23. [Waiting...](https://serp.ly/@serpmedia/github/amazon/Waiting...)
+## 23. [Waiting...](https://serp.ly/amazon/Waiting...)
 
 ![Waiting...](https://image.tmdb.org/t/p/original/h3NJDiaaliUH35ApXPu8PFKZwWz.jpg)
 
@@ -998,7 +998,7 @@ At Shenanigan's, a restaurant where the staff waits for their real lives to star
 <hr>
 
 
-## 24. [Yogi Bear](https://serp.ly/@serpmedia/github/amazon/Yogi+Bear)
+## 24. [Yogi Bear](https://serp.ly/amazon/Yogi+Bear)
 
 ![Yogi Bear](https://image.tmdb.org/t/p/original/3Rs4BTP1wHA2Ll1FeuCRbhFgXWM.jpg)
 
@@ -1041,7 +1041,7 @@ When a documentary filmmaker visits Jellystone Park, he stumbles into extraordin
 <hr>
 
 
-## 25. [I Give It a Year](https://serp.ly/@serpmedia/github/amazon/I+Give+It+a+Year)
+## 25. [I Give It a Year](https://serp.ly/amazon/I+Give+It+a+Year)
 
 ![I Give It a Year](https://image.tmdb.org/t/p/original/hCSqxrM5Sw6AhDIRfxQ4BenPd9y.jpg)
 
@@ -1082,7 +1082,7 @@ After a whirlwind courtship, two lovers marry in the heat of summer. As their fi
 <hr>
 
 
-## 26. [Frequently Asked Questions About Time Travel](https://serp.ly/@serpmedia/github/amazon/Frequently+Asked+Questions+About+Time+Travel)
+## 26. [Frequently Asked Questions About Time Travel](https://serp.ly/amazon/Frequently+Asked+Questions+About+Time+Travel)
 
 ![Frequently Asked Questions About Time Travel](https://image.tmdb.org/t/p/original/r67KzlHkdiwe3fBWzImEkNOg1Y.jpg)
 
@@ -1120,7 +1120,7 @@ In a British pub, three social outcasts - two geeks and a cynic - stumble into a
 <hr>
 
 
-## 27. [Take Me Home Tonight](https://serp.ly/@serpmedia/github/amazon/Take+Me+Home+Tonight)
+## 27. [Take Me Home Tonight](https://serp.ly/amazon/Take+Me+Home+Tonight)
 
 ![Take Me Home Tonight](https://image.tmdb.org/t/p/original/nInduPOusI1alDIC0UttFjDIKsO.jpg)
 
@@ -1160,7 +1160,7 @@ Matt Franklin, a recent MIT graduate, trades a promising Fortune 500 career for 
 <hr>
 
 
-## 28. [May](https://serp.ly/@serpmedia/github/amazon/May)
+## 28. [May](https://serp.ly/amazon/May)
 
 ![May](https://image.tmdb.org/t/p/original/oFXhJYTax1cnNtgvLdKlXuYiWPV.jpg)
 
@@ -1200,7 +1200,7 @@ May is a quirky veterinary assistant with a lazy eye and a perfectionist streak.
 <hr>
 
 
-## 29. [Observe and Report](https://serp.ly/@serpmedia/github/amazon/Observe+and+Report)
+## 29. [Observe and Report](https://serp.ly/amazon/Observe+and+Report)
 
 ![Observe and Report](https://image.tmdb.org/t/p/original/8igojxcW1qN9VJ62MMKZDrx4D3e.jpg)
 
@@ -1238,7 +1238,7 @@ In a mall security guard'sunlikely heroics, "Observe and Report" follows Ronnie 
 <hr>
 
 
-## 30. [Smiley Face](https://serp.ly/@serpmedia/github/amazon/Smiley+Face)
+## 30. [Smiley Face](https://serp.ly/amazon/Smiley+Face)
 
 ![Smiley Face](https://image.tmdb.org/t/p/original/g4tiLL7uVE9N8yOhu3iLQN8LUBy.jpg)
 
@@ -1278,7 +1278,7 @@ When Jane, a struggling but perpetually stoned actress, wakes up in Los Angeles 
 <hr>
 
 
-## 31. [The Estate](https://serp.ly/@serpmedia/github/amazon/The+Estate)
+## 31. [The Estate](https://serp.ly/amazon/The+Estate)
 
 ![The Estate](https://image.tmdb.org/t/p/original/mYgS4djsVj61kzEpX43LklGUfgK.jpg)
 
@@ -1319,7 +1319,7 @@ When two sisters visit their terminally ill aunt, they discover an unexpected co
 <hr>
 
 
-## 32. [Mama's Boy](https://serp.ly/@serpmedia/github/amazon/Mama%27s+Boy)
+## 32. [Mama's Boy](https://serp.ly/amazon/Mama%27s+Boy)
 
 ![Mama's Boy](https://image.tmdb.org/t/p/original/e96vm2byFOXoXo7KMRQtmTB8YcK.jpg)
 
@@ -1355,7 +1355,7 @@ Live the dream of never growing up with this funny story about a 29-year-old sla
 <hr>
 
 
-## 33. [Winter Break](https://serp.ly/@serpmedia/github/amazon/Winter+Break)
+## 33. [Winter Break](https://serp.ly/amazon/Winter+Break)
 
 ![Winter Break](https://image.tmdb.org/t/p/original/jEPVFr6b9L1QSPmfAquDSNgKcrB.jpg)
 
@@ -1391,7 +1391,7 @@ Winter Break follows a group of recent college graduates who decide to defer the
 <hr>
 
 
-## 34. [Lovers Lane](https://serp.ly/@serpmedia/github/amazon/Lovers+Lane)
+## 34. [Lovers Lane](https://serp.ly/amazon/Lovers+Lane)
 
 ![Lovers Lane](https://image.tmdb.org/t/p/original/bZxjY9lPtKeNxBeFkBTTaSQbtoA.jpg)
 
@@ -1427,7 +1427,7 @@ In this 1999 thriller, a man with a hook for a hand escapes from a mental instit
 <hr>
 
 
-## 35. [Guilty Hearts](https://serp.ly/@serpmedia/github/amazon/Guilty+Hearts)
+## 35. [Guilty Hearts](https://serp.ly/amazon/Guilty+Hearts)
 
 ![Guilty Hearts](https://image.tmdb.org/t/p/original/pfJ24TtOIluaYXgcg0AurLfGwhj.jpg)
 
@@ -1463,7 +1463,7 @@ Life on the edge.....and over it.
 <hr>
 
 
-## 36. [Southern Belles](https://serp.ly/@serpmedia/github/amazon/Southern+Belles)
+## 36. [Southern Belles](https://serp.ly/amazon/Southern+Belles)
 
 ![Southern Belles](https://image.tmdb.org/t/p/original/hJNYyf8xCzdGJ4WbbOJeXQ3Qm8t.jpg)
 
@@ -1497,7 +1497,7 @@ Sunny and Belle are two young sisters living in a trailer park who dream of maki
 <hr>
 
 
-## 37. [Super Manny](https://serp.ly/@serpmedia/github/amazon/Super+Manny)
+## 37. [Super Manny](https://serp.ly/amazon/Super+Manny)
 
 ![Super Manny](https://image.tmdb.org/t/p/original/us2KNqFVtjCdWPrT2drlsitsZAP.jpg)
 
@@ -1531,7 +1531,7 @@ When a cute kitty gets into trouble, Manny springs into action with his incredib
 <hr>
 
 
-## 38. [Steve's First Bath](https://serp.ly/@serpmedia/github/amazon/Steve%27s+First+Bath)
+## 38. [Steve's First Bath](https://serp.ly/amazon/Steve%27s+First+Bath)
 
 ![Steve's First Bath](https://image.tmdb.org/t/p/original/eONevh4ZGRaXZDQWFAARiGQryxR.jpg)
 
@@ -1562,7 +1562,7 @@ When Flint's ingenious monkey-cleaning device malfunctions, it kicks off a chain
 <hr>
 
 
-## 39. [Eden](https://serp.ly/@serpmedia/github/amazon/Eden)
+## 39. [Eden](https://serp.ly/amazon/Eden)
 
 ![Eden](https://image.tmdb.org/t/p/original/5BywENpd9OTUKPsT4tbZNQvUqHB.jpg)
 
@@ -1598,7 +1598,7 @@ In a picturesque New England setting, this heartfelt story unfolds at a boys' sc
 <hr>
 
 
-## 40. [The Spleenectomy](https://serp.ly/@serpmedia/github/amazon/The+Spleenectomy)
+## 40. [The Spleenectomy](https://serp.ly/amazon/The+Spleenectomy)
 
 ![The Spleenectomy](https://image.tmdb.org/t/p/original/A4wfVW3pBSFrnVXQi58BgzL2HW1.jpg)
 
@@ -1634,7 +1634,7 @@ Judy's passion for theater shines as she auditions for a local production, only 
 <hr>
 
 
-## 41. [My Spy: The Eternal City](https://serp.ly/@serpmedia/github/amazon/My+Spy%3A+The+Eternal+City)
+## 41. [My Spy: The Eternal City](https://serp.ly/amazon/My+Spy%3A+The+Eternal+City)
 
 ![My Spy: The Eternal City](https://image.tmdb.org/t/p/original/Bf3vCfM94bSJ1saZlyi0UW0e0U.jpg)
 
@@ -1664,7 +1664,7 @@ When a high school choir tour of Italy takes an unexpected turn, CIA operative J
 <hr>
 
 
-## 42. [I, Object](https://serp.ly/@serpmedia/github/amazon/I%2C+Object)
+## 42. [I, Object](https://serp.ly/amazon/I%2C+Object)
 
 <br>
 
@@ -1688,7 +1688,7 @@ When his father passes away, 10-year-old Tom finds unexpected companionship in t
 <hr>
 
 
-## 1. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 1. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1732,7 +1732,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 2. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 2. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -1774,7 +1774,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 3. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 3. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -1820,7 +1820,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 4. [Friends](https://serp.ly/@serpmedia/github/amazon/Friends)
+## 4. [Friends](https://serp.ly/amazon/Friends)
 
 ![Friends](https://image.tmdb.org/t/p/original/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg)
 
@@ -1864,7 +1864,7 @@ Six young New Yorkers navigate the ups and downs of adult life with the help of 
 <hr>
 
 
-## 5. [Mom](https://serp.ly/@serpmedia/github/amazon/Mom)
+## 5. [Mom](https://serp.ly/amazon/Mom)
 
 ![Mom](https://image.tmdb.org/t/p/original/kIi3T7X0kmiV9vGDme146P2d979.jpg)
 
@@ -1906,7 +1906,7 @@ When newly sober single mom Christy returns to her hometown, she's forced to nav
 <hr>
 
 
-## 6. [King of the Hill](https://serp.ly/@serpmedia/github/amazon/King+of+the+Hill)
+## 6. [King of the Hill](https://serp.ly/amazon/King+of+the+Hill)
 
 ![King of the Hill](https://image.tmdb.org/t/p/original/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg)
 
@@ -1950,7 +1950,7 @@ Revisit a golden age of animation with "King of the Hill, " the beloved series t
 <hr>
 
 
-## 7. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 7. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1992,7 +1992,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 8. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 8. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -2036,7 +2036,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 9. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 9. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -2082,7 +2082,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 10. [The Reichen Show](https://serp.ly/@serpmedia/github/amazon/The+Reichen+Show)
+## 10. [The Reichen Show](https://serp.ly/amazon/The+Reichen+Show)
 
 ![The Reichen Show](https://image.tmdb.org/t/p/original/x9fDBKqmmHHUvcaal1Tzw6iqTW.jpg)
 
@@ -2126,7 +2126,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 11. [The Tonight Show with Jay Leno](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+with+Jay+Leno)
+## 11. [The Tonight Show with Jay Leno](https://serp.ly/amazon/The+Tonight+Show+with+Jay+Leno)
 
 ![The Tonight Show with Jay Leno](https://image.tmdb.org/t/p/original/xAFMZ3wFIEXTISryRZD94AAvWng.jpg)
 
@@ -2168,7 +2168,7 @@ Revisit a golden age of television with "The Tonight Show with Jay Leno, " the b
 <hr>
 
 
-## 12. [The Tony Danza Show](https://serp.ly/@serpmedia/github/amazon/The+Tony+Danza+Show)
+## 12. [The Tony Danza Show](https://serp.ly/amazon/The+Tony+Danza+Show)
 
 <br>
 
@@ -2208,7 +2208,7 @@ Revisit a golden age of daytime television with "The Tony Danza Show, " the belo
 <hr>
 
 
-## 13. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 13. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2252,7 +2252,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 14. [Entourage](https://serp.ly/@serpmedia/github/amazon/Entourage)
+## 14. [Entourage](https://serp.ly/amazon/Entourage)
 
 ![Entourage](https://image.tmdb.org/t/p/original/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg)
 
@@ -2296,7 +2296,7 @@ Vince Chase, a film star in Los Angeles, moves through the city with a tight-kni
 <hr>
 
 
-## 15. [A Little Late with Lilly Singh](https://serp.ly/@serpmedia/github/amazon/A+Little+Late+with+Lilly+Singh)
+## 15. [A Little Late with Lilly Singh](https://serp.ly/amazon/A+Little+Late+with+Lilly+Singh)
 
 ![A Little Late with Lilly Singh](https://image.tmdb.org/t/p/original/1o8OOaHP4JTKCSDDgsBrkRZVA1O.jpg)
 
@@ -2340,7 +2340,7 @@ When Lilly Singh trades her daytime persona as a successful comedian and author 
 <hr>
 
 
-## 16. [Chelsea](https://serp.ly/@serpmedia/github/amazon/Chelsea)
+## 16. [Chelsea](https://serp.ly/amazon/Chelsea)
 
 ![Chelsea](https://image.tmdb.org/t/p/original/lDbyyKRDk5FmDY98eCc97gUEZod.jpg)
 
@@ -2382,7 +2382,7 @@ When Lilly Singh trades her daytime persona as a successful comedian and author 
 <hr>
 
 
-## 17. [The New Tom Green Show](https://serp.ly/@serpmedia/github/amazon/The+New+Tom+Green+Show)
+## 17. [The New Tom Green Show](https://serp.ly/amazon/The+New+Tom+Green+Show)
 
 <br>
 
@@ -2422,7 +2422,7 @@ Revisit a era of outrageous humor with "The New Tom Green Show, " the Canadian c
 <hr>
 
 
-## 18. [The Joel McHale Show with Joel McHale](https://serp.ly/@serpmedia/github/amazon/The+Joel+McHale+Show+with+Joel+McHale)
+## 18. [The Joel McHale Show with Joel McHale](https://serp.ly/amazon/The+Joel+McHale+Show+with+Joel+McHale)
 
 ![The Joel McHale Show with Joel McHale](https://image.tmdb.org/t/p/original/xKcjHKJzaiMn1viUhMvQlYntQWL.jpg)
 
@@ -2464,7 +2464,7 @@ Join Joel McHale every week as he tackles trending news, pop culture, and social
 <hr>
 
 
-## 19. [MADtv](https://serp.ly/@serpmedia/github/amazon/MADtv)
+## 19. [MADtv](https://serp.ly/amazon/MADtv)
 
 ![MADtv](https://image.tmdb.org/t/p/original/4tXHrqYbETym7Def99MeXrpPyRA.jpg)
 

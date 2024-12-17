@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Last Five Years](https://serp.ly/@serpmedia/github/amazon/The+Last+Five+Years)
+## 1. [The Last Five Years](https://serp.ly/amazon/The+Last+Five+Years)
 
 ![The Last Five Years](https://image.tmdb.org/t/p/original/dxTLKSTyGb5IXB64iNgU9AWAsXT.jpg)
 
@@ -80,7 +80,7 @@ The Last Five Years tells the story of a struggling actress and a successful wri
 <hr>
 
 
-## 2. [American Son](https://serp.ly/@serpmedia/github/amazon/American+Son)
+## 2. [American Son](https://serp.ly/amazon/American+Son)
 
 ![American Son](https://image.tmdb.org/t/p/original/lEIlxhIyFsia7yCqbfD4UH8iIkN.jpg)
 
@@ -116,7 +116,7 @@ In a Florida police station, an interracial couple anxiously awaits news of thei
 <hr>
 
 
-## 3. [Joyful Noise](https://serp.ly/@serpmedia/github/amazon/Joyful+Noise)
+## 3. [Joyful Noise](https://serp.ly/amazon/Joyful+Noise)
 
 ![Joyful Noise](https://image.tmdb.org/t/p/original/pIgrIGFMZ7CslGPCWI7JHV3R96H.jpg)
 
@@ -155,7 +155,7 @@ G. G. Sparrow's world changes when a new director, Vi Rose Hill, joins their cho
 <hr>
 
 
-## 4. [Newsies](https://serp.ly/@serpmedia/github/amazon/Newsies)
+## 4. [Newsies](https://serp.ly/amazon/Newsies)
 
 ![Newsies](https://image.tmdb.org/t/p/original/3Gw7WM8xZ5xrJp1KniSbrbY9DMI.jpg)
 
@@ -193,7 +193,7 @@ They delivered the papers, until they made the headlines...
 <hr>
 
 
-## 5. [Holly & Ivy](https://serp.ly/@serpmedia/github/amazon/Holly+%26+Ivy)
+## 5. [Holly & Ivy](https://serp.ly/amazon/Holly+%26+Ivy)
 
 ![Holly & Ivy](https://image.tmdb.org/t/p/original/9BTjwJbLrFfgsJyEmq5zLTQEPCA.jpg)
 
@@ -227,7 +227,7 @@ When Melody's neighbor Nina falls ill, she promises to keep Nina's children Holl
 <hr>
 
 
-## 6. [Six by Sondheim](https://serp.ly/@serpmedia/github/amazon/Six+by+Sondheim)
+## 6. [Six by Sondheim](https://serp.ly/amazon/Six+by+Sondheim)
 
 ![Six by Sondheim](https://image.tmdb.org/t/p/original/jyz3kehw1dc8rMuM8QADKHUUkye.jpg)
 
@@ -264,7 +264,7 @@ Academy Award-winning director Documentary Unit presents a musical portrait of S
 <hr>
 
 
-## 7. [Mix Up in the Mediterranean](https://serp.ly/@serpmedia/github/amazon/Mix+Up+in+the+Mediterranean)
+## 7. [Mix Up in the Mediterranean](https://serp.ly/amazon/Mix+Up+in+the+Mediterranean)
 
 ![Mix Up in the Mediterranean](https://image.tmdb.org/t/p/original/670nNzefrz80DAtKDxaDF1HbQu6.jpg)
 
@@ -300,7 +300,7 @@ When a small-town cook impersonates his big-city chef twin to compete in a culin
 <hr>
 
 
-## 8. [Spinning Gold](https://serp.ly/@serpmedia/github/amazon/Spinning+Gold)
+## 8. [Spinning Gold](https://serp.ly/amazon/Spinning+Gold)
 
 ![Spinning Gold](https://image.tmdb.org/t/p/original/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg)
 
@@ -338,7 +338,7 @@ To make hit records, Casablanca Records broke every rule
 <hr>
 
 
-## 9. [Hanukkah on Rye](https://serp.ly/@serpmedia/github/amazon/Hanukkah+on+Rye)
+## 9. [Hanukkah on Rye](https://serp.ly/amazon/Hanukkah+on+Rye)
 
 ![Hanukkah on Rye](https://image.tmdb.org/t/p/original/oeVO65IjVBlMwObN2LSFCsoLlz1.jpg)
 
@@ -374,7 +374,7 @@ Molly and Jacob's new romance faces an unexpected challenge when they discover t
 <hr>
 
 
-## 10. [Emily & Tim](https://serp.ly/@serpmedia/github/amazon/Emily+%26+Tim)
+## 10. [Emily & Tim](https://serp.ly/amazon/Emily+%26+Tim)
 
 ![Emily & Tim](https://image.tmdb.org/t/p/original/68eZkTamVBGuBVcdjZyRQZ9jxs8.jpg)
 
@@ -410,7 +410,7 @@ Molly and Jacob's new romance faces an unexpected challenge when they discover t
 <hr>
 
 
-## 11. [Bombshell in Concert](https://serp.ly/@serpmedia/github/amazon/Bombshell+in+Concert)
+## 11. [Bombshell in Concert](https://serp.ly/amazon/Bombshell+in+Concert)
 
 ![Bombshell in Concert](https://image.tmdb.org/t/p/original/ioLrS786dRxqVl4JvT53zTiJsz0.jpg)
 
@@ -441,7 +441,7 @@ The stars of Smash come together virtually for a special one-night streaming eve
 <hr>
 
 
-## 12. [Bonnie & Clyde: The Musical](https://serp.ly/@serpmedia/github/amazon/Bonnie+%26+Clyde%3A+The+Musical)
+## 12. [Bonnie & Clyde: The Musical](https://serp.ly/amazon/Bonnie+%26+Clyde%3A+The+Musical)
 
 ![Bonnie & Clyde: The Musical](https://image.tmdb.org/t/p/original/8t6Hq0n9ncOFTfeHcXk2JQHGJ0E.jpg)
 
@@ -474,7 +474,7 @@ Bonnie & Clyde: The Musical tells the story of how Bonnie Parker and Clyde Barro
 <hr>
 
 
-## 13. [A Killer Party](https://serp.ly/@serpmedia/github/amazon/A+Killer+Party)
+## 13. [A Killer Party](https://serp.ly/amazon/A+Killer+Party)
 
 ![A Killer Party](https://image.tmdb.org/t/p/original/6UAXEz5CQLCTTzKoavSmg70Kz3H.jpg)
 
@@ -507,7 +507,7 @@ When the artistic director of a failing theater in Duluth invites his team to th
 <hr>
 
 
-## 14. [Jeremy Jordan: Carry On](https://serp.ly/@serpmedia/github/amazon/Jeremy+Jordan%3A+Carry+On)
+## 14. [Jeremy Jordan: Carry On](https://serp.ly/amazon/Jeremy+Jordan%3A+Carry+On)
 
 ![Jeremy Jordan: Carry On](https://image.tmdb.org/t/p/original/rylaGtO1djuADO7jjYg3MulRTdv.jpg)
 
@@ -538,7 +538,7 @@ When the artistic director of a failing theater in Duluth invites his team to th
 <hr>
 
 
-## 15. [Russian Broadway Shut Down](https://serp.ly/@serpmedia/github/amazon/Russian+Broadway+Shut+Down)
+## 15. [Russian Broadway Shut Down](https://serp.ly/amazon/Russian+Broadway+Shut+Down)
 
 ![Russian Broadway Shut Down](https://image.tmdb.org/t/p/original/imOIumI1Hnbq6JhdZa9v1YbpX9B.jpg)
 
@@ -572,7 +572,7 @@ When the Russian government invokes homosexual propaganda law to ban theatrical 
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -618,7 +618,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [The Flash](https://serp.ly/@serpmedia/github/amazon/The+Flash)
+## 2. [The Flash](https://serp.ly/amazon/The+Flash)
 
 ![The Flash](https://image.tmdb.org/t/p/original/yZevl2vHQgmosfwUdVNzviIfaWS.jpg)
 
@@ -662,7 +662,7 @@ When CSI investigator Barry Allen wakes from a nine-month coma after a lightning
 <hr>
 
 
-## 3. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 3. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -706,7 +706,7 @@ When CSI investigator Barry Allen wakes from a nine-month coma after a lightning
 <hr>
 
 
-## 4. [Supergirl](https://serp.ly/@serpmedia/github/amazon/Supergirl)
+## 4. [Supergirl](https://serp.ly/amazon/Supergirl)
 
 ![Supergirl](https://image.tmdb.org/t/p/original/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg)
 
@@ -750,7 +750,7 @@ When a disaster strikes, 24-year-old Kara Zor-El must embrace the powers she's b
 <hr>
 
 
-## 5. [Stars in the House](https://serp.ly/@serpmedia/github/amazon/Stars+in+the+House)
+## 5. [Stars in the House](https://serp.ly/amazon/Stars+in+the+House)
 
 ![Stars in the House](https://image.tmdb.org/t/p/original/2Cp64eLIOErysYDX2K9gHNsDVD3.jpg)
 
@@ -791,7 +791,7 @@ When the Coronavirus pandemic forced theatres worldwide to close, SiriusXM host 
 <hr>
 
 
-## 6. [Hazbin Hotel](https://serp.ly/@serpmedia/github/amazon/Hazbin+Hotel)
+## 6. [Hazbin Hotel](https://serp.ly/amazon/Hazbin+Hotel)
 
 ![Hazbin Hotel](https://image.tmdb.org/t/p/original/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg)
 
@@ -835,7 +835,7 @@ The daughter of Lucifer opens a rehabilitation hotel in Hell, offering a group o
 <hr>
 
 
-## 7. [Elementary](https://serp.ly/@serpmedia/github/amazon/Elementary)
+## 7. [Elementary](https://serp.ly/amazon/Elementary)
 
 ![Elementary](https://image.tmdb.org/t/p/original/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg)
 
@@ -879,7 +879,7 @@ When Sherlock Holmes crashes into New York City after his London downfall, he's 
 <hr>
 
 
-## 8. [Rapunzel's Tangled Adventure](https://serp.ly/@serpmedia/github/amazon/Rapunzel%27s+Tangled+Adventure)
+## 8. [Rapunzel's Tangled Adventure](https://serp.ly/amazon/Rapunzel%27s+Tangled+Adventure)
 
 ![Rapunzel's Tangled Adventure](https://image.tmdb.org/t/p/original/s12Z2uGrvjj5sA7LsBStTtfTYjC.jpg)
 
@@ -921,7 +921,7 @@ Set between "Tangled" and "Tangled Ever After, " this animated adventure follows
 <hr>
 
 
-## 9. [Smash](https://serp.ly/@serpmedia/github/amazon/Smash)
+## 9. [Smash](https://serp.ly/amazon/Smash)
 
 ![Smash](https://image.tmdb.org/t/p/original/190pVB9jQ7Jo7LcZjRwykI4R9u8.jpg)
 

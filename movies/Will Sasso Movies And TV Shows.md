@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Klaus](https://serp.ly/@serpmedia/github/amazon/Klaus)
+## 1. [Klaus](https://serp.ly/amazon/Klaus)
 
 ![Klaus](https://image.tmdb.org/t/p/original/q125RHUDgR4gjwh1QkfYuJLYkL.jpg)
 
@@ -76,7 +76,7 @@ In a small village above the Arctic Circle, the worst postal academy student is 
 <hr>
 
 
-## 2. [Life as We Know It](https://serp.ly/@serpmedia/github/amazon/Life+as+We+Know+It)
+## 2. [Life as We Know It](https://serp.ly/amazon/Life+as+We+Know+It)
 
 ![Life as We Know It](https://image.tmdb.org/t/p/original/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg)
 
@@ -117,7 +117,7 @@ When two single adults lose their mutual best friend in an accident, they make a
 <hr>
 
 
-## 3. [Happy Gilmore](https://serp.ly/@serpmedia/github/amazon/Happy+Gilmore)
+## 3. [Happy Gilmore](https://serp.ly/amazon/Happy+Gilmore)
 
 ![Happy Gilmore](https://image.tmdb.org/t/p/original/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg)
 
@@ -160,7 +160,7 @@ Failed hockey player Happy Gilmore turns his unconventional approach to golf int
 <hr>
 
 
-## 4. [Boss Level](https://serp.ly/@serpmedia/github/amazon/Boss+Level)
+## 4. [Boss Level](https://serp.ly/amazon/Boss+Level)
 
 ![Boss Level](https://image.tmdb.org/t/p/original/i6QFXv4lZyxRMknH0EDkCIz02XP.jpg)
 
@@ -203,7 +203,7 @@ When a former special forces agent is trapped in a time loop, he relives his dea
 <hr>
 
 
-## 5. [Movie 43](https://serp.ly/@serpmedia/github/amazon/Movie+43)
+## 5. [Movie 43](https://serp.ly/amazon/Movie+43)
 
 ![Movie 43](https://image.tmdb.org/t/p/original/uYa06GxHsCsELx9vOQ11vsT0Aa6.jpg)
 
@@ -243,7 +243,7 @@ The biggest cast ever assembled for the most outrageous comedy ever made.
 <hr>
 
 
-## 6. [Beverly Hills Ninja](https://serp.ly/@serpmedia/github/amazon/Beverly+Hills+Ninja)
+## 6. [Beverly Hills Ninja](https://serp.ly/amazon/Beverly+Hills+Ninja)
 
 ![Beverly Hills Ninja](https://image.tmdb.org/t/p/original/kAUtHecWe0KS54jNggapnbHBGTI.jpg)
 
@@ -281,7 +281,7 @@ When an American orphan washes ashore in Japan, he's mistaken for the legendary 
 <hr>
 
 
-## 7. [Best in Show](https://serp.ly/@serpmedia/github/amazon/Best+in+Show)
+## 7. [Best in Show](https://serp.ly/amazon/Best+in+Show)
 
 ![Best in Show](https://image.tmdb.org/t/p/original/kVNaXzoX64YwLC99o4gXyKPnplS.jpg)
 
@@ -317,7 +317,7 @@ Some pets deserve a little more respect than others, especially when they're abo
 <hr>
 
 
-## 8. [The Three Stooges](https://serp.ly/@serpmedia/github/amazon/The+Three+Stooges)
+## 8. [The Three Stooges](https://serp.ly/amazon/The+Three+Stooges)
 
 ![The Three Stooges](https://image.tmdb.org/t/p/original/b0nNQCL90RGTwjxLEFsFFLQZKNe.jpg)
 
@@ -360,7 +360,7 @@ Join Moe, Larry, and Curly as they race to save their childhood orphanage from d
 <hr>
 
 
-## 9. [Homeward Bound II: Lost in San Francisco](https://serp.ly/@serpmedia/github/amazon/Homeward+Bound+II%3A+Lost+in+San+Francisco)
+## 9. [Homeward Bound II: Lost in San Francisco](https://serp.ly/amazon/Homeward+Bound+II%3A+Lost+in+San+Francisco)
 
 ![Homeward Bound II: Lost in San Francisco](https://image.tmdb.org/t/p/original/kfYawa9SF9MQ3ae0TXAfhDLFGv7.jpg)
 
@@ -398,7 +398,7 @@ Chance, Shadow, and Sassy are back for another adventure in "Homeward Bound II: 
 <hr>
 
 
-## 10. [Southland Tales](https://serp.ly/@serpmedia/github/amazon/Southland+Tales)
+## 10. [Southland Tales](https://serp.ly/amazon/Southland+Tales)
 
 ![Southland Tales](https://image.tmdb.org/t/p/original/7dbIDQ80z4bxiDlAvxRwc5TI44C.jpg)
 
@@ -443,7 +443,7 @@ In the not-so-distant future of Los Angeles, July 4, 2008 marks the beginning of
 <hr>
 
 
-## 11. [Super Troopers 2](https://serp.ly/@serpmedia/github/amazon/Super+Troopers+2)
+## 11. [Super Troopers 2](https://serp.ly/amazon/Super+Troopers+2)
 
 ![Super Troopers 2](https://image.tmdb.org/t/p/original/57SZgdugVClIy22rfnANeBJ5KsN.jpg)
 
@@ -486,7 +486,7 @@ When an international border dispute flares up between the U. S. and Canada, the
 <hr>
 
 
-## 12. [Family Guy Presents: Stewie Griffin: The Untold Story](https://serp.ly/@serpmedia/github/amazon/Family+Guy+Presents%3A+Stewie+Griffin%3A+The+Untold+Story)
+## 12. [Family Guy Presents: Stewie Griffin: The Untold Story](https://serp.ly/amazon/Family+Guy+Presents%3A+Stewie+Griffin%3A+The+Untold+Story)
 
 ![Family Guy Presents: Stewie Griffin: The Untold Story](https://image.tmdb.org/t/p/original/mro2I5vlcwn2XHwgSDwk1DvhanM.jpg)
 
@@ -522,7 +522,7 @@ Join the Griffin family for an outrageous adventure that begins when baby Stewie
 <hr>
 
 
-## 13. [Irresistible](https://serp.ly/@serpmedia/github/amazon/Irresistible)
+## 13. [Irresistible](https://serp.ly/amazon/Irresistible)
 
 ![Irresistible](https://image.tmdb.org/t/p/original/hUpYDriYa5YkwwxeafUsowTweBg.jpg)
 
@@ -563,7 +563,7 @@ When aDemocratic political consultant agrees to help a retired Marine colonel ru
 <hr>
 
 
-## 14. [Drop Dead Gorgeous](https://serp.ly/@serpmedia/github/amazon/Drop+Dead+Gorgeous)
+## 14. [Drop Dead Gorgeous](https://serp.ly/amazon/Drop+Dead+Gorgeous)
 
 ![Drop Dead Gorgeous](https://image.tmdb.org/t/p/original/xz2Rkpel968Dka4s3JKRcOw44d4.jpg)
 
@@ -606,7 +606,7 @@ When a TV crew covers the annual beauty pageant in a small Minnesota town, they 
 <hr>
 
 
-## 15. [College Road Trip](https://serp.ly/@serpmedia/github/amazon/College+Road+Trip)
+## 15. [College Road Trip](https://serp.ly/amazon/College+Road+Trip)
 
 ![College Road Trip](https://image.tmdb.org/t/p/original/322poolColDysdWIA6XCCZQy9B6.jpg)
 
@@ -646,7 +646,7 @@ When an overachieving high school student decides to travel around the country t
 <hr>
 
 
-## 16. [Army of One](https://serp.ly/@serpmedia/github/amazon/Army+of+One)
+## 16. [Army of One](https://serp.ly/amazon/Army+of+One)
 
 ![Army of One](https://image.tmdb.org/t/p/original/9XKBJovNQyNRQo382uQ7woFVJ5G.jpg)
 
@@ -685,7 +685,7 @@ In "Army of One", an ex-con turned handyman receives a divine vision compelling 
 <hr>
 
 
-## 17. [Doctor Who](https://serp.ly/@serpmedia/github/amazon/Doctor+Who)
+## 17. [Doctor Who](https://serp.ly/amazon/Doctor+Who)
 
 ![Doctor Who](https://image.tmdb.org/t/p/original/cwae2p7JcRNtz1CvNCzpX5ad96V.jpg)
 
@@ -725,7 +725,7 @@ When the Seventh Doctor transforms into the Eighth, he brings his new companion 
 <hr>
 
 
-## 18. [The Right Kind of Wrong](https://serp.ly/@serpmedia/github/amazon/The+Right+Kind+of+Wrong)
+## 18. [The Right Kind of Wrong](https://serp.ly/amazon/The+Right+Kind+of+Wrong)
 
 ![The Right Kind of Wrong](https://image.tmdb.org/t/p/original/fY7VKAwmf4fPQXoIVzcJcBRqa58.jpg)
 
@@ -761,7 +761,7 @@ When a stubborn idealist bumps into a bride on her way to her wedding, he stumbl
 <hr>
 
 
-## 19. [American Woman](https://serp.ly/@serpmedia/github/amazon/American+Woman)
+## 19. [American Woman](https://serp.ly/amazon/American+Woman)
 
 ![American Woman](https://image.tmdb.org/t/p/original/kGGJgeY53e1JWugOkY96XiSiRJA.jpg)
 
@@ -800,7 +800,7 @@ In a small Pennsylvania town, a young grandmother takes on the challenge of rais
 <hr>
 
 
-## 20. [Night of the Animated Dead](https://serp.ly/@serpmedia/github/amazon/Night+of+the+Animated+Dead)
+## 20. [Night of the Animated Dead](https://serp.ly/amazon/Night+of+the+Animated+Dead)
 
 ![Night of the Animated Dead](https://image.tmdb.org/t/p/original/mluarGbxZjgvhe5bteR7P24HHAw.jpg)
 
@@ -838,7 +838,7 @@ When a group of people seek refuge in a rural farmhouse, their desperate bid for
 <hr>
 
 
-## 21. [I Am Chris Farley](https://serp.ly/@serpmedia/github/amazon/I+Am+Chris+Farley)
+## 21. [I Am Chris Farley](https://serp.ly/amazon/I+Am+Chris+Farley)
 
 ![I Am Chris Farley](https://image.tmdb.org/t/p/original/kljSSGgT4bHsL3Ivou5akIcWSrr.jpg)
 
@@ -872,7 +872,7 @@ Join Chris Farley as he recounts his hilarious journey from Madison, Wisconsin, 
 <hr>
 
 
-## 22. [Dangerous Game: The Legacy Murders](https://serp.ly/@serpmedia/github/amazon/Dangerous+Game%3A+The+Legacy+Murders)
+## 22. [Dangerous Game: The Legacy Murders](https://serp.ly/amazon/Dangerous+Game%3A+The+Legacy+Murders)
 
 ![Dangerous Game: The Legacy Murders](https://image.tmdb.org/t/p/original/xkRhMw0tBpDtg28bytxN2hrhyri.jpg)
 
@@ -908,7 +908,7 @@ When a family reunion at a remote mansion turns into a nightmare, they become tr
 <hr>
 
 
-## 23. [Killing Hasselhoff](https://serp.ly/@serpmedia/github/amazon/Killing+Hasselhoff)
+## 23. [Killing Hasselhoff](https://serp.ly/amazon/Killing+Hasselhoff)
 
 ![Killing Hasselhoff](https://image.tmdb.org/t/p/original/9BQqALg8ffCn5ZkYZKEtAgR29HF.jpg)
 
@@ -944,7 +944,7 @@ When a man loses everything in a high-stakes celebrity death pool, he snaps and 
 <hr>
 
 
-## 24. [The Female Brain](https://serp.ly/@serpmedia/github/amazon/The+Female+Brain)
+## 24. [The Female Brain](https://serp.ly/amazon/The+Female+Brain)
 
 ![The Female Brain](https://image.tmdb.org/t/p/original/3YZrbhNQdZFE2yueFFw1QJ84YvF.jpg)
 
@@ -980,7 +980,7 @@ The Female Brain delves into the neurological differences between men and women,
 <hr>
 
 
-## 25. [National Lampoon's The Legend of Awesomest Maximus](https://serp.ly/@serpmedia/github/amazon/National+Lampoon%27s+The+Legend+of+Awesomest+Maximus)
+## 25. [National Lampoon's The Legend of Awesomest Maximus](https://serp.ly/amazon/National+Lampoon%27s+The+Legend+of+Awesomest+Maximus)
 
 ![National Lampoon's The Legend of Awesomest Maximus](https://image.tmdb.org/t/p/original/6IsqWxYEmF4BWTQyIj1nCOgpTvR.jpg)
 
@@ -1014,7 +1014,7 @@ In this comic adventure, a bumbling Trojan general finds himself facing off agai
 <hr>
 
 
-## 26. [The Grizzlies](https://serp.ly/@serpmedia/github/amazon/The+Grizzlies)
+## 26. [The Grizzlies](https://serp.ly/amazon/The+Grizzlies)
 
 ![The Grizzlies](https://image.tmdb.org/t/p/original/wQ2BRrMSKv57gzTyYNbrrN092KN.jpg)
 
@@ -1051,7 +1051,7 @@ In a small Arctic town grappling with the highest suicide rate in North America,
 <hr>
 
 
-## 27. [Lower Learning](https://serp.ly/@serpmedia/github/amazon/Lower+Learning)
+## 27. [Lower Learning](https://serp.ly/amazon/Lower+Learning)
 
 ![Lower Learning](https://image.tmdb.org/t/p/original/isZ3CKJd62hlZf66UA9JABufRIq.jpg)
 
@@ -1087,7 +1087,7 @@ When the struggling Barry Goldwater Elementary School faces closure, down-on-his
 <hr>
 
 
-## 28. [Henchmen](https://serp.ly/@serpmedia/github/amazon/Henchmen)
+## 28. [Henchmen](https://serp.ly/amazon/Henchmen)
 
 ![Henchmen](https://image.tmdb.org/t/p/original/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg)
 
@@ -1123,7 +1123,7 @@ When a new recruit joins the Union of Evil, he's assigned to a quirky team of bl
 <hr>
 
 
-## 29. [Ernest Goes to School](https://serp.ly/@serpmedia/github/amazon/Ernest+Goes+to+School)
+## 29. [Ernest Goes to School](https://serp.ly/amazon/Ernest+Goes+to+School)
 
 ![Ernest Goes to School](https://image.tmdb.org/t/p/original/iW7NnMCbfIU3M4ZIqmWbmQsls4G.jpg)
 
@@ -1159,7 +1159,7 @@ Ernest P. Worrell, the beloved dim-witted character voiced by Jim Varney, trades
 <hr>
 
 
-## 30. [Finding Mrs. Claus](https://serp.ly/@serpmedia/github/amazon/Finding+Mrs.+Claus)
+## 30. [Finding Mrs. Claus](https://serp.ly/amazon/Finding+Mrs.+Claus)
 
 ![Finding Mrs. Claus](https://image.tmdb.org/t/p/original/mQwYQH83rE9Tjfk9KLM61evioZ5.jpg)
 
@@ -1195,7 +1195,7 @@ When Mrs. Claus feels neglected by her less than attentive husband, she goes to 
 <hr>
 
 
-## 31. [Magic in the Water](https://serp.ly/@serpmedia/github/amazon/Magic+in+the+Water)
+## 31. [Magic in the Water](https://serp.ly/amazon/Magic+in+the+Water)
 
 ![Magic in the Water](https://image.tmdb.org/t/p/original/54BiiZRiIUFDNboO8RZ81AKqk3d.jpg)
 
@@ -1231,7 +1231,7 @@ When radio psychologist Jack Black takes his kids Joshua and Ashley to a British
 <hr>
 
 
-## 32. [Hit by Lightning](https://serp.ly/@serpmedia/github/amazon/Hit+by+Lightning)
+## 32. [Hit by Lightning](https://serp.ly/amazon/Hit+by+Lightning)
 
 ![Hit by Lightning](https://image.tmdb.org/t/p/original/9jveY5ak0bmEWpJaQTLFPB2dUwu.jpg)
 
@@ -1268,7 +1268,7 @@ Ricky Miller, a 40-something restaurant manager and aspiring writer, finds himse
 <hr>
 
 
-## 33. [Division III: Football's Finest](https://serp.ly/@serpmedia/github/amazon/Division+III%3A+Football%27s+Finest)
+## 33. [Division III: Football's Finest](https://serp.ly/amazon/Division+III%3A+Football%27s+Finest)
 
 ![Division III: Football's Finest](https://image.tmdb.org/t/p/original/utoK0d1ek4iY5rcRFarR5Ijz7Af.jpg)
 
@@ -1302,7 +1302,7 @@ When the head coach of Pullham University's football program passes away, the sm
 <hr>
 
 
-## 34. [Russell Madness](https://serp.ly/@serpmedia/github/amazon/Russell+Madness)
+## 34. [Russell Madness](https://serp.ly/amazon/Russell+Madness)
 
 ![Russell Madness](https://image.tmdb.org/t/p/original/udurlPODKYMUeLA4wi9ET8mlLBM.jpg)
 
@@ -1338,7 +1338,7 @@ Russell Madness follows an undersized terrier named Russell who dreams of having
 <hr>
 
 
-## 35. [Ski School 2](https://serp.ly/@serpmedia/github/amazon/Ski+School+2)
+## 35. [Ski School 2](https://serp.ly/amazon/Ski+School+2)
 
 ![Ski School 2](https://image.tmdb.org/t/p/original/lMGtv7QlDkyraMkYHW8JTL4Ln8W.jpg)
 
@@ -1372,7 +1372,7 @@ Russell Madness follows an undersized terrier named Russell who dreams of having
 <hr>
 
 
-## 36. [Year of the Carnivore](https://serp.ly/@serpmedia/github/amazon/Year+of+the+Carnivore)
+## 36. [Year of the Carnivore](https://serp.ly/amazon/Year+of+the+Carnivore)
 
 ![Year of the Carnivore](https://image.tmdb.org/t/p/original/5C3CuOjY0uoJnhGo55LXCmlKcsH.jpg)
 
@@ -1408,7 +1408,7 @@ A story about finding love... sex... love
 <hr>
 
 
-## 37. [Brown's Requiem](https://serp.ly/@serpmedia/github/amazon/Brown%27s+Requiem)
+## 37. [Brown's Requiem](https://serp.ly/amazon/Brown%27s+Requiem)
 
 ![Brown's Requiem](https://image.tmdb.org/t/p/original/hhshoH9MZM9cB9lfArRtZ0mf9Gv.jpg)
 
@@ -1444,7 +1444,7 @@ When a sleazy caddie walks into Fritz Brown's office flashing cash, it kicks off
 <hr>
 
 
-## 38. [Beautiful Girl](https://serp.ly/@serpmedia/github/amazon/Beautiful+Girl)
+## 38. [Beautiful Girl](https://serp.ly/amazon/Beautiful+Girl)
 
 ![Beautiful Girl](https://image.tmdb.org/t/p/original/pxcvdUjNasq2x9cuJWtpr7JY4VC.jpg)
 
@@ -1482,7 +1482,7 @@ When lonely mechanic William develops a crush on the beautiful Odessa, an adult 
 <hr>
 
 
-## 39. [Film Fest](https://serp.ly/@serpmedia/github/amazon/Film+Fest)
+## 39. [Film Fest](https://serp.ly/amazon/Film+Fest)
 
 ![Film Fest](https://image.tmdb.org/t/p/original/kGM6lk2LfEezDULl3YTH5K0bmo9.jpg)
 
@@ -1516,7 +1516,7 @@ When a group of struggling filmmakers travel to an obscure festival hoping to se
 <hr>
 
 
-## 40. [Inside Game](https://serp.ly/@serpmedia/github/amazon/Inside+Game)
+## 40. [Inside Game](https://serp.ly/amazon/Inside+Game)
 
 ![Inside Game](https://image.tmdb.org/t/p/original/vEVFQYliFNvMOG0Y3telnveXKuV.jpg)
 
@@ -1554,7 +1554,7 @@ When NBA referee Tim Donaghy gets caught betting on games he worked, it kicks of
 <hr>
 
 
-## 41. [Moving Day](https://serp.ly/@serpmedia/github/amazon/Moving+Day)
+## 41. [Moving Day](https://serp.ly/amazon/Moving+Day)
 
 ![Moving Day](https://image.tmdb.org/t/p/original/8bow4q5L2l0jSIWsx66yfUyR9eV.jpg)
 
@@ -1588,7 +1588,7 @@ Clyde's life took a surprising turn when he landed a job at Redmond's Furniture,
 <hr>
 
 
-## 42. [Dad's Week Off](https://serp.ly/@serpmedia/github/amazon/Dad%27s+Week+Off)
+## 42. [Dad's Week Off](https://serp.ly/amazon/Dad%27s+Week+Off)
 
 ![Dad's Week Off](https://image.tmdb.org/t/p/original/vlGMVxdZcNrLFnH59M6cU9h2mIO.jpg)
 
@@ -1624,7 +1624,7 @@ Jack, a stressed-out computer salesman, thinks he's getting a break when his wif
 <hr>
 
 
-## 43. [A Miracle on Christmas Lake](https://serp.ly/@serpmedia/github/amazon/A+Miracle+on+Christmas+Lake)
+## 43. [A Miracle on Christmas Lake](https://serp.ly/amazon/A+Miracle+on+Christmas+Lake)
 
 ![A Miracle on Christmas Lake](https://image.tmdb.org/t/p/original/z9LqfzWzMrsfqYui8FMh6OQP5lC.jpg)
 
@@ -1658,7 +1658,7 @@ Bobby Whiteside's frozen lake becomes the magical setting for an epic winter hoc
 <hr>
 
 
-## 44. [For Christ's Sake](https://serp.ly/@serpmedia/github/amazon/For+Christ%27s+Sake)
+## 44. [For Christ's Sake](https://serp.ly/amazon/For+Christ%27s+Sake)
 
 ![For Christ's Sake](https://image.tmdb.org/t/p/original/1E5BXikqmuTQjkhvDFALf2oOrB9.jpg)
 
@@ -1692,7 +1692,7 @@ When a small town priest learns his estranged brother needs money for cancer tre
 <hr>
 
 
-## 45. [The Throwback](https://serp.ly/@serpmedia/github/amazon/The+Throwback)
+## 45. [The Throwback](https://serp.ly/amazon/The+Throwback)
 
 ![The Throwback](https://image.tmdb.org/t/p/original/xk3DE0GrfOCmOkJcc9Z6CHYJ6dk.jpg)
 
@@ -1723,7 +1723,7 @@ When a stressed "supermom" suffers a holiday breakdown, she regresses to her col
 <hr>
 
 
-## 46. [Starrcast V: The Roast of Ric Flair](https://serp.ly/@serpmedia/github/amazon/Starrcast+V%3A+The+Roast+of+Ric+Flair)
+## 46. [Starrcast V: The Roast of Ric Flair](https://serp.ly/amazon/Starrcast+V%3A+The+Roast+of+Ric+Flair)
 
 ![Starrcast V: The Roast of Ric Flair](https://image.tmdb.org/t/p/original/er9qTX6UnNrFQILTYhYsCpM8SoU.jpg)
 
@@ -1754,7 +1754,7 @@ When a stressed "supermom" suffers a holiday breakdown, she regresses to her col
 <hr>
 
 
-## 47. [Haunted House: Trick-VR-Treat](https://serp.ly/@serpmedia/github/amazon/Haunted+House%3A+Trick-VR-Treat)
+## 47. [Haunted House: Trick-VR-Treat](https://serp.ly/amazon/Haunted+House%3A+Trick-VR-Treat)
 
 ![Haunted House: Trick-VR-Treat](https://image.tmdb.org/t/p/original/wxfCpAFe84GRvZHOtNn2bsGrLVu.jpg)
 
@@ -1788,7 +1788,7 @@ From the twisted mind of Eli Roth comes a virtual nightmare starring Vanessa Hud
 <hr>
 
 
-## 48. [Budding Prospects](https://serp.ly/@serpmedia/github/amazon/Budding+Prospects)
+## 48. [Budding Prospects](https://serp.ly/amazon/Budding+Prospects)
 
 ![Budding Prospects](https://image.tmdb.org/t/p/original/3KhYsB0HOHAKLkucJ0kZ0xherzq.jpg)
 
@@ -1819,7 +1819,7 @@ In 1983, a group of friends leaves San Francisco to start their own marijuana en
 <hr>
 
 
-## 49. [USIDent TV: Surveilling the Southland](https://serp.ly/@serpmedia/github/amazon/USIDent+TV%3A+Surveilling+the+Southland)
+## 49. [USIDent TV: Surveilling the Southland](https://serp.ly/amazon/USIDent+TV%3A+Surveilling+the+Southland)
 
 ![USIDent TV: Surveilling the Southland](https://image.tmdb.org/t/p/original/iwPwjEeJJe0MjCt0sK693yozsNI.jpg)
 
@@ -1850,7 +1850,7 @@ In 1983, a group of friends leaves San Francisco to start their own marijuana en
 <hr>
 
 
-## 50. [Clown in a Cornfield](https://serp.ly/@serpmedia/github/amazon/Clown+in+a+Cornfield)
+## 50. [Clown in a Cornfield](https://serp.ly/amazon/Clown+in+a+Cornfield)
 
 ![Clown in a Cornfield](https://image.tmdb.org/t/p/original/nOACBqqGRuqHhD4tSBBMSQdgLbM.jpg)
 
@@ -1877,7 +1877,7 @@ Quinn Maybrook just wants to make it to graduation. After moving to the fading m
 <hr>
 
 
-## 51. [Deaner '89](https://serp.ly/@serpmedia/github/amazon/Deaner+%2789)
+## 51. [Deaner '89](https://serp.ly/amazon/Deaner+%2789)
 
 ![Deaner '89](https://image.tmdb.org/t/p/original/zPSpELBnM4Cpjtut89PoxrxixJX.jpg)
 
@@ -1903,7 +1903,7 @@ Deaner '89 reunites party animal Dean Murdoch with his college days of 1989 thro
 <hr>
 
 
-## 1. [Grey's Anatomy](https://serp.ly/@serpmedia/github/amazon/Grey%27s+Anatomy)
+## 1. [Grey's Anatomy](https://serp.ly/amazon/Grey%27s+Anatomy)
 
 ![Grey's Anatomy](https://image.tmdb.org/t/p/original/jcEl8SISNfGdlQFwLzeEtsjDvpw.jpg)
 
@@ -1949,7 +1949,7 @@ Begin again.
 <hr>
 
 
-## 2. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 2. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1995,7 +1995,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 3. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 3. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -2037,7 +2037,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 4. [Young Sheldon](https://serp.ly/@serpmedia/github/amazon/Young+Sheldon)
+## 4. [Young Sheldon](https://serp.ly/amazon/Young+Sheldon)
 
 ![Young Sheldon](https://image.tmdb.org/t/p/original/tKwjkqTSq5fJdSxIk4yOh61tOKD.jpg)
 
@@ -2081,7 +2081,7 @@ It all started with a big bang...or rather, in East Texas.
 <hr>
 
 
-## 5. [How I Met Your Mother](https://serp.ly/@serpmedia/github/amazon/How+I+Met+Your+Mother)
+## 5. [How I Met Your Mother](https://serp.ly/amazon/How+I+Met+Your+Mother)
 
 ![How I Met Your Mother](https://image.tmdb.org/t/p/original/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg)
 
@@ -2125,7 +2125,7 @@ How I Met Your Mother is a cleverly constructed love story that unfolds through 
 <hr>
 
 
-## 6. [Two and a Half Men](https://serp.ly/@serpmedia/github/amazon/Two+and+a+Half+Men)
+## 6. [Two and a Half Men](https://serp.ly/amazon/Two+and+a+Half+Men)
 
 ![Two and a Half Men](https://image.tmdb.org/t/p/original/xgfjxyV3g1S68opzuvG6G87muDp.jpg)
 
@@ -2169,7 +2169,7 @@ When a successful jingle writer's carefree lifestyle changes overnight with the 
 <hr>
 
 
-## 7. [Modern Family](https://serp.ly/@serpmedia/github/amazon/Modern+Family)
+## 7. [Modern Family](https://serp.ly/amazon/Modern+Family)
 
 ![Modern Family](https://image.tmdb.org/t/p/original/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg)
 
@@ -2213,7 +2213,7 @@ When modern families blend, their differences turn everyday situations into memo
 <hr>
 
 
-## 8. [Curb Your Enthusiasm](https://serp.ly/@serpmedia/github/amazon/Curb+Your+Enthusiasm)
+## 8. [Curb Your Enthusiasm](https://serp.ly/amazon/Curb+Your+Enthusiasm)
 
 ![Curb Your Enthusiasm](https://image.tmdb.org/t/p/original/mZqWmSq1M61Jlre3furVDSXvdrN.jpg)
 
@@ -2257,7 +2257,7 @@ Deep inside you know you're him.
 <hr>
 
 
-## 9. [Shameless](https://serp.ly/@serpmedia/github/amazon/Shameless)
+## 9. [Shameless](https://serp.ly/amazon/Shameless)
 
 ![Shameless](https://image.tmdb.org/t/p/original/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg)
 
@@ -2301,7 +2301,7 @@ When single dad Frank Gallagher runs a Chicago household with six kids, their pe
 <hr>
 
 
-## 10. [Mom](https://serp.ly/@serpmedia/github/amazon/Mom)
+## 10. [Mom](https://serp.ly/amazon/Mom)
 
 ![Mom](https://image.tmdb.org/t/p/original/kIi3T7X0kmiV9vGDme146P2d979.jpg)
 
@@ -2345,7 +2345,7 @@ When newly sober single mom Christy returns to her hometown, she's forced to nav
 <hr>
 
 
-## 11. [The X-Files](https://serp.ly/@serpmedia/github/amazon/The+X-Files)
+## 11. [The X-Files](https://serp.ly/amazon/The+X-Files)
 
 ![The X-Files](https://image.tmdb.org/t/p/original/5BD0kiTGnDxONqdrsswTewnk6WH.jpg)
 
@@ -2389,7 +2389,7 @@ When two FBI agents with opposing views on the paranormal are forced to work tog
 <hr>
 
 
-## 12. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 12. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -2435,7 +2435,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 13. [Hot in Cleveland](https://serp.ly/@serpmedia/github/amazon/Hot+in+Cleveland)
+## 13. [Hot in Cleveland](https://serp.ly/amazon/Hot+in+Cleveland)
 
 ![Hot in Cleveland](https://image.tmdb.org/t/p/original/mvSXebWlltJxJUNNkoLb0tzygi2.jpg)
 
@@ -2477,7 +2477,7 @@ When three fabulous, eccentric LA best friends land in Cleveland by mistake, the
 <hr>
 
 
-## 14. [Lilo & Stitch: The Series](https://serp.ly/@serpmedia/github/amazon/Lilo+%26+Stitch%3A+The+Series)
+## 14. [Lilo & Stitch: The Series](https://serp.ly/amazon/Lilo+%26+Stitch%3A+The+Series)
 
 ![Lilo & Stitch: The Series](https://image.tmdb.org/t/p/original/997mXFpYV2zdXK4EOctN3hgciaT.jpg)
 
@@ -2519,7 +2519,7 @@ Join Lilo and Stitch as they embark on new adventures across Hawaii! Dr. Jumba's
 <hr>
 
 
-## 15. [Justified](https://serp.ly/@serpmedia/github/amazon/Justified)
+## 15. [Justified](https://serp.ly/amazon/Justified)
 
 ![Justified](https://image.tmdb.org/t/p/original/co2mZbCuO1Vv86a2VVcBYaBJwmf.jpg)
 
@@ -2563,7 +2563,7 @@ U.S. Marshal Raylan Givens returns to his hometown of Harlan County, Kentucky, b
 <hr>
 
 
-## 16. [Doctor Who](https://serp.ly/@serpmedia/github/amazon/Doctor+Who)
+## 16. [Doctor Who](https://serp.ly/amazon/Doctor+Who)
 
 ![Doctor Who](https://image.tmdb.org/t/p/original/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg)
 
@@ -2605,7 +2605,7 @@ Join The Doctor, a time-traveling alien known as a Time Lord, as he explores the
 <hr>
 
 
-## 17. [The Cleveland Show](https://serp.ly/@serpmedia/github/amazon/The+Cleveland+Show)
+## 17. [The Cleveland Show](https://serp.ly/amazon/The+Cleveland+Show)
 
 ![The Cleveland Show](https://image.tmdb.org/t/p/original/Qp4gvTc5Cp15VBdt77oXKQ54xF.jpg)
 
@@ -2647,7 +2647,7 @@ Join Cleveland Brown and his family on their outrageous adventures through life'
 <hr>
 
 
-## 18. [The Orville](https://serp.ly/@serpmedia/github/amazon/The+Orville)
+## 18. [The Orville](https://serp.ly/amazon/The+Orville)
 
 ![The Orville](https://image.tmdb.org/t/p/original/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg)
 
@@ -2693,7 +2693,7 @@ The Orville invites you to explore the final frontier with a crew of dysfunction
 <hr>
 
 
-## 19. [The Marvelous Mrs. Maisel](https://serp.ly/@serpmedia/github/amazon/The+Marvelous+Mrs.+Maisel)
+## 19. [The Marvelous Mrs. Maisel](https://serp.ly/amazon/The+Marvelous+Mrs.+Maisel)
 
 ![The Marvelous Mrs. Maisel](https://image.tmdb.org/t/p/original/zS7fQiOZiKCVH2vlYSiIsFWW8hh.jpg)
 
@@ -2735,7 +2735,7 @@ In 1958 Manhattan, Miriam "Midge" Maisel has the perfect Upper West Side life - 
 <hr>
 
 
-## 20. [Harley Quinn](https://serp.ly/@serpmedia/github/amazon/Harley+Quinn)
+## 20. [Harley Quinn](https://serp.ly/amazon/Harley+Quinn)
 
 ![Harley Quinn](https://image.tmdb.org/t/p/original/abDkDGruscppQ2zBb2qcrdkRzzH.jpg)
 
@@ -2783,7 +2783,7 @@ When Harley Quinn finally breaks free from the Joker's shadow, she transforms he
 <hr>
 
 
-## 21. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 21. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2827,7 +2827,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 22. [Sliders](https://serp.ly/@serpmedia/github/amazon/Sliders)
+## 22. [Sliders](https://serp.ly/amazon/Sliders)
 
 ![Sliders](https://image.tmdb.org/t/p/original/9cBXIPl83fE2yQusoEt6vMpSjIJ.jpg)
 
@@ -2869,7 +2869,7 @@ When boy-genius Quinn Mallory tests his invention in the San Francisco basement,
 <hr>
 
 
-## 23. [The League](https://serp.ly/@serpmedia/github/amazon/The+League)
+## 23. [The League](https://serp.ly/amazon/The+League)
 
 ![The League](https://image.tmdb.org/t/p/original/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg)
 
@@ -2911,7 +2911,7 @@ The League combines scripted humor with semi-improvised comedy to create an ente
 <hr>
 
 
-## 24. [The Fresh Prince of Bel-Air](https://serp.ly/@serpmedia/github/amazon/The+Fresh+Prince+of+Bel-Air)
+## 24. [The Fresh Prince of Bel-Air](https://serp.ly/amazon/The+Fresh+Prince+of+Bel-Air)
 
 ![The Fresh Prince of Bel-Air](https://image.tmdb.org/t/p/original/3d6tBbClvVjgF6ZyPl3SojfFU3e.jpg)
 
@@ -2955,7 +2955,7 @@ When a street-smart teenager from West Philly moves in with his wealthy relative
 <hr>
 
 
-## 25. [Up All Night](https://serp.ly/@serpmedia/github/amazon/Up+All+Night)
+## 25. [Up All Night](https://serp.ly/amazon/Up+All+Night)
 
 ![Up All Night](https://image.tmdb.org/t/p/original/5JyUoqVp34jmfvstRJc3fAVigrF.jpg)
 
@@ -2997,7 +2997,7 @@ When a career-driven mother runs a bed-and-breakfast business with her stay-at-h
 <hr>
 
 
-## 26. [American Housewife](https://serp.ly/@serpmedia/github/amazon/American+Housewife)
+## 26. [American Housewife](https://serp.ly/amazon/American+Housewife)
 
 ![American Housewife](https://image.tmdb.org/t/p/original/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg)
 
@@ -3041,7 +3041,7 @@ Still the wife of the party.
 <hr>
 
 
-## 27. [History of the World: Part II](https://serp.ly/@serpmedia/github/amazon/History+of+the+World%3A+Part+II)
+## 27. [History of the World: Part II](https://serp.ly/amazon/History+of+the+World%3A+Part+II)
 
 ![History of the World: Part II](https://image.tmdb.org/t/p/original/6PlHUsScubMx3VADGRh1kIylML2.jpg)
 
@@ -3085,7 +3085,7 @@ Hysterically accurate.
 <hr>
 
 
-## 28. [Less than Perfect](https://serp.ly/@serpmedia/github/amazon/Less+than+Perfect)
+## 28. [Less than Perfect](https://serp.ly/amazon/Less+than+Perfect)
 
 ![Less than Perfect](https://image.tmdb.org/t/p/original/xKKV8RNURtXipLmxa26PfazWuYy.jpg)
 
@@ -3127,7 +3127,7 @@ Hysterically accurate.
 <hr>
 
 
-## 29. [Hollywood Squares](https://serp.ly/@serpmedia/github/amazon/Hollywood+Squares)
+## 29. [Hollywood Squares](https://serp.ly/amazon/Hollywood+Squares)
 
 ![Hollywood Squares](https://image.tmdb.org/t/p/original/vHwgcxGQH8KpgTL4KEV4eG2IAn8.jpg)
 
@@ -3169,7 +3169,7 @@ Hysterically accurate.
 <hr>
 
 
-## 30. [Entourage](https://serp.ly/@serpmedia/github/amazon/Entourage)
+## 30. [Entourage](https://serp.ly/amazon/Entourage)
 
 ![Entourage](https://image.tmdb.org/t/p/original/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg)
 
@@ -3215,7 +3215,7 @@ Vince Chase, a film star in Los Angeles, moves through the city with a tight-kni
 <hr>
 
 
-## 31. [Childrens Hospital](https://serp.ly/@serpmedia/github/amazon/Childrens+Hospital)
+## 31. [Childrens Hospital](https://serp.ly/amazon/Childrens+Hospital)
 
 ![Childrens Hospital](https://image.tmdb.org/t/p/original/bbnXmarKkuxde9kkeyjAPzZY6Od.jpg)
 
@@ -3257,7 +3257,7 @@ When smart people dedicate their lives to caring for others, their personal stru
 <hr>
 
 
-## 32. [Celebrity Name Game](https://serp.ly/@serpmedia/github/amazon/Celebrity+Name+Game)
+## 32. [Celebrity Name Game](https://serp.ly/amazon/Celebrity+Name+Game)
 
 ![Celebrity Name Game](https://image.tmdb.org/t/p/original/pxenwgq31ZxYXlNnwVPNz7uVXnX.jpg)
 
@@ -3299,7 +3299,7 @@ When smart people dedicate their lives to caring for others, their personal stru
 <hr>
 
 
-## 33. [Hollywood Game Night](https://serp.ly/@serpmedia/github/amazon/Hollywood+Game+Night)
+## 33. [Hollywood Game Night](https://serp.ly/amazon/Hollywood+Game+Night)
 
 ![Hollywood Game Night](https://image.tmdb.org/t/p/original/tDsLEeI402QThtGWkWm4NX62FE.jpg)
 
@@ -3343,7 +3343,7 @@ Two lucky contestants are whisked from their ordinary lives into an extraordinar
 <hr>
 
 
-## 34. [Drunk History](https://serp.ly/@serpmedia/github/amazon/Drunk+History)
+## 34. [Drunk History](https://serp.ly/amazon/Drunk+History)
 
 ![Drunk History](https://image.tmdb.org/t/p/original/6zTclFjUEm6aTodjYciYtwzh5tY.jpg)
 
@@ -3385,7 +3385,7 @@ Two lucky contestants are whisked from their ordinary lives into an extraordinar
 <hr>
 
 
-## 35. [Kevin (Probably) Saves the World](https://serp.ly/@serpmedia/github/amazon/Kevin+%28Probably%29+Saves+the+World)
+## 35. [Kevin (Probably) Saves the World](https://serp.ly/amazon/Kevin+%28Probably%29+Saves+the+World)
 
 ![Kevin (Probably) Saves the World](https://image.tmdb.org/t/p/original/k3uUik3FsGN3sn4g8pXseRwdRSp.jpg)
 
@@ -3427,7 +3427,7 @@ When Kevin Finn returns home to stay with his widowed twin sister and her daught
 <hr>
 
 
-## 36. [Loudermilk](https://serp.ly/@serpmedia/github/amazon/Loudermilk)
+## 36. [Loudermilk](https://serp.ly/amazon/Loudermilk)
 
 ![Loudermilk](https://image.tmdb.org/t/p/original/n9OpiTPynQDamlNyBPZgubMunKL.jpg)
 
@@ -3469,7 +3469,7 @@ When recovering alcoholic Sam Loudermilk becomes a substance abuse counselor, hi
 <hr>
 
 
-## 37. [Another Period](https://serp.ly/@serpmedia/github/amazon/Another+Period)
+## 37. [Another Period](https://serp.ly/amazon/Another+Period)
 
 ![Another Period](https://image.tmdb.org/t/p/original/qFlfKVWqHODALrYVldVl1Y48eGx.jpg)
 
@@ -3511,7 +3511,7 @@ Set at the turn of the century, "Another Period" follows the extravagant and oft
 <hr>
 
 
-## 38. [$#\*! My Dad Says](https://serp.ly/@serpmedia/github/amazon/%24%23%2A%21+My+Dad+Says)
+## 38. [$#\*! My Dad Says](https://serp.ly/amazon/%24%23%2A%21+My+Dad+Says)
 
 ![$#\*! My Dad Says](https://image.tmdb.org/t/p/original/rNaDgCmn16Bdy0EbU1gY6ZJpnhA.jpg)
 
@@ -3553,7 +3553,7 @@ When Ed Goodson, a grumpy dad with a knack for outrageous remarks, offers his st
 <hr>
 
 
-## 39. [October Road](https://serp.ly/@serpmedia/github/amazon/October+Road)
+## 39. [October Road](https://serp.ly/amazon/October+Road)
 
 ![October Road](https://image.tmdb.org/t/p/original/xDgOxRaPI0iAHaWWyzcSJUqjVbs.jpg)
 
@@ -3597,7 +3597,7 @@ When Nick Garrett left his hometown at 18 for a summer road trip, he never imagi
 <hr>
 
 
-## 40. [WCW Monday Nitro](https://serp.ly/@serpmedia/github/amazon/WCW+Monday+Nitro)
+## 40. [WCW Monday Nitro](https://serp.ly/amazon/WCW+Monday+Nitro)
 
 ![WCW Monday Nitro](https://image.tmdb.org/t/p/original/4wxkWyoqOqaRgSwQiPOAXdF5FNL.jpg)
 
@@ -3641,7 +3641,7 @@ Travel back to the golden age of professional wrestling with WCW Monday Nitro, t
 <hr>
 
 
-## 41. ['Til Death](https://serp.ly/@serpmedia/github/amazon/%27Til+Death)
+## 41. ['Til Death](https://serp.ly/amazon/%27Til+Death)
 
 !['Til Death](https://image.tmdb.org/t/p/original/trOymv1SiVmMeWlCmV0EiOC6E6v.jpg)
 
@@ -3683,7 +3683,7 @@ Travel back to the golden age of professional wrestling with WCW Monday Nitro, t
 <hr>
 
 
-## 42. [Assassin Banana](https://serp.ly/@serpmedia/github/amazon/Assassin+Banana)
+## 42. [Assassin Banana](https://serp.ly/amazon/Assassin+Banana)
 
 ![Assassin Banana](https://image.tmdb.org/t/p/original/hhf40eh4MpN1EVsrqd9uY0OqoZV.jpg)
 
@@ -3725,7 +3725,7 @@ Billionaire banana Chick del Monte leads a double life as Assassin Banana, a mas
 <hr>
 
 
-## 43. [Glenn Martin, DDS](https://serp.ly/@serpmedia/github/amazon/Glenn+Martin%2C+DDS)
+## 43. [Glenn Martin, DDS](https://serp.ly/amazon/Glenn+Martin%2C+DDS)
 
 ![Glenn Martin, DDS](https://image.tmdb.org/t/p/original/ecOHyZvLWWumvw7vnzM5AuZyxis.jpg)
 
@@ -3767,7 +3767,7 @@ Join Glenn Martin, DDS in this charming stop-motion animated series that aired o
 <hr>
 
 
-## 44. [Great News](https://serp.ly/@serpmedia/github/amazon/Great+News)
+## 44. [Great News](https://serp.ly/amazon/Great+News)
 
 ![Great News](https://image.tmdb.org/t/p/original/vEqPNbSY0mJmlywFmMwIhuoEHHM.jpg)
 
@@ -3809,7 +3809,7 @@ When a New Jersey mom lands an internship at the same TV station where her daugh
 <hr>
 
 
-## 45. [Robson Arms](https://serp.ly/@serpmedia/github/amazon/Robson+Arms)
+## 45. [Robson Arms](https://serp.ly/amazon/Robson+Arms)
 
 ![Robson Arms](https://image.tmdb.org/t/p/original/wUTM2h02C8YgJK0Lh0dLRiZXLLr.jpg)
 
@@ -3851,7 +3851,7 @@ When a New Jersey mom lands an internship at the same TV station where her daugh
 <hr>
 
 
-## 46. [Neighbors from Hell](https://serp.ly/@serpmedia/github/amazon/Neighbors+from+Hell)
+## 46. [Neighbors from Hell](https://serp.ly/amazon/Neighbors+from+Hell)
 
 ![Neighbors from Hell](https://image.tmdb.org/t/p/original/9kf6IRph1CFdGc4UKVn7ji5tWhz.jpg)
 
@@ -3893,7 +3893,7 @@ When the Hellmans move into the neighborhood, they bring their otherworldly chao
 <hr>
 
 
-## 47. [Madison](https://serp.ly/@serpmedia/github/amazon/Madison)
+## 47. [Madison](https://serp.ly/amazon/Madison)
 
 ![Madison](https://image.tmdb.org/t/p/original/zsngZlWNXgkQZRXsVKs7MFNOXUm.jpg)
 
@@ -3935,7 +3935,7 @@ Travel back to the 90s with Madison, a scripted series that aired from 1993 to 1
 <hr>
 
 
-## 48. [Brothers](https://serp.ly/@serpmedia/github/amazon/Brothers)
+## 48. [Brothers](https://serp.ly/amazon/Brothers)
 
 ![Brothers](https://image.tmdb.org/t/p/original/kCrdecHr2VDjBKoLGU7Tx8D42cN.jpg)
 
@@ -3977,7 +3977,7 @@ When NFL star Mike Trainor retires to New York City, his world changes unexpecte
 <hr>
 
 
-## 49. [Georgie & Mandy's First Marriage](https://serp.ly/@serpmedia/github/amazon/Georgie+%26+Mandy%27s+First+Marriage)
+## 49. [Georgie & Mandy's First Marriage](https://serp.ly/amazon/Georgie+%26+Mandy%27s+First+Marriage)
 
 <br>
 
@@ -4010,7 +4010,7 @@ When young Georgie and Mandy start their family in Texas, they encounter the gen
 <hr>
 
 
-## 50. [United We Fall](https://serp.ly/@serpmedia/github/amazon/United+We+Fall)
+## 50. [United We Fall](https://serp.ly/amazon/United+We+Fall)
 
 ![United We Fall](https://image.tmdb.org/t/p/original/kWDLbp2J1JoZUo6PsZl7TOPpo1Y.jpg)
 
@@ -4056,7 +4056,7 @@ Join Jo and Bill as they navigate the chaos of parenting two young kids with the
 <hr>
 
 
-## 51. [Mongo Wrestling Alliance](https://serp.ly/@serpmedia/github/amazon/Mongo+Wrestling+Alliance)
+## 51. [Mongo Wrestling Alliance](https://serp.ly/amazon/Mongo+Wrestling+Alliance)
 
 ![Mongo Wrestling Alliance](https://image.tmdb.org/t/p/original/vSWacow452q2sXjv7h6AG7RrfDu.jpg)
 
@@ -4098,7 +4098,7 @@ When professional wrestling takes a bizarre turn, Cartoon Network's Adult Swim d
 <hr>
 
 
-## 52. [Budding Prospects](https://serp.ly/@serpmedia/github/amazon/Budding+Prospects)
+## 52. [Budding Prospects](https://serp.ly/amazon/Budding+Prospects)
 
 ![Budding Prospects](https://image.tmdb.org/t/p/original/oHkLnRTrMkSUZwKRAMkHDi1LF8V.jpg)
 
@@ -4142,7 +4142,7 @@ When three carefree guys from San Francisco are lured into the marijuana busines
 <hr>
 
 
-## 53. [MADtv](https://serp.ly/@serpmedia/github/amazon/MADtv)
+## 53. [MADtv](https://serp.ly/amazon/MADtv)
 
 ![MADtv](https://image.tmdb.org/t/p/original/4tXHrqYbETym7Def99MeXrpPyRA.jpg)
 

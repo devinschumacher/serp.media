@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Paper Towns](https://serp.ly/@serpmedia/github/amazon/Paper+Towns)
+## 1. [Paper Towns](https://serp.ly/amazon/Paper+Towns)
 
 ![Paper Towns](https://image.tmdb.org/t/p/original/eoF6wYVj1vbrCWjL0rBkdZpgrxS.jpg)
 
@@ -78,7 +78,7 @@ Quentin's world changes after a thrilling all-night adventure with his lifelong 
 <hr>
 
 
-## 2. [Gangster Squad](https://serp.ly/@serpmedia/github/amazon/Gangster+Squad)
+## 2. [Gangster Squad](https://serp.ly/amazon/Gangster+Squad)
 
 ![Gangster Squad](https://image.tmdb.org/t/p/original/1eW9kFSuTQfyMvZKtxlnwKRBvI.jpg)
 
@@ -121,7 +121,7 @@ In 1949 Los Angeles, a secret LAPD task force leads by Sgt. John O'Mara fights t
 <hr>
 
 
-## 3. [Scary Stories to Tell in the Dark](https://serp.ly/@serpmedia/github/amazon/Scary+Stories+to+Tell+in+the+Dark)
+## 3. [Scary Stories to Tell in the Dark](https://serp.ly/amazon/Scary+Stories+to+Tell+in+the+Dark)
 
 ![Scary Stories to Tell in the Dark](https://image.tmdb.org/t/p/original/kNjEmQGBm9cYqTB03r6yECozQyW.jpg)
 
@@ -164,7 +164,7 @@ It's Halloween night, 1968, in Mill Valley, Pennsylvania, and Stella and her fri
 <hr>
 
 
-## 4. [Chemical Hearts](https://serp.ly/@serpmedia/github/amazon/Chemical+Hearts)
+## 4. [Chemical Hearts](https://serp.ly/amazon/Chemical+Hearts)
 
 ![Chemical Hearts](https://image.tmdb.org/t/p/original/q1MNlZYqhoD4U7sd7pjxD6SUf4z.jpg)
 
@@ -200,7 +200,7 @@ When a hopelessly romantic high school senior falls for a mysterious new classma
 <hr>
 
 
-## 5. [The Kings of Summer](https://serp.ly/@serpmedia/github/amazon/The+Kings+of+Summer)
+## 5. [The Kings of Summer](https://serp.ly/amazon/The+Kings+of+Summer)
 
 ![The Kings of Summer](https://image.tmdb.org/t/p/original/6dcIbwJuxlEnzLe0EaGFvsh4ZdS.jpg)
 
@@ -240,7 +240,7 @@ When Joe Toy declares his independence from his single father's rules, he escape
 <hr>
 
 
-## 6. [Do Revenge](https://serp.ly/@serpmedia/github/amazon/Do+Revenge)
+## 6. [Do Revenge](https://serp.ly/amazon/Do+Revenge)
 
 ![Do Revenge](https://image.tmdb.org/t/p/original/akIjKJDHcVN4bzifcEarKVPNpoa.jpg)
 
@@ -279,7 +279,7 @@ When a reigning queen bee at an elite private high school loses her throne, she 
 <hr>
 
 
-## 7. [Dude](https://serp.ly/@serpmedia/github/amazon/Dude)
+## 7. [Dude](https://serp.ly/amazon/Dude)
 
 ![Dude](https://image.tmdb.org/t/p/original/vh4K737r0ZjrioIjHcs7ktV8RFO.jpg)
 
@@ -318,7 +318,7 @@ Growing up. Moving on. Lighting up.
 <hr>
 
 
-## 8. [Brad's Status](https://serp.ly/@serpmedia/github/amazon/Brad%27s+Status)
+## 8. [Brad's Status](https://serp.ly/amazon/Brad%27s+Status)
 
 ![Brad's Status](https://image.tmdb.org/t/p/original/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg)
 
@@ -357,7 +357,7 @@ Brad's Status delves into the life of a successful Sacramento attorney who feels
 <hr>
 
 
-## 9. [Tragedy Girls](https://serp.ly/@serpmedia/github/amazon/Tragedy+Girls)
+## 9. [Tragedy Girls](https://serp.ly/amazon/Tragedy+Girls)
 
 ![Tragedy Girls](https://image.tmdb.org/t/p/original/3UgRc3vpOiW9HOAD7oBa16xQ21E.jpg)
 
@@ -396,7 +396,7 @@ When two death-obsessed teenagers turn their small Midwestern town into a playgr
 <hr>
 
 
-## 10. [Puzzle](https://serp.ly/@serpmedia/github/amazon/Puzzle)
+## 10. [Puzzle](https://serp.ly/amazon/Puzzle)
 
 ![Puzzle](https://image.tmdb.org/t/p/original/7CfijsjOsPKzz2Dd1zoMF5VPmZo.jpg)
 
@@ -434,7 +434,7 @@ After years of caring exclusively for the needs of her husband and children, Agn
 <hr>
 
 
-## 11. [All Summers End](https://serp.ly/@serpmedia/github/amazon/All+Summers+End)
+## 11. [All Summers End](https://serp.ly/amazon/All+Summers+End)
 
 ![All Summers End](https://image.tmdb.org/t/p/original/An55LrWu0q6Nvh09xjMNAwE9Pnk.jpg)
 
@@ -468,7 +468,7 @@ In this heartfelt drama, a young man grapples with his conscience after a tragic
 <hr>
 
 
-## 12. [Ticking Clock](https://serp.ly/@serpmedia/github/amazon/Ticking+Clock)
+## 12. [Ticking Clock](https://serp.ly/amazon/Ticking+Clock)
 
 ![Ticking Clock](https://image.tmdb.org/t/p/original/lQ9F57GAFd9YGmMzjk0tjhKNFWk.jpg)
 
@@ -504,7 +504,7 @@ A reporter's investigation leads him to the journal of a murderer planning to ta
 <hr>
 
 
-## 13. [The Starling Girl](https://serp.ly/@serpmedia/github/amazon/The+Starling+Girl)
+## 13. [The Starling Girl](https://serp.ly/amazon/The+Starling+Girl)
 
 ![The Starling Girl](https://image.tmdb.org/t/p/original/ysgnrkXwfFCxaBwviG2yNvzpfw5.jpg)
 
@@ -541,7 +541,7 @@ In a small Christian fundamentalist community, 17-year-old Jem Starling's routin
 <hr>
 
 
-## 14. [We Don't Belong Here](https://serp.ly/@serpmedia/github/amazon/We+Don%27t+Belong+Here)
+## 14. [We Don't Belong Here](https://serp.ly/amazon/We+Don%27t+Belong+Here)
 
 ![We Don't Belong Here](https://image.tmdb.org/t/p/original/uppSRvzL8CW4dzHNzousMeaijvm.jpg)
 
@@ -577,7 +577,7 @@ When a mother's carefully constructed life changes in an instant, she's forced t
 <hr>
 
 
-## 15. [Jewtopia](https://serp.ly/@serpmedia/github/amazon/Jewtopia)
+## 15. [Jewtopia](https://serp.ly/amazon/Jewtopia)
 
 ![Jewtopia](https://image.tmdb.org/t/p/original/wnPBdEQzCSnNcb42mSGNZFxgzrw.jpg)
 
@@ -613,7 +613,7 @@ When a gentile falls in love with a Jewish woman, he turns to his Jewish friend 
 <hr>
 
 
-## 16. [Sacrifice](https://serp.ly/@serpmedia/github/amazon/Sacrifice)
+## 16. [Sacrifice](https://serp.ly/amazon/Sacrifice)
 
 ![Sacrifice](https://image.tmdb.org/t/p/original/hZepq3jur0C9R1iPsVcDgz1TqZC.jpg)
 
@@ -647,7 +647,7 @@ In a small Texas town, four high school friends find themselves at a crossroads 
 <hr>
 
 
-## 17. [The Line](https://serp.ly/@serpmedia/github/amazon/The+Line)
+## 17. [The Line](https://serp.ly/amazon/The+Line)
 
 ![The Line](https://image.tmdb.org/t/p/original/3KdO5ONYRsLwoRbHDmSKoSOiKfI.jpg)
 
@@ -681,7 +681,7 @@ In a small Texas town, four high school friends find themselves at a crossroads 
 <hr>
 
 
-## 18. [Decadeless](https://serp.ly/@serpmedia/github/amazon/Decadeless)
+## 18. [Decadeless](https://serp.ly/amazon/Decadeless)
 
 ![Decadeless](https://image.tmdb.org/t/p/original/wrBaJZasl381oCwl6oqavPOlm1w.jpg)
 
@@ -712,7 +712,7 @@ When a teenage blossoms late, she experiences her first adult adventures with he
 <hr>
 
 
-## 19. [Wolfs](https://serp.ly/@serpmedia/github/amazon/Wolfs)
+## 19. [Wolfs](https://serp.ly/amazon/Wolfs)
 
 ![Wolfs](https://image.tmdb.org/t/p/original/2BkYuMK0S50TWHRrsykKi5Xn8GA.jpg)
 
@@ -737,7 +737,7 @@ In this suspenseful thriller, a professional fixer is hired to cover up a high-p
 <hr>
 
 
-## 20. [Mosquito](https://serp.ly/@serpmedia/github/amazon/Mosquito)
+## 20. [Mosquito](https://serp.ly/amazon/Mosquito)
 
 ![Mosquito](https://image.tmdb.org/t/p/original/aUKZ7iuTzOYczVEV6Ek5pyID0yC.jpg)
 
@@ -769,7 +769,7 @@ In the old west, two rival doctors clash in a high-stakes battle of sacrifice an
 <hr>
 
 
-## 21. [Less than Zero](https://serp.ly/@serpmedia/github/amazon/Less+than+Zero)
+## 21. [Less than Zero](https://serp.ly/amazon/Less+than+Zero)
 
 ![Less than Zero](https://image.tmdb.org/t/p/original/kImNCcAbPXZVH5JxFgkbESmIxPo.jpg)
 
@@ -795,7 +795,7 @@ When a college freshman returns to L. A. for the holidays at his ex-girlfriend's
 <hr>
 
 
-## 22. [Youngest](https://serp.ly/@serpmedia/github/amazon/Youngest)
+## 22. [Youngest](https://serp.ly/amazon/Youngest)
 
 <br>
 
@@ -818,7 +818,7 @@ When Autumn, a young girl recently orphaned, attends a high school house party, 
 <hr>
 
 
-## 23. [Weapons](https://serp.ly/@serpmedia/github/amazon/Weapons)
+## 23. [Weapons](https://serp.ly/amazon/Weapons)
 
 <br>
 
@@ -844,7 +844,7 @@ When high schoolers start disappearing in a small town, their worried parents tu
 <hr>
 
 
-## 1. [This Is Us](https://serp.ly/@serpmedia/github/amazon/This+Is+Us)
+## 1. [This Is Us](https://serp.ly/amazon/This+Is+Us)
 
 ![This Is Us](https://image.tmdb.org/t/p/original/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg)
 
@@ -888,7 +888,7 @@ This is real. This is love. This is life.
 <hr>
 
 
-## 2. [Shameless](https://serp.ly/@serpmedia/github/amazon/Shameless)
+## 2. [Shameless](https://serp.ly/amazon/Shameless)
 
 ![Shameless](https://image.tmdb.org/t/p/original/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg)
 
@@ -932,7 +932,7 @@ When single dad Frank Gallagher runs a Chicago household with six kids, their pe
 <hr>
 
 
-## 3. [The Walking Dead](https://serp.ly/@serpmedia/github/amazon/The+Walking+Dead)
+## 3. [The Walking Dead](https://serp.ly/amazon/The+Walking+Dead)
 
 ![The Walking Dead](https://image.tmdb.org/t/p/original/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg)
 
@@ -976,7 +976,7 @@ When Deputy Rick Grimes wakes from a coma, he finds himself in a post-apocalypti
 <hr>
 
 
-## 4. [The Americans](https://serp.ly/@serpmedia/github/amazon/The+Americans)
+## 4. [The Americans](https://serp.ly/amazon/The+Americans)
 
 ![The Americans](https://image.tmdb.org/t/p/original/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg)
 
@@ -1020,7 +1020,7 @@ In the 1980s Washington D. C. suburbs, Elizabeth and Philip Jennings maintain th
 <hr>
 
 
-## 5. [Silicon Valley](https://serp.ly/@serpmedia/github/amazon/Silicon+Valley)
+## 5. [Silicon Valley](https://serp.ly/amazon/Silicon+Valley)
 
 ![Silicon Valley](https://image.tmdb.org/t/p/original/dc5r71XI1gD4YwIUoEYCLiVvtss.jpg)
 
@@ -1064,7 +1064,7 @@ How big is too big?
 <hr>
 
 
-## 6. [Euphoria](https://serp.ly/@serpmedia/github/amazon/Euphoria)
+## 6. [Euphoria](https://serp.ly/amazon/Euphoria)
 
 ![Euphoria](https://image.tmdb.org/t/p/original/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg)
 
@@ -1110,7 +1110,7 @@ Remember this feeling.
 <hr>
 
 
-## 7. [SMILF](https://serp.ly/@serpmedia/github/amazon/SMILF)
+## 7. [SMILF](https://serp.ly/amazon/SMILF)
 
 ![SMILF](https://image.tmdb.org/t/p/original/yrHVP3NQgvMwGhjcA9W49P7uE4O.jpg)
 
@@ -1152,7 +1152,7 @@ When a young woman from Southie becomes a single mother, her personal and profes
 <hr>
 
 
-## 8. [The Inbetweeners](https://serp.ly/@serpmedia/github/amazon/The+Inbetweeners)
+## 8. [The Inbetweeners](https://serp.ly/amazon/The+Inbetweeners)
 
 ![The Inbetweeners](https://image.tmdb.org/t/p/original/hfhYF9lZsz16mCd8jBvpCUb7sN0.jpg)
 
@@ -1194,7 +1194,7 @@ The Inbetweeners follows a group of teenagers as they navigate the tricky terrai
 <hr>
 
 
-## 9. [Dash & Lily](https://serp.ly/@serpmedia/github/amazon/Dash+%26+Lily)
+## 9. [Dash & Lily](https://serp.ly/amazon/Dash+%26+Lily)
 
 ![Dash & Lily](https://image.tmdb.org/t/p/original/2VsVifJ5OCJ9L2419ZPPoGbD4up.jpg)
 
@@ -1238,7 +1238,7 @@ When cynical Dash reluctantly trades messages and dares with the spirited Lily i
 <hr>
 
 
-## 10. [Penelope](https://serp.ly/@serpmedia/github/amazon/Penelope)
+## 10. [Penelope](https://serp.ly/amazon/Penelope)
 
 <br>
 

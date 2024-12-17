@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Fifty Shades Freed](https://serp.ly/@serpmedia/github/amazon/Fifty+Shades+Freed)
+## 1. [Fifty Shades Freed](https://serp.ly/amazon/Fifty+Shades+Freed)
 
 ![Fifty Shades Freed](https://image.tmdb.org/t/p/original/vwFR5WI1RQ1RCxS0cdTbiSgaXJr.jpg)
 
@@ -77,7 +77,7 @@ After a year of separation, Christian and Ana are finally reunited as newlyweds 
 <hr>
 
 
-## 2. [After We Fell](https://serp.ly/@serpmedia/github/amazon/After+We+Fell)
+## 2. [After We Fell](https://serp.ly/amazon/After+We+Fell)
 
 ![After We Fell](https://image.tmdb.org/t/p/original/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg)
 
@@ -118,7 +118,7 @@ Just as Tessa's life begins to unravel, she discovers that nothing - and no one 
 <hr>
 
 
-## 3. [American Pie Presents: Band Camp](https://serp.ly/@serpmedia/github/amazon/American+Pie+Presents%3A+Band+Camp)
+## 3. [American Pie Presents: Band Camp](https://serp.ly/amazon/American+Pie+Presents%3A+Band+Camp)
 
 ![American Pie Presents: Band Camp](https://image.tmdb.org/t/p/original/6BgKeWEGROpWwEWvpw7vwfTCr9C.jpg)
 
@@ -156,7 +156,7 @@ This one time at band camp...
 <hr>
 
 
-## 4. [Aquamarine](https://serp.ly/@serpmedia/github/amazon/Aquamarine)
+## 4. [Aquamarine](https://serp.ly/amazon/Aquamarine)
 
 ![Aquamarine](https://image.tmdb.org/t/p/original/g2Hvucs1Q1nir3pyIXuIwo66uFV.jpg)
 
@@ -199,7 +199,7 @@ When two teenage girls stumble upon a mermaid washed ashore after a fierce storm
 <hr>
 
 
-## 5. [The Uninvited](https://serp.ly/@serpmedia/github/amazon/The+Uninvited)
+## 5. [The Uninvited](https://serp.ly/amazon/The+Uninvited)
 
 ![The Uninvited](https://image.tmdb.org/t/p/original/1xQlzKUDLuCe3SUGIGL6K1PtldH.jpg)
 
@@ -237,7 +237,7 @@ When Anna returns home after her mother's tragic passing, she learns that her mo
 <hr>
 
 
-## 6. [John Tucker Must Die](https://serp.ly/@serpmedia/github/amazon/John+Tucker+Must+Die)
+## 6. [John Tucker Must Die](https://serp.ly/amazon/John+Tucker+Must+Die)
 
 ![John Tucker Must Die](https://image.tmdb.org/t/p/original/l8B01BFBpIyycO2DopROessWzQU.jpg)
 
@@ -280,7 +280,7 @@ When three popular students from different cliques discover they're all dating t
 <hr>
 
 
-## 7. [After Ever Happy](https://serp.ly/@serpmedia/github/amazon/After+Ever+Happy)
+## 7. [After Ever Happy](https://serp.ly/amazon/After+Ever+Happy)
 
 ![After Ever Happy](https://image.tmdb.org/t/p/original/moogpu8rNkEjTgFyLXwhPghft5w.jpg)
 
@@ -321,7 +321,7 @@ As Tessa and Hardin's relationship evolves, they uncover shocking truths about t
 <hr>
 
 
-## 8. [Think Like a Man](https://serp.ly/@serpmedia/github/amazon/Think+Like+a+Man)
+## 8. [Think Like a Man](https://serp.ly/amazon/Think+Like+a+Man)
 
 ![Think Like a Man](https://image.tmdb.org/t/p/original/kfIrKVPDzXJDBzPnFEuoatlaZPW.jpg)
 
@@ -364,7 +364,7 @@ When four couples' relationships hit a rough patch, an unlikely solution emerges
 <hr>
 
 
-## 9. [After Everything](https://serp.ly/@serpmedia/github/amazon/After+Everything)
+## 9. [After Everything](https://serp.ly/amazon/After+Everything)
 
 ![After Everything](https://image.tmdb.org/t/p/original/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg)
 
@@ -405,7 +405,7 @@ After a painful breakup with Tessa, writer Hardin sets off to Portugal in search
 <hr>
 
 
-## 10. [The Grudge 2](https://serp.ly/@serpmedia/github/amazon/The+Grudge+2)
+## 10. [The Grudge 2](https://serp.ly/amazon/The+Grudge+2)
 
 ![The Grudge 2](https://image.tmdb.org/t/p/original/bar7YmgKImN0VljpdLDhvLwMZo4.jpg)
 
@@ -450,7 +450,7 @@ What was once trapped will now be unleashed.
 <hr>
 
 
-## 11. [Vampires Suck](https://serp.ly/@serpmedia/github/amazon/Vampires+Suck)
+## 11. [Vampires Suck](https://serp.ly/amazon/Vampires+Suck)
 
 ![Vampires Suck](https://image.tmdb.org/t/p/original/ksPKfoXovAiFnBktkCBefsRQ8a1.jpg)
 
@@ -490,7 +490,7 @@ When anxious teen Becca finds herself caught between two boys, she thinks her da
 <hr>
 
 
-## 12. [Be Cool](https://serp.ly/@serpmedia/github/amazon/Be+Cool)
+## 12. [Be Cool](https://serp.ly/amazon/Be+Cool)
 
 ![Be Cool](https://image.tmdb.org/t/p/original/ekKCH7Zkb5ZTr1f1AczZY23FH.jpg)
 
@@ -533,7 +533,7 @@ When Chili Palmer gets fed up with the movie business, he decides to try his han
 <hr>
 
 
-## 13. [Soul Plane](https://serp.ly/@serpmedia/github/amazon/Soul+Plane)
+## 13. [Soul Plane](https://serp.ly/amazon/Soul+Plane)
 
 ![Soul Plane](https://image.tmdb.org/t/p/original/b5Rzb5JUwPinllWGYUYER3OV14F.jpg)
 
@@ -576,7 +576,7 @@ When Nashawn Wade's beloved pet dies during a terrible flight, he turns his pain
 <hr>
 
 
-## 14. [Forever Strong](https://serp.ly/@serpmedia/github/amazon/Forever+Strong)
+## 14. [Forever Strong](https://serp.ly/amazon/Forever+Strong)
 
 ![Forever Strong](https://image.tmdb.org/t/p/original/1kweebohYl7gXnIrtRYxsehTzG3.jpg)
 
@@ -612,7 +612,7 @@ Rick Penning lives life just like he plays rugby: fast, hard-hitting, and intens
 <hr>
 
 
-## 15. [Reeker](https://serp.ly/@serpmedia/github/amazon/Reeker)
+## 15. [Reeker](https://serp.ly/amazon/Reeker)
 
 ![Reeker](https://image.tmdb.org/t/p/original/vyx8J1SFPjb7t8v0gLXnUBw3a8t.jpg)
 
@@ -650,7 +650,7 @@ At a remote desert crossroads, strangers converge at an eerie travel oasis where
 <hr>
 
 
-## 16. [Mardi Gras: Spring Break](https://serp.ly/@serpmedia/github/amazon/Mardi+Gras%3A+Spring+Break)
+## 16. [Mardi Gras: Spring Break](https://serp.ly/amazon/Mardi+Gras%3A+Spring+Break)
 
 ![Mardi Gras: Spring Break](https://image.tmdb.org/t/p/original/pljjsYW0BUsWDu2x5FK5ccwW7cP.jpg)
 
@@ -688,7 +688,7 @@ Three college buddies decide to cap off their senior year with a wild Mardi Gras
 <hr>
 
 
-## 17. [A Bride for Christmas](https://serp.ly/@serpmedia/github/amazon/A+Bride+for+Christmas)
+## 17. [A Bride for Christmas](https://serp.ly/amazon/A+Bride+for+Christmas)
 
 ![A Bride for Christmas](https://image.tmdb.org/t/p/original/bymwVTRq0qFMa3zOXyRl16lGXTk.jpg)
 
@@ -722,7 +722,7 @@ Jessie Patterson has called off two engagements before, but this time she's done
 <hr>
 
 
-## 18. [Dirty Deeds](https://serp.ly/@serpmedia/github/amazon/Dirty+Deeds)
+## 18. [Dirty Deeds](https://serp.ly/amazon/Dirty+Deeds)
 
 ![Dirty Deeds](https://image.tmdb.org/t/p/original/fw9FRxhBftqehUVBCvsXwNQnPsw.jpg)
 
@@ -758,7 +758,7 @@ According to high school legend, the "Dirty Deeds" are a notorious list of chall
 <hr>
 
 
-## 19. [Bridal Wave](https://serp.ly/@serpmedia/github/amazon/Bridal+Wave)
+## 19. [Bridal Wave](https://serp.ly/amazon/Bridal+Wave)
 
 ![Bridal Wave](https://image.tmdb.org/t/p/original/yZMUAsU9MxTDls737iU23XeywND.jpg)
 
@@ -792,7 +792,7 @@ With her wedding day rapidly approaching, an anxious bride-to-be has doubts abou
 <hr>
 
 
-## 20. [I Melt with You](https://serp.ly/@serpmedia/github/amazon/I+Melt+with+You)
+## 20. [I Melt with You](https://serp.ly/amazon/I+Melt+with+You)
 
 ![I Melt with You](https://image.tmdb.org/t/p/original/6Xq0cwrXOgmyKCTtH3KlOJFS8uu.jpg)
 
@@ -830,7 +830,7 @@ When three former college friends reunite for a chance reunion, their lives of d
 <hr>
 
 
-## 21. [Four Christmases and a Wedding](https://serp.ly/@serpmedia/github/amazon/Four+Christmases+and+a+Wedding)
+## 21. [Four Christmases and a Wedding](https://serp.ly/amazon/Four+Christmases+and+a+Wedding)
 
 ![Four Christmases and a Wedding](https://image.tmdb.org/t/p/original/dRv1JbwTsAymNnV5grIDN2NCNlH.jpg)
 
@@ -864,7 +864,7 @@ When event planner Chloe lands the dream job of organizing the local Christmas F
 <hr>
 
 
-## 22. [Red Mist](https://serp.ly/@serpmedia/github/amazon/Red+Mist)
+## 22. [Red Mist](https://serp.ly/amazon/Red+Mist)
 
 ![Red Mist](https://image.tmdb.org/t/p/original/zkXdFchk58WcGD8eVdVhzQ3LpiU.jpg)
 
@@ -900,7 +900,7 @@ In a US hospital, a young doctor administers an experimental drug cocktail to a 
 <hr>
 
 
-## 23. [A Brush with Love](https://serp.ly/@serpmedia/github/amazon/A+Brush+with+Love)
+## 23. [A Brush with Love](https://serp.ly/amazon/A+Brush+with+Love)
 
 ![A Brush with Love](https://image.tmdb.org/t/p/original/5XYvU5WyFPIf0RPEgPRzZ4HFiL7.jpg)
 
@@ -934,7 +934,7 @@ When aspiring artist Jamie creates a vision board to reignite her passion, she p
 <hr>
 
 
-## 24. [The After](https://serp.ly/@serpmedia/github/amazon/The+After)
+## 24. [The After](https://serp.ly/amazon/The+After)
 
 ![The After](https://image.tmdb.org/t/p/original/kP8Rvq5C6zRWzYZJJlk3f1jXstY.jpg)
 
@@ -968,7 +968,7 @@ When eight strangers are mysteriously brought together, they find themselves in 
 <hr>
 
 
-## 25. [Another Time](https://serp.ly/@serpmedia/github/amazon/Another+Time)
+## 25. [Another Time](https://serp.ly/amazon/Another+Time)
 
 ![Another Time](https://image.tmdb.org/t/p/original/jplv8Z5OJeI2AsFca1JkW5Xv8pJ.jpg)
 
@@ -1004,7 +1004,7 @@ When the successful investment manager Eric is assigned to help the captivating 
 <hr>
 
 
-## 26. [Supporting Characters](https://serp.ly/@serpmedia/github/amazon/Supporting+Characters)
+## 26. [Supporting Characters](https://serp.ly/amazon/Supporting+Characters)
 
 ![Supporting Characters](https://image.tmdb.org/t/p/original/rSAfIqMTRwEsW51baMXaNK5i2fg.jpg)
 
@@ -1041,7 +1041,7 @@ When two New York film editors tackle a movie in crisis, their personal relation
 <hr>
 
 
-## 27. [Sweet Surrender](https://serp.ly/@serpmedia/github/amazon/Sweet+Surrender)
+## 27. [Sweet Surrender](https://serp.ly/amazon/Sweet+Surrender)
 
 ![Sweet Surrender](https://image.tmdb.org/t/p/original/p2erPPxKyWCg7RbgSSuJ4hsHHzH.jpg)
 
@@ -1075,7 +1075,7 @@ When Tom Campbell returns to his hometown to care for his ailing grandmother, he
 <hr>
 
 
-## 28. [The Kid & I](https://serp.ly/@serpmedia/github/amazon/The+Kid+%26+I)
+## 28. [The Kid & I](https://serp.ly/amazon/The+Kid+%26+I)
 
 ![The Kid & I](https://image.tmdb.org/t/p/original/nr5k1hesGiVEyjlAldEGbXyL0Ba.jpg)
 
@@ -1114,7 +1114,7 @@ Aaron Roman, a teenager with cerebral palsy, gets the chance of a lifetime when 
 <hr>
 
 
-## 29. [Answer This!](https://serp.ly/@serpmedia/github/amazon/Answer+This%21)
+## 29. [Answer This!](https://serp.ly/amazon/Answer+This%21)
 
 ![Answer This!](https://image.tmdb.org/t/p/original/3gBgryhihCNgm0SPO4Ld4WGcHQg.jpg)
 
@@ -1150,7 +1150,7 @@ Paul Tarson is a brilliant trivia whiz who can answer any question thrown at him
 <hr>
 
 
-## 30. [NYC Underground](https://serp.ly/@serpmedia/github/amazon/NYC+Underground)
+## 30. [NYC Underground](https://serp.ly/amazon/NYC+Underground)
 
 ![NYC Underground](https://image.tmdb.org/t/p/original/fQ5NAam7tgxBcmPhfPHWkhmxVi0.jpg)
 
@@ -1188,7 +1188,7 @@ When Dylan and Logan, two Manhattan brothers, head to Brooklyn for a concert, th
 <hr>
 
 
-## 31. [Outlaw Trail: The Treasure of Butch Cassidy](https://serp.ly/@serpmedia/github/amazon/Outlaw+Trail%3A+The+Treasure+of+Butch+Cassidy)
+## 31. [Outlaw Trail: The Treasure of Butch Cassidy](https://serp.ly/amazon/Outlaw+Trail%3A+The+Treasure+of+Butch+Cassidy)
 
 ![Outlaw Trail: The Treasure of Butch Cassidy](https://image.tmdb.org/t/p/original/eKX3Z0Ou8CmvxsUubnEvRHP0va0.jpg)
 
@@ -1222,7 +1222,7 @@ In 1950s Utah, three boy scouts - including Butch Cassidy's great-nephew - and t
 <hr>
 
 
-## 32. [Brooklyn Brothers Beat the Best](https://serp.ly/@serpmedia/github/amazon/Brooklyn+Brothers+Beat+the+Best)
+## 32. [Brooklyn Brothers Beat the Best](https://serp.ly/amazon/Brooklyn+Brothers+Beat+the+Best)
 
 ![Brooklyn Brothers Beat the Best](https://image.tmdb.org/t/p/original/dFCIc6WErBB4V2MfdTErOwHGVLi.jpg)
 
@@ -1259,7 +1259,7 @@ When underachiever Alex loses his girlfriend, he hits the road with his odd new 
 <hr>
 
 
-## 33. [Summer Camp](https://serp.ly/@serpmedia/github/amazon/Summer+Camp)
+## 33. [Summer Camp](https://serp.ly/amazon/Summer+Camp)
 
 ![Summer Camp](https://image.tmdb.org/t/p/original/9RrcqS0kT5weSqS853WGWFDEATZ.jpg)
 
@@ -1296,7 +1296,7 @@ Nora, Ginny, and Mary spent their childhood summers at sleepaway camp, forming d
 <hr>
 
 
-## 34. [Daydreamer](https://serp.ly/@serpmedia/github/amazon/Daydreamer)
+## 34. [Daydreamer](https://serp.ly/amazon/Daydreamer)
 
 ![Daydreamer](https://image.tmdb.org/t/p/original/zIJJLKxbkKOCdw5R84iuNbe5Qap.jpg)
 
@@ -1330,7 +1330,7 @@ When Clinton's confident that Casey is just a product of his imagination, it kic
 <hr>
 
 
-## 35. [Love in the Great Smoky Mountains: A National Park Romance](https://serp.ly/@serpmedia/github/amazon/Love+in+the+Great+Smoky+Mountains%3A+A+National+Park+Romance)
+## 35. [Love in the Great Smoky Mountains: A National Park Romance](https://serp.ly/amazon/Love+in+the+Great+Smoky+Mountains%3A+A+National+Park+Romance)
 
 ![Love in the Great Smoky Mountains: A National Park Romance](https://image.tmdb.org/t/p/original/7vef4sPL6J0enjW6czHBsJ3hVEu.jpg)
 
@@ -1364,7 +1364,7 @@ In the heart of the Great Smoky Mountains National Park, an exciting archeologic
 <hr>
 
 
-## 36. [A Christmas Witness](https://serp.ly/@serpmedia/github/amazon/A+Christmas+Witness)
+## 36. [A Christmas Witness](https://serp.ly/amazon/A+Christmas+Witness)
 
 ![A Christmas Witness](https://image.tmdb.org/t/p/original/esFdkW9EuyH1EngMUMIQty2aHaJ.jpg)
 
@@ -1398,7 +1398,7 @@ In this 2021 holiday tale, a no-nonsense federal marshal is tasked with protecti
 <hr>
 
 
-## 37. [Site](https://serp.ly/@serpmedia/github/amazon/Site)
+## 37. [Site](https://serp.ly/amazon/Site)
 
 <br>
 
@@ -1422,7 +1422,7 @@ When a mundane outing leads to a harrowing discovery at a long-abandoned governm
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1468,7 +1468,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 2. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -1510,7 +1510,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 3. [CSI: Miami](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Miami)
+## 3. [CSI: Miami](https://serp.ly/amazon/CSI%3A+Miami)
 
 ![CSI: Miami](https://image.tmdb.org/t/p/original/pNW64pjaHvf6purNaFhq4SHYRfl.jpg)
 
@@ -1552,7 +1552,7 @@ Join the Miami-Dade Police Department's top Crime Scene Investigators as they tr
 <hr>
 
 
-## 4. [Hawaii Five-0](https://serp.ly/@serpmedia/github/amazon/Hawaii+Five-0)
+## 4. [Hawaii Five-0](https://serp.ly/amazon/Hawaii+Five-0)
 
 ![Hawaii Five-0](https://image.tmdb.org/t/p/original/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg)
 
@@ -1594,7 +1594,7 @@ When Steve McGarrett returns to Oahu to find his father's killer, the governor o
 <hr>
 
 
-## 5. [The Vampire Diaries](https://serp.ly/@serpmedia/github/amazon/The+Vampire+Diaries)
+## 5. [The Vampire Diaries](https://serp.ly/amazon/The+Vampire+Diaries)
 
 ![The Vampire Diaries](https://image.tmdb.org/t/p/original/gbp4zM0FE0n23X4UFY5EBlacrog.jpg)
 
@@ -1638,7 +1638,7 @@ The Vampire Diaries tells the story of two vampire brothers who fall in love wit
 <hr>
 
 
-## 6. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 6. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -1684,7 +1684,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 7. [9-1-1](https://serp.ly/@serpmedia/github/amazon/9-1-1)
+## 7. [9-1-1](https://serp.ly/amazon/9-1-1)
 
 ![9-1-1](https://image.tmdb.org/t/p/original/ax6YyNcPsuPbKze9hxdH4dU3e9w.jpg)
 
@@ -1730,7 +1730,7 @@ When emergencies strike, the brave men and women of law enforcement, medicine, a
 <hr>
 
 
-## 8. [Gilmore Girls](https://serp.ly/@serpmedia/github/amazon/Gilmore+Girls)
+## 8. [Gilmore Girls](https://serp.ly/amazon/Gilmore+Girls)
 
 ![Gilmore Girls](https://image.tmdb.org/t/p/original/8hWwBpB1mLUKqzjdGrcvJcIklp4.jpg)
 
@@ -1774,7 +1774,7 @@ Life's short. Talk fast.
 <hr>
 
 
-## 9. [Hollywood Medium with Tyler Henry](https://serp.ly/@serpmedia/github/amazon/Hollywood+Medium+with+Tyler+Henry)
+## 9. [Hollywood Medium with Tyler Henry](https://serp.ly/amazon/Hollywood+Medium+with+Tyler+Henry)
 
 ![Hollywood Medium with Tyler Henry](https://image.tmdb.org/t/p/original/2q3sQqqueyiZitIq3JHbOimMUbp.jpg)
 
@@ -1818,7 +1818,7 @@ When a small-town kid moves to Hollywood and becomes one of the city's top mediu
 <hr>
 
 
-## 10. [Private Practice](https://serp.ly/@serpmedia/github/amazon/Private+Practice)
+## 10. [Private Practice](https://serp.ly/amazon/Private+Practice)
 
 ![Private Practice](https://image.tmdb.org/t/p/original/pW20ANAGdrgreYJExduUVaWos6H.jpg)
 
@@ -1864,7 +1864,7 @@ After leaving Seattle Grace Hospital behind, renowned surgeon Addison Forbes Mon
 <hr>
 
 
-## 11. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 11. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -1906,7 +1906,7 @@ After leaving Seattle Grace Hospital behind, renowned surgeon Addison Forbes Mon
 <hr>
 
 
-## 12. [UnREAL](https://serp.ly/@serpmedia/github/amazon/UnREAL)
+## 12. [UnREAL](https://serp.ly/amazon/UnREAL)
 
 ![UnREAL](https://image.tmdb.org/t/p/original/ldLTSFnLR642BAjFca96VOY7L98.jpg)
 
@@ -1950,7 +1950,7 @@ Everyone Will Be Exposed
 <hr>
 
 
-## 13. [To Tell the Truth](https://serp.ly/@serpmedia/github/amazon/To+Tell+the+Truth)
+## 13. [To Tell the Truth](https://serp.ly/amazon/To+Tell+the+Truth)
 
 ![To Tell the Truth](https://image.tmdb.org/t/p/original/v4GTvwZ90Er0xGx9fGK3XMLHsAD.jpg)
 
@@ -1994,7 +1994,7 @@ Everyone Will Be Exposed
 <hr>
 
 
-## 14. [True Blood](https://serp.ly/@serpmedia/github/amazon/True+Blood)
+## 14. [True Blood](https://serp.ly/amazon/True+Blood)
 
 ![True Blood](https://image.tmdb.org/t/p/original/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg)
 
@@ -2038,7 +2038,7 @@ In a world where vampires have transitioned from folklore to reality, the small 
 <hr>
 
 
-## 15. [Judging Amy](https://serp.ly/@serpmedia/github/amazon/Judging+Amy)
+## 15. [Judging Amy](https://serp.ly/amazon/Judging+Amy)
 
 ![Judging Amy](https://image.tmdb.org/t/p/original/xwCYDipqGC5lWirdARXrDGIX22i.jpg)
 
@@ -2080,7 +2080,7 @@ Judging Amy invites you into the personal and professional life of a family cour
 <hr>
 
 
-## 16. [Shark](https://serp.ly/@serpmedia/github/amazon/Shark)
+## 16. [Shark](https://serp.ly/amazon/Shark)
 
 ![Shark](https://image.tmdb.org/t/p/original/Ahxpbk4Uu6zs1DgAbgfU80eHerx.jpg)
 
@@ -2124,7 +2124,7 @@ When Los Angeles defense attorney Sebastian Stark successfully defends a wife-ab
 <hr>
 
 
-## 17. [Grounded for Life](https://serp.ly/@serpmedia/github/amazon/Grounded+for+Life)
+## 17. [Grounded for Life](https://serp.ly/amazon/Grounded+for+Life)
 
 ![Grounded for Life](https://image.tmdb.org/t/p/original/sbcNGnpZsvZUuyHlGZ5LBbaEH6m.jpg)
 
@@ -2166,7 +2166,7 @@ When 32-year-old Sean Finnerty looks at his life, he's surprised to see where he
 <hr>
 
 
-## 18. [The League](https://serp.ly/@serpmedia/github/amazon/The+League)
+## 18. [The League](https://serp.ly/amazon/The+League)
 
 ![The League](https://image.tmdb.org/t/p/original/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg)
 
@@ -2208,7 +2208,7 @@ The League combines scripted humor with semi-improvised comedy to create an ente
 <hr>
 
 
-## 19. [Ballers](https://serp.ly/@serpmedia/github/amazon/Ballers)
+## 19. [Ballers](https://serp.ly/amazon/Ballers)
 
 ![Ballers](https://image.tmdb.org/t/p/original/WyIazPyjmcFMC42nWEpI0jr56x.jpg)
 
@@ -2252,7 +2252,7 @@ Ballers is a football-centric series that follows former superstar Spencer Stras
 <hr>
 
 
-## 20. [90210](https://serp.ly/@serpmedia/github/amazon/90210)
+## 20. [90210](https://serp.ly/amazon/90210)
 
 ![90210](https://image.tmdb.org/t/p/original/6uy8Le8X8qqvc5X7pSFn3BJA69M.jpg)
 
@@ -2298,7 +2298,7 @@ When the Wilson family moves from Kansas to Beverly Hills, their teenage daughte
 <hr>
 
 
-## 21. [Entourage](https://serp.ly/@serpmedia/github/amazon/Entourage)
+## 21. [Entourage](https://serp.ly/amazon/Entourage)
 
 ![Entourage](https://image.tmdb.org/t/p/original/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg)
 
@@ -2342,7 +2342,7 @@ Vince Chase, a film star in Los Angeles, moves through the city with a tight-kni
 <hr>
 
 
-## 22. [Midnight, Texas](https://serp.ly/@serpmedia/github/amazon/Midnight%2C+Texas)
+## 22. [Midnight, Texas](https://serp.ly/amazon/Midnight%2C+Texas)
 
 ![Midnight, Texas](https://image.tmdb.org/t/p/original/jsBaMDKtE7BikyFI8v59YlwwhIu.jpg)
 
@@ -2384,7 +2384,7 @@ In a remote Texas town where normal is anything but ordinary, "Midnight, Texas" 
 <hr>
 
 
-## 23. [Life Unexpected](https://serp.ly/@serpmedia/github/amazon/Life+Unexpected)
+## 23. [Life Unexpected](https://serp.ly/amazon/Life+Unexpected)
 
 ![Life Unexpected](https://image.tmdb.org/t/p/original/riHJXZovS7QjhRyiwnm2ULpx5JN.jpg)
 
@@ -2428,7 +2428,7 @@ When 16-year-old Lux is placed back into the custody of her estranged birth pare
 <hr>
 
 
-## 24. [Lincoln Rhyme: Hunt for the Bone Collector](https://serp.ly/@serpmedia/github/amazon/Lincoln+Rhyme%3A+Hunt+for+the+Bone+Collector)
+## 24. [Lincoln Rhyme: Hunt for the Bone Collector](https://serp.ly/amazon/Lincoln+Rhyme%3A+Hunt+for+the+Bone+Collector)
 
 ![Lincoln Rhyme: Hunt for the Bone Collector](https://image.tmdb.org/t/p/original/khEwRnZKfPTaXjYqbASB6jaZsEs.jpg)
 
@@ -2472,7 +2472,7 @@ When a devastating accident forces former NYPD detective Lincoln Rhyme out of th
 <hr>
 
 
-## 25. [The Grinder](https://serp.ly/@serpmedia/github/amazon/The+Grinder)
+## 25. [The Grinder](https://serp.ly/amazon/The+Grinder)
 
 ![The Grinder](https://image.tmdb.org/t/p/original/4oKpcD8KcLI7Fsh9WmUE8D4ys9C.jpg)
 
@@ -2516,7 +2516,7 @@ When television lawyer Dean Sanderson returns to his small hometown after the ca
 <hr>
 
 
-## 26. [Rescue: HI-Surf](https://serp.ly/@serpmedia/github/amazon/Rescue%3A+HI-Surf)
+## 26. [Rescue: HI-Surf](https://serp.ly/amazon/Rescue%3A+HI-Surf)
 
 <br>
 
@@ -2551,7 +2551,7 @@ When it comes to saving lives, the lifeguards of O'ahu's North Shore don't just 
 <hr>
 
 
-## 27. [Grand Hotel](https://serp.ly/@serpmedia/github/amazon/Grand+Hotel)
+## 27. [Grand Hotel](https://serp.ly/amazon/Grand+Hotel)
 
 ![Grand Hotel](https://image.tmdb.org/t/p/original/elafoT6TmQTNB7imJLqxLq9yOXw.jpg)
 
@@ -2595,7 +2595,7 @@ In the heart of multicultural Miami Beach, Santiago Mendoza runs the last family
 <hr>
 
 
-## 28. [Clubhouse](https://serp.ly/@serpmedia/github/amazon/Clubhouse)
+## 28. [Clubhouse](https://serp.ly/amazon/Clubhouse)
 
 ![Clubhouse](https://image.tmdb.org/t/p/original/3YU7h4dbg0pRGZao3Szc4gLkmWx.jpg)
 
@@ -2637,7 +2637,7 @@ Pete Young trades his life as a golden boy in a strict Catholic high school for 
 <hr>
 
 
-## 29. [The After](https://serp.ly/@serpmedia/github/amazon/The+After)
+## 29. [The After](https://serp.ly/amazon/The+After)
 
 ![The After](https://image.tmdb.org/t/p/original/kP8Rvq5C6zRWzYZJJlk3f1jXstY.jpg)
 
@@ -2681,7 +2681,7 @@ When eight strangers are pulled together by mysterious forces, they find themsel
 <hr>
 
 
-## 30. [Perfect Score](https://serp.ly/@serpmedia/github/amazon/Perfect+Score)
+## 30. [Perfect Score](https://serp.ly/amazon/Perfect+Score)
 
 ![Perfect Score](https://image.tmdb.org/t/p/original/80Wnf4rBsURr6rkFoGEB1nAIKIz.jpg)
 

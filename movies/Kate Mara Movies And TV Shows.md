@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Martian](https://serp.ly/@serpmedia/github/amazon/The+Martian)
+## 1. [The Martian](https://serp.ly/amazon/The+Martian)
 
 ![The Martian](https://image.tmdb.org/t/p/original/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg)
 
@@ -80,7 +80,7 @@ When a manned mission to Mars ends in disaster, Astronaut Mark Watney is left be
 <hr>
 
 
-## 2. [Iron Man 2](https://serp.ly/@serpmedia/github/amazon/Iron+Man+2)
+## 2. [Iron Man 2](https://serp.ly/amazon/Iron+Man+2)
 
 ![Iron Man 2](https://image.tmdb.org/t/p/original/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg)
 
@@ -123,7 +123,7 @@ When Tony Stark's secret double life as Iron Man becomes public knowledge, the g
 <hr>
 
 
-## 3. [Brokeback Mountain](https://serp.ly/@serpmedia/github/amazon/Brokeback+Mountain)
+## 3. [Brokeback Mountain](https://serp.ly/amazon/Brokeback+Mountain)
 
 ![Brokeback Mountain](https://image.tmdb.org/t/p/original/5UZ283LuT8ClE4Iqw3u4gGZizab.jpg)
 
@@ -166,7 +166,7 @@ In 1963 Wyoming, two young men - Jack, a rodeo cowboy, and Ennis, a ranch hand -
 <hr>
 
 
-## 4. [127 Hours](https://serp.ly/@serpmedia/github/amazon/127+Hours)
+## 4. [127 Hours](https://serp.ly/amazon/127+Hours)
 
 ![127 Hours](https://image.tmdb.org/t/p/original/xbszsQv3ifdFZtQu8CzNh4zh0MX.jpg)
 
@@ -209,7 +209,7 @@ When mountain climber Aron Ralston ventures into a remote Utah canyon, a tragic 
 <hr>
 
 
-## 5. [Shooter](https://serp.ly/@serpmedia/github/amazon/Shooter)
+## 5. [Shooter](https://serp.ly/amazon/Shooter)
 
 ![Shooter](https://image.tmdb.org/t/p/original/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg)
 
@@ -252,7 +252,7 @@ When elite Marine sniper Bob Lee Swagger returns to service to protect the US Pr
 <hr>
 
 
-## 6. [Transcendence](https://serp.ly/@serpmedia/github/amazon/Transcendence)
+## 6. [Transcendence](https://serp.ly/amazon/Transcendence)
 
 ![Transcendence](https://image.tmdb.org/t/p/original/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg)
 
@@ -295,7 +295,7 @@ Will Caster was just an ordinary scientist yesterday. But today, his life has ch
 <hr>
 
 
-## 7. [Fantastic Four](https://serp.ly/@serpmedia/github/amazon/Fantastic+Four)
+## 7. [Fantastic Four](https://serp.ly/amazon/Fantastic+Four)
 
 ![Fantastic Four](https://image.tmdb.org/t/p/original/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg)
 
@@ -338,7 +338,7 @@ When four young outsiders stumble into a dangerous alternate universe, their phy
 <hr>
 
 
-## 8. [Morgan](https://serp.ly/@serpmedia/github/amazon/Morgan)
+## 8. [Morgan](https://serp.ly/amazon/Morgan)
 
 ![Morgan](https://image.tmdb.org/t/p/original/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg)
 
@@ -381,7 +381,7 @@ In a high-stakes tale of corporate risk management, a consultant must decide the
 <hr>
 
 
-## 9. [Megan Leavey](https://serp.ly/@serpmedia/github/amazon/Megan+Leavey)
+## 9. [Megan Leavey](https://serp.ly/amazon/Megan+Leavey)
 
 ![Megan Leavey](https://image.tmdb.org/t/p/original/ajZUEsDpo3EgiHZ8HX9yQJIRnFf.jpg)
 
@@ -422,7 +422,7 @@ When Marine Corporal Megan Leavey is deployed to Iraq, she forms an unlikely bon
 <hr>
 
 
-## 10. [We Are Marshall](https://serp.ly/@serpmedia/github/amazon/We+Are+Marshall)
+## 10. [We Are Marshall](https://serp.ly/amazon/We+Are+Marshall)
 
 ![We Are Marshall](https://image.tmdb.org/t/p/original/5PSiExbg6Fm8MiPJOikBCOcZFnd.jpg)
 
@@ -464,7 +464,7 @@ When a tragic plane crash devastates the Marshall University football team and t
 <hr>
 
 
-## 11. [TransSiberian](https://serp.ly/@serpmedia/github/amazon/TransSiberian)
+## 11. [TransSiberian](https://serp.ly/amazon/TransSiberian)
 
 ![TransSiberian](https://image.tmdb.org/t/p/original/dhTOda5CLp9tEdDzQZiqBTdv5lR.jpg)
 
@@ -507,7 +507,7 @@ When an American couple boards a TransSiberian train from China to Moscow, their
 <hr>
 
 
-## 12. [Ironclad](https://serp.ly/@serpmedia/github/amazon/Ironclad)
+## 12. [Ironclad](https://serp.ly/amazon/Ironclad)
 
 ![Ironclad](https://image.tmdb.org/t/p/original/7ACf5GwwzmzuTFzPLEg9ZagvXUa.jpg)
 
@@ -550,7 +550,7 @@ In a tale where heavy metal meets medieval history, "Ironclad" spans just 121 mi
 <hr>
 
 
-## 13. [Deadfall](https://serp.ly/@serpmedia/github/amazon/Deadfall)
+## 13. [Deadfall](https://serp.ly/amazon/Deadfall)
 
 ![Deadfall](https://image.tmdb.org/t/p/original/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg)
 
@@ -590,7 +590,7 @@ When a casino heist goes horribly wrong, two siblings make the split-second deci
 <hr>
 
 
-## 14. [Zoom](https://serp.ly/@serpmedia/github/amazon/Zoom)
+## 14. [Zoom](https://serp.ly/amazon/Zoom)
 
 ![Zoom](https://image.tmdb.org/t/p/original/v4rSFmiy0v9D7qmKkaUVJn5UhZ1.jpg)
 
@@ -633,7 +633,7 @@ When an out-of-shape auto shop owner, Jack Shepard, gets an unexpected call from
 <hr>
 
 
-## 15. [10 Years](https://serp.ly/@serpmedia/github/amazon/10+Years)
+## 15. [10 Years](https://serp.ly/amazon/10+Years)
 
 ![10 Years](https://image.tmdb.org/t/p/original/1WjXdp4i2NR9RYGN0t0oy3tkGro.jpg)
 
@@ -674,7 +674,7 @@ Revisit your high school days with this group of friends who reunite ten years a
 <hr>
 
 
-## 16. [Random Hearts](https://serp.ly/@serpmedia/github/amazon/Random+Hearts)
+## 16. [Random Hearts](https://serp.ly/amazon/Random+Hearts)
 
 ![Random Hearts](https://image.tmdb.org/t/p/original/k7LoKDWDesvYD7DXDh9Ewlxtcx8.jpg)
 
@@ -714,7 +714,7 @@ After losing their spouses in a tragic plane crash, an internal affairs cop and 
 <hr>
 
 
-## 17. [Happythankyoumoreplease](https://serp.ly/@serpmedia/github/amazon/Happythankyoumoreplease)
+## 17. [Happythankyoumoreplease](https://serp.ly/amazon/Happythankyoumoreplease)
 
 ![Happythankyoumoreplease](https://image.tmdb.org/t/p/original/qWZwKkrPNoSa7LIvUTwClmFUjBn.jpg)
 
@@ -755,7 +755,7 @@ Go Get Yourself Loved
 <hr>
 
 
-## 18. [My Days of Mercy](https://serp.ly/@serpmedia/github/amazon/My+Days+of+Mercy)
+## 18. [My Days of Mercy](https://serp.ly/amazon/My+Days+of+Mercy)
 
 ![My Days of Mercy](https://image.tmdb.org/t/p/original/adIPKAoKnKL9vCTkvfF4J9ZA7Ln.jpg)
 
@@ -791,7 +791,7 @@ In this poignant British-American drama, a young woman grapples with an impossib
 <hr>
 
 
-## 19. [Man Down](https://serp.ly/@serpmedia/github/amazon/Man+Down)
+## 19. [Man Down](https://serp.ly/amazon/Man+Down)
 
 ![Man Down](https://image.tmdb.org/t/p/original/xOJIhK0YJLxUIIj4FUniAqfLfb7.jpg)
 
@@ -832,7 +832,7 @@ When a U. S. Marine returns home from Afghanistan, he finds that the place he on
 <hr>
 
 
-## 20. [Captive](https://serp.ly/@serpmedia/github/amazon/Captive)
+## 20. [Captive](https://serp.ly/amazon/Captive)
 
 ![Captive](https://image.tmdb.org/t/p/original/xTKqLPsKLDep3QQmwPGPfJNMNVF.jpg)
 
@@ -877,7 +877,7 @@ Ashley Smith's world turns upside down when Brian Nichols turns their home into 
 <hr>
 
 
-## 21. [Chappaquiddick](https://serp.ly/@serpmedia/github/amazon/Chappaquiddick)
+## 21. [Chappaquiddick](https://serp.ly/amazon/Chappaquiddick)
 
 ![Chappaquiddick](https://image.tmdb.org/t/p/original/kkTD7ufZd7AqAnZP5IMnrQXKRpM.jpg)
 
@@ -920,7 +920,7 @@ The Untold True Story
 <hr>
 
 
-## 22. [Urban Legends: Bloody Mary](https://serp.ly/@serpmedia/github/amazon/Urban+Legends%3A+Bloody+Mary)
+## 22. [Urban Legends: Bloody Mary](https://serp.ly/amazon/Urban+Legends%3A+Bloody+Mary)
 
 ![Urban Legends: Bloody Mary](https://image.tmdb.org/t/p/original/o3u88kkMezNbgWH3FOgeU8tOGzL.jpg)
 
@@ -958,7 +958,7 @@ On a dare during prom night, three high school friends chant an ancient incantat
 <hr>
 
 
-## 23. [Call Jane](https://serp.ly/@serpmedia/github/amazon/Call+Jane)
+## 23. [Call Jane](https://serp.ly/amazon/Call+Jane)
 
 ![Call Jane](https://image.tmdb.org/t/p/original/n3oV6065tgYpukAjLxSbWcfqdg9.jpg)
 
@@ -997,7 +997,7 @@ In a married woman's desperate hunt for help with an unwanted pregnancy, she dis
 <hr>
 
 
-## 24. [Full of It](https://serp.ly/@serpmedia/github/amazon/Full+of+It)
+## 24. [Full of It](https://serp.ly/amazon/Full+of+It)
 
 ![Full of It](https://image.tmdb.org/t/p/original/ewEsECfe6UK5hjrgXGLmplqbDXd.jpg)
 
@@ -1038,7 +1038,7 @@ When a new kid starts high school, he makes outrageous claims that no one believ
 <hr>
 
 
-## 25. [Tadpole](https://serp.ly/@serpmedia/github/amazon/Tadpole)
+## 25. [Tadpole](https://serp.ly/amazon/Tadpole)
 
 ![Tadpole](https://image.tmdb.org/t/p/original/wGwYycW8hI1GxG9HyQSfThetaPO.jpg)
 
@@ -1081,7 +1081,7 @@ Oscar Grubman is a sensitive young soul who finds himself irresistibly drawn to 
 <hr>
 
 
-## 26. [Stone of Destiny](https://serp.ly/@serpmedia/github/amazon/Stone+of+Destiny)
+## 26. [Stone of Destiny](https://serp.ly/amazon/Stone+of+Destiny)
 
 ![Stone of Destiny](https://image.tmdb.org/t/p/original/rZWhnQY4Efi0iYQpnagP4vyaYps.jpg)
 
@@ -1115,7 +1115,7 @@ In the 1950s, a group of charming Scottish undergraduates pulls off an audacious
 <hr>
 
 
-## 27. [The Open Road](https://serp.ly/@serpmedia/github/amazon/The+Open+Road)
+## 27. [The Open Road](https://serp.ly/amazon/The+Open+Road)
 
 ![The Open Road](https://image.tmdb.org/t/p/original/rfsgpwFCt43EDOXQP0gQECq8vrE.jpg)
 
@@ -1154,7 +1154,7 @@ When minor league pitcher Carlton Garret's mother falls ill, he sets out on an u
 <hr>
 
 
-## 28. [Peep World](https://serp.ly/@serpmedia/github/amazon/Peep+World)
+## 28. [Peep World](https://serp.ly/amazon/Peep+World)
 
 ![Peep World](https://image.tmdb.org/t/p/original/eFXPjkMKNA7MZAqpaeNv6vaoPX2.jpg)
 
@@ -1193,7 +1193,7 @@ When the youngest sibling publishes a novel that exposes the family's most intim
 <hr>
 
 
-## 29. [Joe the King](https://serp.ly/@serpmedia/github/amazon/Joe+the+King)
+## 29. [Joe the King](https://serp.ly/amazon/Joe+the+King)
 
 ![Joe the King](https://image.tmdb.org/t/p/original/pJy18dUA9J9XDuKiboTjEtj6YWL.jpg)
 
@@ -1232,7 +1232,7 @@ At just 14 years old, Joe is already battling an uphill fight. Between his mothe
 <hr>
 
 
-## 30. [The Heyday of the Insensitive Bastards](https://serp.ly/@serpmedia/github/amazon/The+Heyday+of+the+Insensitive+Bastards)
+## 30. [The Heyday of the Insensitive Bastards](https://serp.ly/amazon/The+Heyday+of+the+Insensitive+Bastards)
 
 ![The Heyday of the Insensitive Bastards](https://image.tmdb.org/t/p/original/15Qhcj5lZsJDKS4p98jMX2plgjs.jpg)
 
@@ -1268,7 +1268,7 @@ The Heyday of the Insensitive Bastards is a short film collection that examines 
 <hr>
 
 
-## 31. [Tiny Detectives](https://serp.ly/@serpmedia/github/amazon/Tiny+Detectives)
+## 31. [Tiny Detectives](https://serp.ly/amazon/Tiny+Detectives)
 
 ![Tiny Detectives](https://image.tmdb.org/t/p/original/ve1itawAHwBLqVnPnV1NDQEXX3R.jpg)
 
@@ -1302,7 +1302,7 @@ When two police detectives find themselves constantly running into obstacles due
 <hr>
 
 
-## 32. [Time of Day](https://serp.ly/@serpmedia/github/amazon/Time+of+Day)
+## 32. [Time of Day](https://serp.ly/amazon/Time+of+Day)
 
 ![Time of Day](https://image.tmdb.org/t/p/original/vlMoWeFS4PNbbr8HF0RlnbCHgX2.jpg)
 
@@ -1336,7 +1336,7 @@ Shot over six weeks on 16mm film by Greek cinematographer Thimios Bakatakis, thi
 <hr>
 
 
-## 33. [The Californians](https://serp.ly/@serpmedia/github/amazon/The+Californians)
+## 33. [The Californians](https://serp.ly/amazon/The+Californians)
 
 ![The Californians](https://image.tmdb.org/t/p/original/94w3CM4V8AG9OEgtPQSwDfFd6Vw.jpg)
 
@@ -1372,7 +1372,7 @@ When real estate mogul Gavin Ransom unveils plans to transform California's nort
 <hr>
 
 
-## 34. [Queen of Hearts](https://serp.ly/@serpmedia/github/amazon/Queen+of+Hearts)
+## 34. [Queen of Hearts](https://serp.ly/amazon/Queen+of+Hearts)
 
 ![Queen of Hearts](https://image.tmdb.org/t/p/original/95fzKNC4XWXUpGbvsx9ShsQIRa2.jpg)
 
@@ -1406,7 +1406,7 @@ In this whimsical short film, a man's imagination runs wild during a simple poke
 <hr>
 
 
-## 35. [The Long Way Home: Making 'The Martian'](https://serp.ly/@serpmedia/github/amazon/The+Long+Way+Home%3A+Making+%27The+Martian%27)
+## 35. [The Long Way Home: Making 'The Martian'](https://serp.ly/amazon/The+Long+Way+Home%3A+Making+%27The+Martian%27)
 
 ![The Long Way Home: Making 'The Martian'](https://image.tmdb.org/t/p/original/jo4bpujR5acfcJrLkH0TZ3MumjG.jpg)
 
@@ -1440,7 +1440,7 @@ In this whimsical short film, a man's imagination runs wild during a simple poke
 <hr>
 
 
-## 36. [Big Guy](https://serp.ly/@serpmedia/github/amazon/Big+Guy)
+## 36. [Big Guy](https://serp.ly/amazon/Big+Guy)
 
 <br>
 
@@ -1472,7 +1472,7 @@ When Rodney's boring routine is disrupted by the charming Kate, their personalit
 <hr>
 
 
-## 37. [Almost Not Beautiful](https://serp.ly/@serpmedia/github/amazon/Almost+Not+Beautiful)
+## 37. [Almost Not Beautiful](https://serp.ly/amazon/Almost+Not+Beautiful)
 
 ![Almost Not Beautiful](https://image.tmdb.org/t/p/original/pPSqZWJpD7ubncXS7lb6L5kUVV4.jpg)
 
@@ -1506,7 +1506,7 @@ After going their own separate ways, two estranged sisters reunite at their chil
 <hr>
 
 
-## 38. [The Dutchman](https://serp.ly/@serpmedia/github/amazon/The+Dutchman)
+## 38. [The Dutchman](https://serp.ly/amazon/The+Dutchman)
 
 ![The Dutchman](https://image.tmdb.org/t/p/original/t0YmJv9hGP9z0EbAuFEYjDkv8un.jpg)
 
@@ -1529,7 +1529,7 @@ In this New York subway-set thriller, a successful Black man's life changes when
 <hr>
 
 
-## 39. [Broken Bells: Holding on For Life](https://serp.ly/@serpmedia/github/amazon/Broken+Bells%3A+Holding+on+For+Life)
+## 39. [Broken Bells: Holding on For Life](https://serp.ly/amazon/Broken+Bells%3A+Holding+on+For+Life)
 
 ![Broken Bells: Holding on For Life](https://image.tmdb.org/t/p/original/1VPcZ1QVm6TeW4gXqwoPkMbOgDn.jpg)
 
@@ -1557,7 +1557,7 @@ In this New York subway-set thriller, a successful Black man's life changes when
 <hr>
 
 
-## 40. [Why Can't We Get Along](https://serp.ly/@serpmedia/github/amazon/Why+Can%27t+We+Get+Along)
+## 40. [Why Can't We Get Along](https://serp.ly/amazon/Why+Can%27t+We+Get+Along)
 
 <br>
 
@@ -1588,7 +1588,7 @@ In this New York subway-set thriller, a successful Black man's life changes when
 <hr>
 
 
-## 41. [The Little Bedroom](https://serp.ly/@serpmedia/github/amazon/The+Little+Bedroom)
+## 41. [The Little Bedroom](https://serp.ly/amazon/The+Little+Bedroom)
 
 <br>
 
@@ -1609,7 +1609,7 @@ When Edmond wakes up in a facility after a bad fall, he's told his son has sold 
 <hr>
 
 
-## 42. [The Astronaut](https://serp.ly/@serpmedia/github/amazon/The+Astronaut)
+## 42. [The Astronaut](https://serp.ly/amazon/The+Astronaut)
 
 <br>
 
@@ -1630,7 +1630,7 @@ When an abandoned capsule floats into view off the Atlantic coast, it carries a 
 <hr>
 
 
-## 43. [Friendship](https://serp.ly/@serpmedia/github/amazon/Friendship)
+## 43. [Friendship](https://serp.ly/amazon/Friendship)
 
 <br>
 
@@ -1654,7 +1654,7 @@ In the suburb where Craig Waterman lives with his wife and son, a new neighbor m
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1700,7 +1700,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 2. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -1742,7 +1742,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1788,7 +1788,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [Tamron Hall](https://serp.ly/@serpmedia/github/amazon/Tamron+Hall)
+## 4. [Tamron Hall](https://serp.ly/amazon/Tamron+Hall)
 
 ![Tamron Hall](https://image.tmdb.org/t/p/original/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg)
 
@@ -1832,7 +1832,7 @@ Tamron Hall brings her extensive experience as a news host and journalist to thi
 <hr>
 
 
-## 5. [Law & Order](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order)
+## 5. [Law & Order](https://serp.ly/amazon/Law+%26+Order)
 
 ![Law & Order](https://image.tmdb.org/t/p/original/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg)
 
@@ -1878,7 +1878,7 @@ Truth leads the way.
 <hr>
 
 
-## 6. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 6. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1922,7 +1922,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 7. [CSI: Miami](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Miami)
+## 7. [CSI: Miami](https://serp.ly/amazon/CSI%3A+Miami)
 
 ![CSI: Miami](https://image.tmdb.org/t/p/original/pNW64pjaHvf6purNaFhq4SHYRfl.jpg)
 
@@ -1964,7 +1964,7 @@ Join the Miami-Dade Police Department's top Crime Scene Investigators as they tr
 <hr>
 
 
-## 8. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 8. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -2008,7 +2008,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 9. [POSE](https://serp.ly/@serpmedia/github/amazon/POSE)
+## 9. [POSE](https://serp.ly/amazon/POSE)
 
 ![POSE](https://image.tmdb.org/t/p/original/5f23i30nFJz0nrd3DGheOCqXa2P.jpg)
 
@@ -2052,7 +2052,7 @@ The original queens have arrived.
 <hr>
 
 
-## 10. [American Horror Story](https://serp.ly/@serpmedia/github/amazon/American+Horror+Story)
+## 10. [American Horror Story](https://serp.ly/amazon/American+Horror+Story)
 
 ![American Horror Story](https://image.tmdb.org/t/p/original/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg)
 
@@ -2100,7 +2100,7 @@ What to suspect when you're expecting.
 <hr>
 
 
-## 11. [24](https://serp.ly/@serpmedia/github/amazon/24)
+## 11. [24](https://serp.ly/amazon/24)
 
 ![24](https://image.tmdb.org/t/p/original/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg)
 
@@ -2144,7 +2144,7 @@ Join counterterrorism agent Jack Bauer in this gripping series that follows 24 h
 <hr>
 
 
-## 12. [House of Cards](https://serp.ly/@serpmedia/github/amazon/House+of+Cards)
+## 12. [House of Cards](https://serp.ly/amazon/House+of+Cards)
 
 ![House of Cards](https://image.tmdb.org/t/p/original/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg)
 
@@ -2188,7 +2188,7 @@ In present-day Washington, D. C. , Frank Underwood navigates a landscape of poli
 <hr>
 
 
-## 13. [Black Mirror](https://serp.ly/@serpmedia/github/amazon/Black+Mirror)
+## 13. [Black Mirror](https://serp.ly/amazon/Black+Mirror)
 
 ![Black Mirror](https://image.tmdb.org/t/p/original/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg)
 
@@ -2234,7 +2234,7 @@ Over the last decade, technology has revolutionized every facet of our lives bef
 <hr>
 
 
-## 14. [Nip/Tuck](https://serp.ly/@serpmedia/github/amazon/Nip%2FTuck)
+## 14. [Nip/Tuck](https://serp.ly/amazon/Nip%2FTuck)
 
 ![Nip/Tuck](https://image.tmdb.org/t/p/original/b8wq87RBCman73pxQzWWK93Eicu.jpg)
 
@@ -2278,7 +2278,7 @@ When two successful plastic surgeons, Dr. Sean McNamara and Dr. Christian Troy, 
 <hr>
 
 
-## 15. [Cold Case](https://serp.ly/@serpmedia/github/amazon/Cold+Case)
+## 15. [Cold Case](https://serp.ly/amazon/Cold+Case)
 
 ![Cold Case](https://image.tmdb.org/t/p/original/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg)
 
@@ -2320,7 +2320,7 @@ When the Philadelphia homicide squad assigns their only female detective to unso
 <hr>
 
 
-## 16. [MTV Movie & TV Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Movie+%26+TV+Awards)
+## 16. [MTV Movie & TV Awards](https://serp.ly/amazon/MTV+Movie+%26+TV+Awards)
 
 ![MTV Movie & TV Awards](https://image.tmdb.org/t/p/original/77FuUQrJVO8GcyCpfHBZOICINwm.jpg)
 
@@ -2364,7 +2364,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 17. [Entourage](https://serp.ly/@serpmedia/github/amazon/Entourage)
+## 17. [Entourage](https://serp.ly/amazon/Entourage)
 
 ![Entourage](https://image.tmdb.org/t/p/original/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg)
 
@@ -2408,7 +2408,7 @@ Vince Chase, a film star in Los Angeles, moves through the city with a tight-kni
 <hr>
 
 
-## 18. [Everwood](https://serp.ly/@serpmedia/github/amazon/Everwood)
+## 18. [Everwood](https://serp.ly/amazon/Everwood)
 
 ![Everwood](https://image.tmdb.org/t/p/original/4zmuA2Ql1QdUtw9OM6MdmtXnZEF.jpg)
 
@@ -2450,7 +2450,7 @@ When world-class neurosurgeon Dr. Andrew Brown loses his wife, he makes a bold m
 <hr>
 
 
-## 19. [Class of '09](https://serp.ly/@serpmedia/github/amazon/Class+of+%2709)
+## 19. [Class of '09](https://serp.ly/amazon/Class+of+%2709)
 
 ![Class of '09](https://image.tmdb.org/t/p/original/kyKq4mXX84mAxinnotKwwX26fo5.jpg)
 
@@ -2494,7 +2494,7 @@ Set in three distinct points in time, "Class of '09" follows a group of FBI agen
 <hr>
 
 
-## 20. [Madigan Men](https://serp.ly/@serpmedia/github/amazon/Madigan+Men)
+## 20. [Madigan Men](https://serp.ly/amazon/Madigan+Men)
 
 ![Madigan Men](https://image.tmdb.org/t/p/original/fj2pUR7A0m51zZQL4wnBXKRaBmq.jpg)
 
@@ -2535,7 +2535,7 @@ When ABC premiered Madigan Men on October 6, 2000, they introduced a scripted co
 <hr>
 
 
-## 21. [A Teacher](https://serp.ly/@serpmedia/github/amazon/A+Teacher)
+## 21. [A Teacher](https://serp.ly/amazon/A+Teacher)
 
 ![A Teacher](https://image.tmdb.org/t/p/original/rH2eEuThzRQh87Uxz6SY3BuVNBD.jpg)
 
@@ -2579,7 +2579,7 @@ When Claire Wilson, a young teacher at a suburban Texas high school, starts an a
 <hr>
 
 
-## 22. [ARES: live](https://serp.ly/@serpmedia/github/amazon/ARES%3A+live)
+## 22. [ARES: live](https://serp.ly/amazon/ARES%3A+live)
 
 ![ARES: live](https://image.tmdb.org/t/p/original/hftvg1uY3ocBseBHK2467KPIBLQ.jpg)
 
@@ -2621,7 +2621,7 @@ When a manned mission to Mars goes terribly wrong, Astronaut Mark Watney finds h
 <hr>
 
 
-## 23. [Moonbeam City](https://serp.ly/@serpmedia/github/amazon/Moonbeam+City)
+## 23. [Moonbeam City](https://serp.ly/amazon/Moonbeam+City)
 
 ![Moonbeam City](https://image.tmdb.org/t/p/original/tnwhhJC5DmWspDxRAoCKD6rk4XK.jpg)
 
@@ -2665,7 +2665,7 @@ In a retro-futuristic 80s setting, undercover detective Dazzle Novak finds himse
 <hr>
 
 
-## 24. [T Takes: Brooklyn '09](https://serp.ly/@serpmedia/github/amazon/T+Takes%3A+Brooklyn+%2709)
+## 24. [T Takes: Brooklyn '09](https://serp.ly/amazon/T+Takes%3A+Brooklyn+%2709)
 
 ![T Takes: Brooklyn '09](https://image.tmdb.org/t/p/original/6yoHDxEt67w2lqhRydbuvnosGRo.jpg)
 

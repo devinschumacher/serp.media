@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Hunger Games](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games)
+## 1. [The Hunger Games](https://serp.ly/amazon/The+Hunger+Games)
 
 ![The Hunger Games](https://image.tmdb.org/t/p/original/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg)
 
@@ -80,7 +80,7 @@ In a future North America reduced to twelve districts under the oppressive rule 
 <hr>
 
 
-## 2. [Spider-Man: Across the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Across+the+Spider-Verse)
+## 2. [Spider-Man: Across the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Across+the+Spider-Verse)
 
 ![Spider-Man: Across the Spider-Verse](https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg)
 
@@ -120,7 +120,7 @@ Join Miles Morales as he races across the Spider-Verse to save Gwen Stacy and pr
 <hr>
 
 
-## 3. [Everything, Everything](https://serp.ly/@serpmedia/github/amazon/Everything%2C+Everything)
+## 3. [Everything, Everything](https://serp.ly/amazon/Everything%2C+Everything)
 
 ![Everything, Everything](https://image.tmdb.org/t/p/original/c8W3Go48Mw0GoNXsGK4W9hNO4Vf.jpg)
 
@@ -160,7 +160,7 @@ Maria has lived a sheltered life due to her severe allergies, but when a new nei
 <hr>
 
 
-## 4. [Rio 2](https://serp.ly/@serpmedia/github/amazon/Rio+2)
+## 4. [Rio 2](https://serp.ly/amazon/Rio+2)
 
 ![Rio 2](https://image.tmdb.org/t/p/original/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg)
 
@@ -203,7 +203,7 @@ When Blu and Jewel's family is whisked from Rio de Janeiro to the heart of the A
 <hr>
 
 
-## 5. [The Darkest Minds](https://serp.ly/@serpmedia/github/amazon/The+Darkest+Minds)
+## 5. [The Darkest Minds](https://serp.ly/amazon/The+Darkest+Minds)
 
 ![The Darkest Minds](https://image.tmdb.org/t/p/original/3oobSYJ3Mv0hohKU5GBHarU3ZHG.jpg)
 
@@ -246,7 +246,7 @@ In a world where 98% of American children have perished from a mysterious diseas
 <hr>
 
 
-## 6. [The Hate U Give](https://serp.ly/@serpmedia/github/amazon/The+Hate+U+Give)
+## 6. [The Hate U Give](https://serp.ly/amazon/The+Hate+U+Give)
 
 ![The Hate U Give](https://image.tmdb.org/t/p/original/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg)
 
@@ -286,7 +286,7 @@ Starr, a 16-year-old African American girl, navigates between her tough inner-ci
 <hr>
 
 
-## 7. [Colombiana](https://serp.ly/@serpmedia/github/amazon/Colombiana)
+## 7. [Colombiana](https://serp.ly/amazon/Colombiana)
 
 ![Colombiana](https://image.tmdb.org/t/p/original/rEdGDgRB3gducezNSIyx2lbKQy4.jpg)
 
@@ -329,7 +329,7 @@ In "Colombiana", a young Cataleya Restrepo witnesses her parents' murder in Bogo
 <hr>
 
 
-## 8. [Bodies Bodies Bodies](https://serp.ly/@serpmedia/github/amazon/Bodies+Bodies+Bodies)
+## 8. [Bodies Bodies Bodies](https://serp.ly/amazon/Bodies+Bodies+Bodies)
 
 ![Bodies Bodies Bodies](https://image.tmdb.org/t/p/original/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg)
 
@@ -372,7 +372,7 @@ In an isolated family mansion, a group of rich 20-somethings decides to play Bod
 <hr>
 
 
-## 9. [Where Hands Touch](https://serp.ly/@serpmedia/github/amazon/Where+Hands+Touch)
+## 9. [Where Hands Touch](https://serp.ly/amazon/Where+Hands+Touch)
 
 ![Where Hands Touch](https://image.tmdb.org/t/p/original/omKzydOrom9kpdfQUE0G9Y9sPl0.jpg)
 
@@ -408,7 +408,7 @@ In 1944 Germany, a young girl named Leyna defies expectations as the daughter of
 <hr>
 
 
-## 10. [Dear Evan Hansen](https://serp.ly/@serpmedia/github/amazon/Dear+Evan+Hansen)
+## 10. [Dear Evan Hansen](https://serp.ly/amazon/Dear+Evan+Hansen)
 
 ![Dear Evan Hansen](https://image.tmdb.org/t/p/original/hKjBQhsnCMt86kPKpPwV4meeFPo.jpg)
 
@@ -453,7 +453,7 @@ When high schooler Evan Hansen's social anxiety leads him to write letters to hi
 <hr>
 
 
-## 11. [Lemonade](https://serp.ly/@serpmedia/github/amazon/Lemonade)
+## 11. [Lemonade](https://serp.ly/amazon/Lemonade)
 
 ![Lemonade](https://image.tmdb.org/t/p/original/1eZNaro6rXlh1ao5jqMg6TgVyMO.jpg)
 
@@ -487,7 +487,7 @@ When high schooler Evan Hansen's social anxiety leads him to write letters to hi
 <hr>
 
 
-## 12. [As You Are](https://serp.ly/@serpmedia/github/amazon/As+You+Are)
+## 12. [As You Are](https://serp.ly/amazon/As+You+Are)
 
 ![As You Are](https://image.tmdb.org/t/p/original/58RZovQE0bBhKRObOIDjiQ9Caal.jpg)
 
@@ -524,7 +524,7 @@ When high schooler Evan Hansen's social anxiety leads him to write letters to hi
 <hr>
 
 
-## 13. [A Taste of Romance](https://serp.ly/@serpmedia/github/amazon/A+Taste+of+Romance)
+## 13. [A Taste of Romance](https://serp.ly/amazon/A+Taste+of+Romance)
 
 ![A Taste of Romance](https://image.tmdb.org/t/p/original/zWfmGfvkzdyUiO256wC6z2ugaRh.jpg)
 
@@ -560,7 +560,7 @@ Sara Westbrook, a precise French chef, runs an upscale café next to The Five Al
 <hr>
 
 
-## 14. [This Changes Everything](https://serp.ly/@serpmedia/github/amazon/This+Changes+Everything)
+## 14. [This Changes Everything](https://serp.ly/amazon/This+Changes+Everything)
 
 ![This Changes Everything](https://image.tmdb.org/t/p/original/gfKlmduljimRyNMgWDCBQSxbW7d.jpg)
 
@@ -603,7 +603,7 @@ Voices can't be silenced forever
 <hr>
 
 
-## 15. [My Animal](https://serp.ly/@serpmedia/github/amazon/My+Animal)
+## 15. [My Animal](https://serp.ly/amazon/My+Animal)
 
 ![My Animal](https://image.tmdb.org/t/p/original/8fwsmvBMVQe1iF608ZpdH4CTx69.jpg)
 
@@ -642,7 +642,7 @@ Heather's isolated life on the outskirts of town takes an unexpected turn when s
 <hr>
 
 
-## 16. [The World Is Watching: Making the Hunger Games](https://serp.ly/@serpmedia/github/amazon/The+World+Is+Watching%3A+Making+the+Hunger+Games)
+## 16. [The World Is Watching: Making the Hunger Games](https://serp.ly/amazon/The+World+Is+Watching%3A+Making+the+Hunger+Games)
 
 ![The World Is Watching: Making the Hunger Games](https://image.tmdb.org/t/p/original/2bpO6IjqcSOxICVafi9qCc6imie.jpg)
 
@@ -676,7 +676,7 @@ Heather's isolated life on the outskirts of town takes an unexpected turn when s
 <hr>
 
 
-## 17. [The Melodic Blue: Baby Keem](https://serp.ly/@serpmedia/github/amazon/The+Melodic+Blue%3A+Baby+Keem)
+## 17. [The Melodic Blue: Baby Keem](https://serp.ly/amazon/The+Melodic+Blue%3A+Baby+Keem)
 
 ![The Melodic Blue: Baby Keem](https://image.tmdb.org/t/p/original/eValr4eJxUfTJVMcqFcSQrRc4T.jpg)
 
@@ -710,7 +710,7 @@ Heather's isolated life on the outskirts of town takes an unexpected turn when s
 <hr>
 
 
-## 18. [My Name Is Andrea](https://serp.ly/@serpmedia/github/amazon/My+Name+Is+Andrea)
+## 18. [My Name Is Andrea](https://serp.ly/amazon/My+Name+Is+Andrea)
 
 ![My Name Is Andrea](https://image.tmdb.org/t/p/original/jVwL9rNtCnSnsY5g2ygzYqdoiOD.jpg)
 
@@ -744,7 +744,7 @@ Heather's isolated life on the outskirts of town takes an unexpected turn when s
 <hr>
 
 
-## 19. [Illegal Civilization 3](https://serp.ly/@serpmedia/github/amazon/Illegal+Civilization+3)
+## 19. [Illegal Civilization 3](https://serp.ly/amazon/Illegal+Civilization+3)
 
 ![Illegal Civilization 3](https://image.tmdb.org/t/p/original/aKgI1gG7VP26gpOgQoi9TplZlml.jpg)
 
@@ -775,7 +775,7 @@ Illegal Civilization 3 hits the pavement with Kevin White, Aramis Hudson, Zach S
 <hr>
 
 
-## 20. [Ozi: Voice of the Forest](https://serp.ly/@serpmedia/github/amazon/Ozi%3A+Voice+of+the+Forest)
+## 20. [Ozi: Voice of the Forest](https://serp.ly/amazon/Ozi%3A+Voice+of+the+Forest)
 
 ![Ozi: Voice of the Forest](https://image.tmdb.org/t/p/original/jqFKSqf95IUtvYdzkgYbiPC6wi1.jpg)
 
@@ -812,7 +812,7 @@ When a young orangutan named Ozi loses her forest home, she finds an unexpected 
 <hr>
 
 
-## 21. [Wildwood](https://serp.ly/@serpmedia/github/amazon/Wildwood)
+## 21. [Wildwood](https://serp.ly/amazon/Wildwood)
 
 ![Wildwood](https://image.tmdb.org/t/p/original/dW65yBrb2oszg3vKHYlHuKO4iNq.jpg)
 
@@ -835,7 +835,7 @@ Wildwood is a magical place beyond Portland's city limits, where talking animals
 <hr>
 
 
-## 22. [Spider-Man: Beyond the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Beyond+the+Spider-Verse)
+## 22. [Spider-Man: Beyond the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Beyond+the+Spider-Verse)
 
 ![Spider-Man: Beyond the Spider-Verse](https://image.tmdb.org/t/p/original/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg)
 
@@ -858,7 +858,7 @@ When Miles Morales disappears into the home dimension of the spider that bit him
 <hr>
 
 
-## 23. [BLKNWS](https://serp.ly/@serpmedia/github/amazon/BLKNWS)
+## 23. [BLKNWS](https://serp.ly/amazon/BLKNWS)
 
 ![BLKNWS](https://image.tmdb.org/t/p/original/xgSBUawba1JCudEVZ4N9TlakNi4.jpg)
 
@@ -886,7 +886,7 @@ When Miles Morales disappears into the home dimension of the spider that bit him
 <hr>
 
 
-## 24. [With Him / Best to You / Better Numb](https://serp.ly/@serpmedia/github/amazon/With+Him+%2F+Best+to+You+%2F+Better+Numb)
+## 24. [With Him / Best to You / Better Numb](https://serp.ly/amazon/With+Him+%2F+Best+to+You+%2F+Better+Numb)
 
 ![With Him / Best to You / Better Numb](https://image.tmdb.org/t/p/original/tofVMIZzBDvuoSGqnvkZsdbvMZK.jpg)
 
@@ -917,7 +917,7 @@ When Miles Morales disappears into the home dimension of the spider that bit him
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -963,7 +963,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1007,7 +1007,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [The Daily Show](https://serp.ly/@serpmedia/github/amazon/The+Daily+Show)
+## 3. [The Daily Show](https://serp.ly/amazon/The+Daily+Show)
 
 ![The Daily Show](https://image.tmdb.org/t/p/original/ixcfyK7it6FjRM36Te4OdblAq4X.jpg)
 
@@ -1053,7 +1053,7 @@ When news breaks, The Daily Show's fake news team is the first to fix it. Join t
 <hr>
 
 
-## 4. [The Acolyte](https://serp.ly/@serpmedia/github/amazon/The+Acolyte)
+## 4. [The Acolyte](https://serp.ly/amazon/The+Acolyte)
 
 ![The Acolyte](https://image.tmdb.org/t/p/original/mztdt3y6GBsJR69zHtszFezTCLT.jpg)
 
@@ -1099,7 +1099,7 @@ The Acolyte delves into a peaceful era of the Jedi Order and Galactic Republic, 
 <hr>
 
 
-## 5. [Sleepy Hollow](https://serp.ly/@serpmedia/github/amazon/Sleepy+Hollow)
+## 5. [Sleepy Hollow](https://serp.ly/amazon/Sleepy+Hollow)
 
 ![Sleepy Hollow](https://image.tmdb.org/t/p/original/45GJEg0q8b8c2U5VtABYgF8sAEJ.jpg)
 
@@ -1143,7 +1143,7 @@ When Ichabod Crane is mysteriously resurrected, he's pulled two and a half centu
 <hr>
 
 
-## 6. [RuPaul's Drag Race](https://serp.ly/@serpmedia/github/amazon/RuPaul%27s+Drag+Race)
+## 6. [RuPaul's Drag Race](https://serp.ly/amazon/RuPaul%27s+Drag+Race)
 
 ![RuPaul's Drag Race](https://image.tmdb.org/t/p/original/6LThfVcGWSLswQaQh2vvk1Q2IoH.jpg)
 
@@ -1189,7 +1189,7 @@ Putting Realness Back Into Reality
 <hr>
 
 
-## 7. [Honest Trailers](https://serp.ly/@serpmedia/github/amazon/Honest+Trailers)
+## 7. [Honest Trailers](https://serp.ly/amazon/Honest+Trailers)
 
 ![Honest Trailers](https://image.tmdb.org/t/p/original/5wZDu7JVXqmzJLthh1ngIfLmKIS.jpg)
 
@@ -1233,7 +1233,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 8. [MTV Movie & TV Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Movie+%26+TV+Awards)
+## 8. [MTV Movie & TV Awards](https://serp.ly/amazon/MTV+Movie+%26+TV+Awards)
 
 ![MTV Movie & TV Awards](https://image.tmdb.org/t/p/original/77FuUQrJVO8GcyCpfHBZOICINwm.jpg)
 
@@ -1277,7 +1277,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 9. [RuPaul's Drag Race: Untucked](https://serp.ly/@serpmedia/github/amazon/RuPaul%27s+Drag+Race%3A+Untucked)
+## 9. [RuPaul's Drag Race: Untucked](https://serp.ly/amazon/RuPaul%27s+Drag+Race%3A+Untucked)
 
 ![RuPaul's Drag Race: Untucked](https://image.tmdb.org/t/p/original/vJgyxhwAtdld0zpVlMtpy5M3oat.jpg)
 
@@ -1321,7 +1321,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 10. [The Eddy](https://serp.ly/@serpmedia/github/amazon/The+Eddy)
+## 10. [The Eddy](https://serp.ly/amazon/The+Eddy)
 
 ![The Eddy](https://image.tmdb.org/t/p/original/dfpB5bU70zPtwhKDT6s9N3iNXbU.jpg)
 
@@ -1365,7 +1365,7 @@ In this French miniseries, the owner of a Paris jazz club finds himself caught b
 <hr>
 
 
-## 11. [Mr. Robinson](https://serp.ly/@serpmedia/github/amazon/Mr.+Robinson)
+## 11. [Mr. Robinson](https://serp.ly/amazon/Mr.+Robinson)
 
 ![Mr. Robinson](https://image.tmdb.org/t/p/original/no3mOvCfuyLrEEWLi16pbHCIqQZ.jpg)
 
@@ -1407,7 +1407,7 @@ When a rough-edged musician named Craig walks into a big-city middle school musi
 <hr>
 
 
-## 12. [Gaslight](https://serp.ly/@serpmedia/github/amazon/Gaslight)
+## 12. [Gaslight](https://serp.ly/amazon/Gaslight)
 
 ![Gaslight](https://image.tmdb.org/t/p/original/2cdwlz0nQk6WN5XXCIaNRHT8fs1.jpg)
 

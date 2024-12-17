@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Okja](https://serp.ly/@serpmedia/github/amazon/Okja)
+## 1. [Okja](https://serp.ly/amazon/Okja)
 
 ![Okja](https://image.tmdb.org/t/p/original/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg)
 
@@ -76,7 +76,7 @@ In a world where corporate interests threaten to tear friends apart, a young gir
 <hr>
 
 
-## 2. [Space Jam: A New Legacy](https://serp.ly/@serpmedia/github/amazon/Space+Jam%3A+A+New+Legacy)
+## 2. [Space Jam: A New Legacy](https://serp.ly/amazon/Space+Jam%3A+A+New+Legacy)
 
 ![Space Jam: A New Legacy](https://image.tmdb.org/t/p/original/mDACFTANR34u6lvucazoYiFJOp7.jpg)
 
@@ -116,7 +116,7 @@ Join LeBron and his son Dom as they're zapped into a digital world by a rogue A.
 <hr>
 
 
-## 3. [Nope](https://serp.ly/@serpmedia/github/amazon/Nope)
+## 3. [Nope](https://serp.ly/amazon/Nope)
 
 ![Nope](https://image.tmdb.org/t/p/original/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg)
 
@@ -156,7 +156,7 @@ In the heart of California's rugged high desert, a small community stands on the
 <hr>
 
 
-## 4. [I Origins](https://serp.ly/@serpmedia/github/amazon/I+Origins)
+## 4. [I Origins](https://serp.ly/amazon/I+Origins)
 
 ![I Origins](https://image.tmdb.org/t/p/original/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg)
 
@@ -197,7 +197,7 @@ In the heart of California's rugged high desert, a small community stands on the
 <hr>
 
 
-## 5. [Minari](https://serp.ly/@serpmedia/github/amazon/Minari)
+## 5. [Minari](https://serp.ly/amazon/Minari)
 
 ![Minari](https://image.tmdb.org/t/p/original/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg)
 
@@ -238,7 +238,7 @@ When a Korean American family relocates to an Arkansas farm, they embark on a tr
 <hr>
 
 
-## 6. [Burning](https://serp.ly/@serpmedia/github/amazon/Burning)
+## 6. [Burning](https://serp.ly/amazon/Burning)
 
 ![Burning](https://image.tmdb.org/t/p/original/kXiF80o74fE9gf3Utf9moAI7ar0.jpg)
 
@@ -281,7 +281,7 @@ When an aspiring writer picks his high school friend up from the airport, he's s
 <hr>
 
 
-## 7. [Sorry to Bother You](https://serp.ly/@serpmedia/github/amazon/Sorry+to+Bother+You)
+## 7. [Sorry to Bother You](https://serp.ly/amazon/Sorry+to+Bother+You)
 
 ![Sorry to Bother You](https://image.tmdb.org/t/p/original/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg)
 
@@ -324,7 +324,7 @@ When black telemarketer Cassius Green discovers a magical key to professional su
 <hr>
 
 
-## 8. [Mayhem](https://serp.ly/@serpmedia/github/amazon/Mayhem)
+## 8. [Mayhem](https://serp.ly/amazon/Mayhem)
 
 ![Mayhem](https://image.tmdb.org/t/p/original/fF5ULrCAQ8TULXyFGlPlQ2s3Jie.jpg)
 
@@ -363,7 +363,7 @@ When a mysterious virus sweeps through an office complex, it triggers an outbrea
 <hr>
 
 
-## 9. [The Star](https://serp.ly/@serpmedia/github/amazon/The+Star)
+## 9. [The Star](https://serp.ly/amazon/The+Star)
 
 ![The Star](https://image.tmdb.org/t/p/original/xJgtHL8Iecp5Ot1oBkMdBl32yPh.jpg)
 
@@ -401,7 +401,7 @@ In "The Star, " a small but brave donkey and his animal friends become the unsun
 <hr>
 
 
-## 10. [Trollhunters: Rise of the Titans](https://serp.ly/@serpmedia/github/amazon/Trollhunters%3A+Rise+of+the+Titans)
+## 10. [Trollhunters: Rise of the Titans](https://serp.ly/amazon/Trollhunters%3A+Rise+of+the+Titans)
 
 ![Trollhunters: Rise of the Titans](https://image.tmdb.org/t/p/original/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg)
 
@@ -442,7 +442,7 @@ When the dark forces of the Arcane Order threaten to unleash the primordial Tita
 <hr>
 
 
-## 11. [The Making of The Walking Dead](https://serp.ly/@serpmedia/github/amazon/The+Making+of+The+Walking+Dead)
+## 11. [The Making of The Walking Dead](https://serp.ly/amazon/The+Making+of+The+Walking+Dead)
 
 ![The Making of The Walking Dead](https://image.tmdb.org/t/p/original/8V7FDbfxqgA6rKTEYOKpgeORPFV.jpg)
 
@@ -476,7 +476,7 @@ When the dark forces of the Arcane Order threaten to unleash the primordial Tita
 <hr>
 
 
-## 12. [The Humans](https://serp.ly/@serpmedia/github/amazon/The+Humans)
+## 12. [The Humans](https://serp.ly/amazon/The+Humans)
 
 ![The Humans](https://image.tmdb.org/t/p/original/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg)
 
@@ -510,7 +510,7 @@ Erik Blake has brought three generations of his Pennsylvania family together for
 <hr>
 
 
-## 13. [The Walking Dead: The Return](https://serp.ly/@serpmedia/github/amazon/The+Walking+Dead%3A+The+Return)
+## 13. [The Walking Dead: The Return](https://serp.ly/amazon/The+Walking+Dead%3A+The+Return)
 
 ![The Walking Dead: The Return](https://image.tmdb.org/t/p/original/3clopfmZ8x6s1reWC6fxgXkysZz.jpg)
 
@@ -544,7 +544,7 @@ Join Andrew Lincoln and Danai Gurira as they revisit the filming locations that 
 <hr>
 
 
-## 14. [The Robot Chicken Walking Dead Special: Look Who's Walking](https://serp.ly/@serpmedia/github/amazon/The+Robot+Chicken+Walking+Dead+Special%3A+Look+Who%27s+Walking)
+## 14. [The Robot Chicken Walking Dead Special: Look Who's Walking](https://serp.ly/amazon/The+Robot+Chicken+Walking+Dead+Special%3A+Look+Who%27s+Walking)
 
 ![The Robot Chicken Walking Dead Special: Look Who's Walking](https://image.tmdb.org/t/p/original/fXJjXAHWnFfhHwbSKOMuyD86vXw.jpg)
 
@@ -575,7 +575,7 @@ When Seth Green and Matthew Senreich bring their signature wit to Adult Swim's "
 <hr>
 
 
-## 15. [Like a French Film](https://serp.ly/@serpmedia/github/amazon/Like+a+French+Film)
+## 15. [Like a French Film](https://serp.ly/amazon/Like+a+French+Film)
 
 ![Like a French Film](https://image.tmdb.org/t/p/original/qMAaZiXFckPP3Nf9LAzN6j5L2rs.jpg)
 
@@ -609,7 +609,7 @@ When Seth Green and Matthew Senreich bring their signature wit to Adult Swim's "
 <hr>
 
 
-## 16. [Nam June Paik: Moon Is the Oldest TV](https://serp.ly/@serpmedia/github/amazon/Nam+June+Paik%3A+Moon+Is+the+Oldest+TV)
+## 16. [Nam June Paik: Moon Is the Oldest TV](https://serp.ly/amazon/Nam+June+Paik%3A+Moon+Is+the+Oldest+TV)
 
 ![Nam June Paik: Moon Is the Oldest TV](https://image.tmdb.org/t/p/original/ceqIRL4BfHguTnlLz00wNlc8uAN.jpg)
 
@@ -648,7 +648,7 @@ When Seth Green and Matthew Senreich bring their signature wit to Adult Swim's "
 <hr>
 
 
-## 17. [Love Me](https://serp.ly/@serpmedia/github/amazon/Love+Me)
+## 17. [Love Me](https://serp.ly/amazon/Love+Me)
 
 ![Love Me](https://image.tmdb.org/t/p/original/pHLHPZEGhw8JKXgM4WYtJztNSYT.jpg)
 
@@ -682,7 +682,7 @@ In a world long after humans have vanished, two unlikely companions find each ot
 <hr>
 
 
-## 18. [My Name Is Jerry](https://serp.ly/@serpmedia/github/amazon/My+Name+Is+Jerry)
+## 18. [My Name Is Jerry](https://serp.ly/amazon/My+Name+Is+Jerry)
 
 <br>
 
@@ -714,7 +714,7 @@ Forty-something Jerry has spent years selling books door-to-door, but a chance e
 <hr>
 
 
-## 19. [Naysayer](https://serp.ly/@serpmedia/github/amazon/Naysayer)
+## 19. [Naysayer](https://serp.ly/amazon/Naysayer)
 
 ![Naysayer](https://image.tmdb.org/t/p/original/6VCpioG5zDHH7S8m6eiCOw0tEmT.jpg)
 
@@ -748,7 +748,7 @@ In "Naysayer", a young father separated from his wife fights to see his newborn 
 <hr>
 
 
-## 20. [Carpe Millennium](https://serp.ly/@serpmedia/github/amazon/Carpe+Millennium)
+## 20. [Carpe Millennium](https://serp.ly/amazon/Carpe+Millennium)
 
 ![Carpe Millennium](https://image.tmdb.org/t/p/original/6FT7FAUm7vvQzGpgC3hKqXMSgN6.jpg)
 
@@ -783,7 +783,7 @@ It's New Year's Eve, and Kevin is determined to lose his virginity before the cl
 <hr>
 
 
-## 21. [Untitled Lee Isaac Chung Project](https://serp.ly/@serpmedia/github/amazon/Untitled+Lee+Isaac+Chung+Project)
+## 21. [Untitled Lee Isaac Chung Project](https://serp.ly/amazon/Untitled+Lee+Isaac+Chung+Project)
 
 <br>
 
@@ -804,7 +804,7 @@ It's New Year's Eve, and Kevin is determined to lose his virginity before the cl
 <hr>
 
 
-## 22. [Mickey 17](https://serp.ly/@serpmedia/github/amazon/Mickey+17)
+## 22. [Mickey 17](https://serp.ly/amazon/Mickey+17)
 
 ![Mickey 17](https://image.tmdb.org/t/p/original/y5rrebdZsGgpKb2U52rxMQTYbn0.jpg)
 
@@ -832,7 +832,7 @@ In the frozen wasteland of Niflheim, Mickey 17 fights for survival as a disposab
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -876,7 +876,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -922,7 +922,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 3. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -964,7 +964,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 4. [The Walking Dead](https://serp.ly/@serpmedia/github/amazon/The+Walking+Dead)
+## 4. [The Walking Dead](https://serp.ly/amazon/The+Walking+Dead)
 
 ![The Walking Dead](https://image.tmdb.org/t/p/original/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg)
 
@@ -1008,7 +1008,7 @@ When Deputy Rick Grimes wakes from a coma, he finds himself in a post-apocalypti
 <hr>
 
 
-## 5. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 5. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -1054,7 +1054,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 6. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 6. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1096,7 +1096,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 7. [The Big Bang Theory](https://serp.ly/@serpmedia/github/amazon/The+Big+Bang+Theory)
+## 7. [The Big Bang Theory](https://serp.ly/amazon/The+Big+Bang+Theory)
 
 ![The Big Bang Theory](https://image.tmdb.org/t/p/original/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg)
 
@@ -1140,7 +1140,7 @@ When physicist Leonard Hofstadter moves into an apartment next to the charming b
 <hr>
 
 
-## 8. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 8. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -1184,7 +1184,7 @@ When physicist Leonard Hofstadter moves into an apartment next to the charming b
 <hr>
 
 
-## 9. [Honest Trailers](https://serp.ly/@serpmedia/github/amazon/Honest+Trailers)
+## 9. [Honest Trailers](https://serp.ly/amazon/Honest+Trailers)
 
 ![Honest Trailers](https://image.tmdb.org/t/p/original/5wZDu7JVXqmzJLthh1ngIfLmKIS.jpg)
 
@@ -1228,7 +1228,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 10. [INVINCIBLE](https://serp.ly/@serpmedia/github/amazon/INVINCIBLE)
+## 10. [INVINCIBLE](https://serp.ly/amazon/INVINCIBLE)
 
 ![INVINCIBLE](https://image.tmdb.org/t/p/original/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg)
 
@@ -1276,7 +1276,7 @@ When teenager Mark Grayson's ordinary life takes an extraordinary turn after his
 <hr>
 
 
-## 11. [Comedy Bang! Bang!](https://serp.ly/@serpmedia/github/amazon/Comedy+Bang%21+Bang%21)
+## 11. [Comedy Bang! Bang!](https://serp.ly/amazon/Comedy+Bang%21+Bang%21)
 
 ![Comedy Bang! Bang!](https://image.tmdb.org/t/p/original/5undCFoglpvKYFmu404ve9mh6on.jpg)
 
@@ -1318,7 +1318,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 12. [Law & Order: LA](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+LA)
+## 12. [Law & Order: LA](https://serp.ly/amazon/Law+%26+Order%3A+LA)
 
 ![Law & Order: LA](https://image.tmdb.org/t/p/original/mxYWv7XeeUqT0ikW9ccIyjeJKTQ.jpg)
 
@@ -1360,7 +1360,7 @@ When it comes to cracking the toughest cases in Los Angeles, the Robbery Homicid
 <hr>
 
 
-## 13. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 13. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -1404,7 +1404,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 14. [The Twilight Zone](https://serp.ly/@serpmedia/github/amazon/The+Twilight+Zone)
+## 14. [The Twilight Zone](https://serp.ly/amazon/The+Twilight+Zone)
 
 ![The Twilight Zone](https://image.tmdb.org/t/p/original/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg)
 
@@ -1448,7 +1448,7 @@ What dimension are you even in?
 <hr>
 
 
-## 15. [Warehouse 13](https://serp.ly/@serpmedia/github/amazon/Warehouse+13)
+## 15. [Warehouse 13](https://serp.ly/amazon/Warehouse+13)
 
 ![Warehouse 13](https://image.tmdb.org/t/p/original/vK6KMBDUzZdwQcxPkfPO1iUSN0r.jpg)
 
@@ -1492,7 +1492,7 @@ When secret service agents Myka Bering and Pete Lattimer save the President's li
 <hr>
 
 
-## 16. [Next Entertainment, Visionary](https://serp.ly/@serpmedia/github/amazon/Next+Entertainment%2C++Visionary)
+## 16. [Next Entertainment, Visionary](https://serp.ly/amazon/Next+Entertainment%2C++Visionary)
 
 ![Next Entertainment, Visionary](https://image.tmdb.org/t/p/original/1usYfVOMtTqQNEhdBX6nt0ltZ0L.jpg)
 
@@ -1533,7 +1533,7 @@ When secret service agents Myka Bering and Pete Lattimer save the President's li
 <hr>
 
 
-## 17. [Voltron: Legendary Defender](https://serp.ly/@serpmedia/github/amazon/Voltron%3A+Legendary+Defender)
+## 17. [Voltron: Legendary Defender](https://serp.ly/amazon/Voltron%3A+Legendary+Defender)
 
 ![Voltron: Legendary Defender](https://image.tmdb.org/t/p/original/uoqfxbyDILRYwi0CP4yRqVCQkPW.jpg)
 
@@ -1575,7 +1575,7 @@ When five ordinary teenagers discover they can control flying robot lions, an un
 <hr>
 
 
-## 18. [Talking Dead](https://serp.ly/@serpmedia/github/amazon/Talking+Dead)
+## 18. [Talking Dead](https://serp.ly/amazon/Talking+Dead)
 
 ![Talking Dead](https://image.tmdb.org/t/p/original/wEsDfVvYNsAgmJeynSQGuLKyhcJ.jpg)
 
@@ -1619,7 +1619,7 @@ When five ordinary teenagers discover they can control flying robot lions, an un
 <hr>
 
 
-## 19. [Dinner Time Live with David Chang](https://serp.ly/@serpmedia/github/amazon/Dinner+Time+Live+with+David+Chang)
+## 19. [Dinner Time Live with David Chang](https://serp.ly/amazon/Dinner+Time+Live+with+David+Chang)
 
 ![Dinner Time Live with David Chang](https://image.tmdb.org/t/p/original/6isaKyEbUyTlks7eWxTwfAUpXA3.jpg)
 
@@ -1663,7 +1663,7 @@ Watch chef David Chang cook elaborate meals for famous guests in this reality se
 <hr>
 
 
-## 20. [3Below: Tales of Arcadia](https://serp.ly/@serpmedia/github/amazon/3Below%3A+Tales+of+Arcadia)
+## 20. [3Below: Tales of Arcadia](https://serp.ly/amazon/3Below%3A+Tales+of+Arcadia)
 
 ![3Below: Tales of Arcadia](https://image.tmdb.org/t/p/original/eWoplw8QJhSGDnhyYCrs9OugdTj.jpg)
 
@@ -1707,7 +1707,7 @@ When two royal teen aliens crash-land on Earth, they must navigate a world of hi
 <hr>
 
 
-## 21. [Final Space](https://serp.ly/@serpmedia/github/amazon/Final+Space)
+## 21. [Final Space](https://serp.ly/amazon/Final+Space)
 
 ![Final Space](https://image.tmdb.org/t/p/original/zT6tXWsJoBOWJT1PeUEKLTFOoHh.jpg)
 
@@ -1749,7 +1749,7 @@ Join astronaut Gary on his cosmic adventures through space with his unusual side
 <hr>
 
 
-## 22. [Ride with Norman Reedus](https://serp.ly/@serpmedia/github/amazon/Ride+with+Norman+Reedus)
+## 22. [Ride with Norman Reedus](https://serp.ly/amazon/Ride+with+Norman+Reedus)
 
 ![Ride with Norman Reedus](https://image.tmdb.org/t/p/original/dQyDwNVO88PK2l8rQLaGR2mW6od.jpg)
 
@@ -1793,7 +1793,7 @@ When "The Walking Dead" star Norman Reedus trades his governor's robes for a lea
 <hr>
 
 
-## 23. [I Think You Should Leave with Tim Robinson](https://serp.ly/@serpmedia/github/amazon/I+Think+You+Should+Leave+with+Tim+Robinson)
+## 23. [I Think You Should Leave with Tim Robinson](https://serp.ly/amazon/I+Think+You+Should+Leave+with+Tim+Robinson)
 
 ![I Think You Should Leave with Tim Robinson](https://image.tmdb.org/t/p/original/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg)
 
@@ -1837,7 +1837,7 @@ Tim Robinson's innovative sketch comedy series proves that every interaction des
 <hr>
 
 
-## 24. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 24. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -1881,7 +1881,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 25. [Stretch Armstrong & the Flex Fighters](https://serp.ly/@serpmedia/github/amazon/Stretch+Armstrong+%26+the+Flex+Fighters)
+## 25. [Stretch Armstrong & the Flex Fighters](https://serp.ly/amazon/Stretch+Armstrong+%26+the+Flex+Fighters)
 
 ![Stretch Armstrong & the Flex Fighters](https://image.tmdb.org/t/p/original/iTmsfkHkPleoWxcfwTtg3QkSiXf.jpg)
 
@@ -1923,7 +1923,7 @@ When teenager Jake Armstrong and his two best friends are accidentally exposed t
 <hr>
 
 
-## 26. [BEEF](https://serp.ly/@serpmedia/github/amazon/BEEF)
+## 26. [BEEF](https://serp.ly/amazon/BEEF)
 
 ![BEEF](https://image.tmdb.org/t/p/original/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg)
 
@@ -1969,7 +1969,7 @@ When two strangers get into a road rage incident, their personal struggles and d
 <hr>
 
 
-## 27. [Golden Globe Awards](https://serp.ly/@serpmedia/github/amazon/Golden+Globe+Awards)
+## 27. [Golden Globe Awards](https://serp.ly/amazon/Golden+Globe+Awards)
 
 ![Golden Globe Awards](https://image.tmdb.org/t/p/original/kwPQHGHTTgJ8x5KTQDB8F2T4dzC.jpg)
 
@@ -2013,7 +2013,7 @@ The Golden Globe Awards, founded in 1944, mark the Hollywood Foreign Press Assoc
 <hr>
 
 
-## 28. [American Masters](https://serp.ly/@serpmedia/github/amazon/American+Masters)
+## 28. [American Masters](https://serp.ly/amazon/American+Masters)
 
 ![American Masters](https://image.tmdb.org/t/p/original/n2PHBbRwNxaQGuqIW4Y5ulq0HQC.jpg)
 
@@ -2057,7 +2057,7 @@ The Golden Globe Awards, founded in 1944, mark the Hollywood Foreign Press Assoc
 <hr>
 
 
-## 29. [Wizards: Tales of Arcadia](https://serp.ly/@serpmedia/github/amazon/Wizards%3A+Tales+of+Arcadia)
+## 29. [Wizards: Tales of Arcadia](https://serp.ly/amazon/Wizards%3A+Tales+of+Arcadia)
 
 ![Wizards: Tales of Arcadia](https://image.tmdb.org/t/p/original/aAMcPNLzCML40q7qmuB0jrZIcsI.jpg)
 
@@ -2099,7 +2099,7 @@ When Merlin's apprentice joins Arcadia's heroes in Camelot, their worlds collide
 <hr>
 
 
-## 30. [Bajillion Dollar Propertie$](https://serp.ly/@serpmedia/github/amazon/Bajillion+Dollar+Propertie%24)
+## 30. [Bajillion Dollar Propertie$](https://serp.ly/amazon/Bajillion+Dollar+Propertie%24)
 
 ![Bajillion Dollar Propertie$](https://image.tmdb.org/t/p/original/o8Ni49UcFdozzcbdd0s8Me6XQiV.jpg)
 
@@ -2143,7 +2143,7 @@ When Merlin's apprentice joins Arcadia's heroes in Camelot, their worlds collide
 <hr>
 
 
-## 31. [Weird City](https://serp.ly/@serpmedia/github/amazon/Weird+City)
+## 31. [Weird City](https://serp.ly/amazon/Weird+City)
 
 ![Weird City](https://image.tmdb.org/t/p/original/gFUXy6hfbe3QaUl9AtFDIbyquzo.jpg)
 
@@ -2187,7 +2187,7 @@ In the not-too-distant future, the metropolis of Weird becomes the playground fo
 <hr>
 
 
-## 32. [Tuca & Bertie](https://serp.ly/@serpmedia/github/amazon/Tuca+%26+Bertie)
+## 32. [Tuca & Bertie](https://serp.ly/amazon/Tuca+%26+Bertie)
 
 ![Tuca & Bertie](https://image.tmdb.org/t/p/original/i5zoHZgTBT5lgNrR5LIBZwGBPzB.jpg)
 
@@ -2229,7 +2229,7 @@ Tuca & Bertie is a heartwarming bird-themed series about an adventurous toucan n
 <hr>
 
 
-## 33. [Ugly Delicious](https://serp.ly/@serpmedia/github/amazon/Ugly+Delicious)
+## 33. [Ugly Delicious](https://serp.ly/amazon/Ugly+Delicious)
 
 ![Ugly Delicious](https://image.tmdb.org/t/p/original/pGUDBXAh3GNPVkMK0nH0abx1zOd.jpg)
 

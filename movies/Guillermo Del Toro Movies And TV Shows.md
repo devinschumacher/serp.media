@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Quantum of Solace](https://serp.ly/@serpmedia/github/amazon/Quantum+of+Solace)
+## 1. [Quantum of Solace](https://serp.ly/amazon/Quantum+of+Solace)
 
 ![Quantum of Solace](https://image.tmdb.org/t/p/original/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg)
 
@@ -78,7 +78,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 2. [Hellboy](https://serp.ly/@serpmedia/github/amazon/Hellboy)
+## 2. [Hellboy](https://serp.ly/amazon/Hellboy)
 
 ![Hellboy](https://image.tmdb.org/t/p/original/xohSnVY9gub1Z30CdrikW9yygTW.jpg)
 
@@ -118,7 +118,7 @@ In the final days of World War II, Allied forces rescue a baby demon from a Nazi
 <hr>
 
 
-## 3. [Hellboy II: The Golden Army](https://serp.ly/@serpmedia/github/amazon/Hellboy+II%3A+The+Golden+Army)
+## 3. [Hellboy II: The Golden Army](https://serp.ly/amazon/Hellboy+II%3A+The+Golden+Army)
 
 ![Hellboy II: The Golden Army](https://image.tmdb.org/t/p/original/582tPE3faoiVpECMdGCNFxVwe70.jpg)
 
@@ -158,7 +158,7 @@ In "Hellboy II: The Golden Army, " the legendary half-demon stands between human
 <hr>
 
 
-## 4. [Puss in Boots](https://serp.ly/@serpmedia/github/amazon/Puss+in+Boots)
+## 4. [Puss in Boots](https://serp.ly/amazon/Puss+in+Boots)
 
 ![Puss in Boots](https://image.tmdb.org/t/p/original/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg)
 
@@ -201,7 +201,7 @@ Before joining Shrek's team, Puss in Boots lived as a lone fighter, lover, and o
 <hr>
 
 
-## 5. [The Book of Life](https://serp.ly/@serpmedia/github/amazon/The+Book+of+Life)
+## 5. [The Book of Life](https://serp.ly/amazon/The+Book+of+Life)
 
 ![The Book of Life](https://image.tmdb.org/t/p/original/aotTZos5KswgCryEzx2rlOjFsm1.jpg)
 
@@ -241,7 +241,7 @@ Join Manolo on an extraordinary journey through three fantastical worlds as he f
 <hr>
 
 
-## 6. [Don't Be Afraid of the Dark](https://serp.ly/@serpmedia/github/amazon/Don%27t+Be+Afraid+of+the+Dark)
+## 6. [Don't Be Afraid of the Dark](https://serp.ly/amazon/Don%27t+Be+Afraid+of+the+Dark)
 
 ![Don't Be Afraid of the Dark](https://image.tmdb.org/t/p/original/jMBMm1jwqvILV8p1K44brBnmwLK.jpg)
 
@@ -281,7 +281,7 @@ In this 2010 Australian-Mexican-US horror film, a young girl is sent to live wit
 <hr>
 
 
-## 7. [Diary of the Dead](https://serp.ly/@serpmedia/github/amazon/Diary+of+the+Dead)
+## 7. [Diary of the Dead](https://serp.ly/amazon/Diary+of+the+Dead)
 
 ![Diary of the Dead](https://image.tmdb.org/t/p/original/tGktSJW5dPf8QIjmcqum4KOEZPZ.jpg)
 
@@ -324,7 +324,7 @@ Where will you be when the end begins?
 <hr>
 
 
-## 8. [Cronos](https://serp.ly/@serpmedia/github/amazon/Cronos)
+## 8. [Cronos](https://serp.ly/amazon/Cronos)
 
 ![Cronos](https://image.tmdb.org/t/p/original/bRX8au50CnhC8hXr8AbsCNdb96G.jpg)
 
@@ -363,7 +363,7 @@ In a world where death is the only certainty, a groundbreaking invention offers 
 <hr>
 
 
-## 9. [78/52](https://serp.ly/@serpmedia/github/amazon/78%2F52)
+## 9. [78/52](https://serp.ly/amazon/78%2F52)
 
 ![78/52](https://image.tmdb.org/t/p/original/uwVm5DQrpKwc1boivK8zcpWfI4q.jpg)
 
@@ -402,7 +402,7 @@ In a world where death is the only certainty, a groundbreaking invention offers 
 <hr>
 
 
-## 10. [Torrente 3: The Protector](https://serp.ly/@serpmedia/github/amazon/Torrente+3%3A+The+Protector)
+## 10. [Torrente 3: The Protector](https://serp.ly/amazon/Torrente+3%3A+The+Protector)
 
 ![Torrente 3: The Protector](https://image.tmdb.org/t/p/original/s6T6Sg2d98FKo3g1VCAjzJcW4H0.jpg)
 
@@ -442,7 +442,7 @@ When a multinational corporation threatens to silence a brave politician, they m
 <hr>
 
 
-## 11. [Extraordinary Tales](https://serp.ly/@serpmedia/github/amazon/Extraordinary+Tales)
+## 11. [Extraordinary Tales](https://serp.ly/amazon/Extraordinary+Tales)
 
 ![Extraordinary Tales](https://image.tmdb.org/t/p/original/mGETWBPMDHgpdFVsJf8cYGsPWnz.jpg)
 
@@ -476,7 +476,7 @@ When a multinational corporation threatens to silence a brave politician, they m
 <hr>
 
 
-## 12. [Dangerous Days: Making 'Blade Runner'](https://serp.ly/@serpmedia/github/amazon/Dangerous+Days%3A+Making+%27Blade+Runner%27)
+## 12. [Dangerous Days: Making 'Blade Runner'](https://serp.ly/amazon/Dangerous+Days%3A+Making+%27Blade+Runner%27)
 
 ![Dangerous Days: Making 'Blade Runner'](https://image.tmdb.org/t/p/original/9XmaBvpxrONJyJtzNXtaveEtci3.jpg)
 
@@ -510,7 +510,7 @@ When a multinational corporation threatens to silence a brave politician, they m
 <hr>
 
 
-## 13. [Necessary Evil: Super-Villains of DC Comics](https://serp.ly/@serpmedia/github/amazon/Necessary+Evil%3A+Super-Villains+of+DC+Comics)
+## 13. [Necessary Evil: Super-Villains of DC Comics](https://serp.ly/amazon/Necessary+Evil%3A+Super-Villains+of+DC+Comics)
 
 ![Necessary Evil: Super-Villains of DC Comics](https://image.tmdb.org/t/p/original/5dpgzyJvwDTXYN6ZPsA3w5yzlNY.jpg)
 
@@ -544,7 +544,7 @@ This documentary explores the Rogues' Gallery of DC Comics, featuring iconic vil
 <hr>
 
 
-## 14. [Comic-Con Episode IV: A Fan's Hope](https://serp.ly/@serpmedia/github/amazon/Comic-Con+Episode+IV%3A+A+Fan%27s+Hope)
+## 14. [Comic-Con Episode IV: A Fan's Hope](https://serp.ly/amazon/Comic-Con+Episode+IV%3A+A+Fan%27s+Hope)
 
 ![Comic-Con Episode IV: A Fan's Hope](https://image.tmdb.org/t/p/original/zcYCcVxJWulOMNrQJZxzMRuBmm7.jpg)
 
@@ -580,7 +580,7 @@ This documentary explores the Rogues' Gallery of DC Comics, featuring iconic vil
 <hr>
 
 
-## 15. [Love, Antosha](https://serp.ly/@serpmedia/github/amazon/Love%2C+Antosha)
+## 15. [Love, Antosha](https://serp.ly/amazon/Love%2C+Antosha)
 
 ![Love, Antosha](https://image.tmdb.org/t/p/original/AntNP1sX7qKBT7hSYM4248RKMaL.jpg)
 
@@ -616,7 +616,7 @@ The extraordinary and unfinished life of Anton Yelchin
 <hr>
 
 
-## 16. [Guillermo del Toro's Pinocchio: Handcarved Cinema](https://serp.ly/@serpmedia/github/amazon/Guillermo+del+Toro%27s+Pinocchio%3A+Handcarved+Cinema)
+## 16. [Guillermo del Toro's Pinocchio: Handcarved Cinema](https://serp.ly/amazon/Guillermo+del+Toro%27s+Pinocchio%3A+Handcarved+Cinema)
 
 ![Guillermo del Toro's Pinocchio: Handcarved Cinema](https://image.tmdb.org/t/p/original/pEd6yeA27vEoliWq1nfJHrmSiug.jpg)
 
@@ -650,7 +650,7 @@ The extraordinary and unfinished life of Anton Yelchin
 <hr>
 
 
-## 17. [Five Came Back](https://serp.ly/@serpmedia/github/amazon/Five+Came+Back)
+## 17. [Five Came Back](https://serp.ly/amazon/Five+Came+Back)
 
 ![Five Came Back](https://image.tmdb.org/t/p/original/2XlOc0kQGK9q7Xjq77FLBllppm8.jpg)
 
@@ -689,7 +689,7 @@ When Hollywood meets World War II, five legendary filmmakers transform from movi
 <hr>
 
 
-## 18. [El Santos vs la Tetona Mendoza](https://serp.ly/@serpmedia/github/amazon/El+Santos+vs+la+Tetona+Mendoza)
+## 18. [El Santos vs la Tetona Mendoza](https://serp.ly/amazon/El+Santos+vs+la+Tetona+Mendoza)
 
 ![El Santos vs la Tetona Mendoza](https://image.tmdb.org/t/p/original/bDMm9qdsAuWEHFqT24yllrXtkZf.jpg)
 
@@ -727,7 +727,7 @@ When a depressed fighter named Santos begins a campaign to assist Sahuayo Zombie
 <hr>
 
 
-## 19. [Lovecraft: Fear of the Unknown](https://serp.ly/@serpmedia/github/amazon/Lovecraft%3A+Fear+of+the+Unknown)
+## 19. [Lovecraft: Fear of the Unknown](https://serp.ly/amazon/Lovecraft%3A+Fear+of+the+Unknown)
 
 ![Lovecraft: Fear of the Unknown](https://image.tmdb.org/t/p/original/2pQUzBpALk2aSApgQW43xJE7l1H.jpg)
 
@@ -761,7 +761,7 @@ When a depressed fighter named Santos begins a campaign to assist Sahuayo Zombie
 <hr>
 
 
-## 20. [Drew: The Man Behind the Poster](https://serp.ly/@serpmedia/github/amazon/Drew%3A+The+Man+Behind+the+Poster)
+## 20. [Drew: The Man Behind the Poster](https://serp.ly/amazon/Drew%3A+The+Man+Behind+the+Poster)
 
 ![Drew: The Man Behind the Poster](https://image.tmdb.org/t/p/original/3hpSSMwwGYIAKqAJpxsbebd4cfZ.jpg)
 
@@ -797,7 +797,7 @@ When a depressed fighter named Santos begins a campaign to assist Sahuayo Zombie
 <hr>
 
 
-## 21. [Ray Harryhausen: Special Effects Titan](https://serp.ly/@serpmedia/github/amazon/Ray+Harryhausen%3A+Special+Effects+Titan)
+## 21. [Ray Harryhausen: Special Effects Titan](https://serp.ly/amazon/Ray+Harryhausen%3A+Special+Effects+Titan)
 
 ![Ray Harryhausen: Special Effects Titan](https://image.tmdb.org/t/p/original/7feAu14viNcTACirNdmqtlQ4DFH.jpg)
 
@@ -831,7 +831,7 @@ When a depressed fighter named Santos begins a campaign to assist Sahuayo Zombie
 <hr>
 
 
-## 22. [Creature Designers: The Frankenstein Complex](https://serp.ly/@serpmedia/github/amazon/Creature+Designers%3A+The+Frankenstein+Complex)
+## 22. [Creature Designers: The Frankenstein Complex](https://serp.ly/amazon/Creature+Designers%3A+The+Frankenstein+Complex)
 
 ![Creature Designers: The Frankenstein Complex](https://image.tmdb.org/t/p/original/7k0TtR7GcO7oTjZvGcs20TURR21.jpg)
 
@@ -865,7 +865,7 @@ When a depressed fighter named Santos begins a campaign to assist Sahuayo Zombie
 <hr>
 
 
-## 23. [The Fire Rises: The Creation and Impact of The Dark Knight Trilogy](https://serp.ly/@serpmedia/github/amazon/The+Fire+Rises%3A+The+Creation+and+Impact+of+The+Dark+Knight+Trilogy)
+## 23. [The Fire Rises: The Creation and Impact of The Dark Knight Trilogy](https://serp.ly/amazon/The+Fire+Rises%3A+The+Creation+and+Impact+of+The+Dark+Knight+Trilogy)
 
 ![The Fire Rises: The Creation and Impact of The Dark Knight Trilogy](https://image.tmdb.org/t/p/original/y78UlBU4Y2HnEuvSW4V0A5DzP3C.jpg)
 
@@ -899,7 +899,7 @@ The Fire Rises: The Creation and Impact of The Dark Knight Trilogy is a feature-
 <hr>
 
 
-## 24. [Lennon or McCartney](https://serp.ly/@serpmedia/github/amazon/Lennon+or+McCartney)
+## 24. [Lennon or McCartney](https://serp.ly/amazon/Lennon+or+McCartney)
 
 ![Lennon or McCartney](https://image.tmdb.org/t/p/original/dTKBVCAtdwbEmcYRwjcRHabBeGY.jpg)
 
@@ -935,7 +935,7 @@ The Fire Rises: The Creation and Impact of The Dark Knight Trilogy is a feature-
 <hr>
 
 
-## 25. [Shadows in the Dark: The Val Lewton Legacy](https://serp.ly/@serpmedia/github/amazon/Shadows+in+the+Dark%3A+The+Val+Lewton+Legacy)
+## 25. [Shadows in the Dark: The Val Lewton Legacy](https://serp.ly/amazon/Shadows+in+the+Dark%3A+The+Val+Lewton+Legacy)
 
 ![Shadows in the Dark: The Val Lewton Legacy](https://image.tmdb.org/t/p/original/xTaCAGTQI6340KC1WmTaiX73B1P.jpg)
 
@@ -969,7 +969,7 @@ Val Lewton left an indelible mark on 1940s horror filmmography as a producer who
 <hr>
 
 
-## 26. [Masters of Horror](https://serp.ly/@serpmedia/github/amazon/Masters+of+Horror)
+## 26. [Masters of Horror](https://serp.ly/amazon/Masters+of+Horror)
 
 ![Masters of Horror](https://image.tmdb.org/t/p/original/w1tden0EUaHXFcX9G3PkAhjX9yq.jpg)
 
@@ -1003,7 +1003,7 @@ Val Lewton left an indelible mark on 1940s horror filmmography as a producer who
 <hr>
 
 
-## 27. [Temple of Film: 100 Years of the Egyptian Theatre](https://serp.ly/@serpmedia/github/amazon/Temple+of+Film%3A+100+Years+of+the+Egyptian+Theatre)
+## 27. [Temple of Film: 100 Years of the Egyptian Theatre](https://serp.ly/amazon/Temple+of+Film%3A+100+Years+of+the+Egyptian+Theatre)
 
 ![Temple of Film: 100 Years of the Egyptian Theatre](https://image.tmdb.org/t/p/original/rlaLCfH8w4VNmbRK56UobLN6j7l.jpg)
 
@@ -1037,7 +1037,7 @@ Val Lewton left an indelible mark on 1940s horror filmmography as a producer who
 <hr>
 
 
-## 28. [Horror Europa with Mark Gatiss](https://serp.ly/@serpmedia/github/amazon/Horror+Europa+with+Mark+Gatiss)
+## 28. [Horror Europa with Mark Gatiss](https://serp.ly/amazon/Horror+Europa+with+Mark+Gatiss)
 
 ![Horror Europa with Mark Gatiss](https://image.tmdb.org/t/p/original/wz68n1kn91WNIegNy6LHOD8iReS.jpg)
 
@@ -1071,7 +1071,7 @@ Join actor and writer Mark Gatiss as he explores the evolution of European horro
 <hr>
 
 
-## 29. [Hellboy: In Service of the Demon](https://serp.ly/@serpmedia/github/amazon/Hellboy%3A+In+Service+of+the+Demon)
+## 29. [Hellboy: In Service of the Demon](https://serp.ly/amazon/Hellboy%3A+In+Service+of+the+Demon)
 
 ![Hellboy: In Service of the Demon](https://image.tmdb.org/t/p/original/AkXG0RTpa2qOKvsqd2ZyRzOq1xY.jpg)
 
@@ -1105,7 +1105,7 @@ Join actor and writer Mark Gatiss as he explores the evolution of European horro
 <hr>
 
 
-## 30. [Hideo Kojima: Connecting Worlds](https://serp.ly/@serpmedia/github/amazon/Hideo+Kojima%3A+Connecting+Worlds)
+## 30. [Hideo Kojima: Connecting Worlds](https://serp.ly/amazon/Hideo+Kojima%3A+Connecting+Worlds)
 
 ![Hideo Kojima: Connecting Worlds](https://image.tmdb.org/t/p/original/zRE0oHu3L0AceA80SGgHjic5OZA.jpg)
 
@@ -1143,7 +1143,7 @@ A visionary journey into the creation of Death Stranding.
 <hr>
 
 
-## 31. [Making Apes: The Artists Who Changed Film](https://serp.ly/@serpmedia/github/amazon/Making+Apes%3A+The+Artists+Who+Changed+Film)
+## 31. [Making Apes: The Artists Who Changed Film](https://serp.ly/amazon/Making+Apes%3A+The+Artists+Who+Changed+Film)
 
 ![Making Apes: The Artists Who Changed Film](https://image.tmdb.org/t/p/original/bGoymiD9FN4MCzlW0TWcLQyv7yf.jpg)
 
@@ -1177,7 +1177,7 @@ Travel back to the dawn of special effects filmmaking with the artists who broug
 <hr>
 
 
-## 32. [Dario Argento: Panico](https://serp.ly/@serpmedia/github/amazon/Dario+Argento%3A+Panico)
+## 32. [Dario Argento: Panico](https://serp.ly/amazon/Dario+Argento%3A+Panico)
 
 ![Dario Argento: Panico](https://image.tmdb.org/t/p/original/z577Zg9AEFxGkoRtkJMGf3zbOBv.jpg)
 
@@ -1213,7 +1213,7 @@ Fear is for beginners.
 <hr>
 
 
-## 33. [Hellboy: The Seeds of Creation](https://serp.ly/@serpmedia/github/amazon/Hellboy%3A+The+Seeds+of+Creation)
+## 33. [Hellboy: The Seeds of Creation](https://serp.ly/amazon/Hellboy%3A+The+Seeds+of+Creation)
 
 ![Hellboy: The Seeds of Creation](https://image.tmdb.org/t/p/original/358FTzyn2TusjvdqoW0lLMr7KTY.jpg)
 
@@ -1247,7 +1247,7 @@ Fear is for beginners.
 <hr>
 
 
-## 34. [The Master's Touch: Hitchcock's Signature Style](https://serp.ly/@serpmedia/github/amazon/The+Master%27s+Touch%3A+Hitchcock%27s+Signature+Style)
+## 34. [The Master's Touch: Hitchcock's Signature Style](https://serp.ly/amazon/The+Master%27s+Touch%3A+Hitchcock%27s+Signature+Style)
 
 ![The Master's Touch: Hitchcock's Signature Style](https://image.tmdb.org/t/p/original/7QTaP26SdN82XLVtGkpD03drkCP.jpg)
 
@@ -1281,7 +1281,7 @@ Fear is for beginners.
 <hr>
 
 
-## 35. [Boris Karloff: The Man Behind the Monster](https://serp.ly/@serpmedia/github/amazon/Boris+Karloff%3A+The+Man+Behind+the+Monster)
+## 35. [Boris Karloff: The Man Behind the Monster](https://serp.ly/amazon/Boris+Karloff%3A+The+Man+Behind+the+Monster)
 
 ![Boris Karloff: The Man Behind the Monster](https://image.tmdb.org/t/p/original/sJn0hZlsvML7aJz8Aj3HIftKIck.jpg)
 
@@ -1315,7 +1315,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 36. [The Digital Artistry of Pacific Rim](https://serp.ly/@serpmedia/github/amazon/The+Digital+Artistry+of+Pacific+Rim)
+## 36. [The Digital Artistry of Pacific Rim](https://serp.ly/amazon/The+Digital+Artistry+of+Pacific+Rim)
 
 ![The Digital Artistry of Pacific Rim](https://image.tmdb.org/t/p/original/7lIG7uIsNUARbARTuVOTP1Mm0mj.jpg)
 
@@ -1349,7 +1349,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 37. [The Giant's Dream: The Making of the Iron Giant](https://serp.ly/@serpmedia/github/amazon/The+Giant%27s+Dream%3A+The+Making+of+the+Iron+Giant)
+## 37. [The Giant's Dream: The Making of the Iron Giant](https://serp.ly/amazon/The+Giant%27s+Dream%3A+The+Making+of+the+Iron+Giant)
 
 ![The Giant's Dream: The Making of the Iron Giant](https://image.tmdb.org/t/p/original/9j6EoJP7ZL4KmWQSGWLz7GW4xM1.jpg)
 
@@ -1383,7 +1383,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 38. [Que es un Fantasma?: The Making of 'The Devil's Backbone'](https://serp.ly/@serpmedia/github/amazon/Que+es+un+Fantasma%3F%3A+The+Making+of+%27The+Devil%27s+Backbone%27)
+## 38. [Que es un Fantasma?: The Making of 'The Devil's Backbone'](https://serp.ly/amazon/Que+es+un+Fantasma%3F%3A+The+Making+of+%27The+Devil%27s+Backbone%27)
 
 ![Que es un Fantasma?: The Making of 'The Devil's Backbone'](https://image.tmdb.org/t/p/original/lauLEU0X2g38Q4ZujzrFgF9jYww.jpg)
 
@@ -1414,7 +1414,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 39. [Starz Inside: Comic Books Unbound](https://serp.ly/@serpmedia/github/amazon/Starz+Inside%3A+Comic+Books+Unbound)
+## 39. [Starz Inside: Comic Books Unbound](https://serp.ly/amazon/Starz+Inside%3A+Comic+Books+Unbound)
 
 ![Starz Inside: Comic Books Unbound](https://image.tmdb.org/t/p/original/ksYysbC6iUIQSRqztszT5Xpumj5.jpg)
 
@@ -1448,7 +1448,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 40. [The Light and Dark of Crimson Peak](https://serp.ly/@serpmedia/github/amazon/The+Light+and+Dark+of+Crimson+Peak)
+## 40. [The Light and Dark of Crimson Peak](https://serp.ly/amazon/The+Light+and+Dark+of+Crimson+Peak)
 
 ![The Light and Dark of Crimson Peak](https://image.tmdb.org/t/p/original/e6F0zHjAy7U0qiH37S2AvhzSPdv.jpg)
 
@@ -1481,7 +1481,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 41. [El último truco](https://serp.ly/@serpmedia/github/amazon/El+%C3%BAltimo+truco)
+## 41. [El último truco](https://serp.ly/amazon/El+%C3%BAltimo+truco)
 
 ![El último truco](https://image.tmdb.org/t/p/original/7zbhCfLJ4CBrRTH5Y0BypUB4mHl.jpg)
 
@@ -1515,7 +1515,7 @@ Beginning just before his debut as Frankenstein's creation, this documentary exp
 <hr>
 
 
-## 42. [In the Master's Shadow: Hitchcock's Legacy](https://serp.ly/@serpmedia/github/amazon/In+the+Master%27s+Shadow%3A+Hitchcock%27s+Legacy)
+## 42. [In the Master's Shadow: Hitchcock's Legacy](https://serp.ly/amazon/In+the+Master%27s+Shadow%3A+Hitchcock%27s+Legacy)
 
 ![In the Master's Shadow: Hitchcock's Legacy](https://image.tmdb.org/t/p/original/zEUSIdPRipZUAfV9ClgWju40u8E.jpg)
 
@@ -1549,7 +1549,7 @@ Alfred Hitchcock casts a long shadow over the world of cinema, influencing gener
 <hr>
 
 
-## 43. [Saul Bass: Title Champ](https://serp.ly/@serpmedia/github/amazon/Saul+Bass%3A+Title+Champ)
+## 43. [Saul Bass: Title Champ](https://serp.ly/amazon/Saul+Bass%3A+Title+Champ)
 
 ![Saul Bass: Title Champ](https://image.tmdb.org/t/p/original/oXQmIQySdbMDLQcHwOXcwnmjB9Z.jpg)
 
@@ -1583,7 +1583,7 @@ Saul Bass: Title Champ is a documentary that celebrates the work of graphic desi
 <hr>
 
 
-## 44. [North by Northwest: One for the Ages](https://serp.ly/@serpmedia/github/amazon/North+by+Northwest%3A+One+for+the+Ages)
+## 44. [North by Northwest: One for the Ages](https://serp.ly/amazon/North+by+Northwest%3A+One+for+the+Ages)
 
 ![North by Northwest: One for the Ages](https://image.tmdb.org/t/p/original/o7S8EpgfHZ910kYprN04V0zPD6y.jpg)
 
@@ -1617,7 +1617,7 @@ Saul Bass: Title Champ is a documentary that celebrates the work of graphic desi
 <hr>
 
 
-## 45. [I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón](https://serp.ly/@serpmedia/github/amazon/I%27m+No+Longer+Here%3A+A+Discussion+with+Guillermo+del+Toro+and+Alfonso+Cuar%C3%B3n)
+## 45. [I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón](https://serp.ly/amazon/I%27m+No+Longer+Here%3A+A+Discussion+with+Guillermo+del+Toro+and+Alfonso+Cuar%C3%B3n)
 
 ![I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuarón](https://image.tmdb.org/t/p/original/9BWxL6O64eRfEYIYL8fezu2A4F8.jpg)
 
@@ -1648,7 +1648,7 @@ Saul Bass: Title Champ is a documentary that celebrates the work of graphic desi
 <hr>
 
 
-## 46. [Pan and the Fairies](https://serp.ly/@serpmedia/github/amazon/Pan+and+the+Fairies)
+## 46. [Pan and the Fairies](https://serp.ly/amazon/Pan+and+the+Fairies)
 
 ![Pan and the Fairies](https://image.tmdb.org/t/p/original/c6E7cUreZkTrMJssosRX30trVqC.jpg)
 
@@ -1679,7 +1679,7 @@ Saul Bass: Title Champ is a documentary that celebrates the work of graphic desi
 <hr>
 
 
-## 47. [The Color and the Shape](https://serp.ly/@serpmedia/github/amazon/The+Color+and+the+Shape)
+## 47. [The Color and the Shape](https://serp.ly/amazon/The+Color+and+the+Shape)
 
 ![The Color and the Shape](https://image.tmdb.org/t/p/original/boRQU4OnJ3Vd7L0OyEo9dWQi8SM.jpg)
 
@@ -1710,7 +1710,7 @@ Saul Bass: Title Champ is a documentary that celebrates the work of graphic desi
 <hr>
 
 
-## 48. [Clapboard Jungle](https://serp.ly/@serpmedia/github/amazon/Clapboard+Jungle)
+## 48. [Clapboard Jungle](https://serp.ly/amazon/Clapboard+Jungle)
 
 ![Clapboard Jungle](https://image.tmdb.org/t/p/original/yBcE3L2jpmOVoIbVkljhlaYX1GK.jpg)
 
@@ -1746,7 +1746,7 @@ Independent filmmaker Justin McConnell takes us on a behind-the-scenes journey t
 <hr>
 
 
-## 49. [The Melody Echoes the Fairy Tale](https://serp.ly/@serpmedia/github/amazon/The+Melody+Echoes+the+Fairy+Tale)
+## 49. [The Melody Echoes the Fairy Tale](https://serp.ly/amazon/The+Melody+Echoes+the+Fairy+Tale)
 
 <br>
 
@@ -1775,7 +1775,7 @@ Independent filmmaker Justin McConnell takes us on a behind-the-scenes journey t
 <hr>
 
 
-## 50. [Bullfighter](https://serp.ly/@serpmedia/github/amazon/Bullfighter)
+## 50. [Bullfighter](https://serp.ly/amazon/Bullfighter)
 
 ![Bullfighter](https://image.tmdb.org/t/p/original/405bmSwM8r3Jo63tB0saG4sX4F5.jpg)
 
@@ -1813,7 +1813,7 @@ Jack, a wanderer with a passion for bullfighting, leads an interesting but peace
 <hr>
 
 
-## 51. [Metal Gear Solid: Legacy](https://serp.ly/@serpmedia/github/amazon/Metal+Gear+Solid%3A+Legacy)
+## 51. [Metal Gear Solid: Legacy](https://serp.ly/amazon/Metal+Gear+Solid%3A+Legacy)
 
 ![Metal Gear Solid: Legacy](https://image.tmdb.org/t/p/original/hPUQNsjYQsBJxFSe1Dq3bM743Bf.jpg)
 
@@ -1847,7 +1847,7 @@ Jack, a wanderer with a passion for bullfighting, leads an interesting but peace
 <hr>
 
 
-## 52. [The Masterpiece That Almost Wasn't](https://serp.ly/@serpmedia/github/amazon/The+Masterpiece+That+Almost+Wasn%27t)
+## 52. [The Masterpiece That Almost Wasn't](https://serp.ly/amazon/The+Masterpiece+That+Almost+Wasn%27t)
 
 ![The Masterpiece That Almost Wasn't](https://image.tmdb.org/t/p/original/AddlT7WXb8YUbd4HLt7QvRCGIa6.jpg)
 
@@ -1881,7 +1881,7 @@ Jack, a wanderer with a passion for bullfighting, leads an interesting but peace
 <hr>
 
 
-## 53. [The Power of Myth](https://serp.ly/@serpmedia/github/amazon/The+Power+of+Myth)
+## 53. [The Power of Myth](https://serp.ly/amazon/The+Power+of+Myth)
 
 ![The Power of Myth](https://image.tmdb.org/t/p/original/7C6AyqrBFYwPqFAZHZXni3i0M25.jpg)
 
@@ -1915,7 +1915,7 @@ The 15-minute documentary "The Power of Myth" examines the mythical foundations 
 <hr>
 
 
-## 54. [I Remember Crimson Peak](https://serp.ly/@serpmedia/github/amazon/I+Remember+Crimson+Peak)
+## 54. [I Remember Crimson Peak](https://serp.ly/amazon/I+Remember+Crimson+Peak)
 
 ![I Remember Crimson Peak](https://image.tmdb.org/t/p/original/wc2jWnND1meeIYUDVqde9fuN8Zq.jpg)
 
@@ -1946,7 +1946,7 @@ The 15-minute documentary "The Power of Myth" examines the mythical foundations 
 <hr>
 
 
-## 55. [A Living Thing](https://serp.ly/@serpmedia/github/amazon/A+Living+Thing)
+## 55. [A Living Thing](https://serp.ly/amazon/A+Living+Thing)
 
 ![A Living Thing](https://image.tmdb.org/t/p/original/b2kq3NcK4SvwZ9b9VAGiDVLKCew.jpg)
 
@@ -1977,7 +1977,7 @@ The 15-minute documentary "The Power of Myth" examines the mythical foundations 
 <hr>
 
 
-## 56. [Boris Karloff: The Rest of the Story](https://serp.ly/@serpmedia/github/amazon/Boris+Karloff%3A+The+Rest+of+the+Story)
+## 56. [Boris Karloff: The Rest of the Story](https://serp.ly/amazon/Boris+Karloff%3A+The+Rest+of+the+Story)
 
 <br>
 
@@ -2006,7 +2006,7 @@ Boris Karloff: The Rest of the Story explores the legendary actor's work from 19
 <hr>
 
 
-## 57. [Crimson Phantoms](https://serp.ly/@serpmedia/github/amazon/Crimson+Phantoms)
+## 57. [Crimson Phantoms](https://serp.ly/amazon/Crimson+Phantoms)
 
 ![Crimson Phantoms](https://image.tmdb.org/t/p/original/eB5J53hLjcb3ISfep6aLMWFV6JF.jpg)
 
@@ -2037,7 +2037,7 @@ Boris Karloff: The Rest of the Story explores the legendary actor's work from 19
 <hr>
 
 
-## 58. [Drew Struzan: An Appreciation of An Artist](https://serp.ly/@serpmedia/github/amazon/Drew+Struzan%3A+An+Appreciation+of+An+Artist)
+## 58. [Drew Struzan: An Appreciation of An Artist](https://serp.ly/amazon/Drew+Struzan%3A+An+Appreciation+of+An+Artist)
 
 ![Drew Struzan: An Appreciation of An Artist](https://image.tmdb.org/t/p/original/ssaYsVtqDPzwvKr5v6p409Yj3xp.jpg)
 
@@ -2071,7 +2071,7 @@ Boris Karloff: The Rest of the Story explores the legendary actor's work from 19
 <hr>
 
 
-## 59. [Men in Suits](https://serp.ly/@serpmedia/github/amazon/Men+in+Suits)
+## 59. [Men in Suits](https://serp.ly/amazon/Men+in+Suits)
 
 ![Men in Suits](https://image.tmdb.org/t/p/original/BgzFIoFtHMHkTurrc78aCTsBSi.jpg)
 
@@ -2107,7 +2107,7 @@ A Wyrd Documentary
 <hr>
 
 
-## 60. [Edith Head: Dressing the Master's Movies](https://serp.ly/@serpmedia/github/amazon/Edith+Head%3A+Dressing+the+Master%27s+Movies)
+## 60. [Edith Head: Dressing the Master's Movies](https://serp.ly/amazon/Edith+Head%3A+Dressing+the+Master%27s+Movies)
 
 ![Edith Head: Dressing the Master's Movies](https://image.tmdb.org/t/p/original/pD7XLwdsZIZSpWHjNL2mjw45l4.jpg)
 
@@ -2143,7 +2143,7 @@ For over five decades, Edith Head's costumes helped define not only the style of
 <hr>
 
 
-## 61. [Bloody And Groovy Baby! A Tribute to Sam Raimi's Evil Dead 2](https://serp.ly/@serpmedia/github/amazon/Bloody+And+Groovy+Baby%21+A+Tribute+to+Sam+Raimi%27s+Evil+Dead+2)
+## 61. [Bloody And Groovy Baby! A Tribute to Sam Raimi's Evil Dead 2](https://serp.ly/amazon/Bloody+And+Groovy+Baby%21+A+Tribute+to+Sam+Raimi%27s+Evil+Dead+2)
 
 ![Bloody And Groovy Baby! A Tribute to Sam Raimi's Evil Dead 2](https://image.tmdb.org/t/p/original/2KdBZSuRAgAPj8xtH9wMe71AXrQ.jpg)
 
@@ -2174,7 +2174,7 @@ For over five decades, Edith Head's costumes helped define not only the style of
 <hr>
 
 
-## 62. [Zombie Lover](https://serp.ly/@serpmedia/github/amazon/Zombie+Lover)
+## 62. [Zombie Lover](https://serp.ly/amazon/Zombie+Lover)
 
 <br>
 
@@ -2200,7 +2200,7 @@ For over five decades, Edith Head's costumes helped define not only the style of
 <hr>
 
 
-## 63. [Bernard Herrmann: Hitchcock's Maestro](https://serp.ly/@serpmedia/github/amazon/Bernard+Herrmann%3A+Hitchcock%27s+Maestro)
+## 63. [Bernard Herrmann: Hitchcock's Maestro](https://serp.ly/amazon/Bernard+Herrmann%3A+Hitchcock%27s+Maestro)
 
 ![Bernard Herrmann: Hitchcock's Maestro](https://image.tmdb.org/t/p/original/c9Nt28vKuXAN6B9Hj0EyWFXlILY.jpg)
 
@@ -2231,7 +2231,7 @@ Alfred Hitchcock and Bernard Herrmann revolutionized film scoring through their 
 <hr>
 
 
-## 64. [07 Spaceys](https://serp.ly/@serpmedia/github/amazon/07+Spaceys)
+## 64. [07 Spaceys](https://serp.ly/amazon/07+Spaceys)
 
 ![07 Spaceys](https://image.tmdb.org/t/p/original/7koSNa4fMTBCabwnikql3RKk5Tt.jpg)
 
@@ -2262,7 +2262,7 @@ Alfred Hitchcock and Bernard Herrmann revolutionized film scoring through their 
 <hr>
 
 
-## 65. [George Pal: Un Marciano De Hollywood En Argentina](https://serp.ly/@serpmedia/github/amazon/George+Pal%3A+Un+Marciano+De+Hollywood+En+Argentina)
+## 65. [George Pal: Un Marciano De Hollywood En Argentina](https://serp.ly/amazon/George+Pal%3A+Un+Marciano+De+Hollywood+En+Argentina)
 
 ![George Pal: Un Marciano De Hollywood En Argentina](https://image.tmdb.org/t/p/original/eVOZNgo8d5XKw74Nu1hoeUSS4UD.jpg)
 
@@ -2287,7 +2287,7 @@ Alfred Hitchcock and Bernard Herrmann revolutionized film scoring through their 
 <hr>
 
 
-## 66. [Hand Tailored Gothic](https://serp.ly/@serpmedia/github/amazon/Hand+Tailored+Gothic)
+## 66. [Hand Tailored Gothic](https://serp.ly/amazon/Hand+Tailored+Gothic)
 
 ![Hand Tailored Gothic](https://image.tmdb.org/t/p/original/b2kq3NcK4SvwZ9b9VAGiDVLKCew.jpg)
 
@@ -2315,7 +2315,7 @@ Alfred Hitchcock and Bernard Herrmann revolutionized film scoring through their 
 <hr>
 
 
-## 67. [Guillermo del Toro Interviews Paul Williams](https://serp.ly/@serpmedia/github/amazon/Guillermo+del+Toro+Interviews+Paul+Williams)
+## 67. [Guillermo del Toro Interviews Paul Williams](https://serp.ly/amazon/Guillermo+del+Toro+Interviews+Paul+Williams)
 
 ![Guillermo del Toro Interviews Paul Williams](https://image.tmdb.org/t/p/original/uAfFPg8wNply0srFK93EGNCxUo7.jpg)
 
@@ -2343,7 +2343,7 @@ This 2014 interview brings together director Guillermo del Toro and actor-compos
 <hr>
 
 
-## 68. [When Romero Met Del Toro](https://serp.ly/@serpmedia/github/amazon/When+Romero+Met+Del+Toro)
+## 68. [When Romero Met Del Toro](https://serp.ly/amazon/When+Romero+Met+Del+Toro)
 
 <br>
 
@@ -2369,7 +2369,7 @@ This 2014 interview brings together director Guillermo del Toro and actor-compos
 <hr>
 
 
-## 69. [Spanish Gothic](https://serp.ly/@serpmedia/github/amazon/Spanish+Gothic)
+## 69. [Spanish Gothic](https://serp.ly/amazon/Spanish+Gothic)
 
 ![Spanish Gothic](https://image.tmdb.org/t/p/original/9hI0ulnySgMvk7qVpvDYPAjjHyw.jpg)
 
@@ -2397,7 +2397,7 @@ In this 2010 interview, writer-director Guillermo del Toro discusses the dark fa
 <hr>
 
 
-## 70. [Pure Cinema: Through the Eyes of Hitchcock](https://serp.ly/@serpmedia/github/amazon/Pure+Cinema%3A+Through+the+Eyes+of+Hitchcock)
+## 70. [Pure Cinema: Through the Eyes of Hitchcock](https://serp.ly/amazon/Pure+Cinema%3A+Through+the+Eyes+of+Hitchcock)
 
 ![Pure Cinema: Through the Eyes of Hitchcock](https://image.tmdb.org/t/p/original/bfPjJLkaSDGCUX57AzyGjp14q7B.jpg)
 
@@ -2430,7 +2430,7 @@ Alfred Hitchcock pioneered "pure cinema," a filmmaking style that masterfully co
 <hr>
 
 
-## 71. [The House Is Alive: Constructing 'Crimson Peak'](https://serp.ly/@serpmedia/github/amazon/The+House+Is+Alive%3A+Constructing+%27Crimson+Peak%27)
+## 71. [The House Is Alive: Constructing 'Crimson Peak'](https://serp.ly/amazon/The+House+Is+Alive%3A+Constructing+%27Crimson+Peak%27)
 
 ![The House Is Alive: Constructing 'Crimson Peak'](https://image.tmdb.org/t/p/original/nxhULjfKgIAxYpWZ3tn5eWStPPp.jpg)
 
@@ -2458,7 +2458,7 @@ Alfred Hitchcock pioneered "pure cinema," a filmmaking style that masterfully co
 <hr>
 
 
-## 72. [Deck-A-Rep: The True Nature of Rick Deckard](https://serp.ly/@serpmedia/github/amazon/Deck-A-Rep%3A+The+True+Nature+of+Rick+Deckard)
+## 72. [Deck-A-Rep: The True Nature of Rick Deckard](https://serp.ly/amazon/Deck-A-Rep%3A+The+True+Nature+of+Rick+Deckard)
 
 ![Deck-A-Rep: The True Nature of Rick Deckard](https://image.tmdb.org/t/p/original/49dfDzLRj8KZslHs8RXZMzFh1OJ.jpg)
 
@@ -2489,7 +2489,7 @@ Alfred Hitchcock pioneered "pure cinema," a filmmaking style that masterfully co
 <hr>
 
 
-## 73. [Light in the Darkness](https://serp.ly/@serpmedia/github/amazon/Light+in+the+Darkness)
+## 73. [Light in the Darkness](https://serp.ly/amazon/Light+in+the+Darkness)
 
 <br>
 
@@ -2515,7 +2515,7 @@ Alfred Hitchcock pioneered "pure cinema," a filmmaking style that masterfully co
 <hr>
 
 
-## 74. [Fasten Your Seatbelt: The Thrilling Art of Alfred Hitchcock](https://serp.ly/@serpmedia/github/amazon/Fasten+Your+Seatbelt%3A+The+Thrilling+Art+of+Alfred+Hitchcock)
+## 74. [Fasten Your Seatbelt: The Thrilling Art of Alfred Hitchcock](https://serp.ly/amazon/Fasten+Your+Seatbelt%3A+The+Thrilling+Art+of+Alfred+Hitchcock)
 
 <br>
 
@@ -2544,7 +2544,7 @@ Alfred Hitchcock pioneered "pure cinema," a filmmaking style that masterfully co
 <hr>
 
 
-## 75. [Surrealistic Nightmares: An In-depth Look at Walloon Horror Cinema](https://serp.ly/@serpmedia/github/amazon/Surrealistic+Nightmares%3A+An+In-depth+Look+at+Walloon+Horror+Cinema)
+## 75. [Surrealistic Nightmares: An In-depth Look at Walloon Horror Cinema](https://serp.ly/amazon/Surrealistic+Nightmares%3A+An+In-depth+Look+at+Walloon+Horror+Cinema)
 
 ![Surrealistic Nightmares: An In-depth Look at Walloon Horror Cinema](https://image.tmdb.org/t/p/original/5VxpwVlONXgGrZ6dfpDfwZlaMc.jpg)
 
@@ -2572,7 +2572,7 @@ This documentary dives into the dark heart of Walloon horror cinema, tracing its
 <hr>
 
 
-## 76. [Nexus Generation: Fans & Filmmakers](https://serp.ly/@serpmedia/github/amazon/Nexus+Generation%3A+Fans+%26+Filmmakers)
+## 76. [Nexus Generation: Fans & Filmmakers](https://serp.ly/amazon/Nexus+Generation%3A+Fans+%26+Filmmakers)
 
 <br>
 
@@ -2601,7 +2601,7 @@ This documentary dives into the dark heart of Walloon horror cinema, tracing its
 <hr>
 
 
-## 77. [Mike Mignola: Drawing Monsters](https://serp.ly/@serpmedia/github/amazon/Mike+Mignola%3A+Drawing+Monsters)
+## 77. [Mike Mignola: Drawing Monsters](https://serp.ly/amazon/Mike+Mignola%3A+Drawing+Monsters)
 
 ![Mike Mignola: Drawing Monsters](https://image.tmdb.org/t/p/original/u7WodL9oK3jL1qndrJVefRcojK3.jpg)
 
@@ -2634,7 +2634,7 @@ From inking Marvel Comics to creating Hellboy, this documentary follows Mike Mig
 <hr>
 
 
-## 78. [Guillermo del Toro: Un director y su Oscar](https://serp.ly/@serpmedia/github/amazon/Guillermo+del+Toro%3A+Un+director+y+su+Oscar)
+## 78. [Guillermo del Toro: Un director y su Oscar](https://serp.ly/amazon/Guillermo+del+Toro%3A+Un+director+y+su+Oscar)
 
 ![Guillermo del Toro: Un director y su Oscar](https://image.tmdb.org/t/p/original/zFcNjfuuCdIvTaLhzyk3MfcFm0y.jpg)
 
@@ -2662,7 +2662,7 @@ From inking Marvel Comics to creating Hellboy, this documentary follows Mike Mig
 <hr>
 
 
-## 1. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 1. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -2704,7 +2704,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 2. [It's Always Sunny in Philadelphia](https://serp.ly/@serpmedia/github/amazon/It%27s+Always+Sunny+in+Philadelphia)
+## 2. [It's Always Sunny in Philadelphia](https://serp.ly/amazon/It%27s+Always+Sunny+in+Philadelphia)
 
 ![It's Always Sunny in Philadelphia](https://image.tmdb.org/t/p/original/pRWO6ufqSNkWvPXDDQhBwPNSv4K.jpg)
 
@@ -2750,7 +2750,7 @@ Four self-centered friends operate an Irish pub in Philadelphia, where their per
 <hr>
 
 
-## 3. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 3. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -2796,7 +2796,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 4. [Close Up with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Close+Up+with+The+Hollywood+Reporter)
+## 4. [Close Up with The Hollywood Reporter](https://serp.ly/amazon/Close+Up+with+The+Hollywood+Reporter)
 
 ![Close Up with The Hollywood Reporter](https://image.tmdb.org/t/p/original/h7X59O3T4VWVAUzZ00LEpbwA3GP.jpg)
 
@@ -2838,7 +2838,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 5. [Guillermo del Toro's Cabinet of Curiosities](https://serp.ly/@serpmedia/github/amazon/Guillermo+del+Toro%27s+Cabinet+of+Curiosities)
+## 5. [Guillermo del Toro's Cabinet of Curiosities](https://serp.ly/amazon/Guillermo+del+Toro%27s+Cabinet+of+Curiosities)
 
 ![Guillermo del Toro's Cabinet of Curiosities](https://image.tmdb.org/t/p/original/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg)
 
@@ -2884,7 +2884,7 @@ Open your mind to fear.
 <hr>
 
 
-## 6. [Barry](https://serp.ly/@serpmedia/github/amazon/Barry)
+## 6. [Barry](https://serp.ly/amazon/Barry)
 
 ![Barry](https://image.tmdb.org/t/p/original/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg)
 
@@ -2928,7 +2928,7 @@ A hitman searching for some direction.
 <hr>
 
 
-## 7. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 7. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2972,7 +2972,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 8. [Alfred Hitchcock Presents](https://serp.ly/@serpmedia/github/amazon/Alfred+Hitchcock+Presents)
+## 8. [Alfred Hitchcock Presents](https://serp.ly/amazon/Alfred+Hitchcock+Presents)
 
 ![Alfred Hitchcock Presents](https://image.tmdb.org/t/p/original/ko0h8oz2bC1NWnhcuMnvNVDpfJj.jpg)
 
@@ -3014,7 +3014,7 @@ Alfred Hitchcock Presents is a television anthology series that aired from 1955 
 <hr>
 
 
-## 9. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 9. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -3058,7 +3058,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 10. [James Cameron's Story of Science Fiction](https://serp.ly/@serpmedia/github/amazon/James+Cameron%27s+Story+of+Science+Fiction)
+## 10. [James Cameron's Story of Science Fiction](https://serp.ly/amazon/James+Cameron%27s+Story+of+Science+Fiction)
 
 ![James Cameron's Story of Science Fiction](https://image.tmdb.org/t/p/original/qhanotOZnOdgmCZonug5anT0mFo.jpg)
 
@@ -3102,7 +3102,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 11. [Five Came Back](https://serp.ly/@serpmedia/github/amazon/Five+Came+Back)
+## 11. [Five Came Back](https://serp.ly/amazon/Five+Came+Back)
 
 ![Five Came Back](https://image.tmdb.org/t/p/original/lQI1J0MvFmB6pREOyyBaAQpuSAE.jpg)
 
@@ -3144,7 +3144,7 @@ When five legendary Hollywood filmmakers traded their cameras for military unifo
 <hr>
 
 
-## 12. [The Game Awards](https://serp.ly/@serpmedia/github/amazon/The+Game+Awards)
+## 12. [The Game Awards](https://serp.ly/amazon/The+Game+Awards)
 
 <br>
 
@@ -3186,7 +3186,7 @@ The Game Awards is an annual celebration of video game excellence, featuring pre
 <hr>
 
 
-## 13. [The Director's Chair](https://serp.ly/@serpmedia/github/amazon/The+Director%27s+Chair)
+## 13. [The Director's Chair](https://serp.ly/amazon/The+Director%27s+Chair)
 
 ![The Director's Chair](https://image.tmdb.org/t/p/original/9G7qbDe5KgFQDDDFbjPWFQAIJpq.jpg)
 
@@ -3228,7 +3228,7 @@ When Robert Rodriguez pulls up a chair next to the industry's most iconic direct
 <hr>
 
 
-## 14. [HypaSpace](https://serp.ly/@serpmedia/github/amazon/HypaSpace)
+## 14. [HypaSpace](https://serp.ly/amazon/HypaSpace)
 
 <br>
 
@@ -3268,7 +3268,7 @@ When Robert Rodriguez pulls up a chair next to the industry's most iconic direct
 <hr>
 
 
-## 15. [Elvis Goes There](https://serp.ly/@serpmedia/github/amazon/Elvis+Goes+There)
+## 15. [Elvis Goes There](https://serp.ly/amazon/Elvis+Goes+There)
 
 ![Elvis Goes There](https://image.tmdb.org/t/p/original/pJkkG0NeEJ5fpk3jgJGY0UMXpFY.jpg)
 

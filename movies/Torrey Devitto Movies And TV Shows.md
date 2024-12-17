@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Rite](https://serp.ly/@serpmedia/github/amazon/The+Rite)
+## 1. [The Rite](https://serp.ly/amazon/The+Rite)
 
 ![The Rite](https://image.tmdb.org/t/p/original/gRTxM95huMwIDfZBJWjuifMTfpx.jpg)
 
@@ -80,7 +80,7 @@ Seminary student Michael Kovak reluctantly attends exorcism school at the Vatica
 <hr>
 
 
-## 2. [I'll Always Know What You Did Last Summer](https://serp.ly/@serpmedia/github/amazon/I%27ll+Always+Know+What+You+Did+Last+Summer)
+## 2. [I'll Always Know What You Did Last Summer](https://serp.ly/amazon/I%27ll+Always+Know+What+You+Did+Last+Summer)
 
 ![I'll Always Know What You Did Last Summer](https://image.tmdb.org/t/p/original/ip4DPTH7uLd8RVEor472WyvlFTY.jpg)
 
@@ -116,7 +116,7 @@ In a small Colorado town, several teenagers plan a July 4th prank based on a loc
 <hr>
 
 
-## 3. [Evidence](https://serp.ly/@serpmedia/github/amazon/Evidence)
+## 3. [Evidence](https://serp.ly/amazon/Evidence)
 
 ![Evidence](https://image.tmdb.org/t/p/original/zzn5LpCBVz0f3zBnthFo67kRWS5.jpg)
 
@@ -152,7 +152,7 @@ Murder is his art
 <hr>
 
 
-## 4. [Write Before Christmas](https://serp.ly/@serpmedia/github/amazon/Write+Before+Christmas)
+## 4. [Write Before Christmas](https://serp.ly/amazon/Write+Before+Christmas)
 
 ![Write Before Christmas](https://image.tmdb.org/t/p/original/m0FxtQ8xMGGEXDrIKCg9UjPEuyk.jpg)
 
@@ -186,7 +186,7 @@ When Jessica's recent breakup leaves her feeling unmoored, she channels her emot
 <hr>
 
 
-## 5. [Killer Movie](https://serp.ly/@serpmedia/github/amazon/Killer+Movie)
+## 5. [Killer Movie](https://serp.ly/amazon/Killer+Movie)
 
 ![Killer Movie](https://image.tmdb.org/t/p/original/fhZNX8SCvtrrTfh8NV5EgtZC9d0.jpg)
 
@@ -224,7 +224,7 @@ Fear Reality.
 <hr>
 
 
-## 6. [Best Christmas Party Ever](https://serp.ly/@serpmedia/github/amazon/Best+Christmas+Party+Ever)
+## 6. [Best Christmas Party Ever](https://serp.ly/amazon/Best+Christmas+Party+Ever)
 
 ![Best Christmas Party Ever](https://image.tmdb.org/t/p/original/agoyhbjPUsPZH7kBBK445RjingQ.jpg)
 
@@ -258,7 +258,7 @@ In this heartwarming holiday tale, a young party planner is tasked with throwing
 <hr>
 
 
-## 7. [Rip in Time](https://serp.ly/@serpmedia/github/amazon/Rip+in+Time)
+## 7. [Rip in Time](https://serp.ly/amazon/Rip+in+Time)
 
 ![Rip in Time](https://image.tmdb.org/t/p/original/fgFpbUPC4YH9TUT0Zbji8pNVYXd.jpg)
 
@@ -294,7 +294,7 @@ When organic farmer Sarah meets Rip Van Winkle Jr. , a man claiming to be from 1
 <hr>
 
 
-## 8. [Starcrossed](https://serp.ly/@serpmedia/github/amazon/Starcrossed)
+## 8. [Starcrossed](https://serp.ly/amazon/Starcrossed)
 
 ![Starcrossed](https://image.tmdb.org/t/p/original/3VSRVU1UQLcSKNg2eXvSKXpyZni.jpg)
 
@@ -330,7 +330,7 @@ In a world that threatens to tear them apart, two brothers find themselves drawn
 <hr>
 
 
-## 9. [The Christmas Promise](https://serp.ly/@serpmedia/github/amazon/The+Christmas+Promise)
+## 9. [The Christmas Promise](https://serp.ly/amazon/The+Christmas+Promise)
 
 ![The Christmas Promise](https://image.tmdb.org/t/p/original/cXLcwofSyioqmFdgya4utrt0zsd.jpg)
 
@@ -366,7 +366,7 @@ Nicole's plans for the future take an unexpected turn when her fiancé passes aw
 <hr>
 
 
-## 10. [The Real St. Nick](https://serp.ly/@serpmedia/github/amazon/The+Real+St.+Nick)
+## 10. [The Real St. Nick](https://serp.ly/amazon/The+Real+St.+Nick)
 
 ![The Real St. Nick](https://image.tmdb.org/t/p/original/5kT6brrtzpj2LTM642z0czbm91C.jpg)
 
@@ -402,7 +402,7 @@ When a severe head injury causes a man to believe he's Santa Claus, a young psyc
 <hr>
 
 
-## 11. ['Twas the Night Before Christmas](https://serp.ly/@serpmedia/github/amazon/%27Twas+the+Night+Before+Christmas)
+## 11. ['Twas the Night Before Christmas](https://serp.ly/amazon/%27Twas+the+Night+Before+Christmas)
 
 !['Twas the Night Before Christmas](https://image.tmdb.org/t/p/original/aTpIRq1CzhLiAu5zUIhVPV6cj80.jpg)
 
@@ -438,7 +438,7 @@ When a former actress takes her directorial debut to the small town of Wappinger
 <hr>
 
 
-## 12. [It Had to Be You](https://serp.ly/@serpmedia/github/amazon/It+Had+to+Be+You)
+## 12. [It Had to Be You](https://serp.ly/amazon/It+Had+to+Be+You)
 
 ![It Had to Be You](https://image.tmdb.org/t/p/original/fDiUDYSCzKH1Ff3p3iuqF6q5hiX.jpg)
 
@@ -472,7 +472,7 @@ Darby's advertising agency faces a challenging merger with a larger firm, bringi
 <hr>
 
 
-## 13. [Love's Greek to Me](https://serp.ly/@serpmedia/github/amazon/Love%27s+Greek+to+Me)
+## 13. [Love's Greek to Me](https://serp.ly/amazon/Love%27s+Greek+to+Me)
 
 ![Love's Greek to Me](https://image.tmdb.org/t/p/original/sHYBZ7V5KCudH0XbbYWpbt8uZKU.jpg)
 
@@ -508,7 +508,7 @@ When Ilana travels to Santorini with her Greek boyfriend Mike for his sister Ale
 <hr>
 
 
-## 14. [Stevie D](https://serp.ly/@serpmedia/github/amazon/Stevie+D)
+## 14. [Stevie D](https://serp.ly/amazon/Stevie+D)
 
 ![Stevie D](https://image.tmdb.org/t/p/original/d5MBlRA3AcbmjmQu6yoPaCcCzjZ.jpg)
 
@@ -542,7 +542,7 @@ When a Los Angeles construction magnate's son accidentally kills a connected man
 <hr>
 
 
-## 15. [Green Flash](https://serp.ly/@serpmedia/github/amazon/Green+Flash)
+## 15. [Green Flash](https://serp.ly/amazon/Green+Flash)
 
 ![Green Flash](https://image.tmdb.org/t/p/original/r96CwQBILZnGHsNkP7vfSuhM2nZ.jpg)
 
@@ -578,7 +578,7 @@ At 30 years old, Cameron Day has left his basketball dreams behind and embraced 
 <hr>
 
 
-## 16. [Flyby](https://serp.ly/@serpmedia/github/amazon/Flyby)
+## 16. [Flyby](https://serp.ly/amazon/Flyby)
 
 ![Flyby](https://image.tmdb.org/t/p/original/c4EInKPXP2dsrQXqrmrazpfS4IO.jpg)
 
@@ -612,7 +612,7 @@ When a nearby asteroid starts warping how people experience time, Riley Egan fin
 <hr>
 
 
-## 17. [Cheesecake Casserole](https://serp.ly/@serpmedia/github/amazon/Cheesecake+Casserole)
+## 17. [Cheesecake Casserole](https://serp.ly/amazon/Cheesecake+Casserole)
 
 ![Cheesecake Casserole](https://image.tmdb.org/t/p/original/vmip73BbbwYRt4Ysi6P3IyWw6Yh.jpg)
 
@@ -646,7 +646,7 @@ When a nearby asteroid starts warping how people experience time, Riley Egan fin
 <hr>
 
 
-## 18. [Heber Holiday](https://serp.ly/@serpmedia/github/amazon/Heber+Holiday)
+## 18. [Heber Holiday](https://serp.ly/amazon/Heber+Holiday)
 
 ![Heber Holiday](https://image.tmdb.org/t/p/original/o0g41wC4KtNlrvEjonnApdhHq24.jpg)
 
@@ -684,7 +684,7 @@ Sierra Young, a rising actress, faces an unexpected career shift when she's sent
 <hr>
 
 
-## 19. [Divertimento](https://serp.ly/@serpmedia/github/amazon/Divertimento)
+## 19. [Divertimento](https://serp.ly/amazon/Divertimento)
 
 ![Divertimento](https://image.tmdb.org/t/p/original/xxJ1FG7njAsEtrk86bOGywsJYwo.jpg)
 
@@ -718,7 +718,7 @@ Sierra Young, a rising actress, faces an unexpected career shift when she's sent
 <hr>
 
 
-## 20. [The Hoaxing](https://serp.ly/@serpmedia/github/amazon/The+Hoaxing)
+## 20. [The Hoaxing](https://serp.ly/amazon/The+Hoaxing)
 
 ![The Hoaxing](https://image.tmdb.org/t/p/original/5JyXtsUdEqqkB8eb9LcJnfcu5Mn.jpg)
 
@@ -751,7 +751,7 @@ Two artists move into a studio where gruesome murders recently took place. One h
 <hr>
 
 
-## 21. [Skelly](https://serp.ly/@serpmedia/github/amazon/Skelly)
+## 21. [Skelly](https://serp.ly/amazon/Skelly)
 
 ![Skelly](https://image.tmdb.org/t/p/original/meaNUGxHY0JmDO4AgYap5KvylFH.jpg)
 
@@ -779,7 +779,7 @@ When a young boy discovers an old skeleton in his backyard, it kicks off an thri
 <hr>
 
 
-## 1. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 1. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -821,7 +821,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 2. [Chicago P.D.](https://serp.ly/@serpmedia/github/amazon/Chicago+P.D.)
+## 2. [Chicago P.D.](https://serp.ly/amazon/Chicago+P.D.)
 
 ![Chicago P.D.](https://image.tmdb.org/t/p/original/mZObarMPF76PGVmwywQ7Ks4UFpR.jpg)
 
@@ -867,7 +867,7 @@ Welcome home.
 <hr>
 
 
-## 3. [One Tree Hill](https://serp.ly/@serpmedia/github/amazon/One+Tree+Hill)
+## 3. [One Tree Hill](https://serp.ly/amazon/One+Tree+Hill)
 
 ![One Tree Hill](https://image.tmdb.org/t/p/original/sOrelBaAhp7DZbPTivDwKEyPslC.jpg)
 
@@ -911,7 +911,7 @@ In Tree Hill, North Carolina, two half brothers share a last name but nothing el
 <hr>
 
 
-## 4. [CSI: Miami](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Miami)
+## 4. [CSI: Miami](https://serp.ly/amazon/CSI%3A+Miami)
 
 ![CSI: Miami](https://image.tmdb.org/t/p/original/pNW64pjaHvf6purNaFhq4SHYRfl.jpg)
 
@@ -953,7 +953,7 @@ Join the Miami-Dade Police Department's top Crime Scene Investigators as they tr
 <hr>
 
 
-## 5. [Pretty Little Liars](https://serp.ly/@serpmedia/github/amazon/Pretty+Little+Liars)
+## 5. [Pretty Little Liars](https://serp.ly/amazon/Pretty+Little+Liars)
 
 ![Pretty Little Liars](https://image.tmdb.org/t/p/original/koY6oFMTj7tP3HQh10gQ5mVdd32.jpg)
 
@@ -997,7 +997,7 @@ Time to bring your A game.
 <hr>
 
 
-## 6. [The Vampire Diaries](https://serp.ly/@serpmedia/github/amazon/The+Vampire+Diaries)
+## 6. [The Vampire Diaries](https://serp.ly/amazon/The+Vampire+Diaries)
 
 ![The Vampire Diaries](https://image.tmdb.org/t/p/original/gbp4zM0FE0n23X4UFY5EBlacrog.jpg)
 
@@ -1041,7 +1041,7 @@ The Vampire Diaries tells the story of two vampire brothers who fall in love wit
 <hr>
 
 
-## 7. [The King of Queens](https://serp.ly/@serpmedia/github/amazon/The+King+of+Queens)
+## 7. [The King of Queens](https://serp.ly/amazon/The+King+of+Queens)
 
 ![The King of Queens](https://image.tmdb.org/t/p/original/yhw7UPzsE2GElyYJKvkJw03wcuO.jpg)
 
@@ -1083,7 +1083,7 @@ When Doug Heffernan's father-in-law Arthur moves in after losing his wife, it co
 <hr>
 
 
-## 8. [Dawson's Creek](https://serp.ly/@serpmedia/github/amazon/Dawson%27s+Creek)
+## 8. [Dawson's Creek](https://serp.ly/amazon/Dawson%27s+Creek)
 
 ![Dawson's Creek](https://image.tmdb.org/t/p/original/arT93dBemanftfWTcf9I0JRIlxU.jpg)
 
@@ -1127,7 +1127,7 @@ Dawson's Creek invites you into the lives of a close-knit group of friends as th
 <hr>
 
 
-## 9. [Chicago Fire](https://serp.ly/@serpmedia/github/amazon/Chicago+Fire)
+## 9. [Chicago Fire](https://serp.ly/amazon/Chicago+Fire)
 
 ![Chicago Fire](https://image.tmdb.org/t/p/original/2yaeYNplMuLGNjBigMFsek7UZmq.jpg)
 
@@ -1173,7 +1173,7 @@ Experience the highs and lows of America's noblest profession through the eyes o
 <hr>
 
 
-## 10. [Castle](https://serp.ly/@serpmedia/github/amazon/Castle)
+## 10. [Castle](https://serp.ly/amazon/Castle)
 
 ![Castle](https://image.tmdb.org/t/p/original/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg)
 
@@ -1219,7 +1219,7 @@ New York City's mayor extends an unconventional invitation to bestselling myster
 <hr>
 
 
-## 11. [Major Crimes](https://serp.ly/@serpmedia/github/amazon/Major+Crimes)
+## 11. [Major Crimes](https://serp.ly/amazon/Major+Crimes)
 
 ![Major Crimes](https://image.tmdb.org/t/p/original/fZ502JXujnxVtprmigTO2jA205P.jpg)
 
@@ -1261,7 +1261,7 @@ Major Crimes delves into the heart of American jurisprudence, showcasing the hig
 <hr>
 
 
-## 12. [Chicago Med](https://serp.ly/@serpmedia/github/amazon/Chicago+Med)
+## 12. [Chicago Med](https://serp.ly/amazon/Chicago+Med)
 
 ![Chicago Med](https://image.tmdb.org/t/p/original/4bpPqhkaPNfys64drlproTtYfIX.jpg)
 
@@ -1307,7 +1307,7 @@ Welcome home.
 <hr>
 
 
-## 13. [Scrubs](https://serp.ly/@serpmedia/github/amazon/Scrubs)
+## 13. [Scrubs](https://serp.ly/amazon/Scrubs)
 
 ![Scrubs](https://image.tmdb.org/t/p/original/u1z05trCA7AuSuDhi365grwdos1.jpg)
 
@@ -1349,7 +1349,7 @@ When John "J. D. " Dorian steps into Sacred Heart Hospital, he kicks off one wil
 <hr>
 
 
-## 14. [Drake & Josh](https://serp.ly/@serpmedia/github/amazon/Drake+%26+Josh)
+## 14. [Drake & Josh](https://serp.ly/amazon/Drake+%26+Josh)
 
 ![Drake & Josh](https://image.tmdb.org/t/p/original/udCvGctktHvvf8w51XyTPfcmzDa.jpg)
 
@@ -1391,7 +1391,7 @@ When Drake's mother decides to marry Josh's father, it turns everyday school int
 <hr>
 
 
-## 15. [Jack & Bobby](https://serp.ly/@serpmedia/github/amazon/Jack+%26+Bobby)
+## 15. [Jack & Bobby](https://serp.ly/amazon/Jack+%26+Bobby)
 
 ![Jack & Bobby](https://image.tmdb.org/t/p/original/j9c1B1kNjwwygyROGivb4xcuppF.jpg)
 
@@ -1433,7 +1433,7 @@ When grace and grit combine in the single mother Grace McCallister, she sets the
 <hr>
 
 
-## 16. [Army Wives](https://serp.ly/@serpmedia/github/amazon/Army+Wives)
+## 16. [Army Wives](https://serp.ly/amazon/Army+Wives)
 
 ![Army Wives](https://image.tmdb.org/t/p/original/sv6rOBEMXapqVrsGgwTuUizZoDe.jpg)
 
@@ -1475,7 +1475,7 @@ Army Wives is a charming drama that centers on four army wives, one army husband
 <hr>
 
 
-## 17. [Stalker](https://serp.ly/@serpmedia/github/amazon/Stalker)
+## 17. [Stalker](https://serp.ly/amazon/Stalker)
 
 ![Stalker](https://image.tmdb.org/t/p/original/pHw8OgL3U7Ys8D8hlbOnlgH7ExM.jpg)
 
@@ -1517,7 +1517,7 @@ When personal experience fuels professional expertise, Lt. Beth Davis leads the 
 <hr>
 
 
-## 18. [Celebrity Jeopardy!](https://serp.ly/@serpmedia/github/amazon/Celebrity+Jeopardy%21)
+## 18. [Celebrity Jeopardy!](https://serp.ly/amazon/Celebrity+Jeopardy%21)
 
 ![Celebrity Jeopardy!](https://image.tmdb.org/t/p/original/vhll3DMjzU5xs94BqFl1aYp1DSc.jpg)
 
@@ -1563,7 +1563,7 @@ When Hollywood meets the classic quiz show format, "Celebrity Jeopardy! " turns 
 <hr>
 
 
-## 19. [Beautiful People](https://serp.ly/@serpmedia/github/amazon/Beautiful+People)
+## 19. [Beautiful People](https://serp.ly/amazon/Beautiful+People)
 
 ![Beautiful People](https://image.tmdb.org/t/p/original/ytub8tujES6dZdSzATnlpjxNRaP.jpg)
 

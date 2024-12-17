@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Guy Ritchie's The Covenant](https://serp.ly/@serpmedia/github/amazon/Guy+Ritchie%27s+The+Covenant)
+## 1. [Guy Ritchie's The Covenant](https://serp.ly/amazon/Guy+Ritchie%27s+The+Covenant)
 
 ![Guy Ritchie's The Covenant](https://image.tmdb.org/t/p/original/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg)
 
@@ -80,7 +80,7 @@ In Afghanistan during the war, a local interpreter picks up an injured sergeant 
 <hr>
 
 
-## 2. [The World's Fastest Indian](https://serp.ly/@serpmedia/github/amazon/The+World%27s+Fastest+Indian)
+## 2. [The World's Fastest Indian](https://serp.ly/amazon/The+World%27s+Fastest+Indian)
 
 ![The World's Fastest Indian](https://image.tmdb.org/t/p/original/i7obsEYXjo725H9vneFqxxUiZw7.jpg)
 
@@ -123,7 +123,7 @@ Based on a true story, this film follows New Zealander Burt Munro as he builds a
 <hr>
 
 
-## 3. [Cobweb](https://serp.ly/@serpmedia/github/amazon/Cobweb)
+## 3. [Cobweb](https://serp.ly/amazon/Cobweb)
 
 ![Cobweb](https://image.tmdb.org/t/p/original/2bHCUqQp8CoSVvwPc6sW6TIBXbN.jpg)
 
@@ -164,7 +164,7 @@ When eight-year-old Peter hears mysterious tapping sounds coming from inside his
 <hr>
 
 
-## 4. [Without a Paddle](https://serp.ly/@serpmedia/github/amazon/Without+a+Paddle)
+## 4. [Without a Paddle](https://serp.ly/amazon/Without+a+Paddle)
 
 ![Without a Paddle](https://image.tmdb.org/t/p/original/xKzeJSBOMfPLtE5fzviroW4qIPo.jpg)
 
@@ -204,7 +204,7 @@ Three friends reunite for the funeral of a fourth childhood companion, only to d
 <hr>
 
 
-## 5. [In My Father's Den](https://serp.ly/@serpmedia/github/amazon/In+My+Father%27s+Den)
+## 5. [In My Father's Den](https://serp.ly/amazon/In+My+Father%27s+Den)
 
 ![In My Father's Den](https://image.tmdb.org/t/p/original/tnFvXenEmwfESsw401SE6N9oFQp.jpg)
 
@@ -238,7 +238,7 @@ When prize-winning war journalist Paul returns to his remote New Zealand hometow
 <hr>
 
 
-## 6. [Wish You Were Here](https://serp.ly/@serpmedia/github/amazon/Wish+You+Were+Here)
+## 6. [Wish You Were Here](https://serp.ly/amazon/Wish+You+Were+Here)
 
 ![Wish You Were Here](https://image.tmdb.org/t/p/original/xmolKcbULfcDFTSWMgbeHsPS1hO.jpg)
 
@@ -277,7 +277,7 @@ Four Australian friends - Dave, Alice, Jeremy, and Steph - lose themselves in th
 <hr>
 
 
-## 7. [After the Waterfall](https://serp.ly/@serpmedia/github/amazon/After+the+Waterfall)
+## 7. [After the Waterfall](https://serp.ly/amazon/After+the+Waterfall)
 
 ![After the Waterfall](https://image.tmdb.org/t/p/original/kRSEpOzGxTgJRSCR9tqiWizzwUe.jpg)
 
@@ -311,7 +311,7 @@ In this New Zealand drama, a forest ranger's world is shattered when his four-ye
 <hr>
 
 
-## 8. [American Sausage Standoff](https://serp.ly/@serpmedia/github/amazon/American+Sausage+Standoff)
+## 8. [American Sausage Standoff](https://serp.ly/amazon/American+Sausage+Standoff)
 
 ![American Sausage Standoff](https://image.tmdb.org/t/p/original/te6Ac5dgiNJAmbF3vqG4fnzqiuF.jpg)
 
@@ -347,7 +347,7 @@ In a charming small town, two unlikely friends team up to build their dream Germ
 <hr>
 
 
-## 9. [Terror Peak](https://serp.ly/@serpmedia/github/amazon/Terror+Peak)
+## 9. [Terror Peak](https://serp.ly/amazon/Terror+Peak)
 
 ![Terror Peak](https://image.tmdb.org/t/p/original/axI2OTscRp4DWUFAxJAGqVtrO2d.jpg)
 
@@ -381,7 +381,7 @@ Melanie Fraser joins her mother and stepfather on a business trip to New Zealand
 <hr>
 
 
-## 10. [No. 2](https://serp.ly/@serpmedia/github/amazon/No.+2)
+## 10. [No. 2](https://serp.ly/amazon/No.+2)
 
 ![No. 2](https://image.tmdb.org/t/p/original/puerLSBWKmahYt4hafAtJjbO486.jpg)
 
@@ -421,7 +421,7 @@ In this heartfelt drama, a commanding matriarch brings her family together for o
 <hr>
 
 
-## 11. [Not Only But Always](https://serp.ly/@serpmedia/github/amazon/Not+Only+But+Always)
+## 11. [Not Only But Always](https://serp.ly/amazon/Not+Only+But+Always)
 
 ![Not Only But Always](https://image.tmdb.org/t/p/original/belLPDa220MXuEHyZ5oglDI4Ujh.jpg)
 
@@ -455,7 +455,7 @@ Not Only But Always chronicles the legendary UK comedy partnership of Peter Cook
 <hr>
 
 
-## 12. [Spies and Lies](https://serp.ly/@serpmedia/github/amazon/Spies+and+Lies)
+## 12. [Spies and Lies](https://serp.ly/amazon/Spies+and+Lies)
 
 ![Spies and Lies](https://image.tmdb.org/t/p/original/33D2PAEDk1uJ8tEIGVzaM3AmblQ.jpg)
 
@@ -491,7 +491,7 @@ In 1942, as New Zealand braces for a Japanese invasion, a daring con artist emer
 <hr>
 
 
-## 13. [Bliss](https://serp.ly/@serpmedia/github/amazon/Bliss)
+## 13. [Bliss](https://serp.ly/amazon/Bliss)
 
 ![Bliss](https://image.tmdb.org/t/p/original/8Hwioj3PZhog9QRqF3XiZXoxlwx.jpg)
 
@@ -527,7 +527,7 @@ The beginning of Katherine Mansfield
 <hr>
 
 
-## 14. [G20](https://serp.ly/@serpmedia/github/amazon/G20)
+## 14. [G20](https://serp.ly/amazon/G20)
 
 <br>
 
@@ -548,7 +548,7 @@ When terrorists hijack the G20 Summit, President Taylor Sutton faces her most ch
 <hr>
 
 
-## 15. [Outrageous Fortune: The Movie](https://serp.ly/@serpmedia/github/amazon/Outrageous+Fortune%3A+The+Movie)
+## 15. [Outrageous Fortune: The Movie](https://serp.ly/amazon/Outrageous+Fortune%3A+The+Movie)
 
 A very Westie Christmas
 
@@ -579,7 +579,7 @@ The West family heads to Tutaekuri Bay for their annual summer holiday, where th
 <hr>
 
 
-## 1. [The Boys](https://serp.ly/@serpmedia/github/amazon/The+Boys)
+## 1. [The Boys](https://serp.ly/amazon/The+Boys)
 
 ![The Boys](https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg)
 
@@ -625,7 +625,7 @@ In a world where superheroes walk among us, a group of ordinary people known as 
 <hr>
 
 
-## 2. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 2. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -669,7 +669,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 3. [Xena: Warrior Princess](https://serp.ly/@serpmedia/github/amazon/Xena%3A+Warrior+Princess)
+## 3. [Xena: Warrior Princess](https://serp.ly/amazon/Xena%3A+Warrior+Princess)
 
 ![Xena: Warrior Princess](https://image.tmdb.org/t/p/original/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg)
 
@@ -713,7 +713,7 @@ When a notorious warrior sets out to atone for her past sins, she finds an unlik
 <hr>
 
 
-## 4. [Banshee](https://serp.ly/@serpmedia/github/amazon/Banshee)
+## 4. [Banshee](https://serp.ly/amazon/Banshee)
 
 ![Banshee](https://image.tmdb.org/t/p/original/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg)
 
@@ -757,7 +757,7 @@ In a small Pennsylvania town, an ex-con transforms himself from outlaw to sherif
 <hr>
 
 
-## 5. [Gen V](https://serp.ly/@serpmedia/github/amazon/Gen+V)
+## 5. [Gen V](https://serp.ly/amazon/Gen+V)
 
 ![Gen V](https://image.tmdb.org/t/p/original/uuot1N5AgZ7xRCKgm4ZCwOhgIJu.jpg)
 
@@ -801,7 +801,7 @@ At America's only college for superheroes, gifted students push their moral boun
 <hr>
 
 
-## 6. [The Boys Presents: Diabolical](https://serp.ly/@serpmedia/github/amazon/The+Boys+Presents%3A+Diabolical)
+## 6. [The Boys Presents: Diabolical](https://serp.ly/amazon/The+Boys+Presents%3A+Diabolical)
 
 ![The Boys Presents: Diabolical](https://image.tmdb.org/t/p/original/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg)
 
@@ -843,7 +843,7 @@ At America's only college for superheroes, gifted students push their moral boun
 <hr>
 
 
-## 7. [Aunty Donna's Big Ol House of Fun](https://serp.ly/@serpmedia/github/amazon/Aunty+Donna%27s+Big+Ol+House+of+Fun)
+## 7. [Aunty Donna's Big Ol House of Fun](https://serp.ly/amazon/Aunty+Donna%27s+Big+Ol+House+of+Fun)
 
 ![Aunty Donna's Big Ol House of Fun](https://image.tmdb.org/t/p/original/xvoxuozDkw43hGP4CAmoSSW1cnq.jpg)
 
@@ -887,7 +887,7 @@ Meet your new best mates.
 <hr>
 
 
-## 8. [Prime Rewind: Inside The Boys](https://serp.ly/@serpmedia/github/amazon/Prime+Rewind%3A+Inside+The+Boys)
+## 8. [Prime Rewind: Inside The Boys](https://serp.ly/amazon/Prime+Rewind%3A+Inside+The+Boys)
 
 ![Prime Rewind: Inside The Boys](https://image.tmdb.org/t/p/original/wlcghiKoXuXphMYH7akRHp5XF6f.jpg)
 
@@ -931,7 +931,7 @@ Meet your new best mates.
 <hr>
 
 
-## 9. [Banshee: Origins](https://serp.ly/@serpmedia/github/amazon/Banshee%3A+Origins)
+## 9. [Banshee: Origins](https://serp.ly/amazon/Banshee%3A+Origins)
 
 ![Banshee: Origins](https://image.tmdb.org/t/p/original/kWotqI90jVYfQszswKQchQyA5VG.jpg)
 
@@ -973,7 +973,7 @@ Banshee: Origins explores the captivating backstory of Lucas Hood, the mysteriou
 <hr>
 
 
-## 10. [Outrageous Fortune](https://serp.ly/@serpmedia/github/amazon/Outrageous+Fortune)
+## 10. [Outrageous Fortune](https://serp.ly/amazon/Outrageous+Fortune)
 
 ![Outrageous Fortune](https://image.tmdb.org/t/p/original/sDhdfXiBZnIO9xhpjMaHG8kJ7yY.jpg)
 
@@ -1017,7 +1017,7 @@ When Cheryl's husband is sent to prison, she makes an unconventional decision th
 <hr>
 
 
-## 11. [Hot Ones Versus](https://serp.ly/@serpmedia/github/amazon/Hot+Ones+Versus)
+## 11. [Hot Ones Versus](https://serp.ly/amazon/Hot+Ones+Versus)
 
 ![Hot Ones Versus](https://image.tmdb.org/t/p/original/1Fs43eOpNJOlecylOL4u5nAR5rH.jpg)
 
@@ -1058,7 +1058,7 @@ Hot Ones Versus is the spicy new spinoff where guests face their biggest wing-ea
 <hr>
 
 
-## 12. [Tricky Business](https://serp.ly/@serpmedia/github/amazon/Tricky+Business)
+## 12. [Tricky Business](https://serp.ly/amazon/Tricky+Business)
 
 ![Tricky Business](https://image.tmdb.org/t/p/original/8veiaIPdiQhJjdNUtBglurdb0DU.jpg)
 
@@ -1100,7 +1100,7 @@ When it comes to getting out of trouble, people will do just about anything - an
 <hr>
 
 
-## 13. [American Gothic](https://serp.ly/@serpmedia/github/amazon/American+Gothic)
+## 13. [American Gothic](https://serp.ly/amazon/American+Gothic)
 
 ![American Gothic](https://image.tmdb.org/t/p/original/wy9hxKxvsuQi4WKYbqMtDy9qf5m.jpg)
 

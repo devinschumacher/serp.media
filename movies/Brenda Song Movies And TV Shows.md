@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Social Network](https://serp.ly/@serpmedia/github/amazon/The+Social+Network)
+## 1. [The Social Network](https://serp.ly/amazon/The+Social+Network)
 
 ![The Social Network](https://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg)
 
@@ -80,7 +80,7 @@ The Social Network chronicles Mark Zuckerberg's journey from Harvard undergrad t
 <hr>
 
 
-## 2. [Secret Obsession](https://serp.ly/@serpmedia/github/amazon/Secret+Obsession)
+## 2. [Secret Obsession](https://serp.ly/amazon/Secret+Obsession)
 
 ![Secret Obsession](https://image.tmdb.org/t/p/original/iKMeE6oYzBVzhA6xLGb8PPWEruF.jpg)
 
@@ -116,7 +116,7 @@ After awakening in a remote mountain estate following a violent assault, Jennife
 <hr>
 
 
-## 3. [The Suite Life Movie](https://serp.ly/@serpmedia/github/amazon/The+Suite+Life+Movie)
+## 3. [The Suite Life Movie](https://serp.ly/amazon/The+Suite+Life+Movie)
 
 ![The Suite Life Movie](https://image.tmdb.org/t/p/original/sfsu75aQopQKt1DVsbmtGeSsjJ8.jpg)
 
@@ -150,7 +150,7 @@ The Suite Life Movie centers on Cody and Zack's involvement in the Gemini Projec
 <hr>
 
 
-## 4. [Like Mike](https://serp.ly/@serpmedia/github/amazon/Like+Mike)
+## 4. [Like Mike](https://serp.ly/amazon/Like+Mike)
 
 ![Like Mike](https://image.tmdb.org/t/p/original/5M1PFQq0Ame839q9g3MeF3cTcin.jpg)
 
@@ -193,7 +193,7 @@ When Calvin and his friends discover old MJ shoes connected to a powerline at th
 <hr>
 
 
-## 5. [Wendy Wu: Homecoming Warrior](https://serp.ly/@serpmedia/github/amazon/Wendy+Wu%3A+Homecoming+Warrior)
+## 5. [Wendy Wu: Homecoming Warrior](https://serp.ly/amazon/Wendy+Wu%3A+Homecoming+Warrior)
 
 ![Wendy Wu: Homecoming Warrior](https://image.tmdb.org/t/p/original/6EfY13SHzvpwXg2KPixnbCXuUoR.jpg)
 
@@ -231,7 +231,7 @@ When a mysterious Chinese monk named Shen arrives, he turns Wendy Wu's high scho
 <hr>
 
 
-## 6. [College Road Trip](https://serp.ly/@serpmedia/github/amazon/College+Road+Trip)
+## 6. [College Road Trip](https://serp.ly/amazon/College+Road+Trip)
 
 ![College Road Trip](https://image.tmdb.org/t/p/original/322poolColDysdWIA6XCCZQy9B6.jpg)
 
@@ -271,7 +271,7 @@ When an overachieving high school student decides to travel around the country t
 <hr>
 
 
-## 7. [Pixie Hollow Games](https://serp.ly/@serpmedia/github/amazon/Pixie+Hollow+Games)
+## 7. [Pixie Hollow Games](https://serp.ly/amazon/Pixie+Hollow+Games)
 
 ![Pixie Hollow Games](https://image.tmdb.org/t/p/original/c962jDNYejdctu7pb8zqS2Miey9.jpg)
 
@@ -305,7 +305,7 @@ In the enchanted world of Pixie Hollow, Rosetta teams up with the newly arrived 
 <hr>
 
 
-## 8. [Wizards on Deck with Hannah Montana](https://serp.ly/@serpmedia/github/amazon/Wizards+on+Deck+with+Hannah+Montana)
+## 8. [Wizards on Deck with Hannah Montana](https://serp.ly/amazon/Wizards+on+Deck+with+Hannah+Montana)
 
 ![Wizards on Deck with Hannah Montana](https://image.tmdb.org/t/p/original/zMWqYmkrwMKhaHuVGMXgbGhOKeq.jpg)
 
@@ -341,7 +341,7 @@ When Justin wins a Teen Cruise to Hawaii, he sets off a series of hilarious even
 <hr>
 
 
-## 9. [Stuck in the Suburbs](https://serp.ly/@serpmedia/github/amazon/Stuck+in+the+Suburbs)
+## 9. [Stuck in the Suburbs](https://serp.ly/amazon/Stuck+in+the+Suburbs)
 
 ![Stuck in the Suburbs](https://image.tmdb.org/t/p/original/3iTQNq076Q7eNzUJpScDdxgQtcH.jpg)
 
@@ -377,7 +377,7 @@ Brittany Aarons is just another suburban girl with a crush on the popular singer
 <hr>
 
 
-## 10. [Get a Clue](https://serp.ly/@serpmedia/github/amazon/Get+a+Clue)
+## 10. [Get a Clue](https://serp.ly/amazon/Get+a+Clue)
 
 ![Get a Clue](https://image.tmdb.org/t/p/original/9NhdXavPBUPYkdBwCaatOIGwGjp.jpg)
 
@@ -415,7 +415,7 @@ When their teacher goes missing, a group of high school detectives must piece to
 <hr>
 
 
-## 11. [That's So Suite Life of Hannah Montana](https://serp.ly/@serpmedia/github/amazon/That%27s+So+Suite+Life+of+Hannah+Montana)
+## 11. [That's So Suite Life of Hannah Montana](https://serp.ly/amazon/That%27s+So+Suite+Life+of+Hannah+Montana)
 
 ![That's So Suite Life of Hannah Montana](https://image.tmdb.org/t/p/original/1eDire0T4bPDSgqt4Y28xdslKuj.jpg)
 
@@ -449,7 +449,7 @@ When Raven Baxter checks into the swanky Tipton Hotel for a business trip, she s
 <hr>
 
 
-## 12. [Leave It to Beaver](https://serp.ly/@serpmedia/github/amazon/Leave+It+to+Beaver)
+## 12. [Leave It to Beaver](https://serp.ly/amazon/Leave+It+to+Beaver)
 
 ![Leave It to Beaver](https://image.tmdb.org/t/p/original/zBe7rCrImp9XxSGWTWAmYlPEXeN.jpg)
 
@@ -488,7 +488,7 @@ The Cleavers are an all-American family in Ohio, led by the wise father Ward and
 <hr>
 
 
-## 13. [Changeland](https://serp.ly/@serpmedia/github/amazon/Changeland)
+## 13. [Changeland](https://serp.ly/amazon/Changeland)
 
 ![Changeland](https://image.tmdb.org/t/p/original/zbH4zrlQS4AVwfUkz8ZTcNX1CSp.jpg)
 
@@ -527,7 +527,7 @@ Join two estranged best friends on an epic adventure through Thailand, where the
 <hr>
 
 
-## 14. [The Ultimate Christmas Present](https://serp.ly/@serpmedia/github/amazon/The+Ultimate+Christmas+Present)
+## 14. [The Ultimate Christmas Present](https://serp.ly/amazon/The+Ultimate+Christmas+Present)
 
 ![The Ultimate Christmas Present](https://image.tmdb.org/t/p/original/4h5gZzj4l1TwOglj5ve0KSLFojz.jpg)
 
@@ -563,7 +563,7 @@ When 13-year-old Allie Thompson and her best friend Sam stumble upon a weather-m
 <hr>
 
 
-## 15. [Santa with Muscles](https://serp.ly/@serpmedia/github/amazon/Santa+with+Muscles)
+## 15. [Santa with Muscles](https://serp.ly/amazon/Santa+with+Muscles)
 
 ![Santa with Muscles](https://image.tmdb.org/t/p/original/ldxrT4FkyJWENpqy0ZucCu1HgAj.jpg)
 
@@ -601,7 +601,7 @@ When muscle-bound Blake Thorne gets into a paint-gun fight that goes wrong, he r
 <hr>
 
 
-## 16. [Love Accidentally](https://serp.ly/@serpmedia/github/amazon/Love+Accidentally)
+## 16. [Love Accidentally](https://serp.ly/amazon/Love+Accidentally)
 
 ![Love Accidentally](https://image.tmdb.org/t/p/original/6D32ZGpoiDhRlcx95CHjDgkftYi.jpg)
 
@@ -637,7 +637,7 @@ When aspiring advertising executives Alexa and Jason's personal lives fall apart
 <hr>
 
 
-## 17. [How Did They Ever Make a Movie of Facebook?](https://serp.ly/@serpmedia/github/amazon/How+Did+They+Ever+Make+a+Movie+of+Facebook%3F)
+## 17. [How Did They Ever Make a Movie of Facebook?](https://serp.ly/amazon/How+Did+They+Ever+Make+a+Movie+of+Facebook%3F)
 
 ![How Did They Ever Make a Movie of Facebook?](https://image.tmdb.org/t/p/original/gu83t0D0UYOGk2p9ufDjT5YllUa.jpg)
 
@@ -671,7 +671,7 @@ When aspiring advertising executives Alexa and Jason's personal lives fall apart
 <hr>
 
 
-## 18. [Angry Angel](https://serp.ly/@serpmedia/github/amazon/Angry+Angel)
+## 18. [Angry Angel](https://serp.ly/amazon/Angry+Angel)
 
 ![Angry Angel](https://image.tmdb.org/t/p/original/ff3EJco2qL1ClcfdopaS7tic17J.jpg)
 
@@ -705,7 +705,7 @@ Allison Pyke is a young angelascending to heaven when two former acquaintances u
 <hr>
 
 
-## 19. [Bobbleheads: The Movie](https://serp.ly/@serpmedia/github/amazon/Bobbleheads%3A+The+Movie)
+## 19. [Bobbleheads: The Movie](https://serp.ly/amazon/Bobbleheads%3A+The+Movie)
 
 ![Bobbleheads: The Movie](https://image.tmdb.org/t/p/original/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg)
 
@@ -741,7 +741,7 @@ When a new baseball player bobblehead moves in, chaos unfolds in Bobblehead Town
 <hr>
 
 
-## 20. [The Little Engine That Could](https://serp.ly/@serpmedia/github/amazon/The+Little+Engine+That+Could)
+## 20. [The Little Engine That Could](https://serp.ly/amazon/The+Little+Engine+That+Could)
 
 ![The Little Engine That Could](https://image.tmdb.org/t/p/original/yl1TwtGHJ9I2xNX4LEBydKsrAeH.jpg)
 
@@ -777,7 +777,7 @@ The Little Engine That Could springs to life through an all-star cast in this fe
 <hr>
 
 
-## 21. [Captain Planet with Don Cheadle](https://serp.ly/@serpmedia/github/amazon/Captain+Planet+with+Don+Cheadle)
+## 21. [Captain Planet with Don Cheadle](https://serp.ly/amazon/Captain+Planet+with+Don+Cheadle)
 
 ![Captain Planet with Don Cheadle](https://image.tmdb.org/t/p/original/qSJG1GLauMn4H7SXFPRY7gmQxh9.jpg)
 
@@ -813,7 +813,7 @@ Captain Planet, Motherfucker.
 <hr>
 
 
-## 22. [Special Delivery](https://serp.ly/@serpmedia/github/amazon/Special+Delivery)
+## 22. [Special Delivery](https://serp.ly/amazon/Special+Delivery)
 
 ![Special Delivery](https://image.tmdb.org/t/p/original/jKRUIsQJOKjVwan6Q83b3Z0XN1D.jpg)
 
@@ -847,7 +847,7 @@ When a professional courier picks up a bratty teenager for an international flig
 <hr>
 
 
-## 23. [My Dog's Christmas Miracle](https://serp.ly/@serpmedia/github/amazon/My+Dog%27s+Christmas+Miracle)
+## 23. [My Dog's Christmas Miracle](https://serp.ly/amazon/My+Dog%27s+Christmas+Miracle)
 
 ![My Dog's Christmas Miracle](https://image.tmdb.org/t/p/original/lZohH01S0aKizh3cEA7xP7e0QdO.jpg)
 
@@ -883,7 +883,7 @@ University professor Madeline Walters has given up on dating - until her Maltese
 <hr>
 
 
-## 24. [Dear Santa](https://serp.ly/@serpmedia/github/amazon/Dear+Santa)
+## 24. [Dear Santa](https://serp.ly/amazon/Dear+Santa)
 
 ![Dear Santa](https://image.tmdb.org/t/p/original/dr347RaCnvk8Ya7Grzc3B4u6Qo1.jpg)
 
@@ -917,7 +917,7 @@ University professor Madeline Walters has given up on dating - until her Maltese
 <hr>
 
 
-## 25. [First Kiss](https://serp.ly/@serpmedia/github/amazon/First+Kiss)
+## 25. [First Kiss](https://serp.ly/amazon/First+Kiss)
 
 ![First Kiss](https://image.tmdb.org/t/p/original/g3HibwrClAwgQAlQhxfkCTgoT6o.jpg)
 
@@ -951,7 +951,7 @@ When a guy and a girl decide to kiss for the first time, they think it'll be sim
 <hr>
 
 
-## 26. [The Muppets - Studio DC - Almost Live](https://serp.ly/@serpmedia/github/amazon/The+Muppets+-+Studio+DC+-+Almost+Live)
+## 26. [The Muppets - Studio DC - Almost Live](https://serp.ly/amazon/The+Muppets+-+Studio+DC+-+Almost+Live)
 
 ![The Muppets - Studio DC - Almost Live](https://image.tmdb.org/t/p/original/gIJVgAVzzZ8iQwio246TyZ7VNyb.jpg)
 
@@ -987,7 +987,7 @@ Disney Channel teams up with The Muppets for a live-action variety show featurin
 <hr>
 
 
-## 27. [Holidaze: The Christmas That Almost Didn't Happen](https://serp.ly/@serpmedia/github/amazon/Holidaze%3A+The+Christmas+That+Almost+Didn%27t+Happen)
+## 27. [Holidaze: The Christmas That Almost Didn't Happen](https://serp.ly/amazon/Holidaze%3A+The+Christmas+That+Almost+Didn%27t+Happen)
 
 ![Holidaze: The Christmas That Almost Didn't Happen](https://image.tmdb.org/t/p/original/bGQOSLcyBk2K8bxCKNIpenifLVz.jpg)
 
@@ -1021,7 +1021,7 @@ When Rusty Reindeer walks into a support group for holiday icons, he kicks off a
 <hr>
 
 
-## 28. [Little Spirit: Christmas in New York](https://serp.ly/@serpmedia/github/amazon/Little+Spirit%3A+Christmas+in+New+York)
+## 28. [Little Spirit: Christmas in New York](https://serp.ly/amazon/Little+Spirit%3A+Christmas+in+New+York)
 
 ![Little Spirit: Christmas in New York](https://image.tmdb.org/t/p/original/1ZaIuG8qtRz1Ux3BA1TjhJyKl74.jpg)
 
@@ -1057,7 +1057,7 @@ When a friendly cabbie weaves the tale of a boy named Leo who moved to Manhattan
 <hr>
 
 
-## 29. [Requiem](https://serp.ly/@serpmedia/github/amazon/Requiem)
+## 29. [Requiem](https://serp.ly/amazon/Requiem)
 
 ![Requiem](https://image.tmdb.org/t/p/original/k8f7jz4bG8YGP63WM2vGx1EtBKL.jpg)
 
@@ -1085,7 +1085,7 @@ In this heartfelt drama, a waitress-dancer in Hong Kong recalls her loving broth
 <hr>
 
 
-## 30. [The Last Showgirl](https://serp.ly/@serpmedia/github/amazon/The+Last+Showgirl)
+## 30. [The Last Showgirl](https://serp.ly/amazon/The+Last+Showgirl)
 
 ![The Last Showgirl](https://image.tmdb.org/t/p/original/1lR6EBfboefXI7joB9w3iAuQSKE.jpg)
 
@@ -1110,7 +1110,7 @@ After the beloved dancing show where Hannah has spent over thirty-five years fin
 <hr>
 
 
-## 31. [Operation Taco Gary's](https://serp.ly/@serpmedia/github/amazon/Operation+Taco+Gary%27s)
+## 31. [Operation Taco Gary's](https://serp.ly/amazon/Operation+Taco+Gary%27s)
 
 <br>
 
@@ -1131,7 +1131,7 @@ When two brothers hit the road for a cross-country trip, their mundane journey t
 <hr>
 
 
-## 32. [There's Something About Ashley: The Story of Headstrong](https://serp.ly/@serpmedia/github/amazon/There%27s+Something+About+Ashley%3A+The+Story+of+Headstrong)
+## 32. [There's Something About Ashley: The Story of Headstrong](https://serp.ly/amazon/There%27s+Something+About+Ashley%3A+The+Story+of+Headstrong)
 
 ![There's Something About Ashley: The Story of Headstrong](https://image.tmdb.org/t/p/original/lMcy4U60c4eLZ91WonrMnHc49uw.jpg)
 
@@ -1162,7 +1162,7 @@ When two brothers hit the road for a cross-country trip, their mundane journey t
 <hr>
 
 
-## 1. [Station 19](https://serp.ly/@serpmedia/github/amazon/Station+19)
+## 1. [Station 19](https://serp.ly/amazon/Station+19)
 
 ![Station 19](https://image.tmdb.org/t/p/original/kxao9HIrGO60EhrCRhSBQ3p3XL0.jpg)
 
@@ -1206,7 +1206,7 @@ When the alarm sounds at Seattle Fire Station 19, a close-knit team of firefight
 <hr>
 
 
-## 2. [Wizards of Waverly Place](https://serp.ly/@serpmedia/github/amazon/Wizards+of+Waverly+Place)
+## 2. [Wizards of Waverly Place](https://serp.ly/amazon/Wizards+of+Waverly+Place)
 
 ![Wizards of Waverly Place](https://image.tmdb.org/t/p/original/kPzBIOlYvC8Ew0Z9S5qbj6d0YB.jpg)
 
@@ -1248,7 +1248,7 @@ When three ordinary kids discovers they're actually wizards in training, their e
 <hr>
 
 
-## 3. [That's So Raven](https://serp.ly/@serpmedia/github/amazon/That%27s+So+Raven)
+## 3. [That's So Raven](https://serp.ly/amazon/That%27s+So+Raven)
 
 ![That's So Raven](https://image.tmdb.org/t/p/original/fLo2KYsE7gdM8ti1L9pcdaLoLPD.jpg)
 
@@ -1292,7 +1292,7 @@ Raven Baxter isn't your average teenager - she has the unique ability to see gli
 <hr>
 
 
-## 4. [The Bernie Mac Show](https://serp.ly/@serpmedia/github/amazon/The+Bernie+Mac+Show)
+## 4. [The Bernie Mac Show](https://serp.ly/amazon/The+Bernie+Mac+Show)
 
 ![The Bernie Mac Show](https://image.tmdb.org/t/p/original/auTnAsA5USO1901qti1mxbUIVoE.jpg)
 
@@ -1336,7 +1336,7 @@ When Bernie Mac's sister entrusts him with the care of her three children, it ki
 <hr>
 
 
-## 5. [Phineas and Ferb](https://serp.ly/@serpmedia/github/amazon/Phineas+and+Ferb)
+## 5. [Phineas and Ferb](https://serp.ly/amazon/Phineas+and+Ferb)
 
 ![Phineas and Ferb](https://image.tmdb.org/t/p/original/oSLwJMOOQGAsyJNMi4Y3MO44iAJ.jpg)
 
@@ -1380,7 +1380,7 @@ When two creative stepbrothers turn every summer day into an extraordinary adven
 <hr>
 
 
-## 6. [New Girl](https://serp.ly/@serpmedia/github/amazon/New+Girl)
+## 6. [New Girl](https://serp.ly/amazon/New+Girl)
 
 ![New Girl](https://image.tmdb.org/t/p/original/lktCmXmoeR3ikhqE9SLN2IumwUx.jpg)
 
@@ -1424,7 +1424,7 @@ When Jessica Day moves in with three single guys after a bad breakup, she brings
 <hr>
 
 
-## 7. [Superstore](https://serp.ly/@serpmedia/github/amazon/Superstore)
+## 7. [Superstore](https://serp.ly/amazon/Superstore)
 
 ![Superstore](https://image.tmdb.org/t/p/original/maBJkaBM4UqAttn9UkLCfZEVEfk.jpg)
 
@@ -1468,7 +1468,7 @@ When it comes to workplace comedies, few shows measure up to "Superstore". This 
 <hr>
 
 
-## 8. [Lilo & Stitch: The Series](https://serp.ly/@serpmedia/github/amazon/Lilo+%26+Stitch%3A+The+Series)
+## 8. [Lilo & Stitch: The Series](https://serp.ly/amazon/Lilo+%26+Stitch%3A+The+Series)
 
 ![Lilo & Stitch: The Series](https://image.tmdb.org/t/p/original/997mXFpYV2zdXK4EOctN3hgciaT.jpg)
 
@@ -1510,7 +1510,7 @@ Join Lilo and Stitch as they embark on new adventures across Hawaii! Dr. Jumba's
 <hr>
 
 
-## 9. [The Suite Life of Zack & Cody](https://serp.ly/@serpmedia/github/amazon/The+Suite+Life+of+Zack+%26+Cody)
+## 9. [The Suite Life of Zack & Cody](https://serp.ly/amazon/The+Suite+Life+of+Zack+%26+Cody)
 
 ![The Suite Life of Zack & Cody](https://image.tmdb.org/t/p/original/vKOdc6fWHaSTsVjUALFm5S4Vup0.jpg)
 
@@ -1552,7 +1552,7 @@ When two 11-year-old identical twins move into Boston's luxurious Tipton Hotel w
 <hr>
 
 
-## 10. [Life in Pieces](https://serp.ly/@serpmedia/github/amazon/Life+in+Pieces)
+## 10. [Life in Pieces](https://serp.ly/amazon/Life+in+Pieces)
 
 ![Life in Pieces](https://image.tmdb.org/t/p/original/vac76nqALSJfy9AN0D9sSh1fQFE.jpg)
 
@@ -1596,7 +1596,7 @@ When two 11-year-old identical twins move into Boston's luxurious Tipton Hotel w
 <hr>
 
 
-## 11. [American Dragon: Jake Long](https://serp.ly/@serpmedia/github/amazon/American+Dragon%3A+Jake+Long)
+## 11. [American Dragon: Jake Long](https://serp.ly/amazon/American+Dragon%3A+Jake+Long)
 
 ![American Dragon: Jake Long](https://image.tmdb.org/t/p/original/sAgoJOdvuMa3DD0JDpos9bdaF9S.jpg)
 
@@ -1638,7 +1638,7 @@ When a 13-year-old Asian-American boy discovers he's the American Dragon, a powe
 <hr>
 
 
-## 12. [The Emperor's New School](https://serp.ly/@serpmedia/github/amazon/The+Emperor%27s+New+School)
+## 12. [The Emperor's New School](https://serp.ly/amazon/The+Emperor%27s+New+School)
 
 ![The Emperor's New School](https://image.tmdb.org/t/p/original/g1TlTdWPcofNIklBdInaJFp7NkF.jpg)
 
@@ -1680,7 +1680,7 @@ When the self-centered Kuzco storms into Incan public school, he must navigate a
 <hr>
 
 
-## 13. [Scandal](https://serp.ly/@serpmedia/github/amazon/Scandal)
+## 13. [Scandal](https://serp.ly/amazon/Scandal)
 
 ![Scandal](https://image.tmdb.org/t/p/original/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg)
 
@@ -1724,7 +1724,7 @@ When the powerful meet the relentless, their personal scandals become Olivia Pop
 <hr>
 
 
-## 14. [The Brothers García](https://serp.ly/@serpmedia/github/amazon/The+Brothers+Garc%C3%ADa)
+## 14. [The Brothers García](https://serp.ly/amazon/The+Brothers+Garc%C3%ADa)
 
 ![The Brothers García](https://image.tmdb.org/t/p/original/z2AVRyMPhXFG17uzIuSJqWNHiZX.jpg)
 
@@ -1766,7 +1766,7 @@ The Brothers García brings viewers 49 episodes of this groundbreaking sitcom th
 <hr>
 
 
-## 15. [Judging Amy](https://serp.ly/@serpmedia/github/amazon/Judging+Amy)
+## 15. [Judging Amy](https://serp.ly/amazon/Judging+Amy)
 
 ![Judging Amy](https://image.tmdb.org/t/p/original/xwCYDipqGC5lWirdARXrDGIX22i.jpg)
 
@@ -1808,7 +1808,7 @@ Judging Amy invites you into the personal and professional life of a family cour
 <hr>
 
 
-## 16. [Hannah Montana](https://serp.ly/@serpmedia/github/amazon/Hannah+Montana)
+## 16. [Hannah Montana](https://serp.ly/amazon/Hannah+Montana)
 
 ![Hannah Montana](https://image.tmdb.org/t/p/original/usJAQAA7s9lJGGOGehIZdzKPCke.jpg)
 
@@ -1850,7 +1850,7 @@ When the lights go down and the curtain goes up, Miley Stewart transforms from a
 <hr>
 
 
-## 17. [Popular](https://serp.ly/@serpmedia/github/amazon/Popular)
+## 17. [Popular](https://serp.ly/amazon/Popular)
 
 ![Popular](https://image.tmdb.org/t/p/original/eROSmxuiMQVIwcIqGBZHd84OPa2.jpg)
 
@@ -1894,7 +1894,7 @@ When two high school students' single parents get engaged, it turns everyday tee
 <hr>
 
 
-## 18. [Once and Again](https://serp.ly/@serpmedia/github/amazon/Once+and+Again)
+## 18. [Once and Again](https://serp.ly/amazon/Once+and+Again)
 
 ![Once and Again](https://image.tmdb.org/t/p/original/8FVdrgWH2EwrYtQzXNsu0ax1TEk.jpg)
 
@@ -1938,7 +1938,7 @@ When a single mother runs a business with a single father, their personal and pr
 <hr>
 
 
-## 19. [Amphibia](https://serp.ly/@serpmedia/github/amazon/Amphibia)
+## 19. [Amphibia](https://serp.ly/amazon/Amphibia)
 
 ![Amphibia](https://image.tmdb.org/t/p/original/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg)
 
@@ -1982,7 +1982,7 @@ When 13-year-old Anne Boonchuy is magically transported to the rural marshland o
 <hr>
 
 
-## 20. [The League](https://serp.ly/@serpmedia/github/amazon/The+League)
+## 20. [The League](https://serp.ly/amazon/The+League)
 
 ![The League](https://image.tmdb.org/t/p/original/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg)
 
@@ -2026,7 +2026,7 @@ The League combines scripted humor with semi-improvised comedy to create an ente
 <hr>
 
 
-## 21. [7th Heaven](https://serp.ly/@serpmedia/github/amazon/7th+Heaven)
+## 21. [7th Heaven](https://serp.ly/amazon/7th+Heaven)
 
 ![7th Heaven](https://image.tmdb.org/t/p/original/s6mkZKanKim3VGUIxR2gGGf9jn0.jpg)
 
@@ -2068,7 +2068,7 @@ When it comes to managing a household, the Camden family has seen it all. With s
 <hr>
 
 
-## 22. [The Suite Life on Deck](https://serp.ly/@serpmedia/github/amazon/The+Suite+Life+on+Deck)
+## 22. [The Suite Life on Deck](https://serp.ly/amazon/The+Suite+Life+on+Deck)
 
 ![The Suite Life on Deck](https://image.tmdb.org/t/p/original/oSXF3foACcGt7NFPjgO6ZeSI37E.jpg)
 
@@ -2110,7 +2110,7 @@ When Zack and Cody Martin sail aboard the SS Tipton with their father, they brin
 <hr>
 
 
-## 23. [ER](https://serp.ly/@serpmedia/github/amazon/ER)
+## 23. [ER](https://serp.ly/amazon/ER)
 
 ![ER](https://image.tmdb.org/t/p/original/rAxd8H0zGH61RWMPVZiR9zT4Nqk.jpg)
 
@@ -2154,7 +2154,7 @@ ER dives into the high-stakes world of emergency medicine through the eyes of th
 <hr>
 
 
-## 24. [BLUE EYE SAMURAI](https://serp.ly/@serpmedia/github/amazon/BLUE+EYE+SAMURAI)
+## 24. [BLUE EYE SAMURAI](https://serp.ly/amazon/BLUE+EYE+SAMURAI)
 
 ![BLUE EYE SAMURAI](https://image.tmdb.org/t/p/original/fXm3JT4WLQVnwukdvghtAblc1wc.jpg)
 
@@ -2198,7 +2198,7 @@ In a dream of vengeance against those who cast her out in Edo-period Japan, a yo
 <hr>
 
 
-## 25. [The Eric Andre Show](https://serp.ly/@serpmedia/github/amazon/The+Eric+Andre+Show)
+## 25. [The Eric Andre Show](https://serp.ly/amazon/The+Eric+Andre+Show)
 
 ![The Eric Andre Show](https://image.tmdb.org/t/p/original/3OX22kBMeDBxgYNlVuMYlieoanM.jpg)
 
@@ -2242,7 +2242,7 @@ The Eric Andre Show is a groundbreaking comedy series that aired from 2012 to 20
 <hr>
 
 
-## 26. [100 Deeds for Eddie McDowd](https://serp.ly/@serpmedia/github/amazon/100+Deeds+for+Eddie+McDowd)
+## 26. [100 Deeds for Eddie McDowd](https://serp.ly/amazon/100+Deeds+for+Eddie+McDowd)
 
 ![100 Deeds for Eddie McDowd](https://image.tmdb.org/t/p/original/jSkC921dcN2QicV61OdFbu8GAGT.jpg)
 
@@ -2284,7 +2284,7 @@ When the school bully is magically transformed into a talking dog, he must compl
 <hr>
 
 
-## 27. [Phil of the Future](https://serp.ly/@serpmedia/github/amazon/Phil+of+the+Future)
+## 27. [Phil of the Future](https://serp.ly/amazon/Phil+of+the+Future)
 
 ![Phil of the Future](https://image.tmdb.org/t/p/original/Aq3GfvfcWnaI8IgQwocz6mhNkzb.jpg)
 
@@ -2328,7 +2328,7 @@ Join the Diffy family from the year 2121 for a comedic journey through time. Whe
 <hr>
 
 
-## 28. [A Little Late with Lilly Singh](https://serp.ly/@serpmedia/github/amazon/A+Little+Late+with+Lilly+Singh)
+## 28. [A Little Late with Lilly Singh](https://serp.ly/amazon/A+Little+Late+with+Lilly+Singh)
 
 ![A Little Late with Lilly Singh](https://image.tmdb.org/t/p/original/1o8OOaHP4JTKCSDDgsBrkRZVA1O.jpg)
 
@@ -2372,7 +2372,7 @@ When Lilly Singh trades her daytime persona as a successful comedian and author 
 <hr>
 
 
-## 29. [Disney Channel Games](https://serp.ly/@serpmedia/github/amazon/Disney+Channel+Games)
+## 29. [Disney Channel Games](https://serp.ly/amazon/Disney+Channel+Games)
 
 ![Disney Channel Games](https://image.tmdb.org/t/p/original/ehHsyQkcSeGeOlgBPEuGuNzE8c8.jpg)
 
@@ -2414,7 +2414,7 @@ Disney Channel Games marks the network's first competitive gaming show, bringing
 <hr>
 
 
-## 30. [Dollface](https://serp.ly/@serpmedia/github/amazon/Dollface)
+## 30. [Dollface](https://serp.ly/amazon/Dollface)
 
 ![Dollface](https://image.tmdb.org/t/p/original/r2pc7Ybq53iMZj4fOI4HDreN7LF.jpg)
 
@@ -2460,7 +2460,7 @@ When her longtime boyfriend breaks up with her, a young woman must navigate both
 <hr>
 
 
-## 31. [The Proud Family: Louder and Prouder](https://serp.ly/@serpmedia/github/amazon/The+Proud+Family%3A+Louder+and+Prouder)
+## 31. [The Proud Family: Louder and Prouder](https://serp.ly/amazon/The+Proud+Family%3A+Louder+and+Prouder)
 
 ![The Proud Family: Louder and Prouder](https://image.tmdb.org/t/p/original/rRuy69wbGalOVbVFXS92A7qpVfs.jpg)
 
@@ -2506,7 +2506,7 @@ The Proud Family: Louder and Prouder picks up with Penny Proud turning 14 in the
 <hr>
 
 
-## 32. [Mike's Super Short Show](https://serp.ly/@serpmedia/github/amazon/Mike%27s+Super+Short+Show)
+## 32. [Mike's Super Short Show](https://serp.ly/amazon/Mike%27s+Super+Short+Show)
 
 ![Mike's Super Short Show](https://image.tmdb.org/t/p/original/Afj00IllReQwVl0n0yldXdrlZEO.jpg)
 
@@ -2548,7 +2548,7 @@ The Proud Family: Louder and Prouder picks up with Penny Proud turning 14 in the
 <hr>
 
 
-## 33. [Studio DC: Almost Live](https://serp.ly/@serpmedia/github/amazon/Studio+DC%3A+Almost+Live)
+## 33. [Studio DC: Almost Live](https://serp.ly/amazon/Studio+DC%3A+Almost+Live)
 
 ![Studio DC: Almost Live](https://image.tmdb.org/t/p/original/4lq5Yvv1RM3h7SrrEHi42I0j0pZ.jpg)
 
@@ -2590,7 +2590,7 @@ When The Muppets take over Disney Channel Studios, their humor transforms everyd
 <hr>
 
 
-## 34. [The Nightmare Room](https://serp.ly/@serpmedia/github/amazon/The+Nightmare+Room)
+## 34. [The Nightmare Room](https://serp.ly/amazon/The+Nightmare+Room)
 
 ![The Nightmare Room](https://image.tmdb.org/t/p/original/5aBRRkf0UoSEIN3kTaHPbUgFk4x.jpg)
 
@@ -2632,7 +2632,7 @@ The Nightmare Room was a children's horror anthology series that aired on Kids' 
 <hr>
 
 
-## 35. [Theme Song Takeover](https://serp.ly/@serpmedia/github/amazon/Theme+Song+Takeover)
+## 35. [Theme Song Takeover](https://serp.ly/amazon/Theme+Song+Takeover)
 
 ![Theme Song Takeover](https://image.tmdb.org/t/p/original/7Y34TgRe5Xhk7KfBgYWhrMYoimf.jpg)
 
@@ -2676,7 +2676,7 @@ The Nightmare Room was a children's horror anthology series that aired on Kids' 
 <hr>
 
 
-## 36. [Pure Genius](https://serp.ly/@serpmedia/github/amazon/Pure+Genius)
+## 36. [Pure Genius](https://serp.ly/amazon/Pure+Genius)
 
 ![Pure Genius](https://image.tmdb.org/t/p/original/iMHokrKVOI7KDCQhXe6NyPkuPw8.jpg)
 
@@ -2720,7 +2720,7 @@ When a young Silicon Valley tech mogul decides to revolutionize healthcare, he t
 <hr>
 
 
-## 37. [Chibiverse](https://serp.ly/@serpmedia/github/amazon/Chibiverse)
+## 37. [Chibiverse](https://serp.ly/amazon/Chibiverse)
 
 ![Chibiverse](https://image.tmdb.org/t/p/original/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg)
 
@@ -2764,7 +2764,7 @@ Join your favorite Disney characters as they share their hilarious Chibi Tiny Ta
 <hr>
 
 
-## 38. [Running Point](https://serp.ly/@serpmedia/github/amazon/Running+Point)
+## 38. [Running Point](https://serp.ly/amazon/Running+Point)
 
 <br>
 
@@ -2799,7 +2799,7 @@ In "Running Point", the lone sister among a family of competitive brothers gets 
 <hr>
 
 
-## 39. [George Lopez](https://serp.ly/@serpmedia/github/amazon/George+Lopez)
+## 39. [George Lopez](https://serp.ly/amazon/George+Lopez)
 
 ![George Lopez](https://image.tmdb.org/t/p/original/jV28WAGIqAKf4uoRK4IqJz4KMY0.jpg)
 
@@ -2841,7 +2841,7 @@ When a man raises his daughter Carmen and dyslexic son Max with his wife Angie, 
 <hr>
 
 
-## 40. [Fudge](https://serp.ly/@serpmedia/github/amazon/Fudge)
+## 40. [Fudge](https://serp.ly/amazon/Fudge)
 
 <br>
 
@@ -2883,7 +2883,7 @@ Based on Judy Blume's popular children's books, "Fudge" is a delightful series t
 <hr>
 
 
-## 41. [E! True Hollywood Story](https://serp.ly/@serpmedia/github/amazon/E%21+True+Hollywood+Story)
+## 41. [E! True Hollywood Story](https://serp.ly/amazon/E%21+True+Hollywood+Story)
 
 ![E! True Hollywood Story](https://image.tmdb.org/t/p/original/zuXXivVEjOkMswJvNFFRmJW0bTZ.jpg)
 
@@ -2927,7 +2927,7 @@ Based on Judy Blume's popular children's books, "Fudge" is a delightful series t
 <hr>
 
 
-## 42. [Small Talk](https://serp.ly/@serpmedia/github/amazon/Small+Talk)
+## 42. [Small Talk](https://serp.ly/amazon/Small+Talk)
 
 <br>
 
@@ -2964,7 +2964,7 @@ Small Talk, a game show that ran on The Family Channel from September 30, 1996 t
 <hr>
 
 
-## 43. [Bette](https://serp.ly/@serpmedia/github/amazon/Bette)
+## 43. [Bette](https://serp.ly/amazon/Bette)
 
 ![Bette](https://image.tmdb.org/t/p/original/pz4plOCgxURnNviTjyAOoEyFYFh.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Interstellar](https://serp.ly/@serpmedia/github/amazon/Interstellar)
+## 1. [Interstellar](https://serp.ly/amazon/Interstellar)
 
 ![Interstellar](https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg)
 
@@ -80,7 +80,7 @@ When a team of daring explorers discovers a wormhole, it opens up the possibilit
 <hr>
 
 
-## 2. [The Hunger Games](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games)
+## 2. [The Hunger Games](https://serp.ly/amazon/The+Hunger+Games)
 
 ![The Hunger Games](https://image.tmdb.org/t/p/original/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg)
 
@@ -123,7 +123,7 @@ In a future North America reduced to twelve districts under the oppressive rule 
 <hr>
 
 
-## 3. [American Beauty](https://serp.ly/@serpmedia/github/amazon/American+Beauty)
+## 3. [American Beauty](https://serp.ly/amazon/American+Beauty)
 
 ![American Beauty](https://image.tmdb.org/t/p/original/wby9315QzVKdW9BonAefg8jGTTb.jpg)
 
@@ -166,7 +166,7 @@ Lester Burnham, a depressed suburban father in a mid-life crisis, decides to tur
 <hr>
 
 
-## 4. [Mission: Impossible - Fallout](https://serp.ly/@serpmedia/github/amazon/Mission%3A+Impossible+-+Fallout)
+## 4. [Mission: Impossible - Fallout](https://serp.ly/amazon/Mission%3A+Impossible+-+Fallout)
 
 ![Mission: Impossible - Fallout](https://image.tmdb.org/t/p/original/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg)
 
@@ -209,7 +209,7 @@ When an IMF mission goes awry, Ethan Hunt faces his biggest challenge yet. With 
 <hr>
 
 
-## 5. [Ghost Rider](https://serp.ly/@serpmedia/github/amazon/Ghost+Rider)
+## 5. [Ghost Rider](https://serp.ly/amazon/Ghost+Rider)
 
 ![Ghost Rider](https://image.tmdb.org/t/p/original/8LaVQiXBsnlo7MXCPK1nXTVARUZ.jpg)
 
@@ -249,7 +249,7 @@ When young Johnny Blaze makes a soul-selling deal with Mephistopheles to save hi
 <hr>
 
 
-## 6. [Underworld: Awakening](https://serp.ly/@serpmedia/github/amazon/Underworld%3A+Awakening)
+## 6. [Underworld: Awakening](https://serp.ly/amazon/Underworld%3A+Awakening)
 
 ![Underworld: Awakening](https://image.tmdb.org/t/p/original/jN0uuc8U6M3sTg9zEaliJV60Stf.jpg)
 
@@ -289,7 +289,7 @@ When vampire warrioress Selene returns from years of imprisonment, she discovers
 <hr>
 
 
-## 7. [We Are Your Friends](https://serp.ly/@serpmedia/github/amazon/We+Are+Your+Friends)
+## 7. [We Are Your Friends](https://serp.ly/amazon/We+Are+Your+Friends)
 
 ![We Are Your Friends](https://image.tmdb.org/t/p/original/7RzpN4aLjM5FUc7Q3WsvNn2MuaR.jpg)
 
@@ -332,7 +332,7 @@ Young Cole Carter dreams of becoming a Hollywood disc jockey, and his big break 
 <hr>
 
 
-## 8. [Pete's Dragon](https://serp.ly/@serpmedia/github/amazon/Pete%27s+Dragon)
+## 8. [Pete's Dragon](https://serp.ly/amazon/Pete%27s+Dragon)
 
 ![Pete's Dragon](https://image.tmdb.org/t/p/original/5x0UTdorW3wtTUBJ33izQX1DXcy.jpg)
 
@@ -375,7 +375,7 @@ In the lush forests of the Pacific Northwest, an old wood carver's tales of a fi
 <hr>
 
 
-## 9. [Gone](https://serp.ly/@serpmedia/github/amazon/Gone)
+## 9. [Gone](https://serp.ly/amazon/Gone)
 
 ![Gone](https://image.tmdb.org/t/p/original/5GcbQhm0Qbbf1qt24spUpqX5tfP.jpg)
 
@@ -416,7 +416,7 @@ Jill Conway is rebuilding her life after a traumatic kidnapping attempt when her
 <hr>
 
 
-## 10. [Jonah Hex](https://serp.ly/@serpmedia/github/amazon/Jonah+Hex)
+## 10. [Jonah Hex](https://serp.ly/amazon/Jonah+Hex)
 
 ![Jonah Hex](https://image.tmdb.org/t/p/original/b1BLIXEe9zzaFvuWdYGoeuhuh75.jpg)
 
@@ -458,7 +458,7 @@ In this 2010 Western thriller, Gunslinger Jonah Hex is appointed by President Ul
 <hr>
 
 
-## 11. [P2](https://serp.ly/@serpmedia/github/amazon/P2)
+## 11. [P2](https://serp.ly/amazon/P2)
 
 ![P2](https://image.tmdb.org/t/p/original/3mTtQSKoFNyvhbcqBUJl8tPRqMz.jpg)
 
@@ -498,7 +498,7 @@ When a businesswoman is stuck working late on Christmas Eve, she finds herself l
 <hr>
 
 
-## 12. [Lovelace](https://serp.ly/@serpmedia/github/amazon/Lovelace)
+## 12. [Lovelace](https://serp.ly/amazon/Lovelace)
 
 ![Lovelace](https://image.tmdb.org/t/p/original/9zdacmBswpiyLJfynWeGFXxHP1i.jpg)
 
@@ -541,7 +541,7 @@ Linda Lovelace's story unfolds as she navigates the dark underbelly of the porn 
 <hr>
 
 
-## 13. [Knight of Cups](https://serp.ly/@serpmedia/github/amazon/Knight+of+Cups)
+## 13. [Knight of Cups](https://serp.ly/amazon/Knight+of+Cups)
 
 ![Knight of Cups](https://image.tmdb.org/t/p/original/xejFBC19Nc7Xi1MiIvcf84ZCy2g.jpg)
 
@@ -582,7 +582,7 @@ A quest.
 <hr>
 
 
-## 14. [The Four Feathers](https://serp.ly/@serpmedia/github/amazon/The+Four+Feathers)
+## 14. [The Four Feathers](https://serp.ly/amazon/The+Four+Feathers)
 
 ![The Four Feathers](https://image.tmdb.org/t/p/original/jE5Fdoq2xZqfNEptdSXMJr1uN8x.jpg)
 
@@ -625,7 +625,7 @@ In a tale of courage and deception, a young British officer resigns his post to 
 <hr>
 
 
-## 15. [Final Girl](https://serp.ly/@serpmedia/github/amazon/Final+Girl)
+## 15. [Final Girl](https://serp.ly/amazon/Final+Girl)
 
 ![Final Girl](https://image.tmdb.org/t/p/original/7liOzGi6DNESPv5gFC7g6mpqBSK.jpg)
 
@@ -664,7 +664,7 @@ When Veronica moves to a new town, she catches the attention of some senior boys
 <hr>
 
 
-## 16. [The Best of Enemies](https://serp.ly/@serpmedia/github/amazon/The+Best+of+Enemies)
+## 16. [The Best of Enemies](https://serp.ly/amazon/The+Best+of+Enemies)
 
 ![The Best of Enemies](https://image.tmdb.org/t/p/original/4pA9318BY7CSnXVi3xKBtPYMe1T.jpg)
 
@@ -702,7 +702,7 @@ The Best of Enemies chronicles the remarkable summer of 1971 in Durham, North Ca
 <hr>
 
 
-## 17. [Welcome to Me](https://serp.ly/@serpmedia/github/amazon/Welcome+to+Me)
+## 17. [Welcome to Me](https://serp.ly/amazon/Welcome+to+Me)
 
 ![Welcome to Me](https://image.tmdb.org/t/p/original/pGZV5m7T8NzNC4V2gk304W5SpVX.jpg)
 
@@ -739,7 +739,7 @@ When Alice Klieg wins the Mega-Millions lottery, she quits her psychiatric meds 
 <hr>
 
 
-## 18. [Dolan's Cadillac](https://serp.ly/@serpmedia/github/amazon/Dolan%27s+Cadillac)
+## 18. [Dolan's Cadillac](https://serp.ly/amazon/Dolan%27s+Cadillac)
 
 ![Dolan's Cadillac](https://image.tmdb.org/t/p/original/5R9MivzBtRpZCq3amYmNjEmfChT.jpg)
 
@@ -777,7 +777,7 @@ James Dolan, a notorious Las Vegas mob boss, commits a heinous crime that transf
 <hr>
 
 
-## 19. [Soul Survivors](https://serp.ly/@serpmedia/github/amazon/Soul+Survivors)
+## 19. [Soul Survivors](https://serp.ly/amazon/Soul+Survivors)
 
 ![Soul Survivors](https://image.tmdb.org/t/p/original/uWmHhtuEgX7oI0FuWR2oD08HRHD.jpg)
 
@@ -820,7 +820,7 @@ When a college freshman dies in a tragic car accident, she wakes up to find hers
 <hr>
 
 
-## 20. [Amnesiac](https://serp.ly/@serpmedia/github/amazon/Amnesiac)
+## 20. [Amnesiac](https://serp.ly/amazon/Amnesiac)
 
 ![Amnesiac](https://image.tmdb.org/t/p/original/dazYq2JoKpKjtVySA9vmLCv16J.jpg)
 
@@ -863,7 +863,7 @@ After waking up in bed with no memory of how he got there, a man begins to suspe
 <hr>
 
 
-## 21. [There Be Dragons](https://serp.ly/@serpmedia/github/amazon/There+Be+Dragons)
+## 21. [There Be Dragons](https://serp.ly/amazon/There+Be+Dragons)
 
 ![There Be Dragons](https://image.tmdb.org/t/p/original/7y6ehxTLB1ZJl3xFVFbhcnoJx1m.jpg)
 
@@ -902,7 +902,7 @@ rparrIn the shadow of the Spanish Civil War, a young journalist named Robert beg
 <hr>
 
 
-## 22. [Beloved](https://serp.ly/@serpmedia/github/amazon/Beloved)
+## 22. [Beloved](https://serp.ly/amazon/Beloved)
 
 ![Beloved](https://image.tmdb.org/t/p/original/iL6Sl1HAi8lAJ9jI3HbOCoaiXP9.jpg)
 
@@ -942,7 +942,7 @@ Set in Ohio after the Civil War, "Beloved" reunites former slave friends Sethe a
 <hr>
 
 
-## 23. [The Claim](https://serp.ly/@serpmedia/github/amazon/The+Claim)
+## 23. [The Claim](https://serp.ly/amazon/The+Claim)
 
 ![The Claim](https://image.tmdb.org/t/p/original/drpLBTmnMOzDUVAd3jqeLjdolcf.jpg)
 
@@ -985,7 +985,7 @@ In the old west town of Kingdom Come, a successful prospector's lavish lifestyle
 <hr>
 
 
-## 24. [Pioneer](https://serp.ly/@serpmedia/github/amazon/Pioneer)
+## 24. [Pioneer](https://serp.ly/amazon/Pioneer)
 
 ![Pioneer](https://image.tmdb.org/t/p/original/bpJyl76W6erraH08kf19nmpCwn3.jpg)
 
@@ -1024,7 +1024,7 @@ In the old west town of Kingdom Come, a successful prospector's lavish lifestyle
 <hr>
 
 
-## 25. [Broken Vows](https://serp.ly/@serpmedia/github/amazon/Broken+Vows)
+## 25. [Broken Vows](https://serp.ly/amazon/Broken+Vows)
 
 ![Broken Vows](https://image.tmdb.org/t/p/original/rqxCm1xyd5f2wKeUOCjXy3Brhsc.jpg)
 
@@ -1060,7 +1060,7 @@ Tara's adventurous bachelorette party in New Orleans leads her to cross paths wi
 <hr>
 
 
-## 26. [The Last Word](https://serp.ly/@serpmedia/github/amazon/The+Last+Word)
+## 26. [The Last Word](https://serp.ly/amazon/The+Last+Word)
 
 ![The Last Word](https://image.tmdb.org/t/p/original/2Aou5FwwTlMhiS63J49vcOoVCwv.jpg)
 
@@ -1096,7 +1096,7 @@ In this witty 2008 romantic comedy, an unconventional poet named Evan Merck make
 <hr>
 
 
-## 27. [The Game of Their Lives](https://serp.ly/@serpmedia/github/amazon/The+Game+of+Their+Lives)
+## 27. [The Game of Their Lives](https://serp.ly/amazon/The+Game+of+Their+Lives)
 
 ![The Game of Their Lives](https://image.tmdb.org/t/p/original/90XfPXgWjMjLMjlNpDzlKvrD0R9.jpg)
 
@@ -1130,7 +1130,7 @@ In a true story that unfolds on the soccer fields of Brazil, an underdog US team
 <hr>
 
 
-## 28. [Cesar Chavez](https://serp.ly/@serpmedia/github/amazon/Cesar+Chavez)
+## 28. [Cesar Chavez](https://serp.ly/amazon/Cesar+Chavez)
 
 ![Cesar Chavez](https://image.tmdb.org/t/p/original/cyEpCV8nLfhloAkwNxel4OjIhAA.jpg)
 
@@ -1171,7 +1171,7 @@ History is made one step at a time.
 <hr>
 
 
-## 29. [Weirdsville](https://serp.ly/@serpmedia/github/amazon/Weirdsville)
+## 29. [Weirdsville](https://serp.ly/amazon/Weirdsville)
 
 ![Weirdsville](https://image.tmdb.org/t/p/original/pIstBZoDPK9ryLzYk4micKKGpfQ.jpg)
 
@@ -1205,7 +1205,7 @@ Two slackers think they've got the perfect plan to dispose of their dead girlfri
 <hr>
 
 
-## 30. [Rites of Passage](https://serp.ly/@serpmedia/github/amazon/Rites+of+Passage)
+## 30. [Rites of Passage](https://serp.ly/amazon/Rites+of+Passage)
 
 ![Rites of Passage](https://image.tmdb.org/t/p/original/jzXX7YkcvARSGAvgpeH28pzJyAW.jpg)
 
@@ -1245,7 +1245,7 @@ An anthropology class visits a sacred burial ground for a special project, but t
 <hr>
 
 
-## 31. [The Better Angels](https://serp.ly/@serpmedia/github/amazon/The+Better+Angels)
+## 31. [The Better Angels](https://serp.ly/amazon/The+Better+Angels)
 
 ![The Better Angels](https://image.tmdb.org/t/p/original/k6qHQrKBNnUdTLnWfzQ4T1XnU4Z.jpg)
 
@@ -1284,7 +1284,7 @@ In the harsh wilderness of Indiana circa 1817, a young Abraham Lincoln learns th
 <hr>
 
 
-## 32. [After the Fall](https://serp.ly/@serpmedia/github/amazon/After+the+Fall)
+## 32. [After the Fall](https://serp.ly/amazon/After+the+Fall)
 
 ![After the Fall](https://image.tmdb.org/t/p/original/yjW3KfJ8JSSwZPV1ZK0bn5pLLPf.jpg)
 
@@ -1321,7 +1321,7 @@ Bill Scanlin's life takes a dark turn when he loses his job and turns to crime. 
 <hr>
 
 
-## 33. [The Tomb](https://serp.ly/@serpmedia/github/amazon/The+Tomb)
+## 33. [The Tomb](https://serp.ly/amazon/The+Tomb)
 
 ![The Tomb](https://image.tmdb.org/t/p/original/5bnpmp4XQGltCC2AYD4CppeBv8F.jpg)
 
@@ -1359,7 +1359,7 @@ In this mesmerizing tale, renowned writer Jonathan Merrick's life changes when h
 <hr>
 
 
-## 34. [Hirokin: The Last Samurai](https://serp.ly/@serpmedia/github/amazon/Hirokin%3A+The+Last+Samurai)
+## 34. [Hirokin: The Last Samurai](https://serp.ly/amazon/Hirokin%3A+The+Last+Samurai)
 
 ![Hirokin: The Last Samurai](https://image.tmdb.org/t/p/original/2N6NDtxSPSKM4q1KRqNILNf8ZvH.jpg)
 
@@ -1393,7 +1393,7 @@ In a post-apocalyptic world where humans scrape together a living in the barren 
 <hr>
 
 
-## 35. [3 Nights in the Desert](https://serp.ly/@serpmedia/github/amazon/3+Nights+in+the+Desert)
+## 35. [3 Nights in the Desert](https://serp.ly/amazon/3+Nights+in+the+Desert)
 
 ![3 Nights in the Desert](https://image.tmdb.org/t/p/original/7737whrIW2043oi2hgB9L3Rzlsf.jpg)
 
@@ -1429,7 +1429,7 @@ Three former bandmates enter a mysterious cave, seeking one last chance to make 
 <hr>
 
 
-## 36. [The White River Kid](https://serp.ly/@serpmedia/github/amazon/The+White+River+Kid)
+## 36. [The White River Kid](https://serp.ly/amazon/The+White+River+Kid)
 
 ![The White River Kid](https://image.tmdb.org/t/p/original/qdULc09j1WCnQDLcHcd4jIHH9TW.jpg)
 
@@ -1463,7 +1463,7 @@ Traveling through the American South, two con men's carefully crafted schemes ta
 <hr>
 
 
-## 37. [The Time Being](https://serp.ly/@serpmedia/github/amazon/The+Time+Being)
+## 37. [The Time Being](https://serp.ly/amazon/The+Time+Being)
 
 ![The Time Being](https://image.tmdb.org/t/p/original/a1LBSL9owL4B90K4xGevzmdqaS1.jpg)
 
@@ -1497,7 +1497,7 @@ The Time Being tells the story of a young artist who accepts commissions from a 
 <hr>
 
 
-## 38. [The Ungodly](https://serp.ly/@serpmedia/github/amazon/The+Ungodly)
+## 38. [The Ungodly](https://serp.ly/amazon/The+Ungodly)
 
 ![The Ungodly](https://image.tmdb.org/t/p/original/69l0scoORONAILNDtcG2InPkt4w.jpg)
 
@@ -1533,7 +1533,7 @@ In this 2007 indie film, a struggling filmmaker stumbles upon a notorious serial
 <hr>
 
 
-## 39. [Hidden Moon](https://serp.ly/@serpmedia/github/amazon/Hidden+Moon)
+## 39. [Hidden Moon](https://serp.ly/amazon/Hidden+Moon)
 
 ![Hidden Moon](https://image.tmdb.org/t/p/original/v6gEe6dkrL5T0imRJigGP96t1os.jpg)
 
@@ -1567,7 +1567,7 @@ After a mysterious woman named Miranda appears at his father's funeral, Victor t
 <hr>
 
 
-## 40. [American Beauty: Look Closer...](https://serp.ly/@serpmedia/github/amazon/American+Beauty%3A+Look+Closer...)
+## 40. [American Beauty: Look Closer...](https://serp.ly/amazon/American+Beauty%3A+Look+Closer...)
 
 ![American Beauty: Look Closer...](https://image.tmdb.org/t/p/original/vzIaeW2iGAgNkT48jpO3cn5yxlY.jpg)
 
@@ -1603,7 +1603,7 @@ After a mysterious woman named Miranda appears at his father's funeral, Victor t
 <hr>
 
 
-## 41. [The World Is Watching: Making the Hunger Games](https://serp.ly/@serpmedia/github/amazon/The+World+Is+Watching%3A+Making+the+Hunger+Games)
+## 41. [The World Is Watching: Making the Hunger Games](https://serp.ly/amazon/The+World+Is+Watching%3A+Making+the+Hunger+Games)
 
 ![The World Is Watching: Making the Hunger Games](https://image.tmdb.org/t/p/original/2bpO6IjqcSOxICVafi9qCc6imie.jpg)
 
@@ -1637,7 +1637,7 @@ After a mysterious woman named Miranda appears at his father's funeral, Victor t
 <hr>
 
 
-## 42. [After-School Special](https://serp.ly/@serpmedia/github/amazon/After-School+Special)
+## 42. [After-School Special](https://serp.ly/amazon/After-School+Special)
 
 ![After-School Special](https://image.tmdb.org/t/p/original/wmkIkLVaUOKeljpQIgEO5o8XNPg.jpg)
 
@@ -1671,7 +1671,7 @@ When a man and a woman bump into each other at an indoor playground, their perso
 <hr>
 
 
-## 43. [Open](https://serp.ly/@serpmedia/github/amazon/Open)
+## 43. [Open](https://serp.ly/amazon/Open)
 
 ![Open](https://image.tmdb.org/t/p/original/hZ5lHvozKuyfz1cp9ioNn3fiwhP.jpg)
 
@@ -1705,7 +1705,7 @@ When a man and a woman bump into each other at an indoor playground, their perso
 <hr>
 
 
-## 44. [Three Below Zero](https://serp.ly/@serpmedia/github/amazon/Three+Below+Zero)
+## 44. [Three Below Zero](https://serp.ly/amazon/Three+Below+Zero)
 
 ![Three Below Zero](https://image.tmdb.org/t/p/original/a5md46ItlRffV4FZtNkbPFiXHEC.jpg)
 
@@ -1739,7 +1739,7 @@ When the power goes out on the hottest day of summer, a group of New Yorkers fin
 <hr>
 
 
-## 45. [My Big Break](https://serp.ly/@serpmedia/github/amazon/My+Big+Break)
+## 45. [My Big Break](https://serp.ly/amazon/My+Big+Break)
 
 ![My Big Break](https://image.tmdb.org/t/p/original/fDsuevNN8UIH6HkIZHV9xvyLOG3.jpg)
 
@@ -1773,7 +1773,7 @@ Five friends share a house in Hollywood as their personal lives intersect with t
 <hr>
 
 
-## 46. [Stars In Shorts](https://serp.ly/@serpmedia/github/amazon/Stars+In+Shorts)
+## 46. [Stars In Shorts](https://serp.ly/amazon/Stars+In+Shorts)
 
 ![Stars In Shorts](https://image.tmdb.org/t/p/original/oi8J2mJnwZ0W5Fs0A81YwXpc7YU.jpg)
 
@@ -1809,7 +1809,7 @@ Collective Screening of Seven Short Films
 <hr>
 
 
-## 47. [The Greims](https://serp.ly/@serpmedia/github/amazon/The+Greims)
+## 47. [The Greims](https://serp.ly/amazon/The+Greims)
 
 ![The Greims](https://image.tmdb.org/t/p/original/Mauivc9F4kpIPUJYTLIywEUhNc.jpg)
 
@@ -1839,7 +1839,7 @@ In a small town, an unusual family runs a curio shop filled with mysteries and w
 <hr>
 
 
-## 48. [Carving Out Our Name](https://serp.ly/@serpmedia/github/amazon/Carving+Out+Our+Name)
+## 48. [Carving Out Our Name](https://serp.ly/amazon/Carving+Out+Our+Name)
 
 ![Carving Out Our Name](https://image.tmdb.org/t/p/original/6zEmItPNlJGHV3v6vJ2ToYuRB1x.jpg)
 
@@ -1870,7 +1870,7 @@ In this unconventional documentary, a young filmmaker with nothing but ambition 
 <hr>
 
 
-## 1. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 1. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1914,7 +1914,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 2. [Yellowstone](https://serp.ly/@serpmedia/github/amazon/Yellowstone)
+## 2. [Yellowstone](https://serp.ly/amazon/Yellowstone)
 
 ![Yellowstone](https://image.tmdb.org/t/p/original/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg)
 
@@ -1960,7 +1960,7 @@ When it comes to American ranching, the Dutton family runs the biggest show in t
 <hr>
 
 
-## 3. [American Horror Story](https://serp.ly/@serpmedia/github/amazon/American+Horror+Story)
+## 3. [American Horror Story](https://serp.ly/amazon/American+Horror+Story)
 
 ![American Horror Story](https://image.tmdb.org/t/p/original/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg)
 
@@ -2006,7 +2006,7 @@ What to suspect when you're expecting.
 <hr>
 
 
-## 4. [Blade Runner: Black Lotus](https://serp.ly/@serpmedia/github/amazon/Blade+Runner%3A+Black+Lotus)
+## 4. [Blade Runner: Black Lotus](https://serp.ly/amazon/Blade+Runner%3A+Black+Lotus)
 
 ![Blade Runner: Black Lotus](https://image.tmdb.org/t/p/original/aR06SJRDGqRmGQYXAXqeOkRZq7T.jpg)
 

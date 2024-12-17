@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Maze Runner](https://serp.ly/@serpmedia/github/amazon/The+Maze+Runner)
+## 1. [The Maze Runner](https://serp.ly/amazon/The+Maze+Runner)
 
 ![The Maze Runner](https://image.tmdb.org/t/p/original/ode14q7WtDugFDp78fo9lCsmay9.jpg)
 
@@ -77,7 +77,7 @@ In a world where memories are just whispers of the past, young Thomas finds hims
 <hr>
 
 
-## 2. [Pirates of the Caribbean: Dead Men Tell No Tales](https://serp.ly/@serpmedia/github/amazon/Pirates+of+the+Caribbean%3A+Dead+Men+Tell+No+Tales)
+## 2. [Pirates of the Caribbean: Dead Men Tell No Tales](https://serp.ly/amazon/Pirates+of+the+Caribbean%3A+Dead+Men+Tell+No+Tales)
 
 ![Pirates of the Caribbean: Dead Men Tell No Tales](https://image.tmdb.org/t/p/original/qwoGfcg6YUS55nUweKGujHE54Wy.jpg)
 
@@ -117,7 +117,7 @@ Join Captain Jack Sparrow as he faces his greatest challenge yet. When ghostly s
 <hr>
 
 
-## 3. [Maze Runner: The Scorch Trials](https://serp.ly/@serpmedia/github/amazon/Maze+Runner%3A+The+Scorch+Trials)
+## 3. [Maze Runner: The Scorch Trials](https://serp.ly/amazon/Maze+Runner%3A+The+Scorch+Trials)
 
 ![Maze Runner: The Scorch Trials](https://image.tmdb.org/t/p/original/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg)
 
@@ -160,7 +160,7 @@ The Maze Was Just the Beginning.
 <hr>
 
 
-## 4. [Maze Runner: The Death Cure](https://serp.ly/@serpmedia/github/amazon/Maze+Runner%3A+The+Death+Cure)
+## 4. [Maze Runner: The Death Cure](https://serp.ly/amazon/Maze+Runner%3A+The+Death+Cure)
 
 ![Maze Runner: The Death Cure](https://image.tmdb.org/t/p/original/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg)
 
@@ -200,7 +200,7 @@ The end will be WCKD
 <hr>
 
 
-## 5. [Moon](https://serp.ly/@serpmedia/github/amazon/Moon)
+## 5. [Moon](https://serp.ly/amazon/Moon)
 
 ![Moon](https://image.tmdb.org/t/p/original/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg)
 
@@ -240,7 +240,7 @@ With only three weeks left in his three-year contract, Sam Bell is getting anxio
 <hr>
 
 
-## 6. [Clash of the Titans](https://serp.ly/@serpmedia/github/amazon/Clash+of+the+Titans)
+## 6. [Clash of the Titans](https://serp.ly/amazon/Clash+of+the+Titans)
 
 ![Clash of the Titans](https://image.tmdb.org/t/p/original/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg)
 
@@ -280,7 +280,7 @@ In "Clash of the Titans", Perseus faces his greatest challenge yet. Born of a go
 <hr>
 
 
-## 7. [Extremely Wicked, Shockingly Evil and Vile](https://serp.ly/@serpmedia/github/amazon/Extremely+Wicked%2C+Shockingly+Evil+and+Vile)
+## 7. [Extremely Wicked, Shockingly Evil and Vile](https://serp.ly/amazon/Extremely+Wicked%2C+Shockingly+Evil+and+Vile)
 
 ![Extremely Wicked, Shockingly Evil and Vile](https://image.tmdb.org/t/p/original/a7dVwEBU3vupg3hZQMeyL6ksz0F.jpg)
 
@@ -316,7 +316,7 @@ The story behind America's most notorious serial killer.
 <hr>
 
 
-## 8. [Crawl](https://serp.ly/@serpmedia/github/amazon/Crawl)
+## 8. [Crawl](https://serp.ly/amazon/Crawl)
 
 ![Crawl](https://image.tmdb.org/t/p/original/s73fggD9Pa17XsJLdZp7JjLpVar.jpg)
 
@@ -359,7 +359,7 @@ In this 2019 Canadian-US horror film, a massive hurricane strands Haley and her 
 <hr>
 
 
-## 9. [Resident Evil: Welcome to Raccoon City](https://serp.ly/@serpmedia/github/amazon/Resident+Evil%3A+Welcome+to+Raccoon+City)
+## 9. [Resident Evil: Welcome to Raccoon City](https://serp.ly/amazon/Resident+Evil%3A+Welcome+to+Raccoon+City)
 
 ![Resident Evil: Welcome to Raccoon City](https://image.tmdb.org/t/p/original/bArhvjRHl535XMaSh9VjInF2mSZ.jpg)
 
@@ -402,7 +402,7 @@ Once the thriving home of pharmaceutical giant Umbrella Corporation, Raccoon Cit
 <hr>
 
 
-## 10. [Now Is Good](https://serp.ly/@serpmedia/github/amazon/Now+Is+Good)
+## 10. [Now Is Good](https://serp.ly/amazon/Now+Is+Good)
 
 ![Now Is Good](https://image.tmdb.org/t/p/original/oOBHF6qWtMkzwpnrLDTKJPAb3zH.jpg)
 
@@ -444,7 +444,7 @@ When a young girl dying of leukemia compiles a list of her final wishes, topping
 <hr>
 
 
-## 11. [The King's Daughter](https://serp.ly/@serpmedia/github/amazon/The+King%27s+Daughter)
+## 11. [The King's Daughter](https://serp.ly/amazon/The+King%27s+Daughter)
 
 ![The King's Daughter](https://image.tmdb.org/t/p/original/zwRf07ECh7nV7xlahKzN5wFYhGx.jpg)
 
@@ -487,7 +487,7 @@ In this enchanting tale, King Louis XIV's obsessive search for immortality draws
 <hr>
 
 
-## 12. [Tiger House](https://serp.ly/@serpmedia/github/amazon/Tiger+House)
+## 12. [Tiger House](https://serp.ly/amazon/Tiger+House)
 
 ![Tiger House](https://image.tmdb.org/t/p/original/heqehuEfbg2283Z9hFmsVuv3UE3.jpg)
 
@@ -523,7 +523,7 @@ In "Tiger House", a young gymnast finds herself face-to-face with four bank robb
 <hr>
 
 
-## 13. [The Truth About Emanuel](https://serp.ly/@serpmedia/github/amazon/The+Truth+About+Emanuel)
+## 13. [The Truth About Emanuel](https://serp.ly/amazon/The+Truth+About+Emanuel)
 
 ![The Truth About Emanuel](https://image.tmdb.org/t/p/original/z98jqAlVlnXyYnTlC95Na8FQXHF.jpg)
 
@@ -566,7 +566,7 @@ When a young woman loses her mother, she finds an unexpected connection in her n
 <hr>
 
 
-## 14. [Wuthering Heights](https://serp.ly/@serpmedia/github/amazon/Wuthering+Heights)
+## 14. [Wuthering Heights](https://serp.ly/amazon/Wuthering+Heights)
 
 ![Wuthering Heights](https://image.tmdb.org/t/p/original/7gEcoCve3lmPOIPRp54K73b6rDv.jpg)
 
@@ -609,7 +609,7 @@ In the bleak Yorkshire moorlands of the late 18th century, young Heathcliff is r
 <hr>
 
 
-## 15. [Don't Make Me Go](https://serp.ly/@serpmedia/github/amazon/Don%27t+Make+Me+Go)
+## 15. [Don't Make Me Go](https://serp.ly/amazon/Don%27t+Make+Me+Go)
 
 ![Don't Make Me Go](https://image.tmdb.org/t/p/original/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg)
 
@@ -645,7 +645,7 @@ When a terminally ill man learns he has just months left to live, he makes a bol
 <hr>
 
 
-## 16. [Spike Island](https://serp.ly/@serpmedia/github/amazon/Spike+Island)
+## 16. [Spike Island](https://serp.ly/amazon/Spike+Island)
 
 ![Spike Island](https://image.tmdb.org/t/p/original/jKlnZHSfQW09Q1SICvpDwPL762o.jpg)
 
@@ -681,7 +681,7 @@ When two teenage music enthusiasts travel to England's Spike Island, they hope t
 <hr>
 
 
-## 17. [Shank](https://serp.ly/@serpmedia/github/amazon/Shank)
+## 17. [Shank](https://serp.ly/amazon/Shank)
 
 ![Shank](https://image.tmdb.org/t/p/original/jUqEb54raDC2SnAznfkQYC08H2s.jpg)
 
@@ -717,7 +717,7 @@ In a dystopian future where guns have been replaced by knives, Mo Ali's "Shank" 
 <hr>
 
 
-## 18. [This Is Christmas](https://serp.ly/@serpmedia/github/amazon/This+Is+Christmas)
+## 18. [This Is Christmas](https://serp.ly/amazon/This+Is+Christmas)
 
 ![This Is Christmas](https://image.tmdb.org/t/p/original/xCbmauk51911Sd5aSkDCYivhwDy.jpg)
 
@@ -753,7 +753,7 @@ Every day, Adam and Emma travel from their village of Langton to London, sharing
 <hr>
 
 
-## 19. [Twenty8K](https://serp.ly/@serpmedia/github/amazon/Twenty8K)
+## 19. [Twenty8K](https://serp.ly/amazon/Twenty8K)
 
 ![Twenty8K](https://image.tmdb.org/t/p/original/pDe8EVoh3ms3oWrHmc9OgYXiEmm.jpg)
 
@@ -787,7 +787,7 @@ When a young boy is shot dead outside a nightclub and a girl dies in a hit-and-r
 <hr>
 
 
-## 20. [Walking Stories](https://serp.ly/@serpmedia/github/amazon/Walking+Stories)
+## 20. [Walking Stories](https://serp.ly/amazon/Walking+Stories)
 
 ![Walking Stories](https://image.tmdb.org/t/p/original/kloYxY8XKOqrfDslDQoLt3tgPgS.jpg)
 
@@ -823,7 +823,7 @@ When two people meet on a beautiful Italian day, their unexpected connection set
 <hr>
 
 
-## 21. [Skins: Fire](https://serp.ly/@serpmedia/github/amazon/Skins%3A+Fire)
+## 21. [Skins: Fire](https://serp.ly/amazon/Skins%3A+Fire)
 
 ![Skins: Fire](https://image.tmdb.org/t/p/original/gsbrqswNEI8tsT391ogwUNz3ERn.jpg)
 
@@ -856,7 +856,7 @@ Former party girl Effy has traded her nightclub days for the high-stakes world o
 <hr>
 
 
-## 22. [A Plea for Grimsby](https://serp.ly/@serpmedia/github/amazon/A+Plea+for+Grimsby)
+## 22. [A Plea for Grimsby](https://serp.ly/amazon/A+Plea+for+Grimsby)
 
 ![A Plea for Grimsby](https://image.tmdb.org/t/p/original/tiR6cKhzmx7Rqc1x44WQ9jRhrrC.jpg)
 
@@ -890,7 +890,7 @@ Former party girl Effy has traded her nightclub days for the high-stakes world o
 <hr>
 
 
-## 23. [Adulthood](https://serp.ly/@serpmedia/github/amazon/Adulthood)
+## 23. [Adulthood](https://serp.ly/amazon/Adulthood)
 
 <br>
 
@@ -911,7 +911,7 @@ When two siblings stumble upon a dark secret in their parent's basement, their m
 <hr>
 
 
-## 24. [Apteros](https://serp.ly/@serpmedia/github/amazon/Apteros)
+## 24. [Apteros](https://serp.ly/amazon/Apteros)
 
 <br>
 
@@ -935,7 +935,7 @@ In the not-too-distant future, a crew of seven astronauts journeys to Mars after
 <hr>
 
 
-## 1. [Skins](https://serp.ly/@serpmedia/github/amazon/Skins)
+## 1. [Skins](https://serp.ly/amazon/Skins)
 
 ![Skins](https://image.tmdb.org/t/p/original/c7yEYviYpMb9CfOASt3IEhMQ9PB.jpg)
 
@@ -979,7 +979,7 @@ Skins offers an unfiltered glimpse into teenage life in Bristol, documenting a t
 <hr>
 
 
-## 2. [The Gentlemen](https://serp.ly/@serpmedia/github/amazon/The+Gentlemen)
+## 2. [The Gentlemen](https://serp.ly/amazon/The+Gentlemen)
 
 ![The Gentlemen](https://image.tmdb.org/t/p/original/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg)
 
@@ -1025,7 +1025,7 @@ Eddie inherits the family estate, only to discover it's the heart of an enormous
 <hr>
 
 
-## 3. [The Pale Horse](https://serp.ly/@serpmedia/github/amazon/The+Pale+Horse)
+## 3. [The Pale Horse](https://serp.ly/amazon/The+Pale+Horse)
 
 ![The Pale Horse](https://image.tmdb.org/t/p/original/x2wu80dxUAHVmksi33rST1AbkWE.jpg)
 
@@ -1067,7 +1067,7 @@ When a dead woman's shoe yields a mysterious list of names, one of the named ind
 <hr>
 
 
-## 4. [Spinning Out](https://serp.ly/@serpmedia/github/amazon/Spinning+Out)
+## 4. [Spinning Out](https://serp.ly/amazon/Spinning+Out)
 
 ![Spinning Out](https://image.tmdb.org/t/p/original/bAEGuEK0z4KTlrsx5UYpIvmPIPc.jpg)
 
@@ -1111,7 +1111,7 @@ When a promising single skater faces the end of her career after a devastating f
 <hr>
 
 
-## 5. [Southcliffe](https://serp.ly/@serpmedia/github/amazon/Southcliffe)
+## 5. [Southcliffe](https://serp.ly/amazon/Southcliffe)
 
 ![Southcliffe](https://image.tmdb.org/t/p/original/8bbHIc1lk6ZOgJHlXopg18qx1ZW.jpg)
 
@@ -1153,7 +1153,7 @@ When a promising single skater faces the end of her career after a devastating f
 <hr>
 
 
-## 6. [The Fashion Fund](https://serp.ly/@serpmedia/github/amazon/The+Fashion+Fund)
+## 6. [The Fashion Fund](https://serp.ly/amazon/The+Fashion+Fund)
 
 ![The Fashion Fund](https://image.tmdb.org/t/p/original/3T1ePqa2mhjCSzatcqMwDx5xSg8.jpg)
 
@@ -1195,7 +1195,7 @@ The Fashion Fund offers an intimate look at the competition that has launched th
 <hr>
 
 
-## 7. [Senna](https://serp.ly/@serpmedia/github/amazon/Senna)
+## 7. [Senna](https://serp.ly/amazon/Senna)
 
 ![Senna](https://image.tmdb.org/t/p/original/mSqpmFuo2MoBPpw0XKQw97exdNn.jpg)
 
@@ -1232,7 +1232,7 @@ Senna chronicles the extraordinary journey of a Brazilian Formula 1 driver who t
 <hr>
 
 
-## 8. [True Love](https://serp.ly/@serpmedia/github/amazon/True+Love)
+## 8. [True Love](https://serp.ly/amazon/True+Love)
 
 ![True Love](https://image.tmdb.org/t/p/original/dzSZES4c7xKzgmJP6Eu7r0ilvH6.jpg)
 

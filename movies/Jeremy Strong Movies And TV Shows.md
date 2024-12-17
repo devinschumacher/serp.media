@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Big Short](https://serp.ly/@serpmedia/github/amazon/The+Big+Short)
+## 1. [The Big Short](https://serp.ly/amazon/The+Big+Short)
 
 ![The Big Short](https://image.tmdb.org/t/p/original/isuQWbJPbjybBEWdcCaBUPmU0XO.jpg)
 
@@ -80,7 +80,7 @@ When the global economy melts down, a few sharp investors turn chaos into opport
 <hr>
 
 
-## 2. [The Gentlemen](https://serp.ly/@serpmedia/github/amazon/The+Gentlemen)
+## 2. [The Gentlemen](https://serp.ly/amazon/The+Gentlemen)
 
 ![The Gentlemen](https://image.tmdb.org/t/p/original/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg)
 
@@ -120,7 +120,7 @@ In this sophisticated British drama, American entrepreneur Mickey Pearson operat
 <hr>
 
 
-## 3. [Zero Dark Thirty](https://serp.ly/@serpmedia/github/amazon/Zero+Dark+Thirty)
+## 3. [Zero Dark Thirty](https://serp.ly/amazon/Zero+Dark+Thirty)
 
 ![Zero Dark Thirty](https://image.tmdb.org/t/p/original/coeTvXKAYZlrcIfsCfYV5Hw1npu.jpg)
 
@@ -163,7 +163,7 @@ The greatest manhunt in history.
 <hr>
 
 
-## 4. [The Judge](https://serp.ly/@serpmedia/github/amazon/The+Judge)
+## 4. [The Judge](https://serp.ly/amazon/The+Judge)
 
 ![The Judge](https://image.tmdb.org/t/p/original/tefUxj4Gg9hgQNgfEYd7kJQrIlD.jpg)
 
@@ -203,7 +203,7 @@ A successful lawyer returns to his hometown for his mother's funeral, where he d
 <hr>
 
 
-## 5. [Molly's Game](https://serp.ly/@serpmedia/github/amazon/Molly%27s+Game)
+## 5. [Molly's Game](https://serp.ly/amazon/Molly%27s+Game)
 
 ![Molly's Game](https://image.tmdb.org/t/p/original/in43bQ7k0ttr666IPP94IlbQbTR.jpg)
 
@@ -246,7 +246,7 @@ Molly's Game centers on a young skier who channels her Olympic aspirations into 
 <hr>
 
 
-## 6. [Lincoln](https://serp.ly/@serpmedia/github/amazon/Lincoln)
+## 6. [Lincoln](https://serp.ly/amazon/Lincoln)
 
 ![Lincoln](https://image.tmdb.org/t/p/original/oOo905cttAIkHERDBya5sX6HbIV.jpg)
 
@@ -287,7 +287,7 @@ Molly's Game centers on a young skier who channels her Olympic aspirations into 
 <hr>
 
 
-## 7. [The Trial of the Chicago 7](https://serp.ly/@serpmedia/github/amazon/The+Trial+of+the+Chicago+7)
+## 7. [The Trial of the Chicago 7](https://serp.ly/amazon/The+Trial+of+the+Chicago+7)
 
 ![The Trial of the Chicago 7](https://image.tmdb.org/t/p/original/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg)
 
@@ -327,7 +327,7 @@ The year is 1968, and what begins as a peaceful protest unfolds into a dramatic 
 <hr>
 
 
-## 8. [Black Mass](https://serp.ly/@serpmedia/github/amazon/Black+Mass)
+## 8. [Black Mass](https://serp.ly/amazon/Black+Mass)
 
 ![Black Mass](https://image.tmdb.org/t/p/original/zfwciv4LIJkNQsfuhYGv0Nkiweg.jpg)
 
@@ -370,7 +370,7 @@ Keep your enemies close.
 <hr>
 
 
-## 9. [The Happening](https://serp.ly/@serpmedia/github/amazon/The+Happening)
+## 9. [The Happening](https://serp.ly/amazon/The+Happening)
 
 ![The Happening](https://image.tmdb.org/t/p/original/v1Cw6WaCjNqInpAzUwbXB4LGgoX.jpg)
 
@@ -413,7 +413,7 @@ When a mysterious airborne virus threatens to devastate the northeastern United 
 <hr>
 
 
-## 10. [Selma](https://serp.ly/@serpmedia/github/amazon/Selma)
+## 10. [Selma](https://serp.ly/amazon/Selma)
 
 ![Selma](https://image.tmdb.org/t/p/original/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg)
 
@@ -455,7 +455,7 @@ One dream can change the world.
 <hr>
 
 
-## 11. [Detroit](https://serp.ly/@serpmedia/github/amazon/Detroit)
+## 11. [Detroit](https://serp.ly/amazon/Detroit)
 
 ![Detroit](https://image.tmdb.org/t/p/original/tmCt2hy9QoFHft3UcHwpGX2Sihl.jpg)
 
@@ -495,7 +495,7 @@ In 1967, a routine police raid in Detroit spirals into one of the most significa
 <hr>
 
 
-## 12. [Serenity](https://serp.ly/@serpmedia/github/amazon/Serenity)
+## 12. [Serenity](https://serp.ly/amazon/Serenity)
 
 ![Serenity](https://image.tmdb.org/t/p/original/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg)
 
@@ -538,7 +538,7 @@ In the isolated Plymouth Island community, fishing boat captain Baker Dill's obs
 <hr>
 
 
-## 13. [Robot & Frank](https://serp.ly/@serpmedia/github/amazon/Robot+%26+Frank)
+## 13. [Robot & Frank](https://serp.ly/amazon/Robot+%26+Frank)
 
 ![Robot & Frank](https://image.tmdb.org/t/p/original/602vUwe1GPmaRvcrT3OQWqH1Nm1.jpg)
 
@@ -578,7 +578,7 @@ When Frank, a grumpy old man, receives a robotic caretaker, his initial resistan
 <hr>
 
 
-## 14. [The Messenger](https://serp.ly/@serpmedia/github/amazon/The+Messenger)
+## 14. [The Messenger](https://serp.ly/amazon/The+Messenger)
 
 ![The Messenger](https://image.tmdb.org/t/p/original/p4fJyH7mMbasiFYwiw2nE7D6pMY.jpg)
 
@@ -618,7 +618,7 @@ Will Montgomery returns home from Iraq to join the Army's Casualty Notification 
 <hr>
 
 
-## 15. [Armageddon Time](https://serp.ly/@serpmedia/github/amazon/Armageddon+Time)
+## 15. [Armageddon Time](https://serp.ly/amazon/Armageddon+Time)
 
 ![Armageddon Time](https://image.tmdb.org/t/p/original/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg)
 
@@ -658,7 +658,7 @@ Queens, 1980. A young Jewish boy forms an unexpected friendship with a rebelliou
 <hr>
 
 
-## 16. [Parkland](https://serp.ly/@serpmedia/github/amazon/Parkland)
+## 16. [Parkland](https://serp.ly/amazon/Parkland)
 
 ![Parkland](https://image.tmdb.org/t/p/original/3slcSL2i9oub4SUT8oF28npx9z5.jpg)
 
@@ -698,7 +698,7 @@ November 22, 1963, 12:38 pm - A trauma patient is rushed to Parkland Memorial Ho
 <hr>
 
 
-## 17. [The Romantics](https://serp.ly/@serpmedia/github/amazon/The+Romantics)
+## 17. [The Romantics](https://serp.ly/amazon/The+Romantics)
 
 ![The Romantics](https://image.tmdb.org/t/p/original/cgyXubpBzHuXTGu8gnBQ1gUrcNY.jpg)
 
@@ -736,7 +736,7 @@ The Romantics explores what happens when seven college friends reunite for a sea
 <hr>
 
 
-## 18. [Time Out of Mind](https://serp.ly/@serpmedia/github/amazon/Time+Out+of+Mind)
+## 18. [Time Out of Mind](https://serp.ly/amazon/Time+Out+of+Mind)
 
 ![Time Out of Mind](https://image.tmdb.org/t/p/original/AfgneoYNdZFINSL58zht6SFMUfX.jpg)
 
@@ -772,7 +772,7 @@ When George is evicted from his squat, he becomes a man without a home. Desperat
 <hr>
 
 
-## 19. [Humboldt County](https://serp.ly/@serpmedia/github/amazon/Humboldt+County)
+## 19. [Humboldt County](https://serp.ly/amazon/Humboldt+County)
 
 ![Humboldt County](https://image.tmdb.org/t/p/original/o5x5YXmXOtW9Kk9FH9MNbdEIfq5.jpg)
 
@@ -811,7 +811,7 @@ When medical student Peter fails his professor's exam, he ends up in Los Angeles
 <hr>
 
 
-## 20. [Contact High](https://serp.ly/@serpmedia/github/amazon/Contact+High)
+## 20. [Contact High](https://serp.ly/amazon/Contact+High)
 
 ![Contact High](https://image.tmdb.org/t/p/original/uDV8vKdnYb6XJtzZqu4Lqt6m7Yh.jpg)
 
@@ -847,7 +847,7 @@ When gangster boss Carlos orders a mysterious bag from Poland, he sets off one o
 <hr>
 
 
-## 21. [Lennon or McCartney](https://serp.ly/@serpmedia/github/amazon/Lennon+or+McCartney)
+## 21. [Lennon or McCartney](https://serp.ly/amazon/Lennon+or+McCartney)
 
 ![Lennon or McCartney](https://image.tmdb.org/t/p/original/dTKBVCAtdwbEmcYRwjcRHabBeGY.jpg)
 
@@ -883,7 +883,7 @@ When gangster boss Carlos orders a mysterious bag from Poland, he sets off one o
 <hr>
 
 
-## 22. [See Girl Run](https://serp.ly/@serpmedia/github/amazon/See+Girl+Run)
+## 22. [See Girl Run](https://serp.ly/amazon/See+Girl+Run)
 
 ![See Girl Run](https://image.tmdb.org/t/p/original/b0l12kcEJ410qHJ9ET7pcMd7Xm8.jpg)
 
@@ -919,7 +919,7 @@ Sometimes going back is the only way forward. This 2012 drama follows a 30-somet
 <hr>
 
 
-## 23. [Kill Daddy Good Night](https://serp.ly/@serpmedia/github/amazon/Kill+Daddy+Good+Night)
+## 23. [Kill Daddy Good Night](https://serp.ly/amazon/Kill+Daddy+Good+Night)
 
 ![Kill Daddy Good Night](https://image.tmdb.org/t/p/original/1xcbjgfgx5G7QRZG4722Kw8Hq3A.jpg)
 
@@ -953,7 +953,7 @@ Sometimes going back is the only way forward. This 2012 drama follows a 30-somet
 <hr>
 
 
-## 24. [Yes](https://serp.ly/@serpmedia/github/amazon/Yes)
+## 24. [Yes](https://serp.ly/amazon/Yes)
 
 ![Yes](https://image.tmdb.org/t/p/original/5Y6ugFqWYiRolh2EjHbiGzxzPPY.jpg)
 
@@ -987,7 +987,7 @@ When a couple reunites after three months apart, their personal growth and new e
 <hr>
 
 
-## 25. [Love is Like Life But Longer](https://serp.ly/@serpmedia/github/amazon/Love+is+Like+Life+But+Longer)
+## 25. [Love is Like Life But Longer](https://serp.ly/amazon/Love+is+Like+Life+But+Longer)
 
 ![Love is Like Life But Longer](https://image.tmdb.org/t/p/original/pKJirMhEgHJBKTlgfibcUU3wyLs.jpg)
 
@@ -1021,7 +1021,7 @@ In a luxurious hotel elevator, a young nun's world collides with that of a disti
 <hr>
 
 
-## 26. [The Apprentice](https://serp.ly/@serpmedia/github/amazon/The+Apprentice)
+## 26. [The Apprentice](https://serp.ly/amazon/The+Apprentice)
 
 ![The Apprentice](https://image.tmdb.org/t/p/original/cu6Z14Baval0LcQ0UzRCVdm2EaD.jpg)
 
@@ -1052,7 +1052,7 @@ In a luxurious hotel elevator, a young nun's world collides with that of a disti
 <hr>
 
 
-## 27. [Please, Alfonso](https://serp.ly/@serpmedia/github/amazon/Please%2C+Alfonso)
+## 27. [Please, Alfonso](https://serp.ly/amazon/Please%2C+Alfonso)
 
 ![Please, Alfonso](https://image.tmdb.org/t/p/original/cwelO8DcDsmVsrqaYbXiiGxS9Y4.jpg)
 
@@ -1086,7 +1086,7 @@ When Alfonso tells his best friend that he's in love, he sets off a chain of eve
 <hr>
 
 
-## 28. [Deliver Me from Nowhere](https://serp.ly/@serpmedia/github/amazon/Deliver+Me+from+Nowhere)
+## 28. [Deliver Me from Nowhere](https://serp.ly/amazon/Deliver+Me+from+Nowhere)
 
 ![Deliver Me from Nowhere](https://image.tmdb.org/t/p/original/gRdyo3qM8cUA1E8WhAJufweP32K.jpg)
 
@@ -1109,7 +1109,7 @@ In 1982, Bruce Springsteen battled depression while crafting his seminal album "
 <hr>
 
 
-## 29. [An Enemy of the People](https://serp.ly/@serpmedia/github/amazon/An+Enemy+of+the+People)
+## 29. [An Enemy of the People](https://serp.ly/amazon/An+Enemy+of+the+People)
 
 <br>
 
@@ -1133,7 +1133,7 @@ When a small-town doctor uncovers a catastrophe that threatens everyone in town,
 <hr>
 
 
-## 30. [Splendid Solution](https://serp.ly/@serpmedia/github/amazon/Splendid+Solution)
+## 30. [Splendid Solution](https://serp.ly/amazon/Splendid+Solution)
 
 <br>
 
@@ -1159,7 +1159,7 @@ When a small-town doctor uncovers a catastrophe that threatens everyone in town,
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1203,7 +1203,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1249,7 +1249,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Good Wife](https://serp.ly/@serpmedia/github/amazon/The+Good+Wife)
+## 3. [The Good Wife](https://serp.ly/amazon/The+Good+Wife)
 
 ![The Good Wife](https://image.tmdb.org/t/p/original/lasNCd45fpPLirlA7QxkuopWro.jpg)
 
@@ -1293,7 +1293,7 @@ Alicia Florrick's world changes overnight when her husband's sex and political c
 <hr>
 
 
-## 4. [Masters of Sex](https://serp.ly/@serpmedia/github/amazon/Masters+of+Sex)
+## 4. [Masters of Sex](https://serp.ly/amazon/Masters+of+Sex)
 
 ![Masters of Sex](https://image.tmdb.org/t/p/original/bC42ksckQpjfck2BZ5McaEDN4pk.jpg)
 
@@ -1335,7 +1335,7 @@ Alicia Florrick's world changes overnight when her husband's sex and political c
 <hr>
 
 
-## 5. [Succession](https://serp.ly/@serpmedia/github/amazon/Succession)
+## 5. [Succession](https://serp.ly/amazon/Succession)
 
 ![Succession](https://image.tmdb.org/t/p/original/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg)
 
@@ -1379,7 +1379,7 @@ The Roy family stands at a crossroads as their patriarch begins to step back fro
 <hr>
 
 
-## 6. [Mob City](https://serp.ly/@serpmedia/github/amazon/Mob+City)
+## 6. [Mob City](https://serp.ly/amazon/Mob+City)
 
 ![Mob City](https://image.tmdb.org/t/p/original/6W6Xhj1KOIcBtASHHhmpyySoUik.jpg)
 

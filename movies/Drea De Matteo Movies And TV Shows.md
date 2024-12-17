@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Swordfish](https://serp.ly/@serpmedia/github/amazon/Swordfish)
+## 1. [Swordfish](https://serp.ly/amazon/Swordfish)
 
 ![Swordfish](https://image.tmdb.org/t/p/original/mM6h4jMqC4q5IaFgBIGKQDLnRU.jpg)
 
@@ -77,7 +77,7 @@ In this thrilling 2001 Australian-American release, a rogue DEA agent teams up w
 <hr>
 
 
-## 2. [Dark Places](https://serp.ly/@serpmedia/github/amazon/Dark+Places)
+## 2. [Dark Places](https://serp.ly/amazon/Dark+Places)
 
 ![Dark Places](https://image.tmdb.org/t/p/original/acJXtT4ZX7nWIhOaCfSAGBxFw71.jpg)
 
@@ -117,7 +117,7 @@ In 1985, a young girl survives the devastating murder of her entire family. Thre
 <hr>
 
 
-## 3. [Assault on Precinct 13](https://serp.ly/@serpmedia/github/amazon/Assault+on+Precinct+13)
+## 3. [Assault on Precinct 13](https://serp.ly/amazon/Assault+on+Precinct+13)
 
 ![Assault on Precinct 13](https://image.tmdb.org/t/p/original/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg)
 
@@ -160,7 +160,7 @@ On New Year's Eve, inside a police station that's about to be closed for good, o
 <hr>
 
 
-## 4. [New York, I Love You](https://serp.ly/@serpmedia/github/amazon/New+York%2C+I+Love+You)
+## 4. [New York, I Love You](https://serp.ly/amazon/New+York%2C+I+Love+You)
 
 ![New York, I Love You](https://image.tmdb.org/t/p/original/85pnbEkyGi211Rq9DmnqbNX18aK.jpg)
 
@@ -203,7 +203,7 @@ Every moment... love begins.
 <hr>
 
 
-## 5. [Made](https://serp.ly/@serpmedia/github/amazon/Made)
+## 5. [Made](https://serp.ly/amazon/Made)
 
 ![Made](https://image.tmdb.org/t/p/original/4HC6ieptXO2gjqbSEsfkOwsGubN.jpg)
 
@@ -243,7 +243,7 @@ When two aspiring boxers get tangled in a money-laundering scheme with an organi
 <hr>
 
 
-## 6. [One Way](https://serp.ly/@serpmedia/github/amazon/One+Way)
+## 6. [One Way](https://serp.ly/amazon/One+Way)
 
 ![One Way](https://image.tmdb.org/t/p/original/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg)
 
@@ -286,7 +286,7 @@ When a former crime boss turns informant, Freddy's world changes in an instant. 
 <hr>
 
 
-## 7. [Deuces Wild](https://serp.ly/@serpmedia/github/amazon/Deuces+Wild)
+## 7. [Deuces Wild](https://serp.ly/amazon/Deuces+Wild)
 
 ![Deuces Wild](https://image.tmdb.org/t/p/original/nyr9WT4mLYZHFRINuyWCQExV9ku.jpg)
 
@@ -327,7 +327,7 @@ Before gangs had guns...they fought with guts.
 <hr>
 
 
-## 8. [Don't Sleep](https://serp.ly/@serpmedia/github/amazon/Don%27t+Sleep)
+## 8. [Don't Sleep](https://serp.ly/amazon/Don%27t+Sleep)
 
 ![Don't Sleep](https://image.tmdb.org/t/p/original/jP0fjDDZaYGpuwD9as6tNn0ePPz.jpg)
 
@@ -366,7 +366,7 @@ When two young lovers move into a charming cottage together, their blissful new 
 <hr>
 
 
-## 9. ['R Xmas](https://serp.ly/@serpmedia/github/amazon/%27R+Xmas)
+## 9. ['R Xmas](https://serp.ly/amazon/%27R+Xmas)
 
 !['R Xmas](https://image.tmdb.org/t/p/original/qdcVryM0So8KvUXtN12XisOINP8.jpg)
 
@@ -402,7 +402,7 @@ When a New York drug dealer is kidnapped, his wife must race against time to rai
 <hr>
 
 
-## 10. [Broken English](https://serp.ly/@serpmedia/github/amazon/Broken+English)
+## 10. [Broken English](https://serp.ly/amazon/Broken+English)
 
 ![Broken English](https://image.tmdb.org/t/p/original/7xxZH98y9kIesh5OpFauu7GXKBh.jpg)
 
@@ -442,7 +442,7 @@ Nora Wilder is freaking out. Everyone around her is either in a relationship, ma
 <hr>
 
 
-## 11. [Free Ride](https://serp.ly/@serpmedia/github/amazon/Free+Ride)
+## 11. [Free Ride](https://serp.ly/amazon/Free+Ride)
 
 ![Free Ride](https://image.tmdb.org/t/p/original/9vuDdLXgyjhiuqi0MiE66XvnbEg.jpg)
 
@@ -478,7 +478,7 @@ In the 1970s, a single mom runs a small business with her two daughters. When le
 <hr>
 
 
-## 12. [The Good Life](https://serp.ly/@serpmedia/github/amazon/The+Good+Life)
+## 12. [The Good Life](https://serp.ly/amazon/The+Good+Life)
 
 ![The Good Life](https://image.tmdb.org/t/p/original/2FRYcXaRMfyB1BYpzjlwXfuoXvS.jpg)
 
@@ -514,7 +514,7 @@ In a small Nebraska town, young gas station attendant and movie projectionist Ja
 <hr>
 
 
-## 13. [Farce of the Penguins](https://serp.ly/@serpmedia/github/amazon/Farce+of+the+Penguins)
+## 13. [Farce of the Penguins](https://serp.ly/amazon/Farce+of+the+Penguins)
 
 ![Farce of the Penguins](https://image.tmdb.org/t/p/original/bb3f1catVid2yDqHvhygai2RUoM.jpg)
 
@@ -550,7 +550,7 @@ What happens in Antarctica. . stays in Antarctica. Or so they say. When nature's
 <hr>
 
 
-## 14. [Collide](https://serp.ly/@serpmedia/github/amazon/Collide)
+## 14. [Collide](https://serp.ly/amazon/Collide)
 
 ![Collide](https://image.tmdb.org/t/p/original/xdoOkjtC6BLZGdVBfLCKVXrKOcO.jpg)
 
@@ -586,7 +586,7 @@ In this taut LA thriller, three very different couples converge at an elegant re
 <hr>
 
 
-## 15. [Prey for Rock & Roll](https://serp.ly/@serpmedia/github/amazon/Prey+for+Rock+%26+Roll)
+## 15. [Prey for Rock & Roll](https://serp.ly/amazon/Prey+for+Rock+%26+Roll)
 
 ![Prey for Rock & Roll](https://image.tmdb.org/t/p/original/qXXAJjWHcXbfwdlq96nHSTxCVHv.jpg)
 
@@ -627,7 +627,7 @@ In late 1980s Los Angeles, Jacki leads her all-girl punk rock band, Clam Dandy, 
 <hr>
 
 
-## 16. [Sex, Death and Bowling](https://serp.ly/@serpmedia/github/amazon/Sex%2C+Death+and+Bowling)
+## 16. [Sex, Death and Bowling](https://serp.ly/amazon/Sex%2C+Death+and+Bowling)
 
 ![Sex, Death and Bowling](https://image.tmdb.org/t/p/original/3EMkxEks6Fv2Stut5EWIh7xZpRU.jpg)
 
@@ -661,7 +661,7 @@ When one brother falls seriously ill with cancer, it forces a reunion between tw
 <hr>
 
 
-## 17. [Safe Room](https://serp.ly/@serpmedia/github/amazon/Safe+Room)
+## 17. [Safe Room](https://serp.ly/amazon/Safe+Room)
 
 ![Safe Room](https://image.tmdb.org/t/p/original/znCW31MIP6Vx8KCN1JHlYopa86c.jpg)
 
@@ -695,7 +695,7 @@ When her son unwittingly captures footage of a brutal murder next door, single m
 <hr>
 
 
-## 18. [Lake City](https://serp.ly/@serpmedia/github/amazon/Lake+City)
+## 18. [Lake City](https://serp.ly/amazon/Lake+City)
 
 ![Lake City](https://image.tmdb.org/t/p/original/afePgaBmJsrJHABKu1Qv8uPdDBA.jpg)
 
@@ -732,7 +732,7 @@ Lake City is a powerful Southern drama about a mother and son who reunite under 
 <hr>
 
 
-## 19. [The Perfect You](https://serp.ly/@serpmedia/github/amazon/The+Perfect+You)
+## 19. [The Perfect You](https://serp.ly/amazon/The+Perfect+You)
 
 ![The Perfect You](https://image.tmdb.org/t/p/original/4r4dqTTkm4mud0VfWyBdtPt7abr.jpg)
 
@@ -766,7 +766,7 @@ In this charming story, a young waiter and aspiring writer bumps into a meticulo
 <hr>
 
 
-## 20. [Far More](https://serp.ly/@serpmedia/github/amazon/Far+More)
+## 20. [Far More](https://serp.ly/amazon/Far+More)
 
 ![Far More](https://image.tmdb.org/t/p/original/ia6OLdn2Nz2JPu6wQnrq9KOWn1M.jpg)
 
@@ -804,7 +804,7 @@ When successful fashion designer Sean McAllister returns to his hometown for a f
 <hr>
 
 
-## 21. [Stalkers](https://serp.ly/@serpmedia/github/amazon/Stalkers)
+## 21. [Stalkers](https://serp.ly/amazon/Stalkers)
 
 ![Stalkers](https://image.tmdb.org/t/p/original/juTLprxCegUQvccLzQDtxSBKQAV.jpg)
 
@@ -838,7 +838,7 @@ When a former lover's obsession turns dangerous, a criminal prosecutor who wrote
 <hr>
 
 
-## 22. [Wasted Talent](https://serp.ly/@serpmedia/github/amazon/Wasted+Talent)
+## 22. [Wasted Talent](https://serp.ly/amazon/Wasted+Talent)
 
 ![Wasted Talent](https://image.tmdb.org/t/p/original/b281hCrIB75fHtRH6fBwDxf2MM7.jpg)
 
@@ -872,7 +872,7 @@ When a former lover's obsession turns dangerous, a criminal prosecutor who wrote
 <hr>
 
 
-## 23. [Meet Prince Charming](https://serp.ly/@serpmedia/github/amazon/Meet+Prince+Charming)
+## 23. [Meet Prince Charming](https://serp.ly/amazon/Meet+Prince+Charming)
 
 ![Meet Prince Charming](https://image.tmdb.org/t/p/original/wEAfh5eATAM9fAgqrOBT3VGqKum.jpg)
 
@@ -908,7 +908,7 @@ In Manhattan's Tribeca neighborhood, waiter Jack Harris is planning to start a l
 <hr>
 
 
-## 24. [Once More With Feeling](https://serp.ly/@serpmedia/github/amazon/Once+More+With+Feeling)
+## 24. [Once More With Feeling](https://serp.ly/amazon/Once+More+With+Feeling)
 
 ![Once More With Feeling](https://image.tmdb.org/t/p/original/83MzeXmLLIRtmgAD2tlt5iWgP1w.jpg)
 
@@ -942,7 +942,7 @@ When a successful businessman hits midlife, he channels his crisis into an unexp
 <hr>
 
 
-## 25. [Walker Payne](https://serp.ly/@serpmedia/github/amazon/Walker+Payne)
+## 25. [Walker Payne](https://serp.ly/amazon/Walker+Payne)
 
 ![Walker Payne](https://image.tmdb.org/t/p/original/ofvusIpaRVOCJOvZUsuiOZn0tJo.jpg)
 
@@ -976,7 +976,7 @@ When a small-town father is forced to make heart-wrenching decisions to save his
 <hr>
 
 
-## 26. [The Sopranos: Behind-The-Scenes](https://serp.ly/@serpmedia/github/amazon/The+Sopranos%3A+Behind-The-Scenes)
+## 26. [The Sopranos: Behind-The-Scenes](https://serp.ly/amazon/The+Sopranos%3A+Behind-The-Scenes)
 
 ![The Sopranos: Behind-The-Scenes](https://image.tmdb.org/t/p/original/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg)
 
@@ -1007,7 +1007,7 @@ When a small-town father is forced to make heart-wrenching decisions to save his
 <hr>
 
 
-## 27. [Sopranos Behind-The-Scenes Volume 1 of 2](https://serp.ly/@serpmedia/github/amazon/Sopranos+Behind-The-Scenes+Volume+1+of+2)
+## 27. [Sopranos Behind-The-Scenes Volume 1 of 2](https://serp.ly/amazon/Sopranos+Behind-The-Scenes+Volume+1+of+2)
 
 ![Sopranos Behind-The-Scenes Volume 1 of 2](https://image.tmdb.org/t/p/original/fNmaoALzuf3xKqVf8ipKUGfDRIB.jpg)
 
@@ -1038,7 +1038,7 @@ When a small-town father is forced to make heart-wrenching decisions to save his
 <hr>
 
 
-## 28. [Fakers](https://serp.ly/@serpmedia/github/amazon/Fakers)
+## 28. [Fakers](https://serp.ly/amazon/Fakers)
 
 ![Fakers](https://image.tmdb.org/t/p/original/2vn6zQ0tiQnBADLH4ZTOWJAGzqk.jpg)
 
@@ -1074,7 +1074,7 @@ When a small-town father is forced to make heart-wrenching decisions to save his
 <hr>
 
 
-## 29. [Abuse of Power](https://serp.ly/@serpmedia/github/amazon/Abuse+of+Power)
+## 29. [Abuse of Power](https://serp.ly/amazon/Abuse+of+Power)
 
 <br>
 
@@ -1108,7 +1108,7 @@ When the charming and principled William M. "Billy" Dylan is elected as Massachu
 <hr>
 
 
-## 30. [Street Level](https://serp.ly/@serpmedia/github/amazon/Street+Level)
+## 30. [Street Level](https://serp.ly/amazon/Street+Level)
 
 ![Street Level](https://image.tmdb.org/t/p/original/dp5FqNFW4LYrHqMEPvlU6xIpfms.jpg)
 
@@ -1144,7 +1144,7 @@ Street Level is a modern love story that unfolds in the heart of the city. It's 
 <hr>
 
 
-## 31. [Sleepwalk](https://serp.ly/@serpmedia/github/amazon/Sleepwalk)
+## 31. [Sleepwalk](https://serp.ly/amazon/Sleepwalk)
 
 ![Sleepwalk](https://image.tmdb.org/t/p/original/vwC8Y69yS2dx5PUWW2xhtZ9ytgW.jpg)
 
@@ -1178,7 +1178,7 @@ In this 2000 New York drama, a wandering drifter's life changes when he meets a 
 <hr>
 
 
-## 32. [The 'M' Word](https://serp.ly/@serpmedia/github/amazon/The+%27M%27+Word)
+## 32. [The 'M' Word](https://serp.ly/amazon/The+%27M%27+Word)
 
 <br>
 
@@ -1210,7 +1210,7 @@ In this 2000 New York drama, a wandering drifter's life changes when he meets a 
 <hr>
 
 
-## 33. [Love Rome](https://serp.ly/@serpmedia/github/amazon/Love+Rome)
+## 33. [Love Rome](https://serp.ly/amazon/Love+Rome)
 
 ![Love Rome](https://image.tmdb.org/t/p/original/cJ8Lg9twy9oFhxCUhWXj67IwRzO.jpg)
 
@@ -1241,7 +1241,7 @@ In this 2000 New York drama, a wandering drifter's life changes when he meets a 
 <hr>
 
 
-## 34. [The Latin from Manhattan](https://serp.ly/@serpmedia/github/amazon/The+Latin+from+Manhattan)
+## 34. [The Latin from Manhattan](https://serp.ly/amazon/The+Latin+from+Manhattan)
 
 ![The Latin from Manhattan](https://image.tmdb.org/t/p/original/mFYCYbUjFjiQXzvCXmy66tYZ3sK.jpg)
 
@@ -1266,7 +1266,7 @@ In this 2000 New York drama, a wandering drifter's life changes when he meets a 
 <hr>
 
 
-## 35. [The 50 Greatest Television Dramas](https://serp.ly/@serpmedia/github/amazon/The+50+Greatest+Television+Dramas)
+## 35. [The 50 Greatest Television Dramas](https://serp.ly/amazon/The+50+Greatest+Television+Dramas)
 
 ![The 50 Greatest Television Dramas](https://image.tmdb.org/t/p/original/2nYuqUSFOq2o6L0oMAzOzJprMPl.jpg)
 
@@ -1297,7 +1297,7 @@ In this 2000 New York drama, a wandering drifter's life changes when he meets a 
 <hr>
 
 
-## 36. [Nonnas](https://serp.ly/@serpmedia/github/amazon/Nonnas)
+## 36. [Nonnas](https://serp.ly/amazon/Nonnas)
 
 <br>
 
@@ -1318,7 +1318,7 @@ After losing his mother, Joe Scaravella realizes he's been wasting time at a dea
 <hr>
 
 
-## 37. [TMZ Presents: Famous & Naked](https://serp.ly/@serpmedia/github/amazon/TMZ+Presents%3A+Famous+%26+Naked)
+## 37. [TMZ Presents: Famous & Naked](https://serp.ly/amazon/TMZ+Presents%3A+Famous+%26+Naked)
 
 ![TMZ Presents: Famous & Naked](https://image.tmdb.org/t/p/original/vqELETYT1xXbeb2wJxteFwr1Tss.jpg)
 
@@ -1349,7 +1349,7 @@ After losing his mother, Joe Scaravella realizes he's been wasting time at a dea
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1395,7 +1395,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [CSI: Miami](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Miami)
+## 2. [CSI: Miami](https://serp.ly/amazon/CSI%3A+Miami)
 
 ![CSI: Miami](https://image.tmdb.org/t/p/original/pNW64pjaHvf6purNaFhq4SHYRfl.jpg)
 
@@ -1437,7 +1437,7 @@ Join the Miami-Dade Police Department's top Crime Scene Investigators as they tr
 <hr>
 
 
-## 3. [Marvel's Agents of S.H.I.E.L.D.](https://serp.ly/@serpmedia/github/amazon/Marvel%27s+Agents+of+S.H.I.E.L.D.)
+## 3. [Marvel's Agents of S.H.I.E.L.D.](https://serp.ly/amazon/Marvel%27s+Agents+of+S.H.I.E.L.D.)
 
 ![Marvel's Agents of S.H.I.E.L.D.](https://image.tmdb.org/t/p/original/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg)
 
@@ -1481,7 +1481,7 @@ When ordinary events turn extraordinary, Agent Phil Coulson assembles a handpick
 <hr>
 
 
-## 4. [The Mindy Project](https://serp.ly/@serpmedia/github/amazon/The+Mindy+Project)
+## 4. [The Mindy Project](https://serp.ly/amazon/The+Mindy+Project)
 
 ![The Mindy Project](https://image.tmdb.org/t/p/original/5YFui8dtEGUglm6pHWbBzD01c0t.jpg)
 
@@ -1525,7 +1525,7 @@ Mindy Lahiri is an obstetrician/gynecologist working in a small medical practice
 <hr>
 
 
-## 5. [Desperate Housewives](https://serp.ly/@serpmedia/github/amazon/Desperate+Housewives)
+## 5. [Desperate Housewives](https://serp.ly/amazon/Desperate+Housewives)
 
 ![Desperate Housewives](https://image.tmdb.org/t/p/original/fToBWkwVNjYzH6mjrEq5JDYRoLx.jpg)
 
@@ -1569,7 +1569,7 @@ Mary Alice Young has the perfect vantage point to spill the dark secrets of Wist
 <hr>
 
 
-## 6. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 6. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -1613,7 +1613,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 7. [Sons of Anarchy](https://serp.ly/@serpmedia/github/amazon/Sons+of+Anarchy)
+## 7. [Sons of Anarchy](https://serp.ly/amazon/Sons+of+Anarchy)
 
 ![Sons of Anarchy](https://image.tmdb.org/t/p/original/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg)
 
@@ -1657,7 +1657,7 @@ Sons of Anarchy blends dark humor with high-stakes drama as an outlaw motorcycle
 <hr>
 
 
-## 8. [The Sopranos](https://serp.ly/@serpmedia/github/amazon/The+Sopranos)
+## 8. [The Sopranos](https://serp.ly/amazon/The+Sopranos)
 
 ![The Sopranos](https://image.tmdb.org/t/p/original/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg)
 
@@ -1701,7 +1701,7 @@ When a successful mobster runs a criminal organization in New Jersey, he faces m
 <hr>
 
 
-## 9. [Californication](https://serp.ly/@serpmedia/github/amazon/Californication)
+## 9. [Californication](https://serp.ly/amazon/Californication)
 
 ![Californication](https://image.tmdb.org/t/p/original/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg)
 
@@ -1745,7 +1745,7 @@ When a successful writer's personal life becomes his latest project, he discover
 <hr>
 
 
-## 10. [A Million Little Things](https://serp.ly/@serpmedia/github/amazon/A+Million+Little+Things)
+## 10. [A Million Little Things](https://serp.ly/amazon/A+Million+Little+Things)
 
 ![A Million Little Things](https://image.tmdb.org/t/p/original/Li7uDf1jUEOP4HJaKHX3iXxlad.jpg)
 
@@ -1791,7 +1791,7 @@ When one of their closest friends passes away unexpectedly, a group of Bostonian
 <hr>
 
 
-## 11. [Mayans M.C.](https://serp.ly/@serpmedia/github/amazon/Mayans+M.C.)
+## 11. [Mayans M.C.](https://serp.ly/amazon/Mayans+M.C.)
 
 ![Mayans M.C.](https://image.tmdb.org/t/p/original/510A0upV9WRAynEgs1E2B3eBxi5.jpg)
 
@@ -1835,7 +1835,7 @@ When Jax Teller's death leaves a void in his wake, Ezekiel "EZ" Reyes returns fr
 <hr>
 
 
-## 12. [The Reichen Show](https://serp.ly/@serpmedia/github/amazon/The+Reichen+Show)
+## 12. [The Reichen Show](https://serp.ly/amazon/The+Reichen+Show)
 
 ![The Reichen Show](https://image.tmdb.org/t/p/original/x9fDBKqmmHHUvcaal1Tzw6iqTW.jpg)
 
@@ -1877,7 +1877,7 @@ When Jax Teller's death leaves a void in his wake, Ezekiel "EZ" Reyes returns fr
 <hr>
 
 
-## 13. [The Tony Danza Show](https://serp.ly/@serpmedia/github/amazon/The+Tony+Danza+Show)
+## 13. [The Tony Danza Show](https://serp.ly/amazon/The+Tony+Danza+Show)
 
 <br>
 
@@ -1917,7 +1917,7 @@ Revisit a golden age of daytime television with "The Tony Danza Show, " the belo
 <hr>
 
 
-## 14. [Joey](https://serp.ly/@serpmedia/github/amazon/Joey)
+## 14. [Joey](https://serp.ly/amazon/Joey)
 
 ![Joey](https://image.tmdb.org/t/p/original/bU5yBQsmt0CnIpi9z8zB3iL7ZHP.jpg)
 
@@ -1959,7 +1959,7 @@ When Joey moves to Hollywood to pursue his acting dreams, he stumbles into anUne
 <hr>
 
 
-## 15. [The Ellen DeGeneres Show](https://serp.ly/@serpmedia/github/amazon/The+Ellen+DeGeneres+Show)
+## 15. [The Ellen DeGeneres Show](https://serp.ly/amazon/The+Ellen+DeGeneres+Show)
 
 ![The Ellen DeGeneres Show](https://image.tmdb.org/t/p/original/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg)
 
@@ -2001,7 +2001,7 @@ Revisit a golden era of television with "The Ellen DeGeneres Show, " the beloved
 <hr>
 
 
-## 16. [Shades of Blue](https://serp.ly/@serpmedia/github/amazon/Shades+of+Blue)
+## 16. [Shades of Blue](https://serp.ly/amazon/Shades+of+Blue)
 
 ![Shades of Blue](https://image.tmdb.org/t/p/original/kSCnmyWycGsxu8BgSoyM8GYsZck.jpg)
 
@@ -2045,7 +2045,7 @@ Sexy New York detective Harlee Santos falls in with a tight-knit group of dirty 
 <hr>
 
 
-## 17. [Paradise City](https://serp.ly/@serpmedia/github/amazon/Paradise+City)
+## 17. [Paradise City](https://serp.ly/amazon/Paradise+City)
 
 ![Paradise City](https://image.tmdb.org/t/p/original/fSWXCeTS80yR1vHTLVRRagyQmjQ.jpg)
 
@@ -2089,7 +2089,7 @@ Rock & Roll is where God and the Devil shake hands.
 <hr>
 
 
-## 18. [Match Game](https://serp.ly/@serpmedia/github/amazon/Match+Game)
+## 18. [Match Game](https://serp.ly/amazon/Match+Game)
 
 ![Match Game](https://image.tmdb.org/t/p/original/f4GmtNrtIzpqFNAxk3DFzk4zMmR.jpg)
 
@@ -2131,7 +2131,7 @@ Match Game revives the iconic 1970s program with a dynamic competition between t
 <hr>
 
 
-## 19. [Running Wilde](https://serp.ly/@serpmedia/github/amazon/Running+Wilde)
+## 19. [Running Wilde](https://serp.ly/amazon/Running+Wilde)
 
 ![Running Wilde](https://image.tmdb.org/t/p/original/hQBUVWTwNki4zJ99wP5L8Aaerre.jpg)
 

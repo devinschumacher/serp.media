@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Logan](https://serp.ly/@serpmedia/github/amazon/Logan)
+## 1. [Logan](https://serp.ly/amazon/Logan)
 
 ![Logan](https://image.tmdb.org/t/p/original/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg)
 
@@ -78,7 +78,7 @@ In a dystopian future where mutants face imminent extinction, an aging Logan ret
 <hr>
 
 
-## 2. [Gone Girl](https://serp.ly/@serpmedia/github/amazon/Gone+Girl)
+## 2. [Gone Girl](https://serp.ly/amazon/Gone+Girl)
 
 ![Gone Girl](https://image.tmdb.org/t/p/original/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg)
 
@@ -118,7 +118,7 @@ You don't know what you've got 'til it's...
 <hr>
 
 
-## 3. [The Predator](https://serp.ly/@serpmedia/github/amazon/The+Predator)
+## 3. [The Predator](https://serp.ly/amazon/The+Predator)
 
 ![The Predator](https://image.tmdb.org/t/p/original/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg)
 
@@ -161,7 +161,7 @@ When a young boy accidentally triggers the universe's most lethal hunters to ret
 <hr>
 
 
-## 4. [The Host](https://serp.ly/@serpmedia/github/amazon/The+Host)
+## 4. [The Host](https://serp.ly/amazon/The+Host)
 
 ![The Host](https://image.tmdb.org/t/p/original/1mfIZw6WgkCX310eoe0Ys14c3Fi.jpg)
 
@@ -201,7 +201,7 @@ Melanie Stryder's life changes when a parasitic alien soul named Wanda takes ove
 <hr>
 
 
-## 5. [Indiana Jones and the Dial of Destiny](https://serp.ly/@serpmedia/github/amazon/Indiana+Jones+and+the+Dial+of+Destiny)
+## 5. [Indiana Jones and the Dial of Destiny](https://serp.ly/amazon/Indiana+Jones+and+the+Dial+of+Destiny)
 
 ![Indiana Jones and the Dial of Destiny](https://image.tmdb.org/t/p/original/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg)
 
@@ -241,7 +241,7 @@ Indiana Jones has finally reached retirement age, but an ancient artifact and an
 <hr>
 
 
-## 6. [Run All Night](https://serp.ly/@serpmedia/github/amazon/Run+All+Night)
+## 6. [Run All Night](https://serp.ly/amazon/Run+All+Night)
 
 ![Run All Night](https://image.tmdb.org/t/p/original/frzdzHceByAIlwVKvSvY9zqpjyV.jpg)
 
@@ -282,7 +282,7 @@ When Jimmy Conlon, a Brooklyn mobster, learns that his estranged son is in dange
 <hr>
 
 
-## 7. [A Walk Among the Tombstones](https://serp.ly/@serpmedia/github/amazon/A+Walk+Among+the+Tombstones)
+## 7. [A Walk Among the Tombstones](https://serp.ly/amazon/A+Walk+Among+the+Tombstones)
 
 ![A Walk Among the Tombstones](https://image.tmdb.org/t/p/original/bQTHTZezSudf27mMQtedHf1XpgO.jpg)
 
@@ -325,7 +325,7 @@ When a drug kingpin's wife disappears, he hires private investigator Matthew Scu
 <hr>
 
 
-## 8. [Milk](https://serp.ly/@serpmedia/github/amazon/Milk)
+## 8. [Milk](https://serp.ly/amazon/Milk)
 
 ![Milk](https://image.tmdb.org/t/p/original/ot4ImF4b7QbS6XsTdMH3pWxNmX2.jpg)
 
@@ -365,7 +365,7 @@ Set in San Francisco's dynamic late 1970s scene, "Milk" follows Harvey Milk as h
 <hr>
 
 
-## 9. [Out of the Furnace](https://serp.ly/@serpmedia/github/amazon/Out+of+the+Furnace)
+## 9. [Out of the Furnace](https://serp.ly/amazon/Out+of+the+Furnace)
 
 ![Out of the Furnace](https://image.tmdb.org/t/p/original/cOuQQ4eRpSBxb0G9OXzWE1pHPeq.jpg)
 
@@ -405,7 +405,7 @@ In a tale of brotherly bonds tested by fate, "Out of the Furnace" plunges viewer
 <hr>
 
 
-## 10. [In the Shadow of the Moon](https://serp.ly/@serpmedia/github/amazon/In+the+Shadow+of+the+Moon)
+## 10. [In the Shadow of the Moon](https://serp.ly/amazon/In+the+Shadow+of+the+Moon)
 
 ![In the Shadow of the Moon](https://image.tmdb.org/t/p/original/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg)
 
@@ -444,7 +444,7 @@ In 1988, Philadelphia detective Thomas "Locke" Lockhart begins tracking a serial
 <hr>
 
 
-## 11. [Morgan](https://serp.ly/@serpmedia/github/amazon/Morgan)
+## 11. [Morgan](https://serp.ly/amazon/Morgan)
 
 ![Morgan](https://image.tmdb.org/t/p/original/v1Qb1I0wVvk8FQaNaat9DHlKFGc.jpg)
 
@@ -487,7 +487,7 @@ In a high-stakes tale of corporate risk management, a consultant must decide the
 <hr>
 
 
-## 12. [Behind the Candelabra](https://serp.ly/@serpmedia/github/amazon/Behind+the+Candelabra)
+## 12. [Behind the Candelabra](https://serp.ly/amazon/Behind+the+Candelabra)
 
 ![Behind the Candelabra](https://image.tmdb.org/t/p/original/iodt6hrewVXxR415PIjBeuZg3Qs.jpg)
 
@@ -527,7 +527,7 @@ Too much of a good thing is wonderful.
 <hr>
 
 
-## 13. [Jane Got a Gun](https://serp.ly/@serpmedia/github/amazon/Jane+Got+a+Gun)
+## 13. [Jane Got a Gun](https://serp.ly/amazon/Jane+Got+a+Gun)
 
 ![Jane Got a Gun](https://image.tmdb.org/t/p/original/kM7RiJnrif6jyNUfn1b4mFWchpJ.jpg)
 
@@ -568,7 +568,7 @@ When her outlaw husband returns home shot with eight bullets and barely alive, J
 <hr>
 
 
-## 14. [We Can Be Heroes](https://serp.ly/@serpmedia/github/amazon/We+Can+Be+Heroes)
+## 14. [We Can Be Heroes](https://serp.ly/amazon/We+Can+Be+Heroes)
 
 ![We Can Be Heroes](https://image.tmdb.org/t/p/original/1S21HpcKY6uQ9UAw68aICmrJaq6.jpg)
 
@@ -607,7 +607,7 @@ When Earth's superheroes are captured by alien invaders, their kids must step up
 <hr>
 
 
-## 15. [The Skeleton Twins](https://serp.ly/@serpmedia/github/amazon/The+Skeleton+Twins)
+## 15. [The Skeleton Twins](https://serp.ly/amazon/The+Skeleton+Twins)
 
 ![The Skeleton Twins](https://image.tmdb.org/t/p/original/lDygTdg1KlrVJVzqsFL515uGzSe.jpg)
 
@@ -650,7 +650,7 @@ Maggie and Milo, formerly inseparable twins, reconnect after narrowly avoiding d
 <hr>
 
 
-## 16. [Beckett](https://serp.ly/@serpmedia/github/amazon/Beckett)
+## 16. [Beckett](https://serp.ly/amazon/Beckett)
 
 ![Beckett](https://image.tmdb.org/t/p/original/fBJducGBcmrcIOQdhm4BUBNDiMu.jpg)
 
@@ -689,7 +689,7 @@ When an American tourist in Greece witnesses a tragic accident, he becomes entan
 <hr>
 
 
-## 17. [The Magic of Belle Isle](https://serp.ly/@serpmedia/github/amazon/The+Magic+of+Belle+Isle)
+## 17. [The Magic of Belle Isle](https://serp.ly/amazon/The+Magic+of+Belle+Isle)
 
 ![The Magic of Belle Isle](https://image.tmdb.org/t/p/original/250tjGWyt5PiL4b2Tevi0hhnRfI.jpg)
 
@@ -730,7 +730,7 @@ When a successful author returns to his rural hometown in a wheelchair, he disco
 <hr>
 
 
-## 18. [Very Good Girls](https://serp.ly/@serpmedia/github/amazon/Very+Good+Girls)
+## 18. [Very Good Girls](https://serp.ly/amazon/Very+Good+Girls)
 
 ![Very Good Girls](https://image.tmdb.org/t/p/original/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg)
 
@@ -767,7 +767,7 @@ Two New York City girls make a pact to lose their virginity during their first s
 <hr>
 
 
-## 19. [Vengeance](https://serp.ly/@serpmedia/github/amazon/Vengeance)
+## 19. [Vengeance](https://serp.ly/amazon/Vengeance)
 
 ![Vengeance](https://image.tmdb.org/t/p/original/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg)
 
@@ -808,7 +808,7 @@ When a New York journalist travels to West Texas to report on the tragic death o
 <hr>
 
 
-## 20. [The Cursed](https://serp.ly/@serpmedia/github/amazon/The+Cursed)
+## 20. [The Cursed](https://serp.ly/amazon/The+Cursed)
 
 ![The Cursed](https://image.tmdb.org/t/p/original/bewmBcjJxHeipS1PNu9Lfyvt3zY.jpg)
 
@@ -848,7 +848,7 @@ In the late 19th century, a brutal land baron's actions lead to the tragic slaug
 <hr>
 
 
-## 21. [The Bikeriders](https://serp.ly/@serpmedia/github/amazon/The+Bikeriders)
+## 21. [The Bikeriders](https://serp.ly/amazon/The+Bikeriders)
 
 ![The Bikeriders](https://image.tmdb.org/t/p/original/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg)
 
@@ -891,7 +891,7 @@ The Bikeriders follows Kathy, a strong-willed young woman who forms an unexpecte
 <hr>
 
 
-## 22. [O.G.](https://serp.ly/@serpmedia/github/amazon/O.G.)
+## 22. [O.G.](https://serp.ly/amazon/O.G.)
 
 ![O.G.](https://image.tmdb.org/t/p/original/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg)
 
@@ -927,7 +927,7 @@ The Journey Outside Starts Inside
 <hr>
 
 
-## 23. [The Reunion](https://serp.ly/@serpmedia/github/amazon/The+Reunion)
+## 23. [The Reunion](https://serp.ly/amazon/The+Reunion)
 
 ![The Reunion](https://image.tmdb.org/t/p/original/bsaQsYf58wY8wdYy1zxbZHXwxCt.jpg)
 
@@ -965,7 +965,7 @@ When the estranged Cleary brothers are summoned by their sister Nina to settle t
 <hr>
 
 
-## 24. [Little Accidents](https://serp.ly/@serpmedia/github/amazon/Little+Accidents)
+## 24. [Little Accidents](https://serp.ly/amazon/Little+Accidents)
 
 ![Little Accidents](https://image.tmdb.org/t/p/original/gQ1YO5dvq5QKs70yja2tYuQDf9L.jpg)
 
@@ -1001,7 +1001,7 @@ The truth is rarely pure and never simple.
 <hr>
 
 
-## 25. [Cardboard Boxer](https://serp.ly/@serpmedia/github/amazon/Cardboard+Boxer)
+## 25. [Cardboard Boxer](https://serp.ly/amazon/Cardboard+Boxer)
 
 ![Cardboard Boxer](https://image.tmdb.org/t/p/original/7PcdXBLsTaZKSO2aUONgPlZVriK.jpg)
 
@@ -1037,7 +1037,7 @@ In a touching story, a homeless man who earns money by fighting others on video 
 <hr>
 
 
-## 26. [Higher Ground](https://serp.ly/@serpmedia/github/amazon/Higher+Ground)
+## 26. [Higher Ground](https://serp.ly/amazon/Higher+Ground)
 
 ![Higher Ground](https://image.tmdb.org/t/p/original/c77AqOYzC16b8HFjIBiZtqsNiK1.jpg)
 
@@ -1075,7 +1075,7 @@ In her directorial debut, Vera Farmiga explores the inner struggles of a devoted
 <hr>
 
 
-## 27. [The Free World](https://serp.ly/@serpmedia/github/amazon/The+Free+World)
+## 27. [The Free World](https://serp.ly/amazon/The+Free+World)
 
 ![The Free World](https://image.tmdb.org/t/p/original/8YzGqiaOzErI8i7VK57hUwbMudH.jpg)
 
@@ -1114,7 +1114,7 @@ After serving a brutal prison sentence for crimes he didn't commit, Mo struggles
 <hr>
 
 
-## 28. [Two/One](https://serp.ly/@serpmedia/github/amazon/Two%2FOne)
+## 28. [Two/One](https://serp.ly/amazon/Two%2FOne)
 
 ![Two/One](https://image.tmdb.org/t/p/original/i2nqP6317Y2pI3pqYUNP1ZSeKXv.jpg)
 
@@ -1150,7 +1150,7 @@ What if your life was someone else's dream?
 <hr>
 
 
-## 29. [BAD](https://serp.ly/@serpmedia/github/amazon/BAD)
+## 29. [BAD](https://serp.ly/amazon/BAD)
 
 ![BAD](https://image.tmdb.org/t/p/original/w6WhKhvX9GzDKJrE96WOzjYFKoo.jpg)
 
@@ -1181,7 +1181,7 @@ What if your life was someone else's dream?
 <hr>
 
 
-## 30. [The Making of Indiana Jones and the Dial of Destiny](https://serp.ly/@serpmedia/github/amazon/The+Making+of+Indiana+Jones+and+the+Dial+of+Destiny)
+## 30. [The Making of Indiana Jones and the Dial of Destiny](https://serp.ly/amazon/The+Making+of+Indiana+Jones+and+the+Dial+of+Destiny)
 
 ![The Making of Indiana Jones and the Dial of Destiny](https://image.tmdb.org/t/p/original/nJeiS9Zi1GTKD7JXFHyVJ1Edd0H.jpg)
 
@@ -1219,7 +1219,7 @@ A big, globe-trotting, rip-roaring adventure!
 <hr>
 
 
-## 31. [Time of Day](https://serp.ly/@serpmedia/github/amazon/Time+of+Day)
+## 31. [Time of Day](https://serp.ly/amazon/Time+of+Day)
 
 ![Time of Day](https://image.tmdb.org/t/p/original/vlMoWeFS4PNbbr8HF0RlnbCHgX2.jpg)
 
@@ -1253,7 +1253,7 @@ Shot over six weeks on 16mm film by Greek cinematographer Thimios Bakatakis, thi
 <hr>
 
 
-## 32. [Moving Takahashi](https://serp.ly/@serpmedia/github/amazon/Moving+Takahashi)
+## 32. [Moving Takahashi](https://serp.ly/amazon/Moving+Takahashi)
 
 <br>
 
@@ -1285,7 +1285,7 @@ When two removal men begin loading a wealthy family's belongings into a truck, t
 <hr>
 
 
-## 33. [Boomtown](https://serp.ly/@serpmedia/github/amazon/Boomtown)
+## 33. [Boomtown](https://serp.ly/amazon/Boomtown)
 
 ![Boomtown](https://image.tmdb.org/t/p/original/pNMPcZ0Sf2SUNOMXexizQBUiqSC.jpg)
 
@@ -1316,7 +1316,7 @@ In a small Texas town, a young father sees an opportunity to improve his family'
 <hr>
 
 
-## 34. [Making 'Logan'](https://serp.ly/@serpmedia/github/amazon/Making+%27Logan%27)
+## 34. [Making 'Logan'](https://serp.ly/amazon/Making+%27Logan%27)
 
 ![Making 'Logan'](https://image.tmdb.org/t/p/original/y6ILygJd9tJlrQTIIai1tmRaXHc.jpg)
 
@@ -1345,7 +1345,7 @@ In a small Texas town, a young father sees an opportunity to improve his family'
 <hr>
 
 
-## 35. [Last Meals](https://serp.ly/@serpmedia/github/amazon/Last+Meals)
+## 35. [Last Meals](https://serp.ly/amazon/Last+Meals)
 
 ![Last Meals](https://image.tmdb.org/t/p/original/8cWd2jdZN4mldZnu266fZcUN4wb.jpg)
 
@@ -1368,7 +1368,7 @@ When a former White House chef ends up in a maximum-security prison, he's forced
 <hr>
 
 
-## 36. [A Complete Unknown](https://serp.ly/@serpmedia/github/amazon/A+Complete+Unknown)
+## 36. [A Complete Unknown](https://serp.ly/amazon/A+Complete+Unknown)
 
 ![A Complete Unknown](https://image.tmdb.org/t/p/original/fqBdHFQb1hZtjewfCFy8mMbwHLy.jpg)
 
@@ -1391,7 +1391,7 @@ Travel back to 1965 with this pivotal chapter in Bob Dylan's musical journey. Wh
 <hr>
 
 
-## 37. [Cloud One](https://serp.ly/@serpmedia/github/amazon/Cloud+One)
+## 37. [Cloud One](https://serp.ly/amazon/Cloud+One)
 
 <br>
 
@@ -1412,7 +1412,7 @@ When a man wakes up in a hospital after a car accident, he's told he's lost all 
 <hr>
 
 
-## 38. [Devil Town](https://serp.ly/@serpmedia/github/amazon/Devil+Town)
+## 38. [Devil Town](https://serp.ly/amazon/Devil+Town)
 
 ![Devil Town](https://image.tmdb.org/t/p/original/tEMIiWIWcsCf2ad8nNID3Ina2fA.jpg)
 
@@ -1445,7 +1445,7 @@ When a man wakes up in a hospital after a car accident, he's told he's lost all 
 <hr>
 
 
-## 1. [The Sandman](https://serp.ly/@serpmedia/github/amazon/The+Sandman)
+## 1. [The Sandman](https://serp.ly/amazon/The+Sandman)
 
 ![The Sandman](https://image.tmdb.org/t/p/original/q54qEgagGOYCq5D1903eBVMNkbo.jpg)
 
@@ -1491,7 +1491,7 @@ After years of imprisonment, Morpheus - the King of Dreams - is free. But his re
 <hr>
 
 
-## 2. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 2. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1533,7 +1533,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 3. [Narcos](https://serp.ly/@serpmedia/github/amazon/Narcos)
+## 3. [Narcos](https://serp.ly/amazon/Narcos)
 
 ![Narcos](https://image.tmdb.org/t/p/original/rTmal9fDbwh5F0waol2hq35U4ah.jpg)
 
@@ -1577,7 +1577,7 @@ There's no business like blow business.
 <hr>
 
 
-## 4. [Justified: City Primeval](https://serp.ly/@serpmedia/github/amazon/Justified%3A+City+Primeval)
+## 4. [Justified: City Primeval](https://serp.ly/amazon/Justified%3A+City+Primeval)
 
 ![Justified: City Primeval](https://image.tmdb.org/t/p/original/uTp9cMxFMCk5b7alKb2m5wHaGxb.jpg)
 
@@ -1621,7 +1621,7 @@ Raylan Givens, a Kentucky-born marshal now based in Miami, finds himself drawn i
 <hr>
 
 
-## 5. [The Premise](https://serp.ly/@serpmedia/github/amazon/The+Premise)
+## 5. [The Premise](https://serp.ly/amazon/The+Premise)
 
 ![The Premise](https://image.tmdb.org/t/p/original/cJZatTCCcaHkrSJHOVF9xLOFmni.jpg)
 
@@ -1665,7 +1665,7 @@ The Premise explores timeless moral questions through multi-dimensional characte
 <hr>
 
 
-## 6. [Hatfields & McCoys](https://serp.ly/@serpmedia/github/amazon/Hatfields+%26+McCoys)
+## 6. [Hatfields & McCoys](https://serp.ly/amazon/Hatfields+%26+McCoys)
 
 ![Hatfields & McCoys](https://image.tmdb.org/t/p/original/20sdSd2UxKb6286zA87aufliu9M.jpg)
 
@@ -1709,7 +1709,7 @@ Never Forgive. Never Forget.
 <hr>
 
 
-## 7. [Rachael Ray](https://serp.ly/@serpmedia/github/amazon/Rachael+Ray)
+## 7. [Rachael Ray](https://serp.ly/amazon/Rachael+Ray)
 
 ![Rachael Ray](https://image.tmdb.org/t/p/original/jqdlch1XK6bneWr2V2x1tb7csSu.jpg)
 
@@ -1751,7 +1751,7 @@ Never Forgive. Never Forget.
 <hr>
 
 
-## 8. [The Fugitive](https://serp.ly/@serpmedia/github/amazon/The+Fugitive)
+## 8. [The Fugitive](https://serp.ly/amazon/The+Fugitive)
 
 ![The Fugitive](https://image.tmdb.org/t/p/original/QIgkarZsWQO2YLcOIxs9TNpvVq.jpg)
 
@@ -1793,7 +1793,7 @@ When blue-collar worker Mike Ferro is falsely accused of bombing a Los Angeles s
 <hr>
 
 
-## 9. [The Beautiful Life: TBL](https://serp.ly/@serpmedia/github/amazon/The+Beautiful+Life%3A+TBL)
+## 9. [The Beautiful Life: TBL](https://serp.ly/amazon/The+Beautiful+Life%3A+TBL)
 
 ![The Beautiful Life: TBL](https://image.tmdb.org/t/p/original/3zsD2A9Zi4gpeVwIfyubVaGWN6C.jpg)
 

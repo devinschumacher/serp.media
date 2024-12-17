@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Mean Girls](https://serp.ly/@serpmedia/github/amazon/Mean+Girls)
+## 1. [Mean Girls](https://serp.ly/amazon/Mean+Girls)
 
 ![Mean Girls](https://image.tmdb.org/t/p/original/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg)
 
@@ -80,7 +80,7 @@ When new student Cady Heron is recruited into the elite high school clique known
 <hr>
 
 
-## 2. [Joy Ride](https://serp.ly/@serpmedia/github/amazon/Joy+Ride)
+## 2. [Joy Ride](https://serp.ly/amazon/Joy+Ride)
 
 ![Joy Ride](https://image.tmdb.org/t/p/original/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg)
 
@@ -123,7 +123,7 @@ When Audrey's business trip to Asia goes awry, she calls on her childhood best f
 <hr>
 
 
-## 3. [Mr. Malcolm's List](https://serp.ly/@serpmedia/github/amazon/Mr.+Malcolm%27s+List)
+## 3. [Mr. Malcolm's List](https://serp.ly/amazon/Mr.+Malcolm%27s+List)
 
 ![Mr. Malcolm's List](https://image.tmdb.org/t/p/original/76SeGCukVxqZFAJkke4fkk4uVN9.jpg)
 
@@ -162,7 +162,7 @@ When Julia Thistlewaite fails to meet one of Mr. Malcolm's strict requirements f
 <hr>
 
 
-## 4. [Ratatouille: The TikTok Musical](https://serp.ly/@serpmedia/github/amazon/Ratatouille%3A+The+TikTok+Musical)
+## 4. [Ratatouille: The TikTok Musical](https://serp.ly/amazon/Ratatouille%3A+The+TikTok+Musical)
 
 ![Ratatouille: The TikTok Musical](https://image.tmdb.org/t/p/original/9liRsBrG2jceHgiaBcPbYcKfqpS.jpg)
 
@@ -198,7 +198,7 @@ Your musical, cooked to perfection.
 <hr>
 
 
-## 5. [Low Low](https://serp.ly/@serpmedia/github/amazon/Low+Low)
+## 5. [Low Low](https://serp.ly/amazon/Low+Low)
 
 ![Low Low](https://image.tmdb.org/t/p/original/nuqOaxohzNZV6O84Eqqq89V3CuY.jpg)
 
@@ -232,7 +232,7 @@ On the last day of summer in a struggling town, four high-school girls navigate 
 <hr>
 
 
-## 6. [A Tree Fell in the Woods](https://serp.ly/@serpmedia/github/amazon/A+Tree+Fell+in+the+Woods)
+## 6. [A Tree Fell in the Woods](https://serp.ly/amazon/A+Tree+Fell+in+the+Woods)
 
 <br>
 
@@ -253,7 +253,7 @@ In a forest where ancient trees whisper secrets to the wind, one mighty oak cras
 <hr>
 
 
-## 7. [Barnaby](https://serp.ly/@serpmedia/github/amazon/Barnaby)
+## 7. [Barnaby](https://serp.ly/amazon/Barnaby)
 
 ![Barnaby](https://image.tmdb.org/t/p/original/4tjXrc6Kf6ycNNb3pBhp2FFvW9L.jpg)
 
@@ -284,7 +284,7 @@ When Shannon rescues a dog to help her get over a breakup, she finds an unexpect
 <hr>
 
 
-## 1. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 1. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -328,7 +328,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 2. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 2. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -374,7 +374,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 3. [Emily in Paris](https://serp.ly/@serpmedia/github/amazon/Emily+in+Paris)
+## 3. [Emily in Paris](https://serp.ly/amazon/Emily+in+Paris)
 
 ![Emily in Paris](https://image.tmdb.org/t/p/original/qYGIf2QAhSIa5Xbf72QvLtte2e8.jpg)
 
@@ -420,7 +420,7 @@ When Chicago marketing exec Emily unexpectedly lands her dream job in Paris, she
 <hr>
 
 
-## 4. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 4. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -466,7 +466,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 5. [Only Murders in the Building](https://serp.ly/@serpmedia/github/amazon/Only+Murders+in+the+Building)
+## 5. [Only Murders in the Building](https://serp.ly/amazon/Only+Murders+in+the+Building)
 
 ![Only Murders in the Building](https://image.tmdb.org/t/p/original/yhx6PnU3L2a6FnEFGOlBKTZ8TSD.jpg)
 
@@ -512,7 +512,7 @@ When three strangers with a passion for true crime share an unexpected case, the
 <hr>
 
 
-## 6. [Dinner Time Live with David Chang](https://serp.ly/@serpmedia/github/amazon/Dinner+Time+Live+with+David+Chang)
+## 6. [Dinner Time Live with David Chang](https://serp.ly/amazon/Dinner+Time+Live+with+David+Chang)
 
 ![Dinner Time Live with David Chang](https://image.tmdb.org/t/p/original/6isaKyEbUyTlks7eWxTwfAUpXA3.jpg)
 
@@ -556,7 +556,7 @@ Join celebrated chef David Chang for an intimate dining experience that transcen
 <hr>
 
 
-## 7. [Tales of the City](https://serp.ly/@serpmedia/github/amazon/Tales+of+the+City)
+## 7. [Tales of the City](https://serp.ly/amazon/Tales+of+the+City)
 
 ![Tales of the City](https://image.tmdb.org/t/p/original/wAvniCqQPlgX4wEgfGimZs5rzVn.jpg)
 
@@ -598,7 +598,7 @@ Mary Ann returns to San Francisco twenty years after leaving her daughter and ex
 <hr>
 
 
-## 8. [Next in Fashion](https://serp.ly/@serpmedia/github/amazon/Next+in+Fashion)
+## 8. [Next in Fashion](https://serp.ly/amazon/Next+in+Fashion)
 
 ![Next in Fashion](https://image.tmdb.org/t/p/original/r571zPr9McSe4UNhh7WKigt2Hys.jpg)
 
@@ -644,7 +644,7 @@ Next level talent. Next level looks.
 <hr>
 
 
-## 9. [Girls5eva](https://serp.ly/@serpmedia/github/amazon/Girls5eva)
+## 9. [Girls5eva](https://serp.ly/amazon/Girls5eva)
 
 ![Girls5eva](https://image.tmdb.org/t/p/original/1RplQ2ooky3kONomTNhsptZxqAV.jpg)
 
@@ -690,7 +690,7 @@ When a one-hit-wonder girl group from the '90s gets sampled by a young rapper, i
 <hr>
 
 
-## 10. [BEEF](https://serp.ly/@serpmedia/github/amazon/BEEF)
+## 10. [BEEF](https://serp.ly/amazon/BEEF)
 
 ![BEEF](https://image.tmdb.org/t/p/original/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg)
 
@@ -738,7 +738,7 @@ When a simple road rage incident spirals into a full-blown feud, it brings out t
 <hr>
 
 
-## 11. [Helpsters](https://serp.ly/@serpmedia/github/amazon/Helpsters)
+## 11. [Helpsters](https://serp.ly/amazon/Helpsters)
 
 ![Helpsters](https://image.tmdb.org/t/p/original/zqFCwSsAhxMx2LXwKcO4IO9V1Z4.jpg)
 
@@ -784,7 +784,7 @@ Join Cody and the Helpsters, a team of colorful monsters who turn everyday chall
 <hr>
 
 
-## 12. [My Dirty Little Secret](https://serp.ly/@serpmedia/github/amazon/My+Dirty+Little+Secret)
+## 12. [My Dirty Little Secret](https://serp.ly/amazon/My+Dirty+Little+Secret)
 
 ![My Dirty Little Secret](https://image.tmdb.org/t/p/original/kjbeFc4SJlhoJ46dAFj6x9MMyGn.jpg)
 
@@ -823,7 +823,7 @@ Everyone has secrets, but what happens when those secrets become deadly? From pe
 <hr>
 
 
-## 13. [The Accidental Wolf](https://serp.ly/@serpmedia/github/amazon/The+Accidental+Wolf)
+## 13. [The Accidental Wolf](https://serp.ly/amazon/The+Accidental+Wolf)
 
 ![The Accidental Wolf](https://image.tmdb.org/t/p/original/7fciVGUAqAsGT8CDpimNXMatSlr.jpg)
 
@@ -862,7 +862,7 @@ When a mysterious call from a dying stranger disrupts Katie Bonner's life, she f
 <hr>
 
 
-## 14. [Too Grool for School: Backstage at 'Mean Girls' with Erika Henningsen](https://serp.ly/@serpmedia/github/amazon/Too+Grool+for+School%3A+Backstage+at+%27Mean+Girls%27+with+Erika+Henningsen)
+## 14. [Too Grool for School: Backstage at 'Mean Girls' with Erika Henningsen](https://serp.ly/amazon/Too+Grool+for+School%3A+Backstage+at+%27Mean+Girls%27+with+Erika+Henningsen)
 
 ![Too Grool for School: Backstage at 'Mean Girls' with Erika Henningsen](https://image.tmdb.org/t/p/original/kgvnZ7QvfGpkkeqzyhYCz5Op0oq.jpg)
 
@@ -904,7 +904,7 @@ When a mysterious call from a dying stranger disrupts Katie Bonner's life, she f
 <hr>
 
 
-## 15. [Nightcap](https://serp.ly/@serpmedia/github/amazon/Nightcap)
+## 15. [Nightcap](https://serp.ly/amazon/Nightcap)
 
 ![Nightcap](https://image.tmdb.org/t/p/original/oKNhFn5CYND48jsph1IYrDaDVOZ.jpg)
 

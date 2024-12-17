@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Top Gun: Maverick](https://serp.ly/@serpmedia/github/amazon/Top+Gun%3A+Maverick)
+## 1. [Top Gun: Maverick](https://serp.ly/amazon/Top+Gun%3A+Maverick)
 
 ![Top Gun: Maverick](https://image.tmdb.org/t/p/original/62HCnUTziyWcpDaBO2i1DX17ljH.jpg)
 
@@ -80,7 +80,7 @@ After thirty years as one of the Navy's top aviators, Pete "Maverick" Mitchell f
 <hr>
 
 
-## 2. [Bad Times at the El Royale](https://serp.ly/@serpmedia/github/amazon/Bad+Times+at+the+El+Royale)
+## 2. [Bad Times at the El Royale](https://serp.ly/amazon/Bad+Times+at+the+El+Royale)
 
 ![Bad Times at the El Royale](https://image.tmdb.org/t/p/original/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg)
 
@@ -120,7 +120,7 @@ In 1969 Lake Tahoe, seven strangers with dark secrets converge at the luxurious 
 <hr>
 
 
-## 3. [Battle of the Sexes](https://serp.ly/@serpmedia/github/amazon/Battle+of+the+Sexes)
+## 3. [Battle of the Sexes](https://serp.ly/amazon/Battle+of+the+Sexes)
 
 ![Battle of the Sexes](https://image.tmdb.org/t/p/original/fWy0A3VojTCb0S2MKtEJjpquubF.jpg)
 
@@ -163,7 +163,7 @@ In 1973, tennis legend Billie Jean King faced off against former champion Bobby 
 <hr>
 
 
-## 4. [The Strangers: Prey at Night](https://serp.ly/@serpmedia/github/amazon/The+Strangers%3A+Prey+at+Night)
+## 4. [The Strangers: Prey at Night](https://serp.ly/amazon/The+Strangers%3A+Prey+at+Night)
 
 ![The Strangers: Prey at Night](https://image.tmdb.org/t/p/original/vdxLpPsZkPZdFrREp7eSeSzcimj.jpg)
 
@@ -206,7 +206,7 @@ When a family's road trip leads them to a secluded mobile home park, they think 
 <hr>
 
 
-## 5. [Aftermath](https://serp.ly/@serpmedia/github/amazon/Aftermath)
+## 5. [Aftermath](https://serp.ly/amazon/Aftermath)
 
 ![Aftermath](https://image.tmdb.org/t/p/original/25oWTCGqIik4gUTMidx3L8DI4Bt.jpg)
 
@@ -246,7 +246,7 @@ When a horrific plane crash devastates Roman's life, leaving him to cope with th
 <hr>
 
 
-## 6. [Lean on Pete](https://serp.ly/@serpmedia/github/amazon/Lean+on+Pete)
+## 6. [Lean on Pete](https://serp.ly/amazon/Lean+on+Pete)
 
 ![Lean on Pete](https://image.tmdb.org/t/p/original/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg)
 
@@ -286,7 +286,7 @@ When teenager Charley Thompson lands a summer job with horse trainer Del Montgom
 <hr>
 
 
-## 7. [The Ballad of Lefty Brown](https://serp.ly/@serpmedia/github/amazon/The+Ballad+of+Lefty+Brown)
+## 7. [The Ballad of Lefty Brown](https://serp.ly/amazon/The+Ballad+of+Lefty+Brown)
 
 ![The Ballad of Lefty Brown](https://image.tmdb.org/t/p/original/p4L5DM3ZeEuAawFxd2ftgISQMZQ.jpg)
 
@@ -326,7 +326,7 @@ Lefty Brown has spent his entire life as Eddie Johnson's sidekick in the Wild We
 <hr>
 
 
-## 8. [The Caine Mutiny Court-Martial](https://serp.ly/@serpmedia/github/amazon/The+Caine+Mutiny+Court-Martial)
+## 8. [The Caine Mutiny Court-Martial](https://serp.ly/amazon/The+Caine+Mutiny+Court-Martial)
 
 ![The Caine Mutiny Court-Martial](https://image.tmdb.org/t/p/original/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg)
 
@@ -362,7 +362,7 @@ When a violent storm strikes the USS Caine, an impulsive officer seizes control 
 <hr>
 
 
-## 9. [Press Play](https://serp.ly/@serpmedia/github/amazon/Press+Play)
+## 9. [Press Play](https://serp.ly/amazon/Press+Play)
 
 ![Press Play](https://image.tmdb.org/t/p/original/d0dcVRrRvfOZi1jDrVsw4pVQ945.jpg)
 
@@ -398,7 +398,7 @@ Laura and Harrison have the picture-perfect romance built on a shared love of mu
 <hr>
 
 
-## 10. [Them That Follow](https://serp.ly/@serpmedia/github/amazon/Them+That+Follow)
+## 10. [Them That Follow](https://serp.ly/amazon/Them+That+Follow)
 
 ![Them That Follow](https://image.tmdb.org/t/p/original/y5pXzgds0pPOJevmunFkPFMaaGU.jpg)
 
@@ -436,7 +436,7 @@ In a small Pentecostal church, Pastor Lemuel Childs leads his congregation throu
 <hr>
 
 
-## 11. [The Starling Girl](https://serp.ly/@serpmedia/github/amazon/The+Starling+Girl)
+## 11. [The Starling Girl](https://serp.ly/amazon/The+Starling+Girl)
 
 ![The Starling Girl](https://image.tmdb.org/t/p/original/ysgnrkXwfFCxaBwviG2yNvzpfw5.jpg)
 
@@ -473,7 +473,7 @@ In a small Christian fundamentalist community, 17-year-old Jem Starling's routin
 <hr>
 
 
-## 12. [Pink Skies Ahead](https://serp.ly/@serpmedia/github/amazon/Pink+Skies+Ahead)
+## 12. [Pink Skies Ahead](https://serp.ly/amazon/Pink+Skies+Ahead)
 
 ![Pink Skies Ahead](https://image.tmdb.org/t/p/original/9znH5e4b36vjNSVKwyyjiUTq728.jpg)
 
@@ -510,7 +510,7 @@ In a small Christian fundamentalist community, 17-year-old Jem Starling's routin
 <hr>
 
 
-## 13. [The Voice in Your Head](https://serp.ly/@serpmedia/github/amazon/The+Voice+in+Your+Head)
+## 13. [The Voice in Your Head](https://serp.ly/amazon/The+Voice+in+Your+Head)
 
 ![The Voice in Your Head](https://image.tmdb.org/t/p/original/1qM5eetdR4Lu6KQ1Hrh5mAqXUPz.jpg)
 
@@ -541,7 +541,7 @@ Dan's struggle with an inner voice that dominates his thoughts takes an unexpect
 <hr>
 
 
-## 14. [Where You Are](https://serp.ly/@serpmedia/github/amazon/Where+You+Are)
+## 14. [Where You Are](https://serp.ly/amazon/Where+You+Are)
 
 ![Where You Are](https://image.tmdb.org/t/p/original/nkaAptbTjXdVFaoeQQJUSonY7kN.jpg)
 
@@ -575,7 +575,7 @@ When Jen's son disappears during a game of hide-and-seek, she unwittingly embark
 <hr>
 
 
-## 15. [The Realest Real](https://serp.ly/@serpmedia/github/amazon/The+Realest+Real)
+## 15. [The Realest Real](https://serp.ly/amazon/The+Realest+Real)
 
 <br>
 
@@ -607,7 +607,7 @@ The Realest Real dives into the heart of internet culture, where nothing - and n
 <hr>
 
 
-## 16. [Craig's Pathetic Freakout](https://serp.ly/@serpmedia/github/amazon/Craig%27s+Pathetic+Freakout)
+## 16. [Craig's Pathetic Freakout](https://serp.ly/amazon/Craig%27s+Pathetic+Freakout)
 
 ![Craig's Pathetic Freakout](https://image.tmdb.org/t/p/original/t8hBbFPuVm8xbDdCmr2ynMQ76k3.jpg)
 
@@ -640,7 +640,7 @@ Craig shouldn't smoke weed.
 <hr>
 
 
-## 17. [The Line](https://serp.ly/@serpmedia/github/amazon/The+Line)
+## 17. [The Line](https://serp.ly/amazon/The+Line)
 
 ![The Line](https://image.tmdb.org/t/p/original/3KdO5ONYRsLwoRbHDmSKoSOiKfI.jpg)
 
@@ -674,7 +674,7 @@ Craig shouldn't smoke weed.
 <hr>
 
 
-## 18. [Lefty/Righty](https://serp.ly/@serpmedia/github/amazon/Lefty%2FRighty)
+## 18. [Lefty/Righty](https://serp.ly/amazon/Lefty%2FRighty)
 
 ![Lefty/Righty](https://image.tmdb.org/t/p/original/vm4UcjFxfY0njyQehUk8DMGD7aw.jpg)
 
@@ -705,7 +705,7 @@ When a divorced cowboy loses his father, he embarks on a heartfelt journey to be
 <hr>
 
 
-## 19. [Thunderbolts\*](https://serp.ly/@serpmedia/github/amazon/Thunderbolts%2A)
+## 19. [Thunderbolts\*](https://serp.ly/amazon/Thunderbolts%2A)
 
 ![Thunderbolts\*](https://image.tmdb.org/t/p/original/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg)
 
@@ -730,7 +730,7 @@ When a group of misfit villains from the MCU is given a chance to redeem themsel
 <hr>
 
 
-## 20. [Take A Hike](https://serp.ly/@serpmedia/github/amazon/Take+A+Hike)
+## 20. [Take A Hike](https://serp.ly/amazon/Take+A+Hike)
 
 ![Take A Hike](https://image.tmdb.org/t/p/original/gzHx8dk0hIm93noBTJ0MsndU4gw.jpg)
 
@@ -762,7 +762,7 @@ When Bing gets kicked out of his metal band, he decides to clear his head with a
 <hr>
 
 
-## 21. [Dutch & Razzlekhan](https://serp.ly/@serpmedia/github/amazon/Dutch+%26+Razzlekhan)
+## 21. [Dutch & Razzlekhan](https://serp.ly/amazon/Dutch+%26+Razzlekhan)
 
 <br>
 
@@ -783,7 +783,7 @@ When two hipster entrepreneurs steal over $4 billion worth of cryptocurrency, th
 <hr>
 
 
-## 22. [Skincare](https://serp.ly/@serpmedia/github/amazon/Skincare)
+## 22. [Skincare](https://serp.ly/amazon/Skincare)
 
 ![Skincare](https://image.tmdb.org/t/p/original/eQJRni9Ay1XEOaI2YT9x7nZzlSN.jpg)
 
@@ -810,7 +810,7 @@ Renowned aesthetician Hope Goldman is poised to revolutionize the skincare indus
 <hr>
 
 
-## 23. [Thelma](https://serp.ly/@serpmedia/github/amazon/Thelma)
+## 23. [Thelma](https://serp.ly/amazon/Thelma)
 
 ![Thelma](https://image.tmdb.org/t/p/original/wnrhhKQKbAMYx4aRHb24zJ9wBu5.jpg)
 
@@ -833,7 +833,7 @@ When John Kennedy Toole tragically took his own life, he left behind a literary 
 <hr>
 
 
-## 24. [Auxiliary Man](https://serp.ly/@serpmedia/github/amazon/Auxiliary+Man)
+## 24. [Auxiliary Man](https://serp.ly/amazon/Auxiliary+Man)
 
 ![Auxiliary Man](https://image.tmdb.org/t/p/original/v0EPQd4ANGTX4H5u8OpYZd2wrZL.jpg)
 
@@ -856,7 +856,7 @@ When a neurotic would-be hitman gets his first assignment trailing a pill-peddli
 <hr>
 
 
-## 25. [Riff Raff](https://serp.ly/@serpmedia/github/amazon/Riff+Raff)
+## 25. [Riff Raff](https://serp.ly/amazon/Riff+Raff)
 
 <br>
 
@@ -877,7 +877,7 @@ When a former criminal's ordinary life takes an unexpected turn, his carefully c
 <hr>
 
 
-## 26. [Salem's Lot](https://serp.ly/@serpmedia/github/amazon/Salem%27s+Lot)
+## 26. [Salem's Lot](https://serp.ly/amazon/Salem%27s+Lot)
 
 ![Salem's Lot](https://image.tmdb.org/t/p/original/aZkmYa6RvYV2S9tf0qU2Dl7WO7E.jpg)
 
@@ -903,7 +903,7 @@ When author Ben Mears returns to his childhood home of Jerusalem's Lot, he finds
 <hr>
 
 
-## 27. [Water Rises](https://serp.ly/@serpmedia/github/amazon/Water+Rises)
+## 27. [Water Rises](https://serp.ly/amazon/Water+Rises)
 
 ![Water Rises](https://image.tmdb.org/t/p/original/3YfUka9lVfO6x5BacYO575CYZL0.jpg)
 
@@ -933,7 +933,7 @@ When a young couple inherits a farm, they discover an environmental nightmare th
 <hr>
 
 
-## 28. [Sorry I Missed This](https://serp.ly/@serpmedia/github/amazon/Sorry+I+Missed+This)
+## 28. [Sorry I Missed This](https://serp.ly/amazon/Sorry+I+Missed+This)
 
 <br>
 
@@ -954,7 +954,7 @@ When the world ends, it doesn't happen with a bang - at least not for the people
 <hr>
 
 
-## 29. [The tutor](https://serp.ly/@serpmedia/github/amazon/The+tutor)
+## 29. [The tutor](https://serp.ly/amazon/The+tutor)
 
 The tutor
 
@@ -985,7 +985,7 @@ When James, a boy with an overactive imagination, convinces his tutor that his t
 <hr>
 
 
-## 1. [Outer Range](https://serp.ly/@serpmedia/github/amazon/Outer+Range)
+## 1. [Outer Range](https://serp.ly/amazon/Outer+Range)
 
 ![Outer Range](https://image.tmdb.org/t/p/original/9leGmIDamsWJELYz0pZkr2EXUFf.jpg)
 
@@ -1029,7 +1029,7 @@ When a rancher defends his land and family at the edge of Wyoming's wilderness, 
 <hr>
 
 
-## 2. [Lessons in Chemistry](https://serp.ly/@serpmedia/github/amazon/Lessons+in+Chemistry)
+## 2. [Lessons in Chemistry](https://serp.ly/amazon/Lessons+in+Chemistry)
 
 ![Lessons in Chemistry](https://image.tmdb.org/t/p/original/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg)
 
@@ -1073,7 +1073,7 @@ In the 1950s, Elizabeth Zott's scientific aspirations clash with societal expect
 <hr>
 
 
-## 3. [Catch-22](https://serp.ly/@serpmedia/github/amazon/Catch-22)
+## 3. [Catch-22](https://serp.ly/amazon/Catch-22)
 
 ![Catch-22](https://image.tmdb.org/t/p/original/1huTLz8UaEeOLJNwqMKCQs76Bl5.jpg)
 

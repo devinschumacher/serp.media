@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The First Time](https://serp.ly/@serpmedia/github/amazon/The+First+Time)
+## 1. [The First Time](https://serp.ly/amazon/The+First+Time)
 
 ![The First Time](https://image.tmdb.org/t/p/original/tG6jUndWd9FRuvI4j5Z2bhTuq0V.jpg)
 
@@ -80,7 +80,7 @@ The First Time explores the awkward yet endearing process of falling in love bet
 <hr>
 
 
-## 2. [Naomi and Ely's No Kiss List](https://serp.ly/@serpmedia/github/amazon/Naomi+and+Ely%27s+No+Kiss+List)
+## 2. [Naomi and Ely's No Kiss List](https://serp.ly/amazon/Naomi+and+Ely%27s+No+Kiss+List)
 
 ![Naomi and Ely's No Kiss List](https://image.tmdb.org/t/p/original/n8DH0vkVIaJthWowgdkeacmUUs3.jpg)
 
@@ -116,7 +116,7 @@ When Naomi and Ely both develop feelings for the same guy, it tests the limits o
 <hr>
 
 
-## 3. [A Perfect Pairing](https://serp.ly/@serpmedia/github/amazon/A+Perfect+Pairing)
+## 3. [A Perfect Pairing](https://serp.ly/amazon/A+Perfect+Pairing)
 
 ![A Perfect Pairing](https://image.tmdb.org/t/p/original/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg)
 
@@ -150,7 +150,7 @@ When Naomi and Ely both develop feelings for the same guy, it tests the limits o
 <hr>
 
 
-## 4. [Afterlife of the Party](https://serp.ly/@serpmedia/github/amazon/Afterlife+of+the+Party)
+## 4. [Afterlife of the Party](https://serp.ly/amazon/Afterlife+of+the+Party)
 
 ![Afterlife of the Party](https://image.tmdb.org/t/p/original/1bkcOEt4zvc5tBl6xFxTbkSqhEQ.jpg)
 
@@ -189,7 +189,7 @@ She's a social butterfly who dies during her birthday week, but her partying day
 <hr>
 
 
-## 5. [The Outcasts](https://serp.ly/@serpmedia/github/amazon/The+Outcasts)
+## 5. [The Outcasts](https://serp.ly/amazon/The+Outcasts)
 
 ![The Outcasts](https://image.tmdb.org/t/p/original/44jotbmLRwHSIcd4wVAYCVmli8D.jpg)
 
@@ -228,7 +228,7 @@ When two brilliant high school friends fall victim to the Queen Bee's cruel pran
 <hr>
 
 
-## 6. [Unknown](https://serp.ly/@serpmedia/github/amazon/Unknown)
+## 6. [Unknown](https://serp.ly/amazon/Unknown)
 
 ![Unknown](https://image.tmdb.org/t/p/original/99cjPBQdNN9dJwfzfJYrtI1O4ZR.jpg)
 
@@ -266,7 +266,7 @@ When five men wake up in a locked-down warehouse with no memory of who they are,
 <hr>
 
 
-## 7. [Fun Size](https://serp.ly/@serpmedia/github/amazon/Fun+Size)
+## 7. [Fun Size](https://serp.ly/amazon/Fun+Size)
 
 ![Fun Size](https://image.tmdb.org/t/p/original/h9DYic4zo3Oweb11009FmqZBxN4.jpg)
 
@@ -309,7 +309,7 @@ Some people just can't handle Halloween. For Wren, it's the perfect night to fin
 <hr>
 
 
-## 8. [The Boy Who Cried Werewolf](https://serp.ly/@serpmedia/github/amazon/The+Boy+Who+Cried+Werewolf)
+## 8. [The Boy Who Cried Werewolf](https://serp.ly/amazon/The+Boy+Who+Cried+Werewolf)
 
 ![The Boy Who Cried Werewolf](https://image.tmdb.org/t/p/original/i7lny9FF2ylyPDwdF70ImmSbOv3.jpg)
 
@@ -343,7 +343,7 @@ When a California family inherits a castle in Romania, their son's monster obses
 <hr>
 
 
-## 9. [Trust](https://serp.ly/@serpmedia/github/amazon/Trust)
+## 9. [Trust](https://serp.ly/amazon/Trust)
 
 ![Trust](https://image.tmdb.org/t/p/original/tVmymE4f7QgekI0Cp59lXtERspf.jpg)
 
@@ -377,7 +377,7 @@ In the glamorous world of art, gallery owner Brooke Gatwick's life changes when 
 <hr>
 
 
-## 10. [The Rocky Horror Picture Show: Let's Do the Time Warp Again](https://serp.ly/@serpmedia/github/amazon/The+Rocky+Horror+Picture+Show%3A+Let%27s+Do+the+Time+Warp+Again)
+## 10. [The Rocky Horror Picture Show: Let's Do the Time Warp Again](https://serp.ly/amazon/The+Rocky+Horror+Picture+Show%3A+Let%27s+Do+the+Time+Warp+Again)
 
 ![The Rocky Horror Picture Show: Let's Do the Time Warp Again](https://image.tmdb.org/t/p/original/56KEpnJWe5KvpiPu5XmK14L7Wyr.jpg)
 
@@ -415,7 +415,7 @@ When a flat tire strands Brad and Janet at Dr. Frank-N-Furter's mansion during a
 <hr>
 
 
-## 11. [The Tutor](https://serp.ly/@serpmedia/github/amazon/The+Tutor)
+## 11. [The Tutor](https://serp.ly/amazon/The+Tutor)
 
 ![The Tutor](https://image.tmdb.org/t/p/original/wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg)
 
@@ -452,7 +452,7 @@ In "The Tutor", a professional instructor takes his expertise to a remote manor,
 <hr>
 
 
-## 12. [iParty with Victorious](https://serp.ly/@serpmedia/github/amazon/iParty+with+Victorious)
+## 12. [iParty with Victorious](https://serp.ly/amazon/iParty+with+Victorious)
 
 ![iParty with Victorious](https://image.tmdb.org/t/p/original/au5IiL3OUjir4CJYsg2lyJb61C6.jpg)
 
@@ -488,7 +488,7 @@ When two girlfriends, Carly and Tori, find themselves competing for the same boy
 <hr>
 
 
-## 13. [Bigger](https://serp.ly/@serpmedia/github/amazon/Bigger)
+## 13. [Bigger](https://serp.ly/amazon/Bigger)
 
 ![Bigger](https://image.tmdb.org/t/p/original/f6rmiFTfT3Rf9XDrXfLO6XcAgWn.jpg)
 
@@ -522,7 +522,7 @@ When Joe and Ben Weider emerge from the shadow of anti-Semitism and poverty, the
 <hr>
 
 
-## 14. [Spectacular!](https://serp.ly/@serpmedia/github/amazon/Spectacular%21)
+## 14. [Spectacular!](https://serp.ly/amazon/Spectacular%21)
 
 ![Spectacular!](https://image.tmdb.org/t/p/original/kFHsKP8hPp4x3l1wH0EG1JGbtTs.jpg)
 
@@ -556,7 +556,7 @@ When a high school choir faces mounting challenges, including losing members to 
 <hr>
 
 
-## 15. [Summer Night](https://serp.ly/@serpmedia/github/amazon/Summer+Night)
+## 15. [Summer Night](https://serp.ly/amazon/Summer+Night)
 
 ![Summer Night](https://image.tmdb.org/t/p/original/jxOyWUVMjIJ9hppv4MJyCviooN8.jpg)
 
@@ -592,7 +592,7 @@ When a young, tight-knit group of friends gather in a small town for one unforge
 <hr>
 
 
-## 16. [Zoey 101: Spring Break-Up](https://serp.ly/@serpmedia/github/amazon/Zoey+101%3A+Spring+Break-Up)
+## 16. [Zoey 101: Spring Break-Up](https://serp.ly/amazon/Zoey+101%3A+Spring+Break-Up)
 
 ![Zoey 101: Spring Break-Up](https://image.tmdb.org/t/p/original/dy7iSZUnSYaS6ghzK6EDenT3MAv.jpg)
 
@@ -628,7 +628,7 @@ When the Zoey 101 gang heads to Logan's dad's mansion for spring break, they stu
 <hr>
 
 
-## 17. [Silver Bells](https://serp.ly/@serpmedia/github/amazon/Silver+Bells)
+## 17. [Silver Bells](https://serp.ly/amazon/Silver+Bells)
 
 ![Silver Bells](https://image.tmdb.org/t/p/original/14XQZ1m0e1rvdT2tcLZ5yOwj6an.jpg)
 
@@ -662,7 +662,7 @@ In this heartwarming tale, a young man runs away from his father's Christmas tre
 <hr>
 
 
-## 18. [Hidden Treasure of the Mississippi](https://serp.ly/@serpmedia/github/amazon/Hidden+Treasure+of+the+Mississippi)
+## 18. [Hidden Treasure of the Mississippi](https://serp.ly/amazon/Hidden+Treasure+of+the+Mississippi)
 
 ![Hidden Treasure of the Mississippi](https://image.tmdb.org/t/p/original/iifoQcn9vra0zpcpj9PS7eE6lbz.jpg)
 
@@ -700,7 +700,7 @@ Will and Clayton witness a murder in their small Mississippi town but, out of fe
 <hr>
 
 
-## 19. [Get Squirrely](https://serp.ly/@serpmedia/github/amazon/Get+Squirrely)
+## 19. [Get Squirrely](https://serp.ly/amazon/Get+Squirrely)
 
 ![Get Squirrely](https://image.tmdb.org/t/p/original/lf3sDJKPknEivxb4B4YV2KiuTzq.jpg)
 
@@ -736,7 +736,7 @@ When squirrel entrepreneur Frankie breaks out of a rehabilitation zoo, he return
 <hr>
 
 
-## 20. [When Do We Eat?](https://serp.ly/@serpmedia/github/amazon/When+Do+We+Eat%3F)
+## 20. [When Do We Eat?](https://serp.ly/amazon/When+Do+We+Eat%3F)
 
 ![When Do We Eat?](https://image.tmdb.org/t/p/original/uk16CbLHzX7WDR95Jobw7dXTqAb.jpg)
 
@@ -774,7 +774,7 @@ When an old-school father runs a household as strictly as his own father ran his
 <hr>
 
 
-## 21. [The Garden](https://serp.ly/@serpmedia/github/amazon/The+Garden)
+## 21. [The Garden](https://serp.ly/amazon/The+Garden)
 
 ![The Garden](https://image.tmdb.org/t/p/original/b4Bpw9uLDWbhlL0WfTO4KaApr6X.jpg)
 
@@ -810,7 +810,7 @@ The Garden follows a troubled young boy and his father on a chilling road trip t
 <hr>
 
 
-## 22. [Mary](https://serp.ly/@serpmedia/github/amazon/Mary)
+## 22. [Mary](https://serp.ly/amazon/Mary)
 
 ![Mary](https://image.tmdb.org/t/p/original/a0kqbQetm7TRmMo3hsm5j7JSpFU.jpg)
 
@@ -841,7 +841,7 @@ Mary, a devout Catholic schoolgirl, experiences a visionary encounter with the V
 <hr>
 
 
-## 23. [Depravity](https://serp.ly/@serpmedia/github/amazon/Depravity)
+## 23. [Depravity](https://serp.ly/amazon/Depravity)
 
 <br>
 
@@ -865,7 +865,7 @@ When a group of roommates in a US metropolis accidentally kill an innocent man, 
 <hr>
 
 
-## 24. [iCarly: iFight Shelby Marx](https://serp.ly/@serpmedia/github/amazon/iCarly%3A+iFight+Shelby+Marx)
+## 24. [iCarly: iFight Shelby Marx](https://serp.ly/amazon/iCarly%3A+iFight+Shelby+Marx)
 
 ![iCarly: iFight Shelby Marx](https://image.tmdb.org/t/p/original/eTzSROsSJyBw4owVAwVbeNu1CWt.jpg)
 
@@ -895,7 +895,7 @@ When Carly challenges martial-arts champ Shelby Marx to a fight, their playful b
 <hr>
 
 
-## 25. [California King](https://serp.ly/@serpmedia/github/amazon/California+King)
+## 25. [California King](https://serp.ly/amazon/California+King)
 
 ![California King](https://image.tmdb.org/t/p/original/axGzowK4dLk9u91VsF9fXwfk5Cv.jpg)
 
@@ -921,7 +921,7 @@ Perry, a mattress store manager, dreams of winning the heart of the girl who's a
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -967,7 +967,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1011,7 +1011,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [MTV Video Music Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Video+Music+Awards)
+## 3. [MTV Video Music Awards](https://serp.ly/amazon/MTV+Video+Music+Awards)
 
 ![MTV Video Music Awards](https://image.tmdb.org/t/p/original/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg)
 
@@ -1055,7 +1055,7 @@ Since 1984, MTV's Video Music Awards have celebrated the year's most innovative 
 <hr>
 
 
-## 4. [Gilmore Girls](https://serp.ly/@serpmedia/github/amazon/Gilmore+Girls)
+## 4. [Gilmore Girls](https://serp.ly/amazon/Gilmore+Girls)
 
 ![Gilmore Girls](https://image.tmdb.org/t/p/original/8hWwBpB1mLUKqzjdGrcvJcIklp4.jpg)
 
@@ -1099,7 +1099,7 @@ Life's short. Talk fast.
 <hr>
 
 
-## 5. [iCarly](https://serp.ly/@serpmedia/github/amazon/iCarly)
+## 5. [iCarly](https://serp.ly/amazon/iCarly)
 
 ![iCarly](https://image.tmdb.org/t/p/original/vprJasrLRtEqjyHCHzlOzChNo2o.jpg)
 
@@ -1141,7 +1141,7 @@ When three 8th-grade friends, Carly, Sam, and Freddie, turn their everyday life 
 <hr>
 
 
-## 6. [Victorious](https://serp.ly/@serpmedia/github/amazon/Victorious)
+## 6. [Victorious](https://serp.ly/amazon/Victorious)
 
 ![Victorious](https://image.tmdb.org/t/p/original/2Jc4L48qEwN9HyzqsdaSX1BCGMJ.jpg)
 
@@ -1183,7 +1183,7 @@ When Tori Vega makes the tough decision to attend Hollywood Arts, a prestigious 
 <hr>
 
 
-## 7. [The Suite Life of Zack & Cody](https://serp.ly/@serpmedia/github/amazon/The+Suite+Life+of+Zack+%26+Cody)
+## 7. [The Suite Life of Zack & Cody](https://serp.ly/amazon/The+Suite+Life+of+Zack+%26+Cody)
 
 ![The Suite Life of Zack & Cody](https://image.tmdb.org/t/p/original/vKOdc6fWHaSTsVjUALFm5S4Vup0.jpg)
 
@@ -1225,7 +1225,7 @@ When two 11-year-old identical twins move into Boston's luxurious Tipton Hotel w
 <hr>
 
 
-## 8. [Man with a Plan](https://serp.ly/@serpmedia/github/amazon/Man+with+a+Plan)
+## 8. [Man with a Plan](https://serp.ly/amazon/Man+with+a+Plan)
 
 ![Man with a Plan](https://image.tmdb.org/t/p/original/fCJMHR0GmR4layd4KQXC1HUPMlf.jpg)
 
@@ -1267,7 +1267,7 @@ When his wife returns to work, a confident dad is left at home to handle the kid
 <hr>
 
 
-## 9. [True Jackson, VP](https://serp.ly/@serpmedia/github/amazon/True+Jackson%2C+VP)
+## 9. [True Jackson, VP](https://serp.ly/amazon/True+Jackson%2C+VP)
 
 ![True Jackson, VP](https://image.tmdb.org/t/p/original/fDuoIlEnpFei6ZTO9n4JyCVsyYN.jpg)
 
@@ -1309,7 +1309,7 @@ When the CEO of Mad Style picks a 15-year-old fashionista as the vice president 
 <hr>
 
 
-## 10. [The Penguins of Madagascar](https://serp.ly/@serpmedia/github/amazon/The+Penguins+of+Madagascar)
+## 10. [The Penguins of Madagascar](https://serp.ly/amazon/The+Penguins+of+Madagascar)
 
 ![The Penguins of Madagascar](https://image.tmdb.org/t/p/original/yyCJrurVD3ZfBn9Zo5kfnSvmNZ1.jpg)
 
@@ -1353,7 +1353,7 @@ Join the hilarious penguin team of Skipper, Kowalski, Private, and Rico as they 
 <hr>
 
 
-## 11. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 11. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -1395,7 +1395,7 @@ Join the hilarious penguin team of Skipper, Kowalski, Private, and Rico as they 
 <hr>
 
 
-## 12. [Robot Chicken](https://serp.ly/@serpmedia/github/amazon/Robot+Chicken)
+## 12. [Robot Chicken](https://serp.ly/amazon/Robot+Chicken)
 
 ![Robot Chicken](https://image.tmdb.org/t/p/original/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg)
 
@@ -1439,7 +1439,7 @@ When an ordinary chicken meets an untimely end, mad scientist Fritz Huhnmorder b
 <hr>
 
 
-## 13. [American Housewife](https://serp.ly/@serpmedia/github/amazon/American+Housewife)
+## 13. [American Housewife](https://serp.ly/amazon/American+Housewife)
 
 ![American Housewife](https://image.tmdb.org/t/p/original/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg)
 
@@ -1483,7 +1483,7 @@ Still the wife of the party.
 <hr>
 
 
-## 14. [Everwood](https://serp.ly/@serpmedia/github/amazon/Everwood)
+## 14. [Everwood](https://serp.ly/amazon/Everwood)
 
 ![Everwood](https://image.tmdb.org/t/p/original/4zmuA2Ql1QdUtw9OM6MdmtXnZEF.jpg)
 
@@ -1525,7 +1525,7 @@ When world-class neurosurgeon Dr. Andrew Brown loses his wife, he makes a bold m
 <hr>
 
 
-## 15. [Quiet on Set: The Dark Side of Kids TV](https://serp.ly/@serpmedia/github/amazon/Quiet+on+Set%3A+The+Dark+Side+of+Kids+TV)
+## 15. [Quiet on Set: The Dark Side of Kids TV](https://serp.ly/amazon/Quiet+on+Set%3A+The+Dark+Side+of+Kids+TV)
 
 ![Quiet on Set: The Dark Side of Kids TV](https://image.tmdb.org/t/p/original/uTQD87qAuebJRuc5U5lO2dA4q9s.jpg)
 
@@ -1567,7 +1567,7 @@ The 1990s kids' television industry had a dark side that's been left untold - un
 <hr>
 
 
-## 16. [Zoey 101](https://serp.ly/@serpmedia/github/amazon/Zoey+101)
+## 16. [Zoey 101](https://serp.ly/amazon/Zoey+101)
 
 ![Zoey 101](https://image.tmdb.org/t/p/original/A3O2B4cHEyMpvknrdG4bcV4eaYh.jpg)
 
@@ -1609,7 +1609,7 @@ When teenager Zoey Brooks attends the prestigious Pacific Coast Academy in South
 <hr>
 
 
-## 17. [Cooper Barrett's Guide to Surviving Life](https://serp.ly/@serpmedia/github/amazon/Cooper+Barrett%27s+Guide+to+Surviving+Life)
+## 17. [Cooper Barrett's Guide to Surviving Life](https://serp.ly/amazon/Cooper+Barrett%27s+Guide+to+Surviving+Life)
 
 ![Cooper Barrett's Guide to Surviving Life](https://image.tmdb.org/t/p/original/AbNiwiMD1504HHoMfg5bgvdeCpu.jpg)
 
@@ -1653,7 +1653,7 @@ Join Cooper Barrett as he transforms everyday challenges into laugh-out-loud adv
 <hr>
 
 
-## 18. [Kids' Choice Awards](https://serp.ly/@serpmedia/github/amazon/Kids%27+Choice+Awards)
+## 18. [Kids' Choice Awards](https://serp.ly/amazon/Kids%27+Choice+Awards)
 
 ![Kids' Choice Awards](https://image.tmdb.org/t/p/original/7P0uk5BmadKP878JhPrK6KbZDh.jpg)
 
@@ -1699,7 +1699,7 @@ The Kids' Choice Awards have been bringing home the blimps since 1987, making it
 <hr>
 
 
-## 19. [The Naked Brothers Band](https://serp.ly/@serpmedia/github/amazon/The+Naked+Brothers+Band)
+## 19. [The Naked Brothers Band](https://serp.ly/amazon/The+Naked+Brothers+Band)
 
 ![The Naked Brothers Band](https://image.tmdb.org/t/p/original/ksdSDTU0Yx1GNof9vHquxJlEsuV.jpg)
 
@@ -1741,7 +1741,7 @@ When Polly Draper's real-life sons become the lead singers of a fictional rock b
 <hr>
 
 
-## 20. [50 States of Fright](https://serp.ly/@serpmedia/github/amazon/50+States+of+Fright)
+## 20. [50 States of Fright](https://serp.ly/amazon/50+States+of+Fright)
 
 ![50 States of Fright](https://image.tmdb.org/t/p/original/bfX15CYiGgBfasc8lVJ7mmxhrMz.jpg)
 
@@ -1785,7 +1785,7 @@ When Polly Draper's real-life sons become the lead singers of a fictional rock b
 <hr>
 
 
-## 21. [The Meredith Vieira Show](https://serp.ly/@serpmedia/github/amazon/The+Meredith+Vieira+Show)
+## 21. [The Meredith Vieira Show](https://serp.ly/amazon/The+Meredith+Vieira+Show)
 
 <br>
 
@@ -1825,7 +1825,7 @@ Hosted by Meredith Vieira and produced by NBCUniversal Television Distribution, 
 <hr>
 
 
-## 22. [Undateable](https://serp.ly/@serpmedia/github/amazon/Undateable)
+## 22. [Undateable](https://serp.ly/amazon/Undateable)
 
 ![Undateable](https://image.tmdb.org/t/p/original/4f8ZWo6ROu0zs1OtqRVAZ9SzbzZ.jpg)
 
@@ -1867,7 +1867,7 @@ Danny Burton is a carefree single guy in Detroit who's watching his friends move
 <hr>
 
 
-## 23. [Movie Night with Karlie Kloss](https://serp.ly/@serpmedia/github/amazon/Movie+Night+with+Karlie+Kloss)
+## 23. [Movie Night with Karlie Kloss](https://serp.ly/amazon/Movie+Night+with+Karlie+Kloss)
 
 ![Movie Night with Karlie Kloss](https://image.tmdb.org/t/p/original/znXEpH8J88ncVMiTsnknyFEgfpZ.jpg)
 
@@ -1909,7 +1909,7 @@ Danny Burton is a carefree single guy in Detroit who's watching his friends move
 <hr>
 
 
-## 24. [Eye Candy](https://serp.ly/@serpmedia/github/amazon/Eye+Candy)
+## 24. [Eye Candy](https://serp.ly/amazon/Eye+Candy)
 
 ![Eye Candy](https://image.tmdb.org/t/p/original/uWC1JvKDReUpcMxupTwn4cCuB55.jpg)
 
@@ -1951,7 +1951,7 @@ When tech genius Lindy starts online dating at her roommate's insistence, she st
 <hr>
 
 
-## 25. [Queen America](https://serp.ly/@serpmedia/github/amazon/Queen+America)
+## 25. [Queen America](https://serp.ly/amazon/Queen+America)
 
 ![Queen America](https://image.tmdb.org/t/p/original/brGIOE5tNA3FyyymmqkI2LGFFMk.jpg)
 
@@ -1993,7 +1993,7 @@ When the most sought-after pageant coach in the state agrees to mentor an unpoli
 <hr>
 
 
-## 26. [The Troop](https://serp.ly/@serpmedia/github/amazon/The+Troop)
+## 26. [The Troop](https://serp.ly/amazon/The+Troop)
 
 ![The Troop](https://image.tmdb.org/t/p/original/aXLJkgGfbLgFh3Cftehygj77WrV.jpg)
 
@@ -2035,7 +2035,7 @@ Join an epic adventure in Lakewood, where three friends turn everyday exploratio
 <hr>
 
 
-## 27. [The Real Bros of Simi Valley](https://serp.ly/@serpmedia/github/amazon/The+Real+Bros+of+Simi+Valley)
+## 27. [The Real Bros of Simi Valley](https://serp.ly/amazon/The+Real+Bros+of+Simi+Valley)
 
 ![The Real Bros of Simi Valley](https://image.tmdb.org/t/p/original/7473gxlsMnhhY5N5biMQ4wGIl5J.jpg)
 
@@ -2079,7 +2079,7 @@ The Real Bros of Simi Valley provides an intimate glimpse into the daily lives o
 <hr>
 
 
-## 28. [Teen Choice Awards](https://serp.ly/@serpmedia/github/amazon/Teen+Choice+Awards)
+## 28. [Teen Choice Awards](https://serp.ly/amazon/Teen+Choice+Awards)
 
 ![Teen Choice Awards](https://image.tmdb.org/t/p/original/3q900BNcKbe3GHga4RVxSnoiqP4.jpg)
 

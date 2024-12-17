@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Joker](https://serp.ly/@serpmedia/github/amazon/Joker)
+## 1. [Joker](https://serp.ly/amazon/Joker)
 
 ![Joker](https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg)
 
@@ -80,7 +80,7 @@ In 1980s Gotham City, a stand-up comedian's life takes a dark turn when his rele
 <hr>
 
 
-## 2. [Star Wars: The Last Jedi](https://serp.ly/@serpmedia/github/amazon/Star+Wars%3A+The+Last+Jedi)
+## 2. [Star Wars: The Last Jedi](https://serp.ly/amazon/Star+Wars%3A+The+Last+Jedi)
 
 ![Star Wars: The Last Jedi](https://image.tmdb.org/t/p/original/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg)
 
@@ -121,7 +121,7 @@ In "Star Wars: The Last Jedi, " Rey continues her Jedi training with Luke Skywal
 <hr>
 
 
-## 3. [American Psycho](https://serp.ly/@serpmedia/github/amazon/American+Psycho)
+## 3. [American Psycho](https://serp.ly/amazon/American+Psycho)
 
 ![American Psycho](https://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg)
 
@@ -164,7 +164,7 @@ In "Star Wars: The Last Jedi, " Rey continues her Jedi training with Luke Skywal
 <hr>
 
 
-## 4. [Mulholland Drive](https://serp.ly/@serpmedia/github/amazon/Mulholland+Drive)
+## 4. [Mulholland Drive](https://serp.ly/amazon/Mulholland+Drive)
 
 ![Mulholland Drive](https://image.tmdb.org/t/p/original/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg)
 
@@ -204,7 +204,7 @@ A love story in the city of dreams.
 <hr>
 
 
-## 5. [Megamind](https://serp.ly/@serpmedia/github/amazon/Megamind)
+## 5. [Megamind](https://serp.ly/amazon/Megamind)
 
 ![Megamind](https://image.tmdb.org/t/p/original/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg)
 
@@ -247,7 +247,7 @@ Megamind, an exceptionally intelligent alien supervillain, finally defeats his l
 <hr>
 
 
-## 6. [Bumblebee](https://serp.ly/@serpmedia/github/amazon/Bumblebee)
+## 6. [Bumblebee](https://serp.ly/amazon/Bumblebee)
 
 ![Bumblebee](https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg)
 
@@ -290,7 +290,7 @@ In 1987, a battered Bumblebee seeks refuge in a Californian beach town junkyard,
 <hr>
 
 
-## 7. [Tropic Thunder](https://serp.ly/@serpmedia/github/amazon/Tropic+Thunder)
+## 7. [Tropic Thunder](https://serp.ly/amazon/Tropic+Thunder)
 
 ![Tropic Thunder](https://image.tmdb.org/t/p/original/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg)
 
@@ -330,7 +330,7 @@ When a group of self-absorbed actors heads to Southeast Asia to film the most ex
 <hr>
 
 
-## 8. [The Girl on the Train](https://serp.ly/@serpmedia/github/amazon/The+Girl+on+the+Train)
+## 8. [The Girl on the Train](https://serp.ly/amazon/The+Girl+on+the+Train)
 
 ![The Girl on the Train](https://image.tmdb.org/t/p/original/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg)
 
@@ -373,7 +373,7 @@ Rachel Watson's daily commute takes her past a house that seems to have it all -
 <hr>
 
 
-## 9. [Zoolander](https://serp.ly/@serpmedia/github/amazon/Zoolander)
+## 9. [Zoolander](https://serp.ly/amazon/Zoolander)
 
 ![Zoolander](https://image.tmdb.org/t/p/original/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg)
 
@@ -416,7 +416,7 @@ When Derek Zoolander, VH1's three-time male model of the year, faces stiff compe
 <hr>
 
 
-## 10. [Charlie's Angels: Full Throttle](https://serp.ly/@serpmedia/github/amazon/Charlie%27s+Angels%3A+Full+Throttle)
+## 10. [Charlie's Angels: Full Throttle](https://serp.ly/amazon/Charlie%27s+Angels%3A+Full+Throttle)
 
 ![Charlie's Angels: Full Throttle](https://image.tmdb.org/t/p/original/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg)
 
@@ -461,7 +461,7 @@ When a pair of valuable rings goes missing, the Angels are called in to solve th
 <hr>
 
 
-## 11. [The Spy Who Dumped Me](https://serp.ly/@serpmedia/github/amazon/The+Spy+Who+Dumped+Me)
+## 11. [The Spy Who Dumped Me](https://serp.ly/amazon/The+Spy+Who+Dumped+Me)
 
 ![The Spy Who Dumped Me](https://image.tmdb.org/t/p/original/tpPERI5i6yjT73jYWyZ9iWltQ9L.jpg)
 
@@ -501,7 +501,7 @@ When two thirtysomething best friends have their ordinary evening interrupted by
 <hr>
 
 
-## 12. [Lady and the Tramp](https://serp.ly/@serpmedia/github/amazon/Lady+and+the+Tramp)
+## 12. [Lady and the Tramp](https://serp.ly/amazon/Lady+and+the+Tramp)
 
 ![Lady and the Tramp](https://image.tmdb.org/t/p/original/8wBEye516IKul9sW7JKGcFXVGfV.jpg)
 
@@ -537,7 +537,7 @@ When a pampered Cocker Spaniel named Lady finds herself out on the street after 
 <hr>
 
 
-## 13. [Zoolander 2](https://serp.ly/@serpmedia/github/amazon/Zoolander+2)
+## 13. [Zoolander 2](https://serp.ly/amazon/Zoolander+2)
 
 ![Zoolander 2](https://image.tmdb.org/t/p/original/e0sHfnIDANQtuqgn7UIupdJni3O.jpg)
 
@@ -577,7 +577,7 @@ Long time no Z
 <hr>
 
 
-## 14. [Miami Vice](https://serp.ly/@serpmedia/github/amazon/Miami+Vice)
+## 14. [Miami Vice](https://serp.ly/amazon/Miami+Vice)
 
 ![Miami Vice](https://image.tmdb.org/t/p/original/l2BYL9gMZ9IH9MbykTGqfVnNNpb.jpg)
 
@@ -617,7 +617,7 @@ In this 2006 Miami Vice movie, detectives Sonny Crockett and Ricardo Tubbs inves
 <hr>
 
 
-## 15. [Duplex](https://serp.ly/@serpmedia/github/amazon/Duplex)
+## 15. [Duplex](https://serp.ly/amazon/Duplex)
 
 ![Duplex](https://image.tmdb.org/t/p/original/qM4pY3ODOgV0HygDkYh6Y9oyxhZ.jpg)
 
@@ -660,7 +660,7 @@ Alex and Nancy have finally found their dream home, a charming duplex that seems
 <hr>
 
 
-## 16. [On the Basis of Sex](https://serp.ly/@serpmedia/github/amazon/On+the+Basis+of+Sex)
+## 16. [On the Basis of Sex](https://serp.ly/amazon/On+the+Basis+of+Sex)
 
 ![On the Basis of Sex](https://image.tmdb.org/t/p/original/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg)
 
@@ -700,7 +700,7 @@ On the Basis of Sex chronicles young lawyer Ruth Bader Ginsburg's collaboration 
 <hr>
 
 
-## 17. [Inland Empire](https://serp.ly/@serpmedia/github/amazon/Inland+Empire)
+## 17. [Inland Empire](https://serp.ly/amazon/Inland+Empire)
 
 ![Inland Empire](https://image.tmdb.org/t/p/original/kaBOzVlMZXVcHGxfPC7hw5N1L7J.jpg)
 
@@ -743,7 +743,7 @@ When an actress agrees to star in a remake of an unfinished Polish production, h
 <hr>
 
 
-## 18. [Your Highness](https://serp.ly/@serpmedia/github/amazon/Your+Highness)
+## 18. [Your Highness](https://serp.ly/amazon/Your+Highness)
 
 ![Your Highness](https://image.tmdb.org/t/p/original/bq3gU60TkgBjLUbxSSZVhDhlhmH.jpg)
 
@@ -786,7 +786,7 @@ When the prince of a fantasy kingdom shows up to claim his throne, his arrogant 
 <hr>
 
 
-## 19. [Wanderlust](https://serp.ly/@serpmedia/github/amazon/Wanderlust)
+## 19. [Wanderlust](https://serp.ly/amazon/Wanderlust)
 
 ![Wanderlust](https://image.tmdb.org/t/p/original/hH1Bla0W4YIn9sdd9NwODzDCcE4.jpg)
 
@@ -826,7 +826,7 @@ When a Manhattan couple's carefully planned future is upended by sudden unemploy
 <hr>
 
 
-## 20. [The Lego Ninjago Movie](https://serp.ly/@serpmedia/github/amazon/The+Lego+Ninjago+Movie)
+## 20. [The Lego Ninjago Movie](https://serp.ly/amazon/The+Lego+Ninjago+Movie)
 
 ![The Lego Ninjago Movie](https://image.tmdb.org/t/p/original/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg)
 
@@ -868,7 +868,7 @@ Join six young ninjas as they defend their island home of Ninjago against an epi
 <hr>
 
 
-## 21. [Mute](https://serp.ly/@serpmedia/github/amazon/Mute)
+## 21. [Mute](https://serp.ly/amazon/Mute)
 
 ![Mute](https://image.tmdb.org/t/p/original/ihGg1xndLl3MW34Km332pNkyLH7.jpg)
 
@@ -907,7 +907,7 @@ In a near-future Berlin, a mute man with a violent past is forced to confront th
 <hr>
 
 
-## 22. [Mulholland Dr.](https://serp.ly/@serpmedia/github/amazon/Mulholland+Dr.)
+## 22. [Mulholland Dr.](https://serp.ly/amazon/Mulholland+Dr.)
 
 ![Mulholland Dr.](https://image.tmdb.org/t/p/original/oGXtT5UW8lDWt8uxlww2zw9GmBs.jpg)
 
@@ -941,7 +941,7 @@ In a near-future Berlin, a mute man with a violent past is forced to confront th
 <hr>
 
 
-## 23. [Romy and Michele's High School Reunion](https://serp.ly/@serpmedia/github/amazon/Romy+and+Michele%27s+High+School+Reunion)
+## 23. [Romy and Michele's High School Reunion](https://serp.ly/amazon/Romy+and+Michele%27s+High+School+Reunion)
 
 ![Romy and Michele's High School Reunion](https://image.tmdb.org/t/p/original/etg1pHDwJfWbr5XeOkVxErjBRld.jpg)
 
@@ -981,7 +981,7 @@ Two not-too-bright party girls reinvent themselves for their high school reunion
 <hr>
 
 
-## 24. [False Positive](https://serp.ly/@serpmedia/github/amazon/False+Positive)
+## 24. [False Positive](https://serp.ly/amazon/False+Positive)
 
 ![False Positive](https://image.tmdb.org/t/p/original/3HSov8EW2fI3oQbUJxOvnf684ej.jpg)
 
@@ -1020,7 +1020,7 @@ After months of failed attempts to conceive, Lucy and Adrian finally find their 
 <hr>
 
 
-## 25. [The Ten](https://serp.ly/@serpmedia/github/amazon/The+Ten)
+## 25. [The Ten](https://serp.ly/amazon/The+Ten)
 
 ![The Ten](https://image.tmdb.org/t/p/original/byhpbEcL1tuoNhU3x5vYF45QM8X.jpg)
 
@@ -1060,7 +1060,7 @@ If He'd meant the commandments literally, He'd have written them in stone.
 <hr>
 
 
-## 26. [The Broken Hearts Club: A Romantic Comedy](https://serp.ly/@serpmedia/github/amazon/The+Broken+Hearts+Club%3A+A+Romantic+Comedy)
+## 26. [The Broken Hearts Club: A Romantic Comedy](https://serp.ly/amazon/The+Broken+Hearts+Club%3A+A+Romantic+Comedy)
 
 ![The Broken Hearts Club: A Romantic Comedy](https://image.tmdb.org/t/p/original/g9bqbopRZYy5Z2137zFoFQRXVEW.jpg)
 
@@ -1103,7 +1103,7 @@ The Broken Hearts Club weaves together the authentic experiences of a tight-knit
 <hr>
 
 
-## 27. [I Shot Andy Warhol](https://serp.ly/@serpmedia/github/amazon/I+Shot+Andy+Warhol)
+## 27. [I Shot Andy Warhol](https://serp.ly/amazon/I+Shot+Andy+Warhol)
 
 ![I Shot Andy Warhol](https://image.tmdb.org/t/p/original/eF4iTAjunicLQyc6AdF7JNwSBOC.jpg)
 
@@ -1144,7 +1144,7 @@ In the 1960s, radical feminist Valerie Solanas penned a shocking manifesto decla
 <hr>
 
 
-## 28. [Strangers with Candy](https://serp.ly/@serpmedia/github/amazon/Strangers+with+Candy)
+## 28. [Strangers with Candy](https://serp.ly/amazon/Strangers+with+Candy)
 
 ![Strangers with Candy](https://image.tmdb.org/t/p/original/hPx4aELIbpf6ZRdHPmBH5h5Qs95.jpg)
 
@@ -1184,7 +1184,7 @@ When Jerri Blank returns to high school at 46, she's not just facing another aca
 <hr>
 
 
-## 29. [Return to Rajapur](https://serp.ly/@serpmedia/github/amazon/Return+to+Rajapur)
+## 29. [Return to Rajapur](https://serp.ly/amazon/Return+to+Rajapur)
 
 ![Return to Rajapur](https://image.tmdb.org/t/p/original/evmAVlioTgPJ14fl7FbhC2CnO3F.jpg)
 
@@ -1218,7 +1218,7 @@ In the deserts of India, a young woman named Samantha Hartley travels to Rajapur
 <hr>
 
 
-## 30. [Broken English](https://serp.ly/@serpmedia/github/amazon/Broken+English)
+## 30. [Broken English](https://serp.ly/amazon/Broken+English)
 
 ![Broken English](https://image.tmdb.org/t/p/original/7xxZH98y9kIesh5OpFauu7GXKBh.jpg)
 
@@ -1258,7 +1258,7 @@ Nora Wilder is freaking out. Everyone around her is either in a relationship, ma
 <hr>
 
 
-## 31. [Tropic Thunder: Rain of Madness](https://serp.ly/@serpmedia/github/amazon/Tropic+Thunder%3A+Rain+of+Madness)
+## 31. [Tropic Thunder: Rain of Madness](https://serp.ly/amazon/Tropic+Thunder%3A+Rain+of+Madness)
 
 ![Tropic Thunder: Rain of Madness](https://image.tmdb.org/t/p/original/zRcxzIn1QGKALqNeE6aovcmYcNs.jpg)
 
@@ -1294,7 +1294,7 @@ Before the thunder... comes the madness.
 <hr>
 
 
-## 32. [The Baxter](https://serp.ly/@serpmedia/github/amazon/The+Baxter)
+## 32. [The Baxter](https://serp.ly/amazon/The+Baxter)
 
 ![The Baxter](https://image.tmdb.org/t/p/original/9V1ASfnxMZxrkqIvVQYySE5qSwd.jpg)
 
@@ -1330,7 +1330,7 @@ Elliot Sherman is a nice guy, the kind who wears sock garters and enjoys raking 
 <hr>
 
 
-## 33. [The Master: A LEGO Ninjago Short](https://serp.ly/@serpmedia/github/amazon/The+Master%3A+A+LEGO+Ninjago+Short)
+## 33. [The Master: A LEGO Ninjago Short](https://serp.ly/amazon/The+Master%3A+A+LEGO+Ninjago+Short)
 
 ![The Master: A LEGO Ninjago Short](https://image.tmdb.org/t/p/original/y9o53sSsiZHjFeOwghViw99KnAI.jpg)
 
@@ -1364,7 +1364,7 @@ When Master Wu runs a LEGO Ninjago training session, his strict teaching methods
 <hr>
 
 
-## 34. [More Things That Happened](https://serp.ly/@serpmedia/github/amazon/More+Things+That+Happened)
+## 34. [More Things That Happened](https://serp.ly/amazon/More+Things+That+Happened)
 
 ![More Things That Happened](https://image.tmdb.org/t/p/original/fTTmhjoAbzoDd9dK9cuceXuR5WP.jpg)
 
@@ -1398,7 +1398,7 @@ When Master Wu runs a LEGO Ninjago training session, his strict teaching methods
 <hr>
 
 
-## 35. [Violet](https://serp.ly/@serpmedia/github/amazon/Violet)
+## 35. [Violet](https://serp.ly/amazon/Violet)
 
 ![Violet](https://image.tmdb.org/t/p/original/h88HvuJGmbz6ABBFHoltN4Ratib.jpg)
 
@@ -1434,7 +1434,7 @@ Violet realizes that her entire life is built on fear-based decisions and must d
 <hr>
 
 
-## 36. [Below Utopia](https://serp.ly/@serpmedia/github/amazon/Below+Utopia)
+## 36. [Below Utopia](https://serp.ly/amazon/Below+Utopia)
 
 ![Below Utopia](https://image.tmdb.org/t/p/original/1Agd7YdurHZYlgxf4BuvVx8Gay0.jpg)
 
@@ -1470,7 +1470,7 @@ Daniel returns to his family's mansion for the holidays, bringing his girlfriend
 <hr>
 
 
-## 37. [The Legend of Lucy Keyes](https://serp.ly/@serpmedia/github/amazon/The+Legend+of+Lucy+Keyes)
+## 37. [The Legend of Lucy Keyes](https://serp.ly/amazon/The+Legend+of+Lucy+Keyes)
 
 ![The Legend of Lucy Keyes](https://image.tmdb.org/t/p/original/ljY0WXsYIHsCN9qAm5gNzBbtlZa.jpg)
 
@@ -1504,7 +1504,7 @@ In this heartfelt tale, an urban family relocates to rural New England, unaware 
 <hr>
 
 
-## 38. [Happy End](https://serp.ly/@serpmedia/github/amazon/Happy+End)
+## 38. [Happy End](https://serp.ly/amazon/Happy+End)
 
 ![Happy End](https://image.tmdb.org/t/p/original/jbLxetPVJH03a8CZPpa0bw4E2tI.jpg)
 
@@ -1538,7 +1538,7 @@ Val, a 23-year-old actress, arrives in New York with her dreams and a suitcase. 
 <hr>
 
 
-## 39. [Sirens](https://serp.ly/@serpmedia/github/amazon/Sirens)
+## 39. [Sirens](https://serp.ly/amazon/Sirens)
 
 ![Sirens](https://image.tmdb.org/t/p/original/xCKn02u5tuY91dW02UiVu1uXIXq.jpg)
 
@@ -1574,7 +1574,7 @@ When a ruthless cop murders her ex-husband, corporate executive Sally Rawlings w
 <hr>
 
 
-## 40. [The Making of ‘Mulholland Drive’](https://serp.ly/@serpmedia/github/amazon/The+Making+of+%E2%80%98Mulholland+Drive%E2%80%99)
+## 40. [The Making of ‘Mulholland Drive’](https://serp.ly/amazon/The+Making+of+%E2%80%98Mulholland+Drive%E2%80%99)
 
 ![The Making of ‘Mulholland Drive’](https://image.tmdb.org/t/p/original/8BvGPYPFFRgOSkahSenbvtJDNNy.jpg)
 
@@ -1610,7 +1610,7 @@ When a ruthless cop murders her ex-husband, corporate executive Sally Rawlings w
 <hr>
 
 
-## 41. [Camp! The Movie](https://serp.ly/@serpmedia/github/amazon/Camp%21+The+Movie)
+## 41. [Camp! The Movie](https://serp.ly/amazon/Camp%21+The+Movie)
 
 ![Camp! The Movie](https://image.tmdb.org/t/p/original/2X5cxfFaBNXUUK7GN3NVS0nXo0U.jpg)
 
@@ -1643,7 +1643,7 @@ Audiences are literally dead!
 <hr>
 
 
-## 42. [The Sleepy Time Gal](https://serp.ly/@serpmedia/github/amazon/The+Sleepy+Time+Gal)
+## 42. [The Sleepy Time Gal](https://serp.ly/amazon/The+Sleepy+Time+Gal)
 
 ![The Sleepy Time Gal](https://image.tmdb.org/t/p/original/fheBMdXCvR64YHGqD0rAc22UPt9.jpg)
 
@@ -1677,7 +1677,7 @@ The Sleepy Time Gal follows a young lawyer who, upon discovering she was adopted
 <hr>
 
 
-## 43. [Dream House](https://serp.ly/@serpmedia/github/amazon/Dream+House)
+## 43. [Dream House](https://serp.ly/amazon/Dream+House)
 
 <br>
 
@@ -1707,7 +1707,7 @@ When two couples unexpectedly rent the same house for the summer, their plans an
 <hr>
 
 
-## 44. [Making The Leftovers](https://serp.ly/@serpmedia/github/amazon/Making+The+Leftovers)
+## 44. [Making The Leftovers](https://serp.ly/amazon/Making+The+Leftovers)
 
 ![Making The Leftovers](https://image.tmdb.org/t/p/original/hrSsypGIgWx5x0GPEhDBKCbTEnx.jpg)
 
@@ -1738,7 +1738,7 @@ When two couples unexpectedly rent the same house for the summer, their plans an
 <hr>
 
 
-## 45. [Frogs for Snakes](https://serp.ly/@serpmedia/github/amazon/Frogs+for+Snakes)
+## 45. [Frogs for Snakes](https://serp.ly/amazon/Frogs+for+Snakes)
 
 ![Frogs for Snakes](https://image.tmdb.org/t/p/original/eugpeKUBgL6cswiXWAZ4jAimEOB.jpg)
 
@@ -1774,7 +1774,7 @@ When a group of unemployed theater actors agrees to work as illegal money collec
 <hr>
 
 
-## 46. [Beetlejuice Beetlejuice](https://serp.ly/@serpmedia/github/amazon/Beetlejuice+Beetlejuice)
+## 46. [Beetlejuice Beetlejuice](https://serp.ly/amazon/Beetlejuice+Beetlejuice)
 
 ![Beetlejuice Beetlejuice](https://image.tmdb.org/t/p/original/v6F9wAzNqSKBNgw4zLG8GvjUuuC.jpg)
 
@@ -1801,7 +1801,7 @@ After a family tragedy, the Deetz women return to their hometown of Winter River
 <hr>
 
 
-## 47. [Dead Broke](https://serp.ly/@serpmedia/github/amazon/Dead+Broke)
+## 47. [Dead Broke](https://serp.ly/amazon/Dead+Broke)
 
 ![Dead Broke](https://image.tmdb.org/t/p/original/vnwLr46PW6UfDbSXwJVh5KFJJp6.jpg)
 
@@ -1832,7 +1832,7 @@ When a murder occurs outside a debt collection agency in Brooklyn, a detective i
 <hr>
 
 
-## 48. [Lynch 2](https://serp.ly/@serpmedia/github/amazon/Lynch+2)
+## 48. [Lynch 2](https://serp.ly/amazon/Lynch+2)
 
 ![Lynch 2](https://image.tmdb.org/t/p/original/iFiEqtEd5zdTDFD6AKNM7e8cDyO.jpg)
 
@@ -1863,7 +1863,7 @@ When a murder occurs outside a debt collection agency in Brooklyn, a detective i
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1907,7 +1907,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Sex and the City](https://serp.ly/@serpmedia/github/amazon/Sex+and+the+City)
+## 2. [Sex and the City](https://serp.ly/amazon/Sex+and+the+City)
 
 ![Sex and the City](https://image.tmdb.org/t/p/original/tzVUZxNwntAS8Gk3WF2DCcI8x1B.jpg)
 
@@ -1951,7 +1951,7 @@ Sex and the City invites you into the stylish world of four late-thirtysomething
 <hr>
 
 
-## 3. [Rick and Morty](https://serp.ly/@serpmedia/github/amazon/Rick+and+Morty)
+## 3. [Rick and Morty](https://serp.ly/amazon/Rick+and+Morty)
 
 ![Rick and Morty](https://image.tmdb.org/t/p/original/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg)
 
@@ -1997,7 +1997,7 @@ When a scientifically gifted but mentally unbalanced old man reconnects with his
 <hr>
 
 
-## 4. [Six Feet Under](https://serp.ly/@serpmedia/github/amazon/Six+Feet+Under)
+## 4. [Six Feet Under](https://serp.ly/amazon/Six+Feet+Under)
 
 ![Six Feet Under](https://image.tmdb.org/t/p/original/ztuH5aJIZQpu5ci27tY2nx1gwjO.jpg)
 
@@ -2041,7 +2041,7 @@ Life is wasted on the living.
 <hr>
 
 
-## 5. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 5. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -2087,7 +2087,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 6. [Close Up with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Close+Up+with+The+Hollywood+Reporter)
+## 6. [Close Up with The Hollywood Reporter](https://serp.ly/amazon/Close+Up+with+The+Hollywood+Reporter)
 
 ![Close Up with The Hollywood Reporter](https://image.tmdb.org/t/p/original/h7X59O3T4VWVAUzZ00LEpbwA3GP.jpg)
 
@@ -2129,7 +2129,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 7. [Parks and Recreation](https://serp.ly/@serpmedia/github/amazon/Parks+and+Recreation)
+## 7. [Parks and Recreation](https://serp.ly/amazon/Parks+and+Recreation)
 
 ![Parks and Recreation](https://image.tmdb.org/t/p/original/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg)
 
@@ -2173,7 +2173,7 @@ Because parks don't grow on trees.
 <hr>
 
 
-## 8. [Spin City](https://serp.ly/@serpmedia/github/amazon/Spin+City)
+## 8. [Spin City](https://serp.ly/amazon/Spin+City)
 
 ![Spin City](https://image.tmdb.org/t/p/original/3Ksmbpg33PigXKWncD8rFMl24vF.jpg)
 
@@ -2215,7 +2215,7 @@ When workaholic Mike Flaherty becomes Deputy Mayor of New York City, he transfor
 <hr>
 
 
-## 9. [The Leftovers](https://serp.ly/@serpmedia/github/amazon/The+Leftovers)
+## 9. [The Leftovers](https://serp.ly/amazon/The+Leftovers)
 
 ![The Leftovers](https://image.tmdb.org/t/p/original/ri8xr223xBb2TeHX3GKypvQPV2B.jpg)
 
@@ -2259,7 +2259,7 @@ When 2% of the world's population vanishes without explanation, the remaining 98
 <hr>
 
 
-## 10. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 10. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -2305,7 +2305,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 11. [The Mosquito Coast](https://serp.ly/@serpmedia/github/amazon/The+Mosquito+Coast)
+## 11. [The Mosquito Coast](https://serp.ly/amazon/The+Mosquito+Coast)
 
 ![The Mosquito Coast](https://image.tmdb.org/t/p/original/cCwCjqeUSGcqHmryupjW2Hd8F3T.jpg)
 
@@ -2349,7 +2349,7 @@ When brilliant inventor Allie Fox makes a dangerous decision that puts his famil
 <hr>
 
 
-## 12. [Maniac](https://serp.ly/@serpmedia/github/amazon/Maniac)
+## 12. [Maniac](https://serp.ly/amazon/Maniac)
 
 ![Maniac](https://image.tmdb.org/t/p/original/kCNl4QPstAqChFD0NnLpbDFG8ul.jpg)
 
@@ -2393,7 +2393,7 @@ When two strangers sign up for a pharmaceutical trial that promises to solve all
 <hr>
 
 
-## 13. [The District](https://serp.ly/@serpmedia/github/amazon/The+District)
+## 13. [The District](https://serp.ly/amazon/The+District)
 
 ![The District](https://image.tmdb.org/t/p/original/hnd8bGqWZhtEdCwDf5YXdIDaJei.jpg)
 
@@ -2435,7 +2435,7 @@ The District invites you into the high-stakes world of Washington, D. C. 's top 
 <hr>
 
 
-## 14. [John Adams](https://serp.ly/@serpmedia/github/amazon/John+Adams)
+## 14. [John Adams](https://serp.ly/amazon/John+Adams)
 
 ![John Adams](https://image.tmdb.org/t/p/original/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg)
 
@@ -2479,7 +2479,7 @@ Travel back in time with this seven-part miniseries that brings John Adams' rema
 <hr>
 
 
-## 15. [New York Undercover](https://serp.ly/@serpmedia/github/amazon/New+York+Undercover)
+## 15. [New York Undercover](https://serp.ly/amazon/New+York+Undercover)
 
 ![New York Undercover](https://image.tmdb.org/t/p/original/70Nd63gqoCLxNrdSY72FYAWOXhj.jpg)
 
@@ -2523,7 +2523,7 @@ When two childhood friends become undercover detectives in New York City's Fourt
 <hr>
 
 
-## 16. [White House Plumbers](https://serp.ly/@serpmedia/github/amazon/White+House+Plumbers)
+## 16. [White House Plumbers](https://serp.ly/amazon/White+House+Plumbers)
 
 ![White House Plumbers](https://image.tmdb.org/t/p/original/z3OTxrOz0LdalxN62ejpeQfxWNN.jpg)
 
@@ -2567,7 +2567,7 @@ When Nixon's trusted operatives turn their political cunning against the Preside
 <hr>
 
 
-## 17. [Lights Out with David Spade](https://serp.ly/@serpmedia/github/amazon/Lights+Out+with+David+Spade)
+## 17. [Lights Out with David Spade](https://serp.ly/amazon/Lights+Out+with+David+Spade)
 
 ![Lights Out with David Spade](https://image.tmdb.org/t/p/original/5AO1sWKOrwHo3Jh5ORcCgozjwng.jpg)
 
@@ -2611,7 +2611,7 @@ Join comedy legend David Spade at the roundtable with his comedian friends, wher
 <hr>
 
 
-## 18. [Ally McBeal](https://serp.ly/@serpmedia/github/amazon/Ally+McBeal)
+## 18. [Ally McBeal](https://serp.ly/amazon/Ally+McBeal)
 
 ![Ally McBeal](https://image.tmdb.org/t/p/original/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg)
 
@@ -2655,7 +2655,7 @@ When Ally McBeal joins the Boston law firm of Cage and Fish, she brings with her
 <hr>
 
 
-## 19. [Central Park West](https://serp.ly/@serpmedia/github/amazon/Central+Park+West)
+## 19. [Central Park West](https://serp.ly/amazon/Central+Park+West)
 
 ![Central Park West](https://image.tmdb.org/t/p/original/98txbU074GC1mx8SFWWHIwmCQhP.jpg)
 
@@ -2697,7 +2697,7 @@ When Ally McBeal joins the Boston law firm of Cage and Fish, she brings with her
 <hr>
 
 
-## 20. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 20. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -2743,7 +2743,7 @@ When Ally McBeal joins the Boston law firm of Cage and Fish, she brings with her
 <hr>
 
 
-## 21. [Alias](https://serp.ly/@serpmedia/github/amazon/Alias)
+## 21. [Alias](https://serp.ly/amazon/Alias)
 
 ![Alias](https://image.tmdb.org/t/p/original/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg)
 

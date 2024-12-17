@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Teen Beach Movie](https://serp.ly/@serpmedia/github/amazon/Teen+Beach+Movie)
+## 1. [Teen Beach Movie](https://serp.ly/amazon/Teen+Beach+Movie)
 
 ![Teen Beach Movie](https://image.tmdb.org/t/p/original/ywX8INXLshhf94pyxc8wE2MO4aT.jpg)
 
@@ -75,7 +75,7 @@ When two surfers are magically transported inside the classic 1960s beach party 
 <hr>
 
 
-## 2. [Muppets Most Wanted](https://serp.ly/@serpmedia/github/amazon/Muppets+Most+Wanted)
+## 2. [Muppets Most Wanted](https://serp.ly/amazon/Muppets+Most+Wanted)
 
 ![Muppets Most Wanted](https://image.tmdb.org/t/p/original/o9mGTVnnsqMS3Oh2IloPKPpLiL3.jpg)
 
@@ -115,7 +115,7 @@ Join The Muppets on their biggest world tour yet, where they stumble into an out
 <hr>
 
 
-## 3. [Teen Beach 2](https://serp.ly/@serpmedia/github/amazon/Teen+Beach+2)
+## 3. [Teen Beach 2](https://serp.ly/amazon/Teen+Beach+2)
 
 ![Teen Beach 2](https://image.tmdb.org/t/p/original/3h1QyNjuuD6fwuMoFR8IG206Dan.jpg)
 
@@ -151,7 +151,7 @@ Join Brady and Mack as they surf through an epic adventure that tests their cour
 <hr>
 
 
-## 4. [Status Update](https://serp.ly/@serpmedia/github/amazon/Status+Update)
+## 4. [Status Update](https://serp.ly/amazon/Status+Update)
 
 ![Status Update](https://image.tmdb.org/t/p/original/E4twRNScyq3g6tRpvK6X8LdD1z.jpg)
 
@@ -190,7 +190,7 @@ Imagine if every time you updated your status your dreams came true
 <hr>
 
 
-## 5. [My Friend Dahmer](https://serp.ly/@serpmedia/github/amazon/My+Friend+Dahmer)
+## 5. [My Friend Dahmer](https://serp.ly/amazon/My+Friend+Dahmer)
 
 ![My Friend Dahmer](https://image.tmdb.org/t/p/original/c6HoPIBcRv9l2tPB8hbivq71Nw.jpg)
 
@@ -226,7 +226,7 @@ Imagine if every time you updated your status your dreams came true
 <hr>
 
 
-## 6. [Snowtime!](https://serp.ly/@serpmedia/github/amazon/Snowtime%21)
+## 6. [Snowtime!](https://serp.ly/amazon/Snowtime%21)
 
 ![Snowtime!](https://image.tmdb.org/t/p/original/dC1rjdwynUgeZIexSqOUGM3kNpX.jpg)
 
@@ -264,7 +264,7 @@ When the kids in a small village decide to have a massive snowball fight during 
 <hr>
 
 
-## 7. [Austin & Jessie & Ally All Star New Year](https://serp.ly/@serpmedia/github/amazon/Austin+%26+Jessie+%26+Ally+All+Star+New+Year)
+## 7. [Austin & Jessie & Ally All Star New Year](https://serp.ly/amazon/Austin+%26+Jessie+%26+Ally+All+Star+New+Year)
 
 ![Austin & Jessie & Ally All Star New Year](https://image.tmdb.org/t/p/original/lTZRYUPf6MKruVotXIK4NAATOSU.jpg)
 
@@ -295,7 +295,7 @@ Austin's dream of performing in Times Square on New Year's Eve seems to be on th
 <hr>
 
 
-## 8. [Disney Parks Christmas Day Parade](https://serp.ly/@serpmedia/github/amazon/Disney+Parks+Christmas+Day+Parade)
+## 8. [Disney Parks Christmas Day Parade](https://serp.ly/amazon/Disney+Parks+Christmas+Day+Parade)
 
 ![Disney Parks Christmas Day Parade](https://image.tmdb.org/t/p/original/ntNcq4KR41b2yp090iHWyGVQYMo.jpg)
 
@@ -326,7 +326,7 @@ This 29th annual holiday special whisks you coast-to-coast for a magical celebra
 <hr>
 
 
-## 9. [Disney Parks Christmas Day Parade](https://serp.ly/@serpmedia/github/amazon/Disney+Parks+Christmas+Day+Parade)
+## 9. [Disney Parks Christmas Day Parade](https://serp.ly/amazon/Disney+Parks+Christmas+Day+Parade)
 
 ![Disney Parks Christmas Day Parade](https://image.tmdb.org/t/p/original/pslhyVp3FIO4LZbhSdxcl5L4dup.jpg)
 
@@ -357,7 +357,7 @@ Join us on a magical journey through Disney Parks as we celebrate 30 years of ho
 <hr>
 
 
-## 10. [R5: All Day, All Night](https://serp.ly/@serpmedia/github/amazon/R5%3A+All+Day%2C+All+Night)
+## 10. [R5: All Day, All Night](https://serp.ly/amazon/R5%3A+All+Day%2C+All+Night)
 
 ![R5: All Day, All Night](https://image.tmdb.org/t/p/original/eNlaI9AqGFrA15H9FFQvHEgkKto.jpg)
 
@@ -395,7 +395,7 @@ The concert event.
 <hr>
 
 
-## 11. [Holy](https://serp.ly/@serpmedia/github/amazon/Holy)
+## 11. [Holy](https://serp.ly/amazon/Holy)
 
 ![Holy](https://image.tmdb.org/t/p/original/y3kZr0qSFNpF12VwTwqMjfumimc.jpg)
 
@@ -423,7 +423,7 @@ The concert event.
 <hr>
 
 
-## 12. [R5 Live Sometime Last Night at the Greek Theatre](https://serp.ly/@serpmedia/github/amazon/R5+Live+Sometime+Last+Night+at+the+Greek+Theatre)
+## 12. [R5 Live Sometime Last Night at the Greek Theatre](https://serp.ly/amazon/R5+Live+Sometime+Last+Night+at+the+Greek+Theatre)
 
 ![R5 Live Sometime Last Night at the Greek Theatre](https://image.tmdb.org/t/p/original/zt93qSsfwsYe5by3f88o5vrsk2d.jpg)
 
@@ -451,7 +451,7 @@ R5 Live Sometime Last Night at the Greek Theatre captures the band's energetic p
 <hr>
 
 
-## 13. [The Driver Era: Girlfriend (Live from LA)](https://serp.ly/@serpmedia/github/amazon/The+Driver+Era%3A+Girlfriend+%28Live+from+LA%29)
+## 13. [The Driver Era: Girlfriend (Live from LA)](https://serp.ly/amazon/The+Driver+Era%3A+Girlfriend+%28Live+from+LA%29)
 
 ![The Driver Era: Girlfriend (Live from LA)](https://image.tmdb.org/t/p/original/2tYD6kM6IEW2hITDxA54ZErqIh4.jpg)
 
@@ -482,7 +482,7 @@ The Driver Era's "GIRLFRIEND" album comes to life through this dynamic live perf
 <hr>
 
 
-## 1. [Marvel's Ultimate Spider-Man](https://serp.ly/@serpmedia/github/amazon/Marvel%27s+Ultimate+Spider-Man)
+## 1. [Marvel's Ultimate Spider-Man](https://serp.ly/amazon/Marvel%27s+Ultimate+Spider-Man)
 
 ![Marvel's Ultimate Spider-Man](https://image.tmdb.org/t/p/original/91hqeylCZsMLfcBuuflaVJ5w2nm.jpg)
 
@@ -524,7 +524,7 @@ When Spider-Man joins S. H. I. E. L. D. 's training program, he discovers a new 
 <hr>
 
 
-## 2. [American Music Awards](https://serp.ly/@serpmedia/github/amazon/American+Music+Awards)
+## 2. [American Music Awards](https://serp.ly/amazon/American+Music+Awards)
 
 ![American Music Awards](https://image.tmdb.org/t/p/original/lMfGSoq6otbyu7orszqAH4s9TQU.jpg)
 
@@ -568,7 +568,7 @@ The American Music Awards (AMAs) is a documentary series that showcases the most
 <hr>
 
 
-## 3. [Chilling Adventures of Sabrina](https://serp.ly/@serpmedia/github/amazon/Chilling+Adventures+of+Sabrina)
+## 3. [Chilling Adventures of Sabrina](https://serp.ly/amazon/Chilling+Adventures+of+Sabrina)
 
 ![Chilling Adventures of Sabrina](https://image.tmdb.org/t/p/original/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg)
 
@@ -612,7 +612,7 @@ When Sabrina turns 16, she faces an epic choice between her family's world of ma
 <hr>
 
 
-## 4. [Girl Meets World](https://serp.ly/@serpmedia/github/amazon/Girl+Meets+World)
+## 4. [Girl Meets World](https://serp.ly/amazon/Girl+Meets+World)
 
 ![Girl Meets World](https://image.tmdb.org/t/p/original/xhU1KkPtM9fpE1HKpdghX0VlyYF.jpg)
 
@@ -654,7 +654,7 @@ When Riley Matthews walks into John Quincy Adams Middle School, she's not just s
 <hr>
 
 
-## 5. [Violetta](https://serp.ly/@serpmedia/github/amazon/Violetta)
+## 5. [Violetta](https://serp.ly/amazon/Violetta)
 
 ![Violetta](https://image.tmdb.org/t/p/original/b3MUGJeKakAZwQa7lNJxTP1pJmD.jpg)
 
@@ -696,7 +696,7 @@ When a musically talented teenager returns to Buenos Aires with her father after
 <hr>
 
 
-## 6. [Jessie](https://serp.ly/@serpmedia/github/amazon/Jessie)
+## 6. [Jessie](https://serp.ly/amazon/Jessie)
 
 ![Jessie](https://image.tmdb.org/t/p/original/tspQe0FuiaUj0U1R1norNbiYTe4.jpg)
 
@@ -738,7 +738,7 @@ When a Texas teen decides to trade starry nights for the bright lights of New Yo
 <hr>
 
 
-## 7. [Radio Disney Music Awards](https://serp.ly/@serpmedia/github/amazon/Radio+Disney+Music+Awards)
+## 7. [Radio Disney Music Awards](https://serp.ly/amazon/Radio+Disney+Music+Awards)
 
 ![Radio Disney Music Awards](https://image.tmdb.org/t/p/original/nq7jAkkF5j6YO3Zer590ivQlF0e.jpg)
 
@@ -780,7 +780,7 @@ The Radio Disney Music Awards evolved from a radio-only event to become a televi
 <hr>
 
 
-## 8. [Austin & Ally](https://serp.ly/@serpmedia/github/amazon/Austin+%26+Ally)
+## 8. [Austin & Ally](https://serp.ly/amazon/Austin+%26+Ally)
 
 ![Austin & Ally](https://image.tmdb.org/t/p/original/g4oZ5AU1ZXVnVf4hXqbRARwRJwq.jpg)
 
@@ -824,7 +824,7 @@ When a young songwriter named Ally Dawson pens a song that launches Austin Moon 
 <hr>
 
 
-## 9. [Billboard Music Awards](https://serp.ly/@serpmedia/github/amazon/Billboard+Music+Awards)
+## 9. [Billboard Music Awards](https://serp.ly/amazon/Billboard+Music+Awards)
 
 ![Billboard Music Awards](https://image.tmdb.org/t/p/original/dpHeCvxgQkGmXKYCF62gLGF7vnz.jpg)
 
@@ -868,7 +868,7 @@ The Billboard Music Awards celebrate the music industry's most influential artis
 <hr>
 
 
-## 10. [Teen Choice Awards](https://serp.ly/@serpmedia/github/amazon/Teen+Choice+Awards)
+## 10. [Teen Choice Awards](https://serp.ly/amazon/Teen+Choice+Awards)
 
 ![Teen Choice Awards](https://image.tmdb.org/t/p/original/3q900BNcKbe3GHga4RVxSnoiqP4.jpg)
 

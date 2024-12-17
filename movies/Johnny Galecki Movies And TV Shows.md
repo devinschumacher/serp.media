@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [In Time](https://serp.ly/@serpmedia/github/amazon/In+Time)
+## 1. [In Time](https://serp.ly/amazon/In+Time)
 
 ![In Time](https://image.tmdb.org/t/p/original/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg)
 
@@ -80,7 +80,7 @@ In a not-too-distant future where aging has been switched off, time has become t
 <hr>
 
 
-## 2. [Hancock](https://serp.ly/@serpmedia/github/amazon/Hancock)
+## 2. [Hancock](https://serp.ly/amazon/Hancock)
 
 ![Hancock](https://image.tmdb.org/t/p/original/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg)
 
@@ -123,7 +123,7 @@ When a washed-up superhero agrees to work with a PR expert to repair hisimage, t
 <hr>
 
 
-## 3. [Vanilla Sky](https://serp.ly/@serpmedia/github/amazon/Vanilla+Sky)
+## 3. [Vanilla Sky](https://serp.ly/amazon/Vanilla+Sky)
 
 ![Vanilla Sky](https://image.tmdb.org/t/p/original/l1MBK6BUkZtjEqceEMubDUtvvK3.jpg)
 
@@ -166,7 +166,7 @@ Vanilla Sky explores the dark side of having it all - when David Aames loses eve
 <hr>
 
 
-## 4. [National Lampoon's Christmas Vacation](https://serp.ly/@serpmedia/github/amazon/National+Lampoon%27s+Christmas+Vacation)
+## 4. [National Lampoon's Christmas Vacation](https://serp.ly/amazon/National+Lampoon%27s+Christmas+Vacation)
 
 ![National Lampoon's Christmas Vacation](https://image.tmdb.org/t/p/original/nF0Ya225sdZr5ytdOPuhzxirbBm.jpg)
 
@@ -209,7 +209,7 @@ It's Christmastime, and the Griswolds are preparing for their annual family cele
 <hr>
 
 
-## 5. [I Know What You Did Last Summer](https://serp.ly/@serpmedia/github/amazon/I+Know+What+You+Did+Last+Summer)
+## 5. [I Know What You Did Last Summer](https://serp.ly/amazon/I+Know+What+You+Did+Last+Summer)
 
 ![I Know What You Did Last Summer](https://image.tmdb.org/t/p/original/aYcLakDaAJtu2HtVvOXNx8inNlK.jpg)
 
@@ -249,7 +249,7 @@ After a reckless decision leads four friends to abandon their car and its tragic
 <hr>
 
 
-## 6. [Bean](https://serp.ly/@serpmedia/github/amazon/Bean)
+## 6. [Bean](https://serp.ly/amazon/Bean)
 
 ![Bean](https://image.tmdb.org/t/p/original/IwrDPrB4d2DMcpnGkvan46yINL.jpg)
 
@@ -292,7 +292,7 @@ When the eccentric Mr. Bean is sent to Los Angeles as the Royal National Gallery
 <hr>
 
 
-## 7. [Rings](https://serp.ly/@serpmedia/github/amazon/Rings)
+## 7. [Rings](https://serp.ly/amazon/Rings)
 
 ![Rings](https://image.tmdb.org/t/p/original/5FoczK6tDFzC9OyHiMMNIeNspek.jpg)
 
@@ -335,7 +335,7 @@ When Holt disappears after watching a mysterious videotape, Julia races against 
 <hr>
 
 
-## 8. [A Dog's Journey](https://serp.ly/@serpmedia/github/amazon/A+Dog%27s+Journey)
+## 8. [A Dog's Journey](https://serp.ly/amazon/A+Dog%27s+Journey)
 
 ![A Dog's Journey](https://image.tmdb.org/t/p/original/wquJChp0NpoqthYdE3YjXNNxvVC.jpg)
 
@@ -378,7 +378,7 @@ When a dog wanders into the lives of several humans, he discovers the meaning of
 <hr>
 
 
-## 9. [Bounce](https://serp.ly/@serpmedia/github/amazon/Bounce)
+## 9. [Bounce](https://serp.ly/amazon/Bounce)
 
 ![Bounce](https://image.tmdb.org/t/p/original/w7X4M14WV7KrkkvXd64lcLh79sR.jpg)
 
@@ -421,7 +421,7 @@ When a man switches plane tickets with another, he unwittingly takes his place i
 <hr>
 
 
-## 10. [Suicide Kings](https://serp.ly/@serpmedia/github/amazon/Suicide+Kings)
+## 10. [Suicide Kings](https://serp.ly/amazon/Suicide+Kings)
 
 ![Suicide Kings](https://image.tmdb.org/t/p/original/rQ2Sidqubi7XiHDScFe1faIz3Uv.jpg)
 
@@ -462,7 +462,7 @@ When five privileged young men kidnap a former mobster to raise money for their 
 <hr>
 
 
-## 11. [The Opposite of Sex](https://serp.ly/@serpmedia/github/amazon/The+Opposite+of+Sex)
+## 11. [The Opposite of Sex](https://serp.ly/amazon/The+Opposite+of+Sex)
 
 ![The Opposite of Sex](https://image.tmdb.org/t/p/original/xpILzxKHywYngftBC8AmvsqUfBj.jpg)
 
@@ -502,7 +502,7 @@ When a 16-year-old girl visits her gay half-brother, she stumbles into a complic
 <hr>
 
 
-## 12. [CBGB](https://serp.ly/@serpmedia/github/amazon/CBGB)
+## 12. [CBGB](https://serp.ly/amazon/CBGB)
 
 ![CBGB](https://image.tmdb.org/t/p/original/9xHdRPamTjLG4bosURJju6UYCHp.jpg)
 
@@ -542,7 +542,7 @@ When a 16-year-old girl visits her gay half-brother, she stumbles into a complic
 <hr>
 
 
-## 13. [Happy Endings](https://serp.ly/@serpmedia/github/amazon/Happy+Endings)
+## 13. [Happy Endings](https://serp.ly/amazon/Happy+Endings)
 
 ![Happy Endings](https://image.tmdb.org/t/p/original/76Hq3Buq6SIOe5Z7f5APwh1s7vU.jpg)
 
@@ -578,7 +578,7 @@ When filmmaker Nicky offers to help Mamie find her long-lost son, their search l
 <hr>
 
 
-## 14. [Prancer](https://serp.ly/@serpmedia/github/amazon/Prancer)
+## 14. [Prancer](https://serp.ly/amazon/Prancer)
 
 ![Prancer](https://image.tmdb.org/t/p/original/kOLulGzaBSaOzuLkG0VfEnMKMZi.jpg)
 
@@ -614,7 +614,7 @@ In a heartwarming tale set in an impoverished apple farming community, Jessica d
 <hr>
 
 
-## 15. [The Cleanse](https://serp.ly/@serpmedia/github/amazon/The+Cleanse)
+## 15. [The Cleanse](https://serp.ly/amazon/The+Cleanse)
 
 ![The Cleanse](https://image.tmdb.org/t/p/original/wAmCm0pcPFIgzb7FGwfQVVTy2xt.jpg)
 
@@ -650,7 +650,7 @@ When a heartbroken man attends a spiritual retreat, he expects it to be a place 
 <hr>
 
 
-## 16. [A Night in the Life of Jimmy Reardon](https://serp.ly/@serpmedia/github/amazon/A+Night+in+the+Life+of+Jimmy+Reardon)
+## 16. [A Night in the Life of Jimmy Reardon](https://serp.ly/amazon/A+Night+in+the+Life+of+Jimmy+Reardon)
 
 ![A Night in the Life of Jimmy Reardon](https://image.tmdb.org/t/p/original/mLDntemwIFwndkYwBspExGuq9M8.jpg)
 
@@ -688,7 +688,7 @@ After high school, Jimmy Reardon has a big decision to make: follow his father's
 <hr>
 
 
-## 17. [Table for Three](https://serp.ly/@serpmedia/github/amazon/Table+for+Three)
+## 17. [Table for Three](https://serp.ly/amazon/Table+for+Three)
 
 ![Table for Three](https://image.tmdb.org/t/p/original/uMfEHaLtilpTcMWEthswjwinqJP.jpg)
 
@@ -724,7 +724,7 @@ When a single guy invites what he thinks is a perfect couple to move into his ap
 <hr>
 
 
-## 18. [Bookies](https://serp.ly/@serpmedia/github/amazon/Bookies)
+## 18. [Bookies](https://serp.ly/amazon/Bookies)
 
 ![Bookies](https://image.tmdb.org/t/p/original/pHfc4AbPqx7St264XoWzm7cScQM.jpg)
 
@@ -762,7 +762,7 @@ When four college friends decide to become small-time bookies, their world chang
 <hr>
 
 
-## 19. [Chrystal](https://serp.ly/@serpmedia/github/amazon/Chrystal)
+## 19. [Chrystal](https://serp.ly/amazon/Chrystal)
 
 ![Chrystal](https://image.tmdb.org/t/p/original/dj4St7fCnjPF9d7DoorOgD3qGOL.jpg)
 
@@ -799,7 +799,7 @@ Joe returns home after many years away, hoping to make amends for the devastatin
 <hr>
 
 
-## 20. [In Defense of a Married Man](https://serp.ly/@serpmedia/github/amazon/In+Defense+of+a+Married+Man)
+## 20. [In Defense of a Married Man](https://serp.ly/amazon/In+Defense+of+a+Married+Man)
 
 ![In Defense of a Married Man](https://image.tmdb.org/t/p/original/nfqDH6ueyCt057yP5qh4Aq1oYYf.jpg)
 
@@ -835,7 +835,7 @@ When a married defense attorney's husband becomes the prime suspect in the murde
 <hr>
 
 
-## 21. [Must See TV: An All Star Tribute to James Burrows](https://serp.ly/@serpmedia/github/amazon/Must+See+TV%3A+An+All+Star+Tribute+to+James+Burrows)
+## 21. [Must See TV: An All Star Tribute to James Burrows](https://serp.ly/amazon/Must+See+TV%3A+An+All+Star+Tribute+to+James+Burrows)
 
 ![Must See TV: An All Star Tribute to James Burrows](https://image.tmdb.org/t/p/original/wLdBrJBywEBHTaoF1XrKHk1oj3Y.jpg)
 
@@ -869,7 +869,7 @@ When it comes to comedy direction, James Burrows has done it all - from the cozy
 <hr>
 
 
-## 22. [Without Consent](https://serp.ly/@serpmedia/github/amazon/Without+Consent)
+## 22. [Without Consent](https://serp.ly/amazon/Without+Consent)
 
 ![Without Consent](https://image.tmdb.org/t/p/original/Zhcjl8wHfaKvWOIofRtHfnAP9n.jpg)
 
@@ -905,7 +905,7 @@ When Laura's parents send her to Meadowbrook Institute hoping to control her reb
 <hr>
 
 
-## 23. [Morgan's Ferry](https://serp.ly/@serpmedia/github/amazon/Morgan%27s+Ferry)
+## 23. [Morgan's Ferry](https://serp.ly/amazon/Morgan%27s+Ferry)
 
 ![Morgan's Ferry](https://image.tmdb.org/t/p/original/fv3EFM3aJjMM60p1ltSw98q4MTv.jpg)
 
@@ -941,7 +941,7 @@ Three escaped convicts seek refuge in the home of a reclusive woman as they wait
 <hr>
 
 
-## 24. [Playing Mona Lisa](https://serp.ly/@serpmedia/github/amazon/Playing+Mona+Lisa)
+## 24. [Playing Mona Lisa](https://serp.ly/amazon/Playing+Mona+Lisa)
 
 ![Playing Mona Lisa](https://image.tmdb.org/t/p/original/cc0jR6Wjk1BqhS08wLqdUgz4I38.jpg)
 
@@ -979,7 +979,7 @@ A young pianist's world changes when her fiancé leaves her. As she searches for
 <hr>
 
 
-## 25. [Sudden Fury](https://serp.ly/@serpmedia/github/amazon/Sudden+Fury)
+## 25. [Sudden Fury](https://serp.ly/amazon/Sudden+Fury)
 
 ![Sudden Fury](https://image.tmdb.org/t/p/original/bcJflZpjpDEFooOsX4gXGzumo6F.jpg)
 
@@ -1013,7 +1013,7 @@ When a teenage boy returns home to find his parents murdered, he becomes the pri
 <hr>
 
 
-## 26. [Backfield in Motion](https://serp.ly/@serpmedia/github/amazon/Backfield+in+Motion)
+## 26. [Backfield in Motion](https://serp.ly/amazon/Backfield+in+Motion)
 
 ![Backfield in Motion](https://image.tmdb.org/t/p/original/kgMbVPSFTq119HTi0D0jgNSl5SY.jpg)
 
@@ -1049,7 +1049,7 @@ When Nancy moves to the small town of Deerview with her teenage son, she brings 
 <hr>
 
 
-## 27. [Murder at My Door](https://serp.ly/@serpmedia/github/amazon/Murder+at+My+Door)
+## 27. [Murder at My Door](https://serp.ly/amazon/Murder+at+My+Door)
 
 ![Murder at My Door](https://image.tmdb.org/t/p/original/vB2yIH9l1hwVKkAucprgOaMJx1L.jpg)
 
@@ -1083,7 +1083,7 @@ When a neighborhood family's son becomes the prime suspect in the brutal murder 
 <hr>
 
 
-## 28. [Murder Ordained](https://serp.ly/@serpmedia/github/amazon/Murder+Ordained)
+## 28. [Murder Ordained](https://serp.ly/amazon/Murder+Ordained)
 
 ![Murder Ordained](https://image.tmdb.org/t/p/original/pH9IaLNmTohIwKMa2gMfwdG1RdH.jpg)
 
@@ -1117,7 +1117,7 @@ A minister's unhappy marriage leads him into an affair with a church employee, s
 <hr>
 
 
-## 29. [The Little Dog Laughed](https://serp.ly/@serpmedia/github/amazon/The+Little+Dog+Laughed)
+## 29. [The Little Dog Laughed](https://serp.ly/amazon/The+Little+Dog+Laughed)
 
 ![The Little Dog Laughed](https://image.tmdb.org/t/p/original/miwCv9jzxvFYcgnaWJLqA5LcbKO.jpg)
 
@@ -1148,7 +1148,7 @@ Mitchell Green is a movie star on the verge of breaking out, but his agent Diane
 <hr>
 
 
-## 1. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 1. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -1190,7 +1190,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 2. [My Name Is Earl](https://serp.ly/@serpmedia/github/amazon/My+Name+Is+Earl)
+## 2. [My Name Is Earl](https://serp.ly/amazon/My+Name+Is+Earl)
 
 ![My Name Is Earl](https://image.tmdb.org/t/p/original/57shLTTkHvhLUhyP1t0lNZPoAxD.jpg)
 
@@ -1234,7 +1234,7 @@ When small-time criminal Earl Hickey unexpectedly wins the lottery, he makes a q
 <hr>
 
 
-## 3. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 3. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -1280,7 +1280,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 4. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 4. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -1326,7 +1326,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 5. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 5. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1368,7 +1368,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 6. [The Big Bang Theory](https://serp.ly/@serpmedia/github/amazon/The+Big+Bang+Theory)
+## 6. [The Big Bang Theory](https://serp.ly/amazon/The+Big+Bang+Theory)
 
 ![The Big Bang Theory](https://image.tmdb.org/t/p/original/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg)
 
@@ -1412,7 +1412,7 @@ When physicist Leonard Hofstadter moves into an apartment next to the charming b
 <hr>
 
 
-## 7. [The Conners](https://serp.ly/@serpmedia/github/amazon/The+Conners)
+## 7. [The Conners](https://serp.ly/amazon/The+Conners)
 
 ![The Conners](https://image.tmdb.org/t/p/original/xUXN3E67qVyTiftGptfhcmfDasW.jpg)
 
@@ -1458,7 +1458,7 @@ The Conners are back! Six seasons of this beloved series prove that wholesome en
 <hr>
 
 
-## 8. [Stars in the House](https://serp.ly/@serpmedia/github/amazon/Stars+in+the+House)
+## 8. [Stars in the House](https://serp.ly/amazon/Stars+in+the+House)
 
 ![Stars in the House](https://image.tmdb.org/t/p/original/2Cp64eLIOErysYDX2K9gHNsDVD3.jpg)
 
@@ -1499,7 +1499,7 @@ When the Coronavirus pandemic forced theatres worldwide to close, SiriusXM host 
 <hr>
 
 
-## 9. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 9. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -1541,7 +1541,7 @@ When the Coronavirus pandemic forced theatres worldwide to close, SiriusXM host 
 <hr>
 
 
-## 10. [Batman Beyond](https://serp.ly/@serpmedia/github/amazon/Batman+Beyond)
+## 10. [Batman Beyond](https://serp.ly/amazon/Batman+Beyond)
 
 ![Batman Beyond](https://image.tmdb.org/t/p/original/3hsxYIV0uJDK2eHVZgrv0z0PLHd.jpg)
 
@@ -1585,7 +1585,7 @@ In a future Gotham City overrun by new villains, an aging Bruce Wayne hangs up t
 <hr>
 
 
-## 11. [Blossom](https://serp.ly/@serpmedia/github/amazon/Blossom)
+## 11. [Blossom](https://serp.ly/amazon/Blossom)
 
 ![Blossom](https://image.tmdb.org/t/p/original/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg)
 
@@ -1627,7 +1627,7 @@ Blossom Russo, a spirited teenager, navigates the complexities of family life wi
 <hr>
 
 
-## 12. [Hope & Faith](https://serp.ly/@serpmedia/github/amazon/Hope+%26+Faith)
+## 12. [Hope & Faith](https://serp.ly/amazon/Hope+%26+Faith)
 
 ![Hope & Faith](https://image.tmdb.org/t/p/original/z2ysVqKDuwEDwYtipaiVOE0SZaP.jpg)
 
@@ -1671,7 +1671,7 @@ When Faith moves in with her sister Hope, their personalities turn everyday situ
 <hr>
 
 
-## 13. [LAX](https://serp.ly/@serpmedia/github/amazon/LAX)
+## 13. [LAX](https://serp.ly/amazon/LAX)
 
 ![LAX](https://image.tmdb.org/t/p/original/5HmOdV6gMNOp6kIVXjTFfWxRe93.jpg)
 
@@ -1713,7 +1713,7 @@ Jetting into your living room from the sunny shores of Southern California comes
 <hr>
 
 
-## 14. [Hardball](https://serp.ly/@serpmedia/github/amazon/Hardball)
+## 14. [Hardball](https://serp.ly/amazon/Hardball)
 
 ![Hardball](https://image.tmdb.org/t/p/original/crT73Fm3edKUenB40HLN6PQQth7.jpg)
 
@@ -1755,7 +1755,7 @@ Jetting into your living room from the sunny shores of Southern California comes
 <hr>
 
 
-## 15. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 15. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -1799,7 +1799,7 @@ Jetting into your living room from the sunny shores of Southern California comes
 <hr>
 
 
-## 16. [Boulevard of Broken Dreams](https://serp.ly/@serpmedia/github/amazon/Boulevard+of+Broken+Dreams)
+## 16. [Boulevard of Broken Dreams](https://serp.ly/amazon/Boulevard+of+Broken+Dreams)
 
 <br>
 
@@ -1839,7 +1839,7 @@ Jetting into your living room from the sunny shores of Southern California comes
 <hr>
 
 
-## 17. [Civil Wars](https://serp.ly/@serpmedia/github/amazon/Civil+Wars)
+## 17. [Civil Wars](https://serp.ly/amazon/Civil+Wars)
 
 ![Civil Wars](https://image.tmdb.org/t/p/original/d32jeYiwPf6mKVSF2ni4ml0IjT8.jpg)
 
@@ -1881,7 +1881,7 @@ Jetting into your living room from the sunny shores of Southern California comes
 <hr>
 
 
-## 18. [Roseanne](https://serp.ly/@serpmedia/github/amazon/Roseanne)
+## 18. [Roseanne](https://serp.ly/amazon/Roseanne)
 
 ![Roseanne](https://image.tmdb.org/t/p/original/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg)
 
@@ -1925,7 +1925,7 @@ The first family that made you feel better about your own!
 <hr>
 
 
-## 19. [Blind Faith](https://serp.ly/@serpmedia/github/amazon/Blind+Faith)
+## 19. [Blind Faith](https://serp.ly/amazon/Blind+Faith)
 
 ![Blind Faith](https://image.tmdb.org/t/p/original/r7gTKLh26MHoMj3g9z8i6MdKjRT.jpg)
 
@@ -1967,7 +1967,7 @@ When successful insurance salesman Rob Marshall returns home to find his wife Ma
 <hr>
 
 
-## 20. [American Dreamer](https://serp.ly/@serpmedia/github/amazon/American+Dreamer)
+## 20. [American Dreamer](https://serp.ly/amazon/American+Dreamer)
 
 <br>
 
@@ -2009,7 +2009,7 @@ When high-powered network correspondent Tom Nash loses his wife, he makes a dras
 <hr>
 
 
-## 21. [Billy](https://serp.ly/@serpmedia/github/amazon/Billy)
+## 21. [Billy](https://serp.ly/amazon/Billy)
 
 ![Billy](https://image.tmdb.org/t/p/original/dunWoZh0ULWDiPszZFxDZ4iSZsw.jpg)
 
@@ -2048,7 +2048,7 @@ When a Scottish teacher named Billy MacGregor moves to America, he brings his ac
 <hr>
 
 
-## 22. [SciJinks](https://serp.ly/@serpmedia/github/amazon/SciJinks)
+## 22. [SciJinks](https://serp.ly/amazon/SciJinks)
 
 ![SciJinks](https://image.tmdb.org/t/p/original/qd3ljMukmXnR3bBVI8L4QznssQF.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Finding Dory](https://serp.ly/@serpmedia/github/amazon/Finding+Dory)
+## 1. [Finding Dory](https://serp.ly/amazon/Finding+Dory)
 
 ![Finding Dory](https://image.tmdb.org/t/p/original/yFjVlsJmEMacU0BNUwdGZlo2ixq.jpg)
 
@@ -77,7 +77,7 @@ Join Dory on an epic underwater adventure as she reunites with her friends Nemo 
 <hr>
 
 
-## 2. [The Heat](https://serp.ly/@serpmedia/github/amazon/The+Heat)
+## 2. [The Heat](https://serp.ly/amazon/The+Heat)
 
 ![The Heat](https://image.tmdb.org/t/p/original/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg)
 
@@ -117,7 +117,7 @@ When the upright FBI Special Agent Sarah Ashburn is paired with the brash Boston
 <hr>
 
 
-## 3. [Vacation](https://serp.ly/@serpmedia/github/amazon/Vacation)
+## 3. [Vacation](https://serp.ly/amazon/Vacation)
 
 ![Vacation](https://image.tmdb.org/t/p/original/z79MzBerDAW2EOQZCobFTO4dJ7P.jpg)
 
@@ -160,7 +160,7 @@ Rusty Griswold trades in his cozy life for the open road, towing his family acro
 <hr>
 
 
-## 4. [Leap Year](https://serp.ly/@serpmedia/github/amazon/Leap+Year)
+## 4. [Leap Year](https://serp.ly/amazon/Leap+Year)
 
 ![Leap Year](https://image.tmdb.org/t/p/original/i86hMi5iEF3WnYLCaGHdT5FPdYg.jpg)
 
@@ -200,7 +200,7 @@ When Anna's boyfriend fails to propose on yet another anniversary, she hatches a
 <hr>
 
 
-## 5. [Coyote Ugly](https://serp.ly/@serpmedia/github/amazon/Coyote+Ugly)
+## 5. [Coyote Ugly](https://serp.ly/amazon/Coyote+Ugly)
 
 ![Coyote Ugly](https://image.tmdb.org/t/p/original/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg)
 
@@ -240,7 +240,7 @@ Tonight, they're calling the shots.
 <hr>
 
 
-## 6. [Escape from Planet Earth](https://serp.ly/@serpmedia/github/amazon/Escape+from+Planet+Earth)
+## 6. [Escape from Planet Earth](https://serp.ly/amazon/Escape+from+Planet+Earth)
 
 ![Escape from Planet Earth](https://image.tmdb.org/t/p/original/tkkLIeompowyXFZFe3sBmhm3wwA.jpg)
 
@@ -283,7 +283,7 @@ When astronaut Scorch Supernova picks up an SOS from a dangerous alien planet, h
 <hr>
 
 
-## 7. [Champions](https://serp.ly/@serpmedia/github/amazon/Champions)
+## 7. [Champions](https://serp.ly/amazon/Champions)
 
 ![Champions](https://image.tmdb.org/t/p/original/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg)
 
@@ -324,7 +324,7 @@ When a grumpy minor league basketball coach is sentenced to community service, h
 <hr>
 
 
-## 8. [Arizona](https://serp.ly/@serpmedia/github/amazon/Arizona)
+## 8. [Arizona](https://serp.ly/amazon/Arizona)
 
 ![Arizona](https://image.tmdb.org/t/p/original/sLqutab3wuUfPBu27rXcoaEd6WD.jpg)
 
@@ -360,7 +360,7 @@ In the sweltering summer of 2009, Cassie Fowler's life as a single mother and re
 <hr>
 
 
-## 9. [It's a Wonderful Binge](https://serp.ly/@serpmedia/github/amazon/It%27s+a+Wonderful+Binge)
+## 9. [It's a Wonderful Binge](https://serp.ly/amazon/It%27s+a+Wonderful+Binge)
 
 ![It's a Wonderful Binge](https://image.tmdb.org/t/p/original/hU9ouAPcg2LG7n85WUxjKwPq2y4.jpg)
 
@@ -396,7 +396,7 @@ In a world where drinking and drugs are banned except for one glorious day, Chri
 <hr>
 
 
-## 10. [Marine Life Interviews](https://serp.ly/@serpmedia/github/amazon/Marine+Life+Interviews)
+## 10. [Marine Life Interviews](https://serp.ly/amazon/Marine+Life+Interviews)
 
 ![Marine Life Interviews](https://image.tmdb.org/t/p/original/nKTFsng12wXI75c84WFKnDHQ2Qa.jpg)
 
@@ -432,7 +432,7 @@ Join us at the Marine Life Institute for some underwater storytelling as our aqu
 <hr>
 
 
-## 11. [Weather Girl](https://serp.ly/@serpmedia/github/amazon/Weather+Girl)
+## 11. [Weather Girl](https://serp.ly/amazon/Weather+Girl)
 
 ![Weather Girl](https://image.tmdb.org/t/p/original/p22bXXTDQvRbezyEcLU6mKiRikB.jpg)
 
@@ -470,7 +470,7 @@ When Seattle morning show weather forecaster Sylvia has a live-on-air meltdown, 
 <hr>
 
 
-## 12. [The Nightman Cometh: Live](https://serp.ly/@serpmedia/github/amazon/The+Nightman+Cometh%3A+Live)
+## 12. [The Nightman Cometh: Live](https://serp.ly/amazon/The+Nightman+Cometh%3A+Live)
 
 ![The Nightman Cometh: Live](https://image.tmdb.org/t/p/original/bRbphXpF5eYMZSOb8juhQB60sdL.jpg)
 
@@ -506,7 +506,7 @@ When Charlie Kelly brings his Broadway talents to The Troubadour nightclub, he t
 <hr>
 
 
-## 13. [A Tribute to Ryan Dunn](https://serp.ly/@serpmedia/github/amazon/A+Tribute+to+Ryan+Dunn)
+## 13. [A Tribute to Ryan Dunn](https://serp.ly/amazon/A+Tribute+to+Ryan+Dunn)
 
 ![A Tribute to Ryan Dunn](https://image.tmdb.org/t/p/original/rhNl0hJHV9oAtmDVcjfjsV45N6e.jpg)
 
@@ -540,7 +540,7 @@ When Charlie Kelly brings his Broadway talents to The Troubadour nightclub, he t
 <hr>
 
 
-## 14. [A Very Sunny Christmas](https://serp.ly/@serpmedia/github/amazon/A+Very+Sunny+Christmas)
+## 14. [A Very Sunny Christmas](https://serp.ly/amazon/A+Very+Sunny+Christmas)
 
 ![A Very Sunny Christmas](https://image.tmdb.org/t/p/original/j85cSlRVJZxZ0UBPMxdTX205g44.jpg)
 
@@ -573,7 +573,7 @@ When Dennis and Dee decide to teach Frank a lesson "A Christmas Carol"-style, th
 <hr>
 
 
-## 15. [Held Up](https://serp.ly/@serpmedia/github/amazon/Held+Up)
+## 15. [Held Up](https://serp.ly/amazon/Held+Up)
 
 ![Held Up](https://image.tmdb.org/t/p/original/sE9XWNeWB766n3UnmXJNF1Oe52e.jpg)
 
@@ -606,7 +606,7 @@ When a boring bank teller's mundane life takes an unexpected turn, his workplace
 <hr>
 
 
-## 16. [Eyes to Heaven](https://serp.ly/@serpmedia/github/amazon/Eyes+to+Heaven)
+## 16. [Eyes to Heaven](https://serp.ly/amazon/Eyes+to+Heaven)
 
 ![Eyes to Heaven](https://image.tmdb.org/t/p/original/ovVPlPL0PRG3Gtc3ooH5Wy4WuW0.jpg)
 
@@ -637,7 +637,7 @@ Eyes to Heaven delves into the dark recesses of a man's mind, where creativity a
 <hr>
 
 
-## 17. [Incoming](https://serp.ly/@serpmedia/github/amazon/Incoming)
+## 17. [Incoming](https://serp.ly/amazon/Incoming)
 
 ![Incoming](https://image.tmdb.org/t/p/original/dH83LzXtPME6MjVWLUxslFpLT51.jpg)
 
@@ -665,7 +665,7 @@ The night before high school starts, four incoming freshmen meet for the first t
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -711,7 +711,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [Bob's Burgers](https://serp.ly/@serpmedia/github/amazon/Bob%27s+Burgers)
+## 2. [Bob's Burgers](https://serp.ly/amazon/Bob%27s+Burgers)
 
 ![Bob's Burgers](https://image.tmdb.org/t/p/original/couFnWryh9JRmmfDyPU6hUyTKIa.jpg)
 
@@ -755,7 +755,7 @@ When third-generation restaurateur Bob runs Bob's Burgers with his wife and thre
 <hr>
 
 
-## 3. [It's Always Sunny in Philadelphia](https://serp.ly/@serpmedia/github/amazon/It%27s+Always+Sunny+in+Philadelphia)
+## 3. [It's Always Sunny in Philadelphia](https://serp.ly/amazon/It%27s+Always+Sunny+in+Philadelphia)
 
 ![It's Always Sunny in Philadelphia](https://image.tmdb.org/t/p/original/pRWO6ufqSNkWvPXDDQhBwPNSv4K.jpg)
 
@@ -801,7 +801,7 @@ Four self-centered friends operate an Irish pub in Philadelphia, where their per
 <hr>
 
 
-## 4. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 4. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -847,7 +847,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 5. [Curb Your Enthusiasm](https://serp.ly/@serpmedia/github/amazon/Curb+Your+Enthusiasm)
+## 5. [Curb Your Enthusiasm](https://serp.ly/amazon/Curb+Your+Enthusiasm)
 
 ![Curb Your Enthusiasm](https://image.tmdb.org/t/p/original/mZqWmSq1M61Jlre3furVDSXvdrN.jpg)
 
@@ -891,7 +891,7 @@ Deep inside you know you're him.
 <hr>
 
 
-## 6. [New Girl](https://serp.ly/@serpmedia/github/amazon/New+Girl)
+## 6. [New Girl](https://serp.ly/amazon/New+Girl)
 
 ![New Girl](https://image.tmdb.org/t/p/original/lktCmXmoeR3ikhqE9SLN2IumwUx.jpg)
 
@@ -935,7 +935,7 @@ When Jessica Day moves in with three single guys after a bad breakup, she brings
 <hr>
 
 
-## 7. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 7. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -981,7 +981,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 8. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 8. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1023,7 +1023,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 9. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 9. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -1067,7 +1067,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 10. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 10. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -1113,7 +1113,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 11. [The Mick](https://serp.ly/@serpmedia/github/amazon/The+Mick)
+## 11. [The Mick](https://serp.ly/amazon/The+Mick)
 
 ![The Mick](https://image.tmdb.org/t/p/original/jwYBohob30EeP1rJJMx9zcWSaGS.jpg)
 
@@ -1157,7 +1157,7 @@ When a foul-mouthed woman moves to Greenwich, CT to raise her sister's spoiled c
 <hr>
 
 
-## 12. [Space Force](https://serp.ly/@serpmedia/github/amazon/Space+Force)
+## 12. [Space Force](https://serp.ly/amazon/Space+Force)
 
 ![Space Force](https://image.tmdb.org/t/p/original/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg)
 
@@ -1201,7 +1201,7 @@ When the U. S. military creates Space Force, a new agency tasked with defending 
 <hr>
 
 
-## 13. [Welcome to Wrexham](https://serp.ly/@serpmedia/github/amazon/Welcome+to+Wrexham)
+## 13. [Welcome to Wrexham](https://serp.ly/amazon/Welcome+to+Wrexham)
 
 ![Welcome to Wrexham](https://image.tmdb.org/t/p/original/6CfDD17vvgrwcFm2iDftvPraLdV.jpg)
 
@@ -1247,7 +1247,7 @@ When two Hollywood stars buy a struggling football club in the Welsh town of Wre
 <hr>
 
 
-## 14. [Brickleberry](https://serp.ly/@serpmedia/github/amazon/Brickleberry)
+## 14. [Brickleberry](https://serp.ly/amazon/Brickleberry)
 
 ![Brickleberry](https://image.tmdb.org/t/p/original/nLeOBqvDWuZfyMq7DGRT13YDRNK.jpg)
 
@@ -1289,7 +1289,7 @@ When Brickleberry National Park faces closure, an odd team of park rangers bands
 <hr>
 
 
-## 15. [Who Wants to Be a Millionaire](https://serp.ly/@serpmedia/github/amazon/Who+Wants+to+Be+a+Millionaire)
+## 15. [Who Wants to Be a Millionaire](https://serp.ly/amazon/Who+Wants+to+Be+a+Millionaire)
 
 ![Who Wants to Be a Millionaire](https://image.tmdb.org/t/p/original/3STqVkTDgEiLva02osT5IDDpEKH.jpg)
 
@@ -1333,7 +1333,7 @@ Return to a prime-time tradition with the beloved game show "Who Wants to Be a M
 <hr>
 
 
-## 16. [Punk'd](https://serp.ly/@serpmedia/github/amazon/Punk%27d)
+## 16. [Punk'd](https://serp.ly/amazon/Punk%27d)
 
 ![Punk'd](https://image.tmdb.org/t/p/original/sqcaFHnnJU1nIbUikN3cpm9Mjn9.jpg)
 
@@ -1375,7 +1375,7 @@ When the biggest stars in the world get too high on the Hollywood hog, Master pr
 <hr>
 
 
-## 17. [The Riches](https://serp.ly/@serpmedia/github/amazon/The+Riches)
+## 17. [The Riches](https://serp.ly/amazon/The+Riches)
 
 ![The Riches](https://image.tmdb.org/t/p/original/c8eyL7xBTVZeeqb9oDEADqHlNc2.jpg)
 
@@ -1419,7 +1419,7 @@ When a family of criminals decides to reinvent themselves in the Deep South, the
 <hr>
 
 
-## 18. [Hacks](https://serp.ly/@serpmedia/github/amazon/Hacks)
+## 18. [Hacks](https://serp.ly/amazon/Hacks)
 
 ![Hacks](https://image.tmdb.org/t/p/original/q32wjcRi7Ix4DAqFA8kR7KGneyo.jpg)
 
@@ -1465,7 +1465,7 @@ When Deborah Vance, a legendary Las Vegas comedian, takes an entitled 25-year-ol
 <hr>
 
 
-## 19. [Agent Elvis](https://serp.ly/@serpmedia/github/amazon/Agent+Elvis)
+## 19. [Agent Elvis](https://serp.ly/amazon/Agent+Elvis)
 
 ![Agent Elvis](https://image.tmdb.org/t/p/original/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg)
 
@@ -1507,7 +1507,7 @@ When the government approaches Elvis Presley with an offer he can't refuse, the 
 <hr>
 
 
-## 20. [Out of Practice](https://serp.ly/@serpmedia/github/amazon/Out+of+Practice)
+## 20. [Out of Practice](https://serp.ly/amazon/Out+of+Practice)
 
 ![Out of Practice](https://image.tmdb.org/t/p/original/jB6tMfbCmSN2Cl57XtOtlrXbufj.jpg)
 
@@ -1551,7 +1551,7 @@ When doctors become patients, theirankeled medical knowledge clashes with the un
 <hr>
 
 
-## 21. [Kelsey Grammer Presents The Sketch Show](https://serp.ly/@serpmedia/github/amazon/Kelsey+Grammer+Presents+The+Sketch+Show)
+## 21. [Kelsey Grammer Presents The Sketch Show](https://serp.ly/amazon/Kelsey+Grammer+Presents+The+Sketch+Show)
 
 ![Kelsey Grammer Presents The Sketch Show](https://image.tmdb.org/t/p/original/pHK22XytbeZF1f2Kq7d4OKZ7AO3.jpg)
 
@@ -1593,7 +1593,7 @@ When Kelsey Grammer takes his talents from the small screen to "The Sketch Show,
 <hr>
 
 
-## 22. [The F Word](https://serp.ly/@serpmedia/github/amazon/The+F+Word)
+## 22. [The F Word](https://serp.ly/amazon/The+F+Word)
 
 ![The F Word](https://image.tmdb.org/t/p/original/skWtbfPT79vzmZiCp399HgLqG24.jpg)
 
@@ -1637,7 +1637,7 @@ When Kelsey Grammer takes his talents from the small screen to "The Sketch Show,
 <hr>
 
 
-## 23. [Miss Match](https://serp.ly/@serpmedia/github/amazon/Miss+Match)
+## 23. [Miss Match](https://serp.ly/amazon/Miss+Match)
 
 ![Miss Match](https://image.tmdb.org/t/p/original/8T8UwddEe3LrgwxVhkUxmv8jfeE.jpg)
 
@@ -1679,7 +1679,7 @@ When a young woman\_named Samantha Daniels\_ finds herself in over her head, she
 <hr>
 
 
-## 24. [Unsupervised](https://serp.ly/@serpmedia/github/amazon/Unsupervised)
+## 24. [Unsupervised](https://serp.ly/amazon/Unsupervised)
 
 ![Unsupervised](https://image.tmdb.org/t/p/original/i8m1BIJCoDi0WUAncm9PkYJbTqY.jpg)
 
@@ -1721,7 +1721,7 @@ When two 15-year-old best friends, Gary and Joel, are unexpectedly left without 
 <hr>
 
 
-## 25. [George Lopez](https://serp.ly/@serpmedia/github/amazon/George+Lopez)
+## 25. [George Lopez](https://serp.ly/amazon/George+Lopez)
 
 ![George Lopez](https://image.tmdb.org/t/p/original/jV28WAGIqAKf4uoRK4IqJz4KMY0.jpg)
 
@@ -1763,7 +1763,7 @@ When a man raises his daughter Carmen and dyslexic son Max with his wife Angie, 
 <hr>
 
 
-## 26. [High Potential](https://serp.ly/@serpmedia/github/amazon/High+Potential)
+## 26. [High Potential](https://serp.ly/amazon/High+Potential)
 
 <br>
 
@@ -1800,7 +1800,7 @@ Morgan is a single mom with an exceptional mind, whose unconventional knack for 
 <hr>
 
 
-## 27. [Flipped](https://serp.ly/@serpmedia/github/amazon/Flipped)
+## 27. [Flipped](https://serp.ly/amazon/Flipped)
 
 ![Flipped](https://image.tmdb.org/t/p/original/vdak857enxBFq19mlNYsNx04SiQ.jpg)
 
@@ -1842,7 +1842,7 @@ When chronically underemployed Jann and Cricket Melfi get kidnapped by a drug ca
 <hr>
 
 
-## 28. [Meet the Marks](https://serp.ly/@serpmedia/github/amazon/Meet+the+Marks)
+## 28. [Meet the Marks](https://serp.ly/amazon/Meet+the+Marks)
 
 <br>
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Cherry](https://serp.ly/@serpmedia/github/amazon/Cherry)
+## 1. [Cherry](https://serp.ly/amazon/Cherry)
 
 ![Cherry](https://image.tmdb.org/t/p/original/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg)
 
@@ -78,7 +78,7 @@ Life leaves a mark.
 <hr>
 
 
-## 2. [Nuremberg](https://serp.ly/@serpmedia/github/amazon/Nuremberg)
+## 2. [Nuremberg](https://serp.ly/amazon/Nuremberg)
 
 <br>
 
@@ -99,7 +99,7 @@ In "Nuremberg", American psychiatrist Douglas Kelley is assigned the daunting ta
 <hr>
 
 
-## 3. [Bridget Jones: Mad About the Boy](https://serp.ly/@serpmedia/github/amazon/Bridget+Jones%3A+Mad+About+the+Boy)
+## 3. [Bridget Jones: Mad About the Boy](https://serp.ly/amazon/Bridget+Jones%3A+Mad+About+the+Boy)
 
 ![Bridget Jones: Mad About the Boy](https://image.tmdb.org/t/p/original/dJ6HsV5NHhfbQa0D1E1hb4N4ZuM.jpg)
 
@@ -124,7 +124,7 @@ Bridget Jones: Mad About the Boy follows the charming 53-year-old mother as she 
 <hr>
 
 
-## 4. [Nomad](https://serp.ly/@serpmedia/github/amazon/Nomad)
+## 4. [Nomad](https://serp.ly/amazon/Nomad)
 
 ![Nomad](https://image.tmdb.org/t/p/original/DrFgJR53rtEmUv3hLA1RjQqcwR.jpg)
 
@@ -152,7 +152,7 @@ In a world where mundane city life meets the extraordinary, a young woman's pred
 <hr>
 
 
-## 5. [Tuner](https://serp.ly/@serpmedia/github/amazon/Tuner)
+## 5. [Tuner](https://serp.ly/amazon/Tuner)
 
 <br>
 
@@ -176,7 +176,7 @@ When a gifted piano tuner finds himself in desperate circumstances, he discovers
 <hr>
 
 
-## 1. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 1. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -220,7 +220,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 2. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 2. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -264,7 +264,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 3. [Holby City](https://serp.ly/@serpmedia/github/amazon/Holby+City)
+## 3. [Holby City](https://serp.ly/amazon/Holby+City)
 
 ![Holby City](https://image.tmdb.org/t/p/original/cyQZGDCfRFdmwiH4519c34UKnG.jpg)
 
@@ -306,7 +306,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 4. [The White Lotus](https://serp.ly/@serpmedia/github/amazon/The+White+Lotus)
+## 4. [The White Lotus](https://serp.ly/amazon/The+White+Lotus)
 
 ![The White Lotus](https://image.tmdb.org/t/p/original/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg)
 
@@ -352,7 +352,7 @@ The White Lotus welcomes you to a week at a tropical resort where nothing - and 
 <hr>
 
 
-## 5. [Citadel](https://serp.ly/@serpmedia/github/amazon/Citadel)
+## 5. [Citadel](https://serp.ly/amazon/Citadel)
 
 ![Citadel](https://image.tmdb.org/t/p/original/AcrDB32TqpAGwvQFbICALGxSzn3.jpg)
 
@@ -398,7 +398,7 @@ When the top agents of Citadel, Mason Kane and Nadia Sinh, are called back to ac
 <hr>
 
 
-## 6. [One Day](https://serp.ly/@serpmedia/github/amazon/One+Day)
+## 6. [One Day](https://serp.ly/amazon/One+Day)
 
 ![One Day](https://image.tmdb.org/t/p/original/smBWt8rHCCavV88C5gQVjh0NUFa.jpg)
 
@@ -442,7 +442,7 @@ After spending graduation night together, Emma and Dexter go their separate ways
 <hr>
 
 
-## 7. [Vampire Academy](https://serp.ly/@serpmedia/github/amazon/Vampire+Academy)
+## 7. [Vampire Academy](https://serp.ly/amazon/Vampire+Academy)
 
 ![Vampire Academy](https://image.tmdb.org/t/p/original/fVwWkJBbOtxM7VKg7PS1IkjYpQc.jpg)
 
@@ -486,7 +486,7 @@ Royal blood runs deep.
 <hr>
 
 
-## 8. [Prime Target](https://serp.ly/@serpmedia/github/amazon/Prime+Target)
+## 8. [Prime Target](https://serp.ly/amazon/Prime+Target)
 
 <br>
 

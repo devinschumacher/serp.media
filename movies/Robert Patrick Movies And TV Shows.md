@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Terminator 2: Judgment Day](https://serp.ly/@serpmedia/github/amazon/Terminator+2%3A+Judgment+Day)
+## 1. [Terminator 2: Judgment Day](https://serp.ly/amazon/Terminator+2%3A+Judgment+Day)
 
 ![Terminator 2: Judgment Day](https://image.tmdb.org/t/p/original/5M0j0B18abtBI5gi2RhfjjurTqb.jpg)
 
@@ -80,7 +80,7 @@ Set ten years after the original Terminator, "Judgment Day" sees Skynet send a s
 <hr>
 
 
-## 2. [Die Hard 2](https://serp.ly/@serpmedia/github/amazon/Die+Hard+2)
+## 2. [Die Hard 2](https://serp.ly/amazon/Die+Hard+2)
 
 ![Die Hard 2](https://image.tmdb.org/t/p/original/drJgR9L9jY44DQZvvfrZ2YoGJmW.jpg)
 
@@ -123,7 +123,7 @@ Die Hard 2: John McClane faces his toughest fight yet when terrorists storm into
 <hr>
 
 
-## 3. [Bridge to Terabithia](https://serp.ly/@serpmedia/github/amazon/Bridge+to+Terabithia)
+## 3. [Bridge to Terabithia](https://serp.ly/amazon/Bridge+to+Terabithia)
 
 ![Bridge to Terabithia](https://image.tmdb.org/t/p/original/3xFxGodKPMFLheS8rujFSmLfcq4.jpg)
 
@@ -166,7 +166,7 @@ Discover a place that will never leave you, and a friendship that will change yo
 <hr>
 
 
-## 4. [Gangster Squad](https://serp.ly/@serpmedia/github/amazon/Gangster+Squad)
+## 4. [Gangster Squad](https://serp.ly/amazon/Gangster+Squad)
 
 ![Gangster Squad](https://image.tmdb.org/t/p/original/1eW9kFSuTQfyMvZKtxlnwKRBvI.jpg)
 
@@ -209,7 +209,7 @@ In 1949 Los Angeles, a secret LAPD task force leads by Sgt. John O'Mara fights t
 <hr>
 
 
-## 5. [Safe House](https://serp.ly/@serpmedia/github/amazon/Safe+House)
+## 5. [Safe House](https://serp.ly/amazon/Safe+House)
 
 ![Safe House](https://image.tmdb.org/t/p/original/7SYBPjv5ywF6cI4BSFFtlDyChT2.jpg)
 
@@ -252,7 +252,7 @@ When a dangerous CIA renegade returns after a decade on the run, he's sent to a 
 <hr>
 
 
-## 6. [Jarhead: Law of Return](https://serp.ly/@serpmedia/github/amazon/Jarhead%3A+Law+of+Return)
+## 6. [Jarhead: Law of Return](https://serp.ly/amazon/Jarhead%3A+Law+of+Return)
 
 ![Jarhead: Law of Return](https://image.tmdb.org/t/p/original/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg)
 
@@ -286,7 +286,7 @@ When Major Ronan Jackson's fighter plane is shot down over Syria, the son of a U
 <hr>
 
 
-## 7. [Walk the Line](https://serp.ly/@serpmedia/github/amazon/Walk+the+Line)
+## 7. [Walk the Line](https://serp.ly/amazon/Walk+the+Line)
 
 ![Walk the Line](https://image.tmdb.org/t/p/original/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg)
 
@@ -326,7 +326,7 @@ When a young Johnny Cash trades his cotton farm life for the neon lights of Memp
 <hr>
 
 
-## 8. [Spy Kids](https://serp.ly/@serpmedia/github/amazon/Spy+Kids)
+## 8. [Spy Kids](https://serp.ly/amazon/Spy+Kids)
 
 ![Spy Kids](https://image.tmdb.org/t/p/original/44EKLFDthYONe4HAGZpGxEKeG8N.jpg)
 
@@ -369,7 +369,7 @@ When Carmen and Juni think their parents are boring, they have no idea that Greg
 <hr>
 
 
-## 9. [Identity Thief](https://serp.ly/@serpmedia/github/amazon/Identity+Thief)
+## 9. [Identity Thief](https://serp.ly/amazon/Identity+Thief)
 
 ![Identity Thief](https://image.tmdb.org/t/p/original/lIliJCGoWT6tEVaDivLpXEf038w.jpg)
 
@@ -412,7 +412,7 @@ When a mild-mannered businessman discovers his identity has been stolen, he emba
 <hr>
 
 
-## 10. [Last Action Hero](https://serp.ly/@serpmedia/github/amazon/Last+Action+Hero)
+## 10. [Last Action Hero](https://serp.ly/amazon/Last+Action+Hero)
 
 ![Last Action Hero](https://image.tmdb.org/t/p/original/yTfjHPqh7C7bkfMtEKx2mPdorQw.jpg)
 
@@ -454,7 +454,7 @@ When Danny Madigan's father dies, the young boy finds solace in action movies fe
 <hr>
 
 
-## 11. [Charlie's Angels: Full Throttle](https://serp.ly/@serpmedia/github/amazon/Charlie%27s+Angels%3A+Full+Throttle)
+## 11. [Charlie's Angels: Full Throttle](https://serp.ly/amazon/Charlie%27s+Angels%3A+Full+Throttle)
 
 ![Charlie's Angels: Full Throttle](https://image.tmdb.org/t/p/original/n4cdJ0Wqxb7C0HmZbcaC4eYnkIf.jpg)
 
@@ -497,7 +497,7 @@ When a pair of valuable rings goes missing, the Angels are called in to solve th
 <hr>
 
 
-## 12. [Wayne's World](https://serp.ly/@serpmedia/github/amazon/Wayne%27s+World)
+## 12. [Wayne's World](https://serp.ly/amazon/Wayne%27s+World)
 
 ![Wayne's World](https://image.tmdb.org/t/p/original/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg)
 
@@ -537,7 +537,7 @@ When two metal-head friends broadcast "Wayne's World" from Wayne's basement, the
 <hr>
 
 
-## 13. [The Men Who Stare at Goats](https://serp.ly/@serpmedia/github/amazon/The+Men+Who+Stare+at+Goats)
+## 13. [The Men Who Stare at Goats](https://serp.ly/amazon/The+Men+Who+Stare+at+Goats)
 
 ![The Men Who Stare at Goats](https://image.tmdb.org/t/p/original/5boJKypPQmgABssbKOk2RvsCnSv.jpg)
 
@@ -577,7 +577,7 @@ In Iraq, a reporter's mundane assignment takes an extraordinary turn when he enc
 <hr>
 
 
-## 14. [The Faculty](https://serp.ly/@serpmedia/github/amazon/The+Faculty)
+## 14. [The Faculty](https://serp.ly/amazon/The+Faculty)
 
 ![The Faculty](https://image.tmdb.org/t/p/original/lZEFbxDC5zEBUk6a5i6HYgAHGjf.jpg)
 
@@ -620,7 +620,7 @@ The Faculty follows a group of high school students at Herrington High who begin
 <hr>
 
 
-## 15. [Flags of Our Fathers](https://serp.ly/@serpmedia/github/amazon/Flags+of+Our+Fathers)
+## 15. [Flags of Our Fathers](https://serp.ly/amazon/Flags+of+Our+Fathers)
 
 ![Flags of Our Fathers](https://image.tmdb.org/t/p/original/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg)
 
@@ -663,7 +663,7 @@ A single shot can end the war.
 <hr>
 
 
-## 16. [Endless Love](https://serp.ly/@serpmedia/github/amazon/Endless+Love)
+## 16. [Endless Love](https://serp.ly/amazon/Endless+Love)
 
 ![Endless Love](https://image.tmdb.org/t/p/original/z7FZP6uivgVc4t0mnmia0B8YygW.jpg)
 
@@ -703,7 +703,7 @@ When a sheltered girl meets a charismatic boy, their instant connection leads to
 <hr>
 
 
-## 17. [Honest Thief](https://serp.ly/@serpmedia/github/amazon/Honest+Thief)
+## 17. [Honest Thief](https://serp.ly/amazon/Honest+Thief)
 
 ![Honest Thief](https://image.tmdb.org/t/p/original/zeD4PabP6099gpE0STWJrJrCBCs.jpg)
 
@@ -744,7 +744,7 @@ When a bank robber falls in love and decides to turn himself in, he discovers th
 <hr>
 
 
-## 18. [Trouble with the Curve](https://serp.ly/@serpmedia/github/amazon/Trouble+with+the+Curve)
+## 18. [Trouble with the Curve](https://serp.ly/amazon/Trouble+with+the+Curve)
 
 ![Trouble with the Curve](https://image.tmdb.org/t/p/original/zLZQVmxOj5kICbS5Pq7rB1cbPvP.jpg)
 
@@ -785,7 +785,7 @@ When a successful baseball scout falls ill, his daughter joins him on one last r
 <hr>
 
 
-## 19. [Cop Land](https://serp.ly/@serpmedia/github/amazon/Cop+Land)
+## 19. [Cop Land](https://serp.ly/amazon/Cop+Land)
 
 ![Cop Land](https://image.tmdb.org/t/p/original/qzR7m6kUhsbdid3xRK2jTXjyNmG.jpg)
 
@@ -828,7 +828,7 @@ In a small town known as "Cop Land", Sheriff Freddy Heflin's admiration for the 
 <hr>
 
 
-## 20. [The Laundromat](https://serp.ly/@serpmedia/github/amazon/The+Laundromat)
+## 20. [The Laundromat](https://serp.ly/amazon/The+Laundromat)
 
 ![The Laundromat](https://image.tmdb.org/t/p/original/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg)
 
@@ -866,7 +866,7 @@ Based on actual secrets
 <hr>
 
 
-## 21. [The Protégé](https://serp.ly/@serpmedia/github/amazon/The+Prot%C3%A9g%C3%A9)
+## 21. [The Protégé](https://serp.ly/amazon/The+Prot%C3%A9g%C3%A9)
 
 ![The Protégé](https://image.tmdb.org/t/p/original/iQUj7MptHUlcXpaMLrqRNZRxGA9.jpg)
 
@@ -904,7 +904,7 @@ Rescued as a child by the legendary assassin Moody and trained in the family bus
 <hr>
 
 
-## 22. [Striptease](https://serp.ly/@serpmedia/github/amazon/Striptease)
+## 22. [Striptease](https://serp.ly/amazon/Striptease)
 
 ![Striptease](https://image.tmdb.org/t/p/original/edkpT3vgjEjVrF461AbIwZgkvC7.jpg)
 
@@ -944,7 +944,7 @@ When single mother Erin Grant loses her job, she faces an impossible choice: giv
 <hr>
 
 
-## 23. [Kill the Messenger](https://serp.ly/@serpmedia/github/amazon/Kill+the+Messenger)
+## 23. [Kill the Messenger](https://serp.ly/amazon/Kill+the+Messenger)
 
 ![Kill the Messenger](https://image.tmdb.org/t/p/original/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg)
 
@@ -987,7 +987,7 @@ When a reporter uncovers the CIA's secret involvement in arming Contra rebels in
 <hr>
 
 
-## 24. [Firewall](https://serp.ly/@serpmedia/github/amazon/Firewall)
+## 24. [Firewall](https://serp.ly/amazon/Firewall)
 
 ![Firewall](https://image.tmdb.org/t/p/original/v4HHAWJthAGxnvefLGSyeSInZZx.jpg)
 
@@ -1030,7 +1030,7 @@ Jack Stanfield, a brilliant security systems developer, faces his greatest chall
 <hr>
 
 
-## 25. [Ladder 49](https://serp.ly/@serpmedia/github/amazon/Ladder+49)
+## 25. [Ladder 49](https://serp.ly/amazon/Ladder+49)
 
 ![Ladder 49](https://image.tmdb.org/t/p/original/aJWQNUUHVcI7kvlVdUzPS9J8XHt.jpg)
 
@@ -1070,7 +1070,7 @@ Jack Morrison trades his comfortable life for the intensity of Engine Company 49
 <hr>
 
 
-## 26. [The Marine](https://serp.ly/@serpmedia/github/amazon/The+Marine)
+## 26. [The Marine](https://serp.ly/amazon/The+Marine)
 
 ![The Marine](https://image.tmdb.org/t/p/original/pONyvBJwHNg5CWu7mtsv4qaq75C.jpg)
 
@@ -1113,7 +1113,7 @@ When a recently discharged marine's wife is kidnapped by diamond thieves on the 
 <hr>
 
 
-## 27. [Lovelace](https://serp.ly/@serpmedia/github/amazon/Lovelace)
+## 27. [Lovelace](https://serp.ly/amazon/Lovelace)
 
 ![Lovelace](https://image.tmdb.org/t/p/original/9zdacmBswpiyLJfynWeGFXxHP1i.jpg)
 
@@ -1156,7 +1156,7 @@ The truth goes deeper than you think.
 <hr>
 
 
-## 28. [Fire in the Sky](https://serp.ly/@serpmedia/github/amazon/Fire+in+the+Sky)
+## 28. [Fire in the Sky](https://serp.ly/amazon/Fire+in+the+Sky)
 
 ![Fire in the Sky](https://image.tmdb.org/t/p/original/6Q2cjuMuqticomBjmwxwu8tyWEP.jpg)
 
@@ -1199,7 +1199,7 @@ In the remote White Mountains of Arizona, a routine brush-clearing mission turns
 <hr>
 
 
-## 29. [D-Tox](https://serp.ly/@serpmedia/github/amazon/D-Tox)
+## 29. [D-Tox](https://serp.ly/amazon/D-Tox)
 
 ![D-Tox](https://image.tmdb.org/t/p/original/AdLg3zOxCcyWQYKSK86q20dibq.jpg)
 
@@ -1239,7 +1239,7 @@ When a disgraced FBI agent with a drinking problem checks into an isolated Wyomi
 <hr>
 
 
-## 30. [Balls of Fury](https://serp.ly/@serpmedia/github/amazon/Balls+of+Fury)
+## 30. [Balls of Fury](https://serp.ly/amazon/Balls+of+Fury)
 
 ![Balls of Fury](https://image.tmdb.org/t/p/original/obrDHxgyGcrbCpKbfsqOICeYy7S.jpg)
 
@@ -1282,7 +1282,7 @@ When a young ping pong prodigy loses his Olympic dreams to murder and deceit, he
 <hr>
 
 
-## 31. [The Road Within](https://serp.ly/@serpmedia/github/amazon/The+Road+Within)
+## 31. [The Road Within](https://serp.ly/amazon/The+Road+Within)
 
 ![The Road Within](https://image.tmdb.org/t/p/original/1lkp87orcl6IjrdJJTJPnY2gEoc.jpg)
 
@@ -1321,7 +1321,7 @@ When a young man with Tourette's Syndrome loses his mother, he decides to scatte
 <hr>
 
 
-## 32. [Ask Me Anything](https://serp.ly/@serpmedia/github/amazon/Ask+Me+Anything)
+## 32. [Ask Me Anything](https://serp.ly/amazon/Ask+Me+Anything)
 
 ![Ask Me Anything](https://image.tmdb.org/t/p/original/u0rEtOp6jI7oU6u3m7v1aAOJNQr.jpg)
 
@@ -1359,7 +1359,7 @@ Beautiful, wild, and lost, Katie Kampenfelt trades college for a year of self-di
 <hr>
 
 
-## 33. [From Dusk Till Dawn 2: Texas Blood Money](https://serp.ly/@serpmedia/github/amazon/From+Dusk+Till+Dawn+2%3A+Texas+Blood+Money)
+## 33. [From Dusk Till Dawn 2: Texas Blood Money](https://serp.ly/amazon/From+Dusk+Till+Dawn+2%3A+Texas+Blood+Money)
 
 ![From Dusk Till Dawn 2: Texas Blood Money](https://image.tmdb.org/t/p/original/in11KZuaVuJnxVBipxYocDqMQbW.jpg)
 
@@ -1399,7 +1399,7 @@ In "From Dusk Till Dawn 2: Texas Blood Money", a group of bank robbers flee to M
 <hr>
 
 
-## 34. [S.W.A.T.: Firefight](https://serp.ly/@serpmedia/github/amazon/S.W.A.T.%3A+Firefight)
+## 34. [S.W.A.T.: Firefight](https://serp.ly/amazon/S.W.A.T.%3A+Firefight)
 
 ![S.W.A.T.: Firefight](https://image.tmdb.org/t/p/original/hDeBVLKDeyavwHRPy8z5yBynNj4.jpg)
 
@@ -1435,7 +1435,7 @@ When Los Angeles S. W. A. T. officer Lt. Paul Cutler is assigned to train the De
 <hr>
 
 
-## 35. [No Man of God](https://serp.ly/@serpmedia/github/amazon/No+Man+of+God)
+## 35. [No Man of God](https://serp.ly/amazon/No+Man+of+God)
 
 ![No Man of God](https://image.tmdb.org/t/p/original/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg)
 
@@ -1469,7 +1469,7 @@ When Los Angeles S. W. A. T. officer Lt. Paul Cutler is assigned to train the De
 <hr>
 
 
-## 36. [The Poison Rose](https://serp.ly/@serpmedia/github/amazon/The+Poison+Rose)
+## 36. [The Poison Rose](https://serp.ly/amazon/The+Poison+Rose)
 
 ![The Poison Rose](https://image.tmdb.org/t/p/original/gSzyUmg719TgAxarFZYWjLLMqvS.jpg)
 
@@ -1510,7 +1510,7 @@ When a private detective is hired by his former lover to investigate a murder ca
 <hr>
 
 
-## 37. [Double Dragon](https://serp.ly/@serpmedia/github/amazon/Double+Dragon)
+## 37. [Double Dragon](https://serp.ly/amazon/Double+Dragon)
 
 ![Double Dragon](https://image.tmdb.org/t/p/original/1Qf7kxtbv1INolirNsVarJDjsMz.jpg)
 
@@ -1550,7 +1550,7 @@ When two brothers inherit half of a powerful ancient Chinese talisman, they beco
 <hr>
 
 
-## 38. [All the Pretty Horses](https://serp.ly/@serpmedia/github/amazon/All+the+Pretty+Horses)
+## 38. [All the Pretty Horses](https://serp.ly/amazon/All+the+Pretty+Horses)
 
 ![All the Pretty Horses](https://image.tmdb.org/t/p/original/6E4E7wYXw1DE2321F2hVNryLSk7.jpg)
 
@@ -1591,7 +1591,7 @@ In 1949 Texas, a young cowboy named John Grady Cole rides south of the border se
 <hr>
 
 
-## 39. [Eloise](https://serp.ly/@serpmedia/github/amazon/Eloise)
+## 39. [Eloise](https://serp.ly/amazon/Eloise)
 
 ![Eloise](https://image.tmdb.org/t/p/original/7hXgwxOhaLwmyAE67Ky6ZOjyTdL.jpg)
 
@@ -1630,7 +1630,7 @@ When four friends break into an abandoned insane asylum to find a valuable death
 <hr>
 
 
-## 40. [Strange Wilderness](https://serp.ly/@serpmedia/github/amazon/Strange+Wilderness)
+## 40. [Strange Wilderness](https://serp.ly/amazon/Strange+Wilderness)
 
 ![Strange Wilderness](https://image.tmdb.org/t/p/original/eDEKfmeQ5ZhdKqtig97L5gyi7NR.jpg)
 
@@ -1675,7 +1675,7 @@ When a wilderness TV show needs a ratings boost, two animal enthusiasts travel t
 <hr>
 
 
-## 41. [Autopsy](https://serp.ly/@serpmedia/github/amazon/Autopsy)
+## 41. [Autopsy](https://serp.ly/amazon/Autopsy)
 
 ![Autopsy](https://image.tmdb.org/t/p/original/wbjxIB8RFN5j2Wl2JftRQtKnJtZ.jpg)
 
@@ -1711,7 +1711,7 @@ In a small-town hospital, a young woman searches desperately for her injured boy
 <hr>
 
 
-## 42. [Fly Me to the Moon](https://serp.ly/@serpmedia/github/amazon/Fly+Me+to+the+Moon)
+## 42. [Fly Me to the Moon](https://serp.ly/amazon/Fly+Me+to+the+Moon)
 
 ![Fly Me to the Moon](https://image.tmdb.org/t/p/original/p42h1Z488l6PBCKyQ12cZRhPLm.jpg)
 
@@ -1751,7 +1751,7 @@ When three adventurous houseflies stow away on the Apollo 11 mission, they embar
 <hr>
 
 
-## 43. [Supercross](https://serp.ly/@serpmedia/github/amazon/Supercross)
+## 43. [Supercross](https://serp.ly/amazon/Supercross)
 
 ![Supercross](https://image.tmdb.org/t/p/original/sHgPR5jrN09KoHKltAnLp8cfgg3.jpg)
 
@@ -1789,7 +1789,7 @@ When their father dies under mysterious circumstances, two brothers must put the
 <hr>
 
 
-## 44. [The Rising Hawk](https://serp.ly/@serpmedia/github/amazon/The+Rising+Hawk)
+## 44. [The Rising Hawk](https://serp.ly/amazon/The+Rising+Hawk)
 
 ![The Rising Hawk](https://image.tmdb.org/t/p/original/qmLNbyXKpuEKXjmaEWIEAoiS0OB.jpg)
 
@@ -1829,7 +1829,7 @@ In the shadow of the Carpathian Mountains during the 13th century, a small villa
 <hr>
 
 
-## 45. [Five Minarets in New York](https://serp.ly/@serpmedia/github/amazon/Five+Minarets+in+New+York)
+## 45. [Five Minarets in New York](https://serp.ly/amazon/Five+Minarets+in+New+York)
 
 ![Five Minarets in New York](https://image.tmdb.org/t/p/original/hqcRs578GT1kwqjOEcqbDQDf8Z4.jpg)
 
@@ -1867,7 +1867,7 @@ When two Turkish anti-terror agents land in New York on a mission to track down 
 <hr>
 
 
-## 46. [Rosewood](https://serp.ly/@serpmedia/github/amazon/Rosewood)
+## 46. [Rosewood](https://serp.ly/amazon/Rosewood)
 
 ![Rosewood](https://image.tmdb.org/t/p/original/5EeTYDXdrpD9mZSSwsrFbqgok9U.jpg)
 
@@ -1910,7 +1910,7 @@ In 1923, a devastating falsehood sparks the merciless eradication of a black Flo
 <hr>
 
 
-## 47. [Texas Rangers](https://serp.ly/@serpmedia/github/amazon/Texas+Rangers)
+## 47. [Texas Rangers](https://serp.ly/amazon/Texas+Rangers)
 
 ![Texas Rangers](https://image.tmdb.org/t/p/original/69tMHlxiCYlYKGZm1aPH1u7hY88.jpg)
 
@@ -1949,7 +1949,7 @@ In the chaos of post-Civil War Texas, Governor Edmund J. Davis appoints Leander 
 <hr>
 
 
-## 48. [Hellions](https://serp.ly/@serpmedia/github/amazon/Hellions)
+## 48. [Hellions](https://serp.ly/amazon/Hellions)
 
 ![Hellions](https://image.tmdb.org/t/p/original/hFIimZOCMyoQvbGnz0gntgcbYVm.jpg)
 
@@ -1988,7 +1988,7 @@ When three malevolent trick-or-treaters knock on a teen's door this Halloween, t
 <hr>
 
 
-## 49. [Edge of Fear](https://serp.ly/@serpmedia/github/amazon/Edge+of+Fear)
+## 49. [Edge of Fear](https://serp.ly/amazon/Edge+of+Fear)
 
 ![Edge of Fear](https://image.tmdb.org/t/p/original/beGV7Zm7liyYCUMVUeZr6rr6cSU.jpg)
 
@@ -2022,7 +2022,7 @@ In this gripping thriller, a man returns home to find ruthless invaders waiting.
 <hr>
 
 
-## 50. [Tone-Deaf](https://serp.ly/@serpmedia/github/amazon/Tone-Deaf)
+## 50. [Tone-Deaf](https://serp.ly/amazon/Tone-Deaf)
 
 ![Tone-Deaf](https://image.tmdb.org/t/p/original/1yHOLVfLHnbAHYqxV2PwtE32kBm.jpg)
 
@@ -2061,7 +2061,7 @@ After losing her job and ending a messy relationship, a young woman escapes to t
 <hr>
 
 
-## 51. [Ticker](https://serp.ly/@serpmedia/github/amazon/Ticker)
+## 51. [Ticker](https://serp.ly/amazon/Ticker)
 
 ![Ticker](https://image.tmdb.org/t/p/original/iHhGquZLHdm8cFKzJpgXq8HdQk0.jpg)
 
@@ -2095,7 +2095,7 @@ In "Ticker", a mysterious diplomat carries a crucial briefcase while under helic
 <hr>
 
 
-## 52. [Alien Trespass](https://serp.ly/@serpmedia/github/amazon/Alien+Trespass)
+## 52. [Alien Trespass](https://serp.ly/amazon/Alien+Trespass)
 
 ![Alien Trespass](https://image.tmdb.org/t/p/original/3W6DuB0dp5SSZCvqaJxD25M6Evt.jpg)
 
@@ -2132,7 +2132,7 @@ When a mysterious flying saucer crashes into a California mountain in 1957, it u
 <hr>
 
 
-## 53. [Red Faction: Origins](https://serp.ly/@serpmedia/github/amazon/Red+Faction%3A+Origins)
+## 53. [Red Faction: Origins](https://serp.ly/amazon/Red+Faction%3A+Origins)
 
 ![Red Faction: Origins](https://image.tmdb.org/t/p/original/r16e0nXP2DmCZxH7WGeXbeSsudR.jpg)
 
@@ -2168,7 +2168,7 @@ In the year 2125, Jake Mason returns to Mars as a Red Faction ranger to find his
 <hr>
 
 
-## 54. [Rushed](https://serp.ly/@serpmedia/github/amazon/Rushed)
+## 54. [Rushed](https://serp.ly/amazon/Rushed)
 
 ![Rushed](https://image.tmdb.org/t/p/original/prPR4srMj4KJDRc9uqKbdIz36Bx.jpg)
 
@@ -2207,7 +2207,7 @@ When her freshman son becomes entangled in a tragic hazing incident, an Irish Ca
 <hr>
 
 
-## 55. [Lost After Dark](https://serp.ly/@serpmedia/github/amazon/Lost+After+Dark)
+## 55. [Lost After Dark](https://serp.ly/amazon/Lost+After+Dark)
 
 ![Lost After Dark](https://image.tmdb.org/t/p/original/u49uk8kA3qrmUY40GAsXCjjMFrb.jpg)
 
@@ -2243,7 +2243,7 @@ When a group of adventurous teens trade their high school dance for some unsuper
 <hr>
 
 
-## 56. [Jayne Mansfield's Car](https://serp.ly/@serpmedia/github/amazon/Jayne+Mansfield%27s+Car)
+## 56. [Jayne Mansfield's Car](https://serp.ly/amazon/Jayne+Mansfield%27s+Car)
 
 ![Jayne Mansfield's Car](https://image.tmdb.org/t/p/original/52B13wFJFd4DhM9txFbmsiuVomE.jpg)
 
@@ -2282,7 +2282,7 @@ Alabama, 1969: The death of a clan's estranged wife and mother brings together t
 <hr>
 
 
-## 57. [What Josiah Saw](https://serp.ly/@serpmedia/github/amazon/What+Josiah+Saw)
+## 57. [What Josiah Saw](https://serp.ly/amazon/What+Josiah+Saw)
 
 ![What Josiah Saw](https://image.tmdb.org/t/p/original/sfKY55tfwyg0D0m9aWibmRoKLq4.jpg)
 
@@ -2318,7 +2318,7 @@ After two decades apart, a family returns to their ancestral farmhouse to confro
 <hr>
 
 
-## 58. [Last Rampage](https://serp.ly/@serpmedia/github/amazon/Last+Rampage)
+## 58. [Last Rampage](https://serp.ly/amazon/Last+Rampage)
 
 ![Last Rampage](https://image.tmdb.org/t/p/original/kZDF2GDto5WCPW9wbRqrqf9yRWM.jpg)
 
@@ -2357,7 +2357,7 @@ In the summer of 1978, two inmates at the Arizona State Prison in Florence hatch
 <hr>
 
 
-## 59. [Tell](https://serp.ly/@serpmedia/github/amazon/Tell)
+## 59. [Tell](https://serp.ly/amazon/Tell)
 
 ![Tell](https://image.tmdb.org/t/p/original/wc5dkgKu6nshKvWA8HAwwcaB5IY.jpg)
 
@@ -2393,7 +2393,7 @@ Ethan Tell, a small-time crook, pulls off a big-time heist, stealing $1 million.
 <hr>
 
 
-## 60. [Back Roads](https://serp.ly/@serpmedia/github/amazon/Back+Roads)
+## 60. [Back Roads](https://serp.ly/amazon/Back+Roads)
 
 ![Back Roads](https://image.tmdb.org/t/p/original/va3CVH59k7b79JLl4t2TLJAh0fZ.jpg)
 
@@ -2432,7 +2432,7 @@ When a young man takes care of his sisters after their mother's imprisonment, an
 <hr>
 
 
-## 61. [The Black Waters of Echo's Pond](https://serp.ly/@serpmedia/github/amazon/The+Black+Waters+of+Echo%27s+Pond)
+## 61. [The Black Waters of Echo's Pond](https://serp.ly/amazon/The+Black+Waters+of+Echo%27s+Pond)
 
 ![The Black Waters of Echo's Pond](https://image.tmdb.org/t/p/original/wRnXoeGfgMtASlz0iZ0ko7idie7.jpg)
 
@@ -2471,7 +2471,7 @@ Nine friends gather at a picturesque Victorian home on a remote island for what 
 <hr>
 
 
-## 62. [The Making of 'Terminator 2: Judgment Day'](https://serp.ly/@serpmedia/github/amazon/The+Making+of+%27Terminator+2%3A+Judgment+Day%27)
+## 62. [The Making of 'Terminator 2: Judgment Day'](https://serp.ly/amazon/The+Making+of+%27Terminator+2%3A+Judgment+Day%27)
 
 ![The Making of 'Terminator 2: Judgment Day'](https://image.tmdb.org/t/p/original/m0k3vRqh4eVZONufDahNufHi8Em.jpg)
 
@@ -2505,7 +2505,7 @@ Nine friends gather at a picturesque Victorian home on a remote island for what 
 <hr>
 
 
-## 63. [Kill Speed](https://serp.ly/@serpmedia/github/amazon/Kill+Speed)
+## 63. [Kill Speed](https://serp.ly/amazon/Kill+Speed)
 
 ![Kill Speed](https://image.tmdb.org/t/p/original/w64IOlFCuM2s7XRqW3pO5wTeHg6.jpg)
 
@@ -2541,7 +2541,7 @@ When two best friends build their own high-tech planes, they turn ordinary drug 
 <hr>
 
 
-## 64. [Dark Asset](https://serp.ly/@serpmedia/github/amazon/Dark+Asset)
+## 64. [Dark Asset](https://serp.ly/amazon/Dark+Asset)
 
 ![Dark Asset](https://image.tmdb.org/t/p/original/hfxqsC8Bz2wMZmXKwEZqKyJiScT.jpg)
 
@@ -2577,7 +2577,7 @@ In a tense encounter at a bustling bar, a smooth-talking guy weaves an elaborate
 <hr>
 
 
-## 65. [T2: Reprogramming The Terminator](https://serp.ly/@serpmedia/github/amazon/T2%3A+Reprogramming+The+Terminator)
+## 65. [T2: Reprogramming The Terminator](https://serp.ly/amazon/T2%3A+Reprogramming+The+Terminator)
 
 ![T2: Reprogramming The Terminator](https://image.tmdb.org/t/p/original/vQUbuyFslWuRfCd44uaba9Qf0ev.jpg)
 
@@ -2611,7 +2611,7 @@ In a tense encounter at a bustling bar, a smooth-talking guy weaves an elaborate
 <hr>
 
 
-## 66. [SGT. Will Gardner](https://serp.ly/@serpmedia/github/amazon/SGT.+Will+Gardner)
+## 66. [SGT. Will Gardner](https://serp.ly/amazon/SGT.+Will+Gardner)
 
 ![SGT. Will Gardner](https://image.tmdb.org/t/p/original/3OSAh3Tw1FHzK8Pc6DUAUqSOerC.jpg)
 
@@ -2647,7 +2647,7 @@ When an Iraq War veteran returns home, he finds himself struggling to readjust t
 <hr>
 
 
-## 67. [The Wrath of Cain](https://serp.ly/@serpmedia/github/amazon/The+Wrath+of+Cain)
+## 67. [The Wrath of Cain](https://serp.ly/amazon/The+Wrath+of+Cain)
 
 ![The Wrath of Cain](https://image.tmdb.org/t/p/original/n7PEY1KJUW2Pe21pUnkNKSqWuWO.jpg)
 
@@ -2681,7 +2681,7 @@ Miles "Cain" Skinner was once a powerful figure on the streets, but now he's ser
 <hr>
 
 
-## 68. [Mafia](https://serp.ly/@serpmedia/github/amazon/Mafia)
+## 68. [Mafia](https://serp.ly/amazon/Mafia)
 
 ![Mafia](https://image.tmdb.org/t/p/original/qTIqd3BmxQtBHDmPhcWlBAvXCO3.jpg)
 
@@ -2715,7 +2715,7 @@ In "Mafia", a determined cop pushes the boundaries of legal enforcement to bring
 <hr>
 
 
-## 69. [Future Hunters](https://serp.ly/@serpmedia/github/amazon/Future+Hunters)
+## 69. [Future Hunters](https://serp.ly/amazon/Future+Hunters)
 
 ![Future Hunters](https://image.tmdb.org/t/p/original/x06bm9W2q3qdfYHoSlynxeZkUdB.jpg)
 
@@ -2753,7 +2753,7 @@ In a post-apocalyptic future, a lone survivor travels back in time to prevent th
 <hr>
 
 
-## 70. [Last Gasp](https://serp.ly/@serpmedia/github/amazon/Last+Gasp)
+## 70. [Last Gasp](https://serp.ly/amazon/Last+Gasp)
 
 ![Last Gasp](https://image.tmdb.org/t/p/original/8WJ2lUlAVk9WnKmMAzgMNCfjtAP.jpg)
 
@@ -2789,7 +2789,7 @@ In this 1995 thriller, a successful real estate developer's life changes when he
 <hr>
 
 
-## 71. [Hollywood Adventures](https://serp.ly/@serpmedia/github/amazon/Hollywood+Adventures)
+## 71. [Hollywood Adventures](https://serp.ly/amazon/Hollywood+Adventures)
 
 ![Hollywood Adventures](https://image.tmdb.org/t/p/original/vIhDQ6lj0KSGtV9cmAwFQ5GFcmh.jpg)
 
@@ -2823,7 +2823,7 @@ When a young Chinese man rushes to Hollywood to find his girlfriend, he stumbles
 <hr>
 
 
-## 72. [Ambushed](https://serp.ly/@serpmedia/github/amazon/Ambushed)
+## 72. [Ambushed](https://serp.ly/amazon/Ambushed)
 
 ![Ambushed](https://image.tmdb.org/t/p/original/b59zw8tjPXrDDFRmfBhkmfZjRCU.jpg)
 
@@ -2859,7 +2859,7 @@ When Jim Natter, the leader of a violent Kuk Klux Klan lodge, is murdered, his t
 <hr>
 
 
-## 73. [Backflash](https://serp.ly/@serpmedia/github/amazon/Backflash)
+## 73. [Backflash](https://serp.ly/amazon/Backflash)
 
 ![Backflash](https://image.tmdb.org/t/p/original/2QFPbzetlOoVxrCZ7vHY7Rm6Vxl.jpg)
 
@@ -2895,7 +2895,7 @@ After serving her time in prison, a woman returns home to find her family in dee
 <hr>
 
 
-## 74. [21 Days Under the Sky](https://serp.ly/@serpmedia/github/amazon/21+Days+Under+the+Sky)
+## 74. [21 Days Under the Sky](https://serp.ly/amazon/21+Days+Under+the+Sky)
 
 ![21 Days Under the Sky](https://image.tmdb.org/t/p/original/hHZRKaigYPTquucCRXVNB1meYao.jpg)
 
@@ -2931,7 +2931,7 @@ Four fearless adventurers mount their vintage motorcycles and set off on a chall
 <hr>
 
 
-## 75. [Equalizer 2000](https://serp.ly/@serpmedia/github/amazon/Equalizer+2000)
+## 75. [Equalizer 2000](https://serp.ly/amazon/Equalizer+2000)
 
 ![Equalizer 2000](https://image.tmdb.org/t/p/original/v25M35QJVhKUkIvQvgbgl87NGeU.jpg)
 
@@ -2967,7 +2967,7 @@ In a bleak postnuclear future, warring factions battle for control of the Equali
 <hr>
 
 
-## 76. [From Star Wars to Star Wars: The Story of Industrial Light & Magic](https://serp.ly/@serpmedia/github/amazon/From+Star+Wars+to+Star+Wars%3A+The+Story+of+Industrial+Light+%26+Magic)
+## 76. [From Star Wars to Star Wars: The Story of Industrial Light & Magic](https://serp.ly/amazon/From+Star+Wars+to+Star+Wars%3A+The+Story+of+Industrial+Light+%26+Magic)
 
 ![From Star Wars to Star Wars: The Story of Industrial Light & Magic](https://image.tmdb.org/t/p/original/eOK9FczS2GrH8ByZr9RkLYnQiW6.jpg)
 
@@ -3001,7 +3001,7 @@ Industrial Light & Magic has transformed movie special effects since its creatio
 <hr>
 
 
-## 77. [Renegade Force](https://serp.ly/@serpmedia/github/amazon/Renegade+Force)
+## 77. [Renegade Force](https://serp.ly/amazon/Renegade+Force)
 
 ![Renegade Force](https://image.tmdb.org/t/p/original/jRp0Zb2UJh7Gf8xMR30TCw9fzkP.jpg)
 
@@ -3039,7 +3039,7 @@ When the FBI brings in a young cop to join their elite task force, he discovers 
 <hr>
 
 
-## 78. [Hong Kong 97](https://serp.ly/@serpmedia/github/amazon/Hong+Kong+97)
+## 78. [Hong Kong 97](https://serp.ly/amazon/Hong+Kong+97)
 
 ![Hong Kong 97](https://image.tmdb.org/t/p/original/gcVkSUbjpIM10jxSJYHc8RyaP3h.jpg)
 
@@ -3075,7 +3075,7 @@ Hong Kong 97 plunges you into the tense atmosphere of a city on the brink of mon
 <hr>
 
 
-## 79. [Zero Tolerance](https://serp.ly/@serpmedia/github/amazon/Zero+Tolerance)
+## 79. [Zero Tolerance](https://serp.ly/amazon/Zero+Tolerance)
 
 ![Zero Tolerance](https://image.tmdb.org/t/p/original/umV4jgOsz0AVhIVpx2WSQEIZXH.jpg)
 
@@ -3109,7 +3109,7 @@ When FBI agent Jeff Douglas survives a deadly attack in Mexico, he becomes an un
 <hr>
 
 
-## 80. [Tactical Assault](https://serp.ly/@serpmedia/github/amazon/Tactical+Assault)
+## 80. [Tactical Assault](https://serp.ly/amazon/Tactical+Assault)
 
 ![Tactical Assault](https://image.tmdb.org/t/p/original/rcbqxt6DGIeliPFr7ivGSxRmxtC.jpg)
 
@@ -3147,7 +3147,7 @@ When a skilled Air Force pilot is targeted by his former friend and colleague, h
 <hr>
 
 
-## 81. [Mexico City](https://serp.ly/@serpmedia/github/amazon/Mexico+City)
+## 81. [Mexico City](https://serp.ly/amazon/Mexico+City)
 
 ![Mexico City](https://image.tmdb.org/t/p/original/eQizAZPSJC3dnaMeVe72y71K5zP.jpg)
 
@@ -3183,7 +3183,7 @@ Mexico City tells the story of Mitch, a young divorcee whose brother goes missin
 <hr>
 
 
-## 82. [Lonely Street](https://serp.ly/@serpmedia/github/amazon/Lonely+Street)
+## 82. [Lonely Street](https://serp.ly/amazon/Lonely+Street)
 
 ![Lonely Street](https://image.tmdb.org/t/p/original/dDPhbAUDbc74eyoLxTS6q1kI8zD.jpg)
 
@@ -3219,7 +3219,7 @@ In this 2009 detective thriller, a naive private investigator named Bubba Mabry 
 <hr>
 
 
-## 83. [A Texas Funeral](https://serp.ly/@serpmedia/github/amazon/A+Texas+Funeral)
+## 83. [A Texas Funeral](https://serp.ly/amazon/A+Texas+Funeral)
 
 ![A Texas Funeral](https://image.tmdb.org/t/p/original/ymou9DzBk1jjmacMFira4srikPu.jpg)
 
@@ -3253,7 +3253,7 @@ In 1968 Texas, the Whit family gathers for Grandpa Sparta's funeral, where unexp
 <hr>
 
 
-## 84. [The Cool Surface](https://serp.ly/@serpmedia/github/amazon/The+Cool+Surface)
+## 84. [The Cool Surface](https://serp.ly/amazon/The+Cool+Surface)
 
 ![The Cool Surface](https://image.tmdb.org/t/p/original/tLNFrAsJiDDJrktYssqp9y5oHHK.jpg)
 
@@ -3289,7 +3289,7 @@ After finishing his novel in the wilderness, a writer returns to Hollywood and c
 <hr>
 
 
-## 85. [Good Day for It](https://serp.ly/@serpmedia/github/amazon/Good+Day+for+It)
+## 85. [Good Day for It](https://serp.ly/amazon/Good+Day+for+It)
 
 ![Good Day for It](https://image.tmdb.org/t/p/original/8g2XVDATOQxenJpTfslSjFNuK2u.jpg)
 
@@ -3327,7 +3327,7 @@ In this 2011 drama, a man who left his wife and daughter years ago returns to se
 <hr>
 
 
-## 86. [Body Language](https://serp.ly/@serpmedia/github/amazon/Body+Language)
+## 86. [Body Language](https://serp.ly/amazon/Body+Language)
 
 ![Body Language](https://image.tmdb.org/t/p/original/dsGP22L9Gz7DAkUVTFffZWxQaR9.jpg)
 
@@ -3363,7 +3363,7 @@ When a successful lawyer takes on the defense of a Mafia boss, he expects a typi
 <hr>
 
 
-## 87. [Pavement](https://serp.ly/@serpmedia/github/amazon/Pavement)
+## 87. [Pavement](https://serp.ly/amazon/Pavement)
 
 ![Pavement](https://image.tmdb.org/t/p/original/zgrf0EzDwMD2Yg3J9cWEH8DleVk.jpg)
 
@@ -3399,7 +3399,7 @@ In this gripping thriller, a tracker from Alaska heads to San Francisco to hunt 
 <hr>
 
 
-## 88. [Perfect Assassins](https://serp.ly/@serpmedia/github/amazon/Perfect+Assassins)
+## 88. [Perfect Assassins](https://serp.ly/amazon/Perfect+Assassins)
 
 ![Perfect Assassins](https://image.tmdb.org/t/p/original/4eHEsmWSa0ln85u2bQADILvWJl9.jpg)
 
@@ -3433,7 +3433,7 @@ In "Perfect Assassins", an FBI agent hunts the mastermind behind a deadly terror
 <hr>
 
 
-## 89. [Sinatra 100: An All-Star Grammy Concert](https://serp.ly/@serpmedia/github/amazon/Sinatra+100%3A+An+All-Star+Grammy+Concert)
+## 89. [Sinatra 100: An All-Star Grammy Concert](https://serp.ly/amazon/Sinatra+100%3A+An+All-Star+Grammy+Concert)
 
 ![Sinatra 100: An All-Star Grammy Concert](https://image.tmdb.org/t/p/original/6HlRPfKGfvZp4kMiz9UX2IQCse0.jpg)
 
@@ -3467,7 +3467,7 @@ Join an all-star lineup of musicians paying tribute to Frank Sinatra's 100th bir
 <hr>
 
 
-## 90. [Asylum](https://serp.ly/@serpmedia/github/amazon/Asylum)
+## 90. [Asylum](https://serp.ly/amazon/Asylum)
 
 ![Asylum](https://image.tmdb.org/t/p/original/yAHhDCxbyvQKsMKFiSJ3ltWIXP0.jpg)
 
@@ -3505,7 +3505,7 @@ When a private investigator's father commits suicide, he channels his pain into 
 <hr>
 
 
-## 91. [Decoy](https://serp.ly/@serpmedia/github/amazon/Decoy)
+## 91. [Decoy](https://serp.ly/amazon/Decoy)
 
 ![Decoy](https://image.tmdb.org/t/p/original/ohFZFj1hZob2tKgMa1dP7wll2m3.jpg)
 
@@ -3543,7 +3543,7 @@ When two hired protectors are assigned to safeguard a wealthy businessman's daug
 <hr>
 
 
-## 92. [Body Shot](https://serp.ly/@serpmedia/github/amazon/Body+Shot)
+## 92. [Body Shot](https://serp.ly/amazon/Body+Shot)
 
 ![Body Shot](https://image.tmdb.org/t/p/original/a40QPUsYpRXM7mtHuAC4P4GDcMf.jpg)
 
@@ -3577,7 +3577,7 @@ When paparazzi photographer Mickey Dane sets his sights on the elusive pop singe
 <hr>
 
 
-## 93. [The Only Thrill](https://serp.ly/@serpmedia/github/amazon/The+Only+Thrill)
+## 93. [The Only Thrill](https://serp.ly/amazon/The+Only+Thrill)
 
 ![The Only Thrill](https://image.tmdb.org/t/p/original/e3Jor0elYaxRz440GVohgnRIA9W.jpg)
 
@@ -3613,7 +3613,7 @@ In a small Texas town, a store owner with a comatose wife forms an unexpected lo
 <hr>
 
 
-## 94. [Arnold & Sly: Rivals, Friends, Icons](https://serp.ly/@serpmedia/github/amazon/Arnold+%26+Sly%3A+Rivals%2C+Friends%2C+Icons)
+## 94. [Arnold & Sly: Rivals, Friends, Icons](https://serp.ly/amazon/Arnold+%26+Sly%3A+Rivals%2C+Friends%2C+Icons)
 
 ![Arnold & Sly: Rivals, Friends, Icons](https://image.tmdb.org/t/p/original/8LGiYX7vR0Tnk7YNJ7Wx8C1VVX9.jpg)
 
@@ -3644,7 +3644,7 @@ When two Hollywood icons sit down for an exclusive TMZ interview, their legendar
 <hr>
 
 
-## 95. [First to Die](https://serp.ly/@serpmedia/github/amazon/First+to+Die)
+## 95. [First to Die](https://serp.ly/amazon/First+to+Die)
 
 ![First to Die](https://image.tmdb.org/t/p/original/bEFlK5yvjijljYfXW5gZOwEbIFo.jpg)
 
@@ -3680,7 +3680,7 @@ When newlyweds start turning up dead on their wedding nights, San Francisco homi
 <hr>
 
 
-## 96. [Hollywood Boulevard II](https://serp.ly/@serpmedia/github/amazon/Hollywood+Boulevard+II)
+## 96. [Hollywood Boulevard II](https://serp.ly/amazon/Hollywood+Boulevard+II)
 
 ![Hollywood Boulevard II](https://image.tmdb.org/t/p/original/nV5e99uoJP2UMi9h0EFvpot5ZBf.jpg)
 
@@ -3714,7 +3714,7 @@ When a studio executive is killed by an exploding teddy bear, it kicks off one w
 <hr>
 
 
-## 97. [Eye of the Eagle](https://serp.ly/@serpmedia/github/amazon/Eye+of+the+Eagle)
+## 97. [Eye of the Eagle](https://serp.ly/amazon/Eye+of+the+Eagle)
 
 ![Eye of the Eagle](https://image.tmdb.org/t/p/original/jmjgCcDUaRgOd00LgcsvjnzOApV.jpg)
 
@@ -3750,7 +3750,7 @@ When a ruthless band of renegades known as "The Lost Command" wreaks havoc in So
 <hr>
 
 
-## 98. [The Making of 'Terminator 2 3D'](https://serp.ly/@serpmedia/github/amazon/The+Making+of+%27Terminator+2+3D%27)
+## 98. [The Making of 'Terminator 2 3D'](https://serp.ly/amazon/The+Making+of+%27Terminator+2+3D%27)
 
 ![The Making of 'Terminator 2 3D'](https://image.tmdb.org/t/p/original/dirT2bJL5Lju4OcHxXEDR5LnIWY.jpg)
 
@@ -3781,7 +3781,7 @@ When a ruthless band of renegades known as "The Lost Command" wreaks havoc in So
 <hr>
 
 
-## 99. [Shelter in Solitude](https://serp.ly/@serpmedia/github/amazon/Shelter+in+Solitude)
+## 99. [Shelter in Solitude](https://serp.ly/amazon/Shelter+in+Solitude)
 
 ![Shelter in Solitude](https://image.tmdb.org/t/p/original/o7rohwFWyIgRKXCOesM0UFW47ZM.jpg)
 
@@ -3815,7 +3815,7 @@ When a country singer runs out of options, he lands a job as a prison guard at a
 <hr>
 
 
-## 100. [Starz Inside - Unforgettably Evil](https://serp.ly/@serpmedia/github/amazon/Starz+Inside+-+Unforgettably+Evil)
+## 100. [Starz Inside - Unforgettably Evil](https://serp.ly/amazon/Starz+Inside+-+Unforgettably+Evil)
 
 <br>
 
@@ -3849,7 +3849,7 @@ When a country singer runs out of options, he lands a job as a prison guard at a
 <hr>
 
 
-## 101. [The Vivero Letter](https://serp.ly/@serpmedia/github/amazon/The+Vivero+Letter)
+## 101. [The Vivero Letter](https://serp.ly/amazon/The+Vivero+Letter)
 
 ![The Vivero Letter](https://image.tmdb.org/t/p/original/yvdRdYWANfHXN04vKCAhde1Xuc2.jpg)
 
@@ -3885,7 +3885,7 @@ In Central America, a man discovers his brother's murdered body, leading him to 
 <hr>
 
 
-## 102. [Angels Don't Sleep Here](https://serp.ly/@serpmedia/github/amazon/Angels+Don%27t+Sleep+Here)
+## 102. [Angels Don't Sleep Here](https://serp.ly/amazon/Angels+Don%27t+Sleep+Here)
 
 ![Angels Don't Sleep Here](https://image.tmdb.org/t/p/original/8Ln0d3mIOo6pxO7j4mdqaWqfPdl.jpg)
 
@@ -3923,7 +3923,7 @@ When a man is accused of murder, he's drawn into a dark web of deceit orchestrat
 <hr>
 
 
-## 103. [Hacks](https://serp.ly/@serpmedia/github/amazon/Hacks)
+## 103. [Hacks](https://serp.ly/amazon/Hacks)
 
 ![Hacks](https://image.tmdb.org/t/p/original/2I8vUf1Sax6diWNyHAk3yRSOSmM.jpg)
 
@@ -3957,7 +3957,7 @@ When television writer-producer Brian moves into a new flat, he discovers an une
 <hr>
 
 
-## 104. [T2: More Than Meets the Eye](https://serp.ly/@serpmedia/github/amazon/T2%3A+More+Than+Meets+the+Eye)
+## 104. [T2: More Than Meets the Eye](https://serp.ly/amazon/T2%3A+More+Than+Meets+the+Eye)
 
 ![T2: More Than Meets the Eye](https://image.tmdb.org/t/p/original/ty3sJsAO9JthAdAxHDjDPJ35Bok.jpg)
 
@@ -3988,7 +3988,7 @@ When television writer-producer Brian moves into a new flat, he discovers an une
 <hr>
 
 
-## 105. [Bad Apple](https://serp.ly/@serpmedia/github/amazon/Bad+Apple)
+## 105. [Bad Apple](https://serp.ly/amazon/Bad+Apple)
 
 ![Bad Apple](https://image.tmdb.org/t/p/original/23jclGU24ix1hJGdlrqlYKzVxHd.jpg)
 
@@ -4022,7 +4022,7 @@ When an undercover FBI agent in New York City falls unexpectedly in love with hi
 <hr>
 
 
-## 106. [Rag and Bone](https://serp.ly/@serpmedia/github/amazon/Rag+and+Bone)
+## 106. [Rag and Bone](https://serp.ly/amazon/Rag+and+Bone)
 
 ![Rag and Bone](https://image.tmdb.org/t/p/original/rjngsILA1COqldaFMLvXaHy7rQa.jpg)
 
@@ -4056,7 +4056,7 @@ When a priest is seconded to the New Orleans police department, his new life beg
 <hr>
 
 
-## 107. [Killer Instinct](https://serp.ly/@serpmedia/github/amazon/Killer+Instinct)
+## 107. [Killer Instinct](https://serp.ly/amazon/Killer+Instinct)
 
 ![Killer Instinct](https://image.tmdb.org/t/p/original/sX09MRy4GJoyXUUZY9H3EhlnZ9x.jpg)
 
@@ -4090,7 +4090,7 @@ In this action-packed 1988 thriller, a Special Forces soldier named Johnny retur
 <hr>
 
 
-## 108. [Holbrook/Twain: An American Odyssey](https://serp.ly/@serpmedia/github/amazon/Holbrook%2FTwain%3A+An+American+Odyssey)
+## 108. [Holbrook/Twain: An American Odyssey](https://serp.ly/amazon/Holbrook%2FTwain%3A+An+American+Odyssey)
 
 ![Holbrook/Twain: An American Odyssey](https://image.tmdb.org/t/p/original/9NGVT7sH6aoFX0ZiiCHkWc3Eqy3.jpg)
 
@@ -4124,7 +4124,7 @@ Since first stepping onto the stage in 1954, Hal Holbrook has delighted audience
 <hr>
 
 
-## 109. [Troubled Waters](https://serp.ly/@serpmedia/github/amazon/Troubled+Waters)
+## 109. [Troubled Waters](https://serp.ly/amazon/Troubled+Waters)
 
 ![Troubled Waters](https://image.tmdb.org/t/p/original/2hVizXuWmQPDGVosxZAqcayxxmh.jpg)
 
@@ -4158,7 +4158,7 @@ Since first stepping onto the stage in 1954, Hal Holbrook has delighted audience
 <hr>
 
 
-## 110. [The Making of 'The Marine'](https://serp.ly/@serpmedia/github/amazon/The+Making+of+%27The+Marine%27)
+## 110. [The Making of 'The Marine'](https://serp.ly/amazon/The+Making+of+%27The+Marine%27)
 
 <br>
 
@@ -4189,7 +4189,7 @@ Since first stepping onto the stage in 1954, Hal Holbrook has delighted audience
 <hr>
 
 
-## 111. [A Place Among the Dead](https://serp.ly/@serpmedia/github/amazon/A+Place+Among+the+Dead)
+## 111. [A Place Among the Dead](https://serp.ly/amazon/A+Place+Among+the+Dead)
 
 ![A Place Among the Dead](https://image.tmdb.org/t/p/original/vD1QQp42sWvb02pzTQNcJqFkzCL.jpg)
 
@@ -4223,7 +4223,7 @@ Since first stepping onto the stage in 1954, Hal Holbrook has delighted audience
 <hr>
 
 
-## 112. [Street Level](https://serp.ly/@serpmedia/github/amazon/Street+Level)
+## 112. [Street Level](https://serp.ly/amazon/Street+Level)
 
 ![Street Level](https://image.tmdb.org/t/p/original/dp5FqNFW4LYrHqMEPvlU6xIpfms.jpg)
 
@@ -4257,7 +4257,7 @@ Street Level is a modern love story that unfolds in the heart of the city. It's 
 <hr>
 
 
-## 113. [No Man Of God](https://serp.ly/@serpmedia/github/amazon/No+Man+Of+God)
+## 113. [No Man Of God](https://serp.ly/amazon/No+Man+Of+God)
 
 ![No Man Of God](https://image.tmdb.org/t/p/original/rHgUMAsfqDYHcAPgfvSJJ2ZZjvl.jpg)
 
@@ -4282,7 +4282,7 @@ Street Level is a modern love story that unfolds in the heart of the city. It's 
 <hr>
 
 
-## 114. [Edgar Floats](https://serp.ly/@serpmedia/github/amazon/Edgar+Floats)
+## 114. [Edgar Floats](https://serp.ly/amazon/Edgar+Floats)
 
 ![Edgar Floats](https://image.tmdb.org/t/p/original/3kZB4UYxM7gw1XeWWTkWE7PMFVA.jpg)
 
@@ -4310,7 +4310,7 @@ When a police psychologist decides to become a bounty hunter, he brings his unus
 <hr>
 
 
-## 115. [D-Minus](https://serp.ly/@serpmedia/github/amazon/D-Minus)
+## 115. [D-Minus](https://serp.ly/amazon/D-Minus)
 
 <br>
 
@@ -4336,7 +4336,7 @@ When a police psychologist decides to become a bounty hunter, he brings his unus
 <hr>
 
 
-## 116. [Warlords from Hell](https://serp.ly/@serpmedia/github/amazon/Warlords+from+Hell)
+## 116. [Warlords from Hell](https://serp.ly/amazon/Warlords+from+Hell)
 
 ![Warlords from Hell](https://image.tmdb.org/t/p/original/cZ4yXAIRtEBTw7GTr4TEDVs7dln.jpg)
 
@@ -4367,7 +4367,7 @@ When two young Americans masquerading as clerks stumble into a remote Mexican vi
 <hr>
 
 
-## 117. [Les petites étrangères](https://serp.ly/@serpmedia/github/amazon/Les+petites+%C3%A9trang%C3%A8res)
+## 117. [Les petites étrangères](https://serp.ly/amazon/Les+petites+%C3%A9trang%C3%A8res)
 
 ![Les petites étrangères](https://image.tmdb.org/t/p/original/kH3vjOgGxp4aK2qksz5RRF0IEKl.jpg)
 
@@ -4397,7 +4397,7 @@ When two young Americans masquerading as clerks stumble into a remote Mexican vi
 <hr>
 
 
-## 1. [WWE Raw](https://serp.ly/@serpmedia/github/amazon/WWE+Raw)
+## 1. [WWE Raw](https://serp.ly/amazon/WWE+Raw)
 
 ![WWE Raw](https://image.tmdb.org/t/p/original/qvQ2Fu75bNUiZ1yzuHI3wkTGy7C.jpg)
 
@@ -4441,7 +4441,7 @@ WWE Raw is a regularly scheduled, live program featuring some of the biggest WWE
 <hr>
 
 
-## 2. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 2. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -4487,7 +4487,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 3. [Hell's Kitchen](https://serp.ly/@serpmedia/github/amazon/Hell%27s+Kitchen)
+## 3. [Hell's Kitchen](https://serp.ly/amazon/Hell%27s+Kitchen)
 
 ![Hell's Kitchen](https://image.tmdb.org/t/p/original/shOVFku8daIGRpgjTdMZBxUAvsV.jpg)
 
@@ -4533,7 +4533,7 @@ In this reality series, aspiring restaurateurs face off in Hell's Kitchen, where
 <hr>
 
 
-## 4. [Lost](https://serp.ly/@serpmedia/github/amazon/Lost)
+## 4. [Lost](https://serp.ly/amazon/Lost)
 
 ![Lost](https://image.tmdb.org/t/p/original/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg)
 
@@ -4577,7 +4577,7 @@ When a plane crashes into the ocean, the survivors find themselves stranded on a
 <hr>
 
 
-## 5. [NCIS](https://serp.ly/@serpmedia/github/amazon/NCIS)
+## 5. [NCIS](https://serp.ly/amazon/NCIS)
 
 ![NCIS](https://image.tmdb.org/t/p/original/2exOHePjOTquUsbThPGhuEjYTyA.jpg)
 
@@ -4621,7 +4621,7 @@ When it comes to solving crimes, no one does it quite like the team at NCIS. Fro
 <hr>
 
 
-## 6. [The Angry Beavers](https://serp.ly/@serpmedia/github/amazon/The+Angry+Beavers)
+## 6. [The Angry Beavers](https://serp.ly/amazon/The+Angry+Beavers)
 
 ![The Angry Beavers](https://image.tmdb.org/t/p/original/vjwWVj2u6wqNiADaf1hbSlxFRbJ.jpg)
 
@@ -4663,7 +4663,7 @@ When two young beaver brothers leave their home for the freedom of bachelor life
 <hr>
 
 
-## 7. [Psych](https://serp.ly/@serpmedia/github/amazon/Psych)
+## 7. [Psych](https://serp.ly/amazon/Psych)
 
 ![Psych](https://image.tmdb.org/t/p/original/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg)
 
@@ -4707,7 +4707,7 @@ When Shawn Spencer's knack for solving crimes gets him falsely accused of a crim
 <hr>
 
 
-## 8. [The Walking Dead](https://serp.ly/@serpmedia/github/amazon/The+Walking+Dead)
+## 8. [The Walking Dead](https://serp.ly/amazon/The+Walking+Dead)
 
 ![The Walking Dead](https://image.tmdb.org/t/p/original/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg)
 
@@ -4751,7 +4751,7 @@ When Deputy Rick Grimes wakes from a coma, he finds himself in a post-apocalypti
 <hr>
 
 
-## 9. [The X-Files](https://serp.ly/@serpmedia/github/amazon/The+X-Files)
+## 9. [The X-Files](https://serp.ly/amazon/The+X-Files)
 
 ![The X-Files](https://image.tmdb.org/t/p/original/5BD0kiTGnDxONqdrsswTewnk6WH.jpg)
 
@@ -4795,7 +4795,7 @@ When two FBI agents with opposing views on the paranormal are forced to work tog
 <hr>
 
 
-## 10. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 10. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -4843,7 +4843,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 11. [Stargate Atlantis](https://serp.ly/@serpmedia/github/amazon/Stargate+Atlantis)
+## 11. [Stargate Atlantis](https://serp.ly/amazon/Stargate+Atlantis)
 
 ![Stargate Atlantis](https://image.tmdb.org/t/p/original/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg)
 
@@ -4887,7 +4887,7 @@ When Stargate Command discovers the Ancients' lost city of Atlantis in the Pegas
 <hr>
 
 
-## 12. [MacGyver](https://serp.ly/@serpmedia/github/amazon/MacGyver)
+## 12. [MacGyver](https://serp.ly/amazon/MacGyver)
 
 ![MacGyver](https://image.tmdb.org/t/p/original/2zAogx9dmSAu2HYxbWzHe4ZaNY5.jpg)
 
@@ -4931,7 +4931,7 @@ When a 20-something Angus MacGyver realizes he has a unique talent for solving p
 <hr>
 
 
-## 13. [Scorpion](https://serp.ly/@serpmedia/github/amazon/Scorpion)
+## 13. [Scorpion](https://serp.ly/amazon/Scorpion)
 
 ![Scorpion](https://image.tmdb.org/t/p/original/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg)
 
@@ -4975,7 +4975,7 @@ When the government faces threats that require more than just military might, th
 <hr>
 
 
-## 14. [Sons of Anarchy](https://serp.ly/@serpmedia/github/amazon/Sons+of+Anarchy)
+## 14. [Sons of Anarchy](https://serp.ly/amazon/Sons+of+Anarchy)
 
 ![Sons of Anarchy](https://image.tmdb.org/t/p/original/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg)
 
@@ -5019,7 +5019,7 @@ Sons of Anarchy blends dark humor with high-stakes drama as an outlaw motorcycle
 <hr>
 
 
-## 15. [The Sopranos](https://serp.ly/@serpmedia/github/amazon/The+Sopranos)
+## 15. [The Sopranos](https://serp.ly/amazon/The+Sopranos)
 
 ![The Sopranos](https://image.tmdb.org/t/p/original/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg)
 
@@ -5063,7 +5063,7 @@ When a successful mobster runs a criminal organization in New Jersey, he faces m
 <hr>
 
 
-## 16. [Tales from the Crypt](https://serp.ly/@serpmedia/github/amazon/Tales+from+the+Crypt)
+## 16. [Tales from the Crypt](https://serp.ly/amazon/Tales+from+the+Crypt)
 
 ![Tales from the Crypt](https://image.tmdb.org/t/p/original/265Gpw7wSwwMkUQlksot8B2chRg.jpg)
 
@@ -5107,7 +5107,7 @@ Dead-On Humor and Horror.
 <hr>
 
 
-## 17. [Reacher](https://serp.ly/@serpmedia/github/amazon/Reacher)
+## 17. [Reacher](https://serp.ly/amazon/Reacher)
 
 ![Reacher](https://image.tmdb.org/t/p/original/jFuH0md41x5mB4qj5344mSmtHrO.jpg)
 
@@ -5153,7 +5153,7 @@ After serving in military police, Jack Reacher trades his structured life for th
 <hr>
 
 
-## 18. [Burn Notice](https://serp.ly/@serpmedia/github/amazon/Burn+Notice)
+## 18. [Burn Notice](https://serp.ly/amazon/Burn+Notice)
 
 ![Burn Notice](https://image.tmdb.org/t/p/original/o2fnD3SNiQjGVgA2C3ezaeh2HK.jpg)
 
@@ -5197,7 +5197,7 @@ When a former spy is recruited to help people in desperate situations, his uniqu
 <hr>
 
 
-## 19. [Avatar: The Last Airbender](https://serp.ly/@serpmedia/github/amazon/Avatar%3A+The+Last+Airbender)
+## 19. [Avatar: The Last Airbender](https://serp.ly/amazon/Avatar%3A+The+Last+Airbender)
 
 ![Avatar: The Last Airbender](https://image.tmdb.org/t/p/original/9RQhVb3r3mCMqYVhLoCu4EvuipP.jpg)
 
@@ -5241,7 +5241,7 @@ In a war-torn world of elemental magic, a young boy named Aang awakens to fulfil
 <hr>
 
 
-## 20. [Mayans M.C.](https://serp.ly/@serpmedia/github/amazon/Mayans+M.C.)
+## 20. [Mayans M.C.](https://serp.ly/amazon/Mayans+M.C.)
 
 ![Mayans M.C.](https://image.tmdb.org/t/p/original/510A0upV9WRAynEgs1E2B3eBxi5.jpg)
 
@@ -5287,7 +5287,7 @@ When Jax Teller's death leaves a void in his wake, Ezekiel "EZ" Reyes returns fr
 <hr>
 
 
-## 21. [True Blood](https://serp.ly/@serpmedia/github/amazon/True+Blood)
+## 21. [True Blood](https://serp.ly/amazon/True+Blood)
 
 ![True Blood](https://image.tmdb.org/t/p/original/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg)
 
@@ -5331,7 +5331,7 @@ In a world where vampires have transitioned from folklore to reality, the small 
 <hr>
 
 
-## 22. [Ben 10](https://serp.ly/@serpmedia/github/amazon/Ben+10)
+## 22. [Ben 10](https://serp.ly/amazon/Ben+10)
 
 ![Ben 10](https://image.tmdb.org/t/p/original/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg)
 
@@ -5375,7 +5375,7 @@ When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power 
 <hr>
 
 
-## 23. [Batman Beyond](https://serp.ly/@serpmedia/github/amazon/Batman+Beyond)
+## 23. [Batman Beyond](https://serp.ly/amazon/Batman+Beyond)
 
 ![Batman Beyond](https://image.tmdb.org/t/p/original/3hsxYIV0uJDK2eHVZgrv0z0PLHd.jpg)
 
@@ -5417,7 +5417,7 @@ In a future Gotham City overrun by new villains, an aging Bruce Wayne hangs up t
 <hr>
 
 
-## 24. [The Outer Limits](https://serp.ly/@serpmedia/github/amazon/The+Outer+Limits)
+## 24. [The Outer Limits](https://serp.ly/amazon/The+Outer+Limits)
 
 ![The Outer Limits](https://image.tmdb.org/t/p/original/pi6uo8huONeyuxcliK7o6jAc4k4.jpg)
 
@@ -5459,7 +5459,7 @@ In a future Gotham City overrun by new villains, an aging Bruce Wayne hangs up t
 <hr>
 
 
-## 25. [Community](https://serp.ly/@serpmedia/github/amazon/Community)
+## 25. [Community](https://serp.ly/amazon/Community)
 
 ![Community](https://image.tmdb.org/t/p/original/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg)
 
@@ -5503,7 +5503,7 @@ Community College in Greendale, Colorado, serves as the backdrop for this six-se
 <hr>
 
 
-## 26. [Goliath](https://serp.ly/@serpmedia/github/amazon/Goliath)
+## 26. [Goliath](https://serp.ly/amazon/Goliath)
 
 ![Goliath](https://image.tmdb.org/t/p/original/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg)
 
@@ -5545,7 +5545,7 @@ When a washed-up lawyer reluctantly takes on a wrongful death case against his f
 <hr>
 
 
-## 27. [Superman: The Animated Series](https://serp.ly/@serpmedia/github/amazon/Superman%3A+The+Animated+Series)
+## 27. [Superman: The Animated Series](https://serp.ly/amazon/Superman%3A+The+Animated+Series)
 
 ![Superman: The Animated Series](https://image.tmdb.org/t/p/original/7lhG7XSz0VkbUtXoXtUVdjDrUx6.jpg)
 
@@ -5587,7 +5587,7 @@ When a powerful alien from Krypton crashes into Metropolis, he transforms from d
 <hr>
 
 
-## 28. [Perry Mason](https://serp.ly/@serpmedia/github/amazon/Perry+Mason)
+## 28. [Perry Mason](https://serp.ly/amazon/Perry+Mason)
 
 ![Perry Mason](https://image.tmdb.org/t/p/original/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg)
 
@@ -5631,7 +5631,7 @@ In 1932 Los Angeles, a low-rent private investigator named Perry Mason is haunte
 <hr>
 
 
-## 29. [Chuck](https://serp.ly/@serpmedia/github/amazon/Chuck)
+## 29. [Chuck](https://serp.ly/amazon/Chuck)
 
 ![Chuck](https://image.tmdb.org/t/p/original/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg)
 
@@ -5675,7 +5675,7 @@ When computer geek Chuck Bartowski accidentally downloads a top-secret governmen
 <hr>
 
 
-## 30. [The Night Agent](https://serp.ly/@serpmedia/github/amazon/The+Night+Agent)
+## 30. [The Night Agent](https://serp.ly/amazon/The+Night+Agent)
 
 ![The Night Agent](https://image.tmdb.org/t/p/original/xjsx6rGEgHl2tUqkimo6Bz2KzVo.jpg)
 
@@ -5723,7 +5723,7 @@ When an ordinary call turns into a high-stakeshunt for a White House mole, a ded
 <hr>
 
 
-## 31. [The Real Adventures of Jonny Quest](https://serp.ly/@serpmedia/github/amazon/The+Real+Adventures+of+Jonny+Quest)
+## 31. [The Real Adventures of Jonny Quest](https://serp.ly/amazon/The+Real+Adventures+of+Jonny+Quest)
 
 ![The Real Adventures of Jonny Quest](https://image.tmdb.org/t/p/original/vx8KdVNOpHVBR0x30shg5kcGnd7.jpg)
 
@@ -5765,7 +5765,7 @@ Join Jonny Quest on his most thrilling adventures yet in this animated series th
 <hr>
 
 
-## 32. [From Dusk Till Dawn: The Series](https://serp.ly/@serpmedia/github/amazon/From+Dusk+Till+Dawn%3A+The+Series)
+## 32. [From Dusk Till Dawn: The Series](https://serp.ly/amazon/From+Dusk+Till+Dawn%3A+The+Series)
 
 ![From Dusk Till Dawn: The Series](https://image.tmdb.org/t/p/original/gR46WnaehBDW1s32hkCQWvztcCR.jpg)
 
@@ -5807,7 +5807,7 @@ When bank-robbing brothers Rodriguez and Santoniocala hit the road, they bring a
 <hr>
 
 
-## 33. [The Batman](https://serp.ly/@serpmedia/github/amazon/The+Batman)
+## 33. [The Batman](https://serp.ly/amazon/The+Batman)
 
 ![The Batman](https://image.tmdb.org/t/p/original/3w7koeOR2x71XYMJDGpygxYtScI.jpg)
 
@@ -5849,7 +5849,7 @@ When a young billionaire transforms himself into the mysterious vigilante known 
 <hr>
 
 
-## 34. [1923](https://serp.ly/@serpmedia/github/amazon/1923)
+## 34. [1923](https://serp.ly/amazon/1923)
 
 ![1923](https://image.tmdb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg)
 
@@ -5895,7 +5895,7 @@ Travel back to the roaring 1920s with the Dutton family, where pandemics and his
 <hr>
 
 
-## 35. [Peacemaker](https://serp.ly/@serpmedia/github/amazon/Peacemaker)
+## 35. [Peacemaker](https://serp.ly/amazon/Peacemaker)
 
 ![Peacemaker](https://image.tmdb.org/t/p/original/hE3LRZAY84fG19a18pzpkZERjTE.jpg)
 
@@ -5941,7 +5941,7 @@ Give peace a f#cking chance.
 <hr>
 
 
-## 36. [Duck Dodgers](https://serp.ly/@serpmedia/github/amazon/Duck+Dodgers)
+## 36. [Duck Dodgers](https://serp.ly/amazon/Duck+Dodgers)
 
 ![Duck Dodgers](https://image.tmdb.org/t/p/original/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg)
 
@@ -5985,7 +5985,7 @@ Join Warner Bros. in rebooting a classic 1953 theatrical cartoon short into an a
 <hr>
 
 
-## 37. [The New Lassie](https://serp.ly/@serpmedia/github/amazon/The+New+Lassie)
+## 37. [The New Lassie](https://serp.ly/amazon/The+New+Lassie)
 
 ![The New Lassie](https://image.tmdb.org/t/p/original/6PY74Kk2oBorARuVwzjWfiklT8l.jpg)
 
@@ -6027,7 +6027,7 @@ When Will McCullough moves to a new town with his parents, he discovers an unexp
 <hr>
 
 
-## 38. [The Unit](https://serp.ly/@serpmedia/github/amazon/The+Unit)
+## 38. [The Unit](https://serp.ly/amazon/The+Unit)
 
 ![The Unit](https://image.tmdb.org/t/p/original/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg)
 
@@ -6071,7 +6071,7 @@ The Unit follows an elite team of special forces operatives as they embark on hi
 <hr>
 
 
-## 39. [Royal Crackers](https://serp.ly/@serpmedia/github/amazon/Royal+Crackers)
+## 39. [Royal Crackers](https://serp.ly/amazon/Royal+Crackers)
 
 ![Royal Crackers](https://image.tmdb.org/t/p/original/cWcOkakVjLxqALDCYOt0fjjrNzw.jpg)
 
@@ -6117,7 +6117,7 @@ When Theodore Hornsby Sr. , the quirky founder of Royal Crackers, falls into a m
 <hr>
 
 
-## 40. [Lore](https://serp.ly/@serpmedia/github/amazon/Lore)
+## 40. [Lore](https://serp.ly/amazon/Lore)
 
 ![Lore](https://image.tmdb.org/t/p/original/xNixoyzlSfJVy3Lp7AB1Vwrg2Va.jpg)
 
@@ -6161,7 +6161,7 @@ When Theodore Hornsby Sr. , the quirky founder of Royal Crackers, falls into a m
 <hr>
 
 
-## 41. [Last Resort](https://serp.ly/@serpmedia/github/amazon/Last+Resort)
+## 41. [Last Resort](https://serp.ly/amazon/Last+Resort)
 
 ![Last Resort](https://image.tmdb.org/t/p/original/sU4bMBN12QZxSNp6A1U3UHUGxlY.jpg)
 
@@ -6205,7 +6205,7 @@ When the crew of the U. S. ballistic missile submarine Colorado refuses to fire 
 <hr>
 
 
-## 42. [Halloween Wars](https://serp.ly/@serpmedia/github/amazon/Halloween+Wars)
+## 42. [Halloween Wars](https://serp.ly/amazon/Halloween+Wars)
 
 ![Halloween Wars](https://image.tmdb.org/t/p/original/wU1IWy50MwdjA035IUZJdLiZIKk.jpg)
 
@@ -6249,7 +6249,7 @@ When the crew of the U. S. ballistic missile submarine Colorado refuses to fire 
 <hr>
 
 
-## 43. [The Hire](https://serp.ly/@serpmedia/github/amazon/The+Hire)
+## 43. [The Hire](https://serp.ly/amazon/The+Hire)
 
 ![The Hire](https://image.tmdb.org/t/p/original/6Fawf9QxdlwICf6I7Ic11NcaopJ.jpg)
 
@@ -6291,7 +6291,7 @@ Join Clive Owen as "The Driver" in this global BMW Films project that combines n
 <hr>
 
 
-## 44. [The Legend of Calamity Jane](https://serp.ly/@serpmedia/github/amazon/The+Legend+of+Calamity+Jane)
+## 44. [The Legend of Calamity Jane](https://serp.ly/amazon/The+Legend+of+Calamity+Jane)
 
 ![The Legend of Calamity Jane](https://image.tmdb.org/t/p/original/dZVpRkDJkakz3j2yOWw3s7dc4CE.jpg)
 
@@ -6333,7 +6333,7 @@ The Legend of Calamity Jane follows the adventurous heroine as she rides through
 <hr>
 
 
-## 45. [Elvis](https://serp.ly/@serpmedia/github/amazon/Elvis)
+## 45. [Elvis](https://serp.ly/amazon/Elvis)
 
 ![Elvis](https://image.tmdb.org/t/p/original/yyuQAEjP4TNMbI6F956AlkdXyse.jpg)
 
@@ -6375,7 +6375,7 @@ The Legend of Calamity Jane follows the adventurous heroine as she rides through
 <hr>
 
 
-## 46. [Disorderly Conduct: Video on Patrol](https://serp.ly/@serpmedia/github/amazon/Disorderly+Conduct%3A+Video+on+Patrol)
+## 46. [Disorderly Conduct: Video on Patrol](https://serp.ly/amazon/Disorderly+Conduct%3A+Video+on+Patrol)
 
 <br>
 

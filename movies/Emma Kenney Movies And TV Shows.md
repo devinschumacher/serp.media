@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Epic](https://serp.ly/@serpmedia/github/amazon/Epic)
+## 1. [Epic](https://serp.ly/amazon/Epic)
 
 ![Epic](https://image.tmdb.org/t/p/original/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg)
 
@@ -80,7 +80,7 @@ When a teenager discovers a hidden portal to a deep forest, she stumbles into a 
 <hr>
 
 
-## 2. [Robert the Bruce](https://serp.ly/@serpmedia/github/amazon/Robert+the+Bruce)
+## 2. [Robert the Bruce](https://serp.ly/amazon/Robert+the+Bruce)
 
 ![Robert the Bruce](https://image.tmdb.org/t/p/original/e6eNN4EpGtbXAbsR97QgjnjHs6s.jpg)
 
@@ -119,7 +119,7 @@ In 1306, Scottish King Robert the Bruce undergoes a dramatic transformation from
 <hr>
 
 
-## 3. [Murder at Yellowstone City](https://serp.ly/@serpmedia/github/amazon/Murder+at+Yellowstone+City)
+## 3. [Murder at Yellowstone City](https://serp.ly/amazon/Murder+at+Yellowstone+City)
 
 ![Murder at Yellowstone City](https://image.tmdb.org/t/p/original/58UKdNFfSSvx8TuecGAzqja3NTZ.jpg)
 
@@ -158,7 +158,7 @@ In a Montana boomtown turned ghost town, a former slave searches for his place i
 <hr>
 
 
-## 4. [My Love Affair with Marriage](https://serp.ly/@serpmedia/github/amazon/My+Love+Affair+with+Marriage)
+## 4. [My Love Affair with Marriage](https://serp.ly/amazon/My+Love+Affair+with+Marriage)
 
 ![My Love Affair with Marriage](https://image.tmdb.org/t/p/original/utJBQxzoJFlOS3ZAV16uuWFcU5b.jpg)
 
@@ -192,7 +192,7 @@ From an early age, Zelma believed that love would solve all her problems, as lon
 <hr>
 
 
-## 5. [Back to Lyla](https://serp.ly/@serpmedia/github/amazon/Back+to+Lyla)
+## 5. [Back to Lyla](https://serp.ly/amazon/Back+to+Lyla)
 
 ![Back to Lyla](https://image.tmdb.org/t/p/original/u8uAu41UaLo4iy9j4q4jLX4POw0.jpg)
 
@@ -226,7 +226,7 @@ When a reserved young man learns he might not have much time left, he teams up w
 <hr>
 
 
-## 6. [Bittersweet](https://serp.ly/@serpmedia/github/amazon/Bittersweet)
+## 6. [Bittersweet](https://serp.ly/amazon/Bittersweet)
 
 ![Bittersweet](https://image.tmdb.org/t/p/original/yMuN2SksDPCmRNkgxl85dcMaG81.jpg)
 
@@ -264,7 +264,7 @@ An evolution in love
 <hr>
 
 
-## 7. [Day Camp](https://serp.ly/@serpmedia/github/amazon/Day+Camp)
+## 7. [Day Camp](https://serp.ly/amazon/Day+Camp)
 
 <br>
 
@@ -296,7 +296,7 @@ An evolution in love
 <hr>
 
 
-## 8. [Growing Up Gorman](https://serp.ly/@serpmedia/github/amazon/Growing+Up+Gorman)
+## 8. [Growing Up Gorman](https://serp.ly/amazon/Growing+Up+Gorman)
 
 <br>
 
@@ -320,7 +320,7 @@ An evolution in love
 <hr>
 
 
-## 1. [Shameless](https://serp.ly/@serpmedia/github/amazon/Shameless)
+## 1. [Shameless](https://serp.ly/amazon/Shameless)
 
 ![Shameless](https://image.tmdb.org/t/p/original/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg)
 
@@ -364,7 +364,7 @@ When single dad Frank Gallagher runs a Chicago household with six kids, their pe
 <hr>
 
 
-## 2. [The Conners](https://serp.ly/@serpmedia/github/amazon/The+Conners)
+## 2. [The Conners](https://serp.ly/amazon/The+Conners)
 
 ![The Conners](https://image.tmdb.org/t/p/original/xUXN3E67qVyTiftGptfhcmfDasW.jpg)
 
@@ -410,7 +410,7 @@ The Conners are back! Six seasons of this beloved series prove that wholesome en
 <hr>
 
 
-## 3. [Shameless Hall of Shame](https://serp.ly/@serpmedia/github/amazon/Shameless+Hall+of+Shame)
+## 3. [Shameless Hall of Shame](https://serp.ly/amazon/Shameless+Hall+of+Shame)
 
 ![Shameless Hall of Shame](https://image.tmdb.org/t/p/original/ezSi7VR7247XbkwapsjCkF70ooB.jpg)
 
@@ -452,7 +452,7 @@ Join us for a hilarious look back at ten seasons of Gallagher family trials and 
 <hr>
 
 
-## 4. [Roseanne](https://serp.ly/@serpmedia/github/amazon/Roseanne)
+## 4. [Roseanne](https://serp.ly/amazon/Roseanne)
 
 ![Roseanne](https://image.tmdb.org/t/p/original/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg)
 

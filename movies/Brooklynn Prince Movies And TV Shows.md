@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Florida Project](https://serp.ly/@serpmedia/github/amazon/The+Florida+Project)
+## 1. [The Florida Project](https://serp.ly/amazon/The+Florida+Project)
 
 ![The Florida Project](https://image.tmdb.org/t/p/original/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg)
 
@@ -77,7 +77,7 @@ The Florida Project follows a precocious six-year-old and her ragtag group of fr
 <hr>
 
 
-## 2. [The Lego Movie 2: The Second Part](https://serp.ly/@serpmedia/github/amazon/The+Lego+Movie+2%3A+The+Second+Part)
+## 2. [The Lego Movie 2: The Second Part](https://serp.ly/amazon/The+Lego+Movie+2%3A+The+Second+Part)
 
 ![The Lego Movie 2: The Second Part](https://image.tmdb.org/t/p/original/QTESAsBVZwjtGJNDP7utiGV37z.jpg)
 
@@ -120,7 +120,7 @@ Join the Lego crew for another thrilling adventure five years after the first un
 <hr>
 
 
-## 3. [The Angry Birds Movie 2](https://serp.ly/@serpmedia/github/amazon/The+Angry+Birds+Movie+2)
+## 3. [The Angry Birds Movie 2](https://serp.ly/amazon/The+Angry+Birds+Movie+2)
 
 ![The Angry Birds Movie 2](https://image.tmdb.org/t/p/original/fKk4bfnouKEY5iPzYDMcVmtgDEy.jpg)
 
@@ -163,7 +163,7 @@ Red, Chuck, Bomb and their feathered friends are at odds when a green pig propos
 <hr>
 
 
-## 4. [Cocaine Bear](https://serp.ly/@serpmedia/github/amazon/Cocaine+Bear)
+## 4. [Cocaine Bear](https://serp.ly/amazon/Cocaine+Bear)
 
 ![Cocaine Bear](https://image.tmdb.org/t/p/original/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg)
 
@@ -203,7 +203,7 @@ When a 500-pound black bear stumbles upon a hidden cache of cocaine in a Georgia
 <hr>
 
 
-## 5. [The Turning](https://serp.ly/@serpmedia/github/amazon/The+Turning)
+## 5. [The Turning](https://serp.ly/amazon/The+Turning)
 
 ![The Turning](https://image.tmdb.org/t/p/original/j0W7tW3g8NoLrt5gWqQ5RsPMVDQ.jpg)
 
@@ -246,7 +246,7 @@ When a young woman leaves her teaching job to tutor two wealthy children, she st
 <hr>
 
 
-## 6. [The One and Only Ivan](https://serp.ly/@serpmedia/github/amazon/The+One+and+Only+Ivan)
+## 6. [The One and Only Ivan](https://serp.ly/amazon/The+One+and+Only+Ivan)
 
 ![The One and Only Ivan](https://image.tmdb.org/t/p/original/ktk2TlhVrukJv1jPJbiWY3nsHM6.jpg)
 
@@ -285,7 +285,7 @@ In a suburban shopping mall, a gorilla named Ivan begins to piece together his p
 <hr>
 
 
-## 7. [The Marsh King's Daughter](https://serp.ly/@serpmedia/github/amazon/The+Marsh+King%27s+Daughter)
+## 7. [The Marsh King's Daughter](https://serp.ly/amazon/The+Marsh+King%27s+Daughter)
 
 ![The Marsh King's Daughter](https://image.tmdb.org/t/p/original/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg)
 
@@ -324,7 +324,7 @@ When the notorious 'Marsh King' escapes from prison, his daughter Helena's metic
 <hr>
 
 
-## 8. [Settlers](https://serp.ly/@serpmedia/github/amazon/Settlers)
+## 8. [Settlers](https://serp.ly/amazon/Settlers)
 
 ![Settlers](https://image.tmdb.org/t/p/original/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg)
 
@@ -365,7 +365,7 @@ Remmy and her parents have built a new life on Mars, far from the strife of Eart
 <hr>
 
 
-## 9. [Great Performers: Horror Show](https://serp.ly/@serpmedia/github/amazon/Great+Performers%3A+Horror+Show)
+## 9. [Great Performers: Horror Show](https://serp.ly/amazon/Great+Performers%3A+Horror+Show)
 
 ![Great Performers: Horror Show](https://image.tmdb.org/t/p/original/rxfHDxt4FgIU2W2NXrZXqNqxT7j.jpg)
 
@@ -401,7 +401,7 @@ The year's best actors in a series of short frightening films.
 <hr>
 
 
-## 10. [Little Wing](https://serp.ly/@serpmedia/github/amazon/Little+Wing)
+## 10. [Little Wing](https://serp.ly/amazon/Little+Wing)
 
 ![Little Wing](https://image.tmdb.org/t/p/original/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg)
 
@@ -439,7 +439,7 @@ When 13-year-old Kaitlyn discovers her parents plan to divorce, it threatens to 
 <hr>
 
 
-## 11. [Monsters at Large](https://serp.ly/@serpmedia/github/amazon/Monsters+at+Large)
+## 11. [Monsters at Large](https://serp.ly/amazon/Monsters+at+Large)
 
 ![Monsters at Large](https://image.tmdb.org/t/p/original/51FDbBDlABFzhMABME1GCRraj8s.jpg)
 
@@ -473,7 +473,7 @@ Alex takes his kid brother's monster fears seriously, assembling a task force to
 <hr>
 
 
-## 12. [Robo-Dog: Airborne](https://serp.ly/@serpmedia/github/amazon/Robo-Dog%3A+Airborne)
+## 12. [Robo-Dog: Airborne](https://serp.ly/amazon/Robo-Dog%3A+Airborne)
 
 ![Robo-Dog: Airborne](https://image.tmdb.org/t/p/original/sBcvr3BgKOq4R6Ht1lEZH4QV4tS.jpg)
 
@@ -509,7 +509,7 @@ When Robo-Dog loses his memory in a mysterious accident, he wakes up in a new ho
 <hr>
 
 
-## 13. [Colours](https://serp.ly/@serpmedia/github/amazon/Colours)
+## 13. [Colours](https://serp.ly/amazon/Colours)
 
 ![Colours](https://image.tmdb.org/t/p/original/iEP0YZbUui1fRIuTe5fVGLtF6mB.jpg)
 
@@ -543,7 +543,7 @@ When Natalie's best friend falls mysteriously ill, she embarks on a heartfelt jo
 <hr>
 
 
-## 14. [Under the Rainbow: Making The Florida Project](https://serp.ly/@serpmedia/github/amazon/Under+the+Rainbow%3A+Making+The+Florida+Project)
+## 14. [Under the Rainbow: Making The Florida Project](https://serp.ly/amazon/Under+the+Rainbow%3A+Making+The+Florida+Project)
 
 ![Under the Rainbow: Making The Florida Project](https://image.tmdb.org/t/p/original/ca3GPaXNOWdFlz5qR15FzefgPYj.jpg)
 
@@ -577,7 +577,7 @@ When Natalie's best friend falls mysteriously ill, she embarks on a heartfelt jo
 <hr>
 
 
-## 1. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 1. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -621,7 +621,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 2. [Home Before Dark](https://serp.ly/@serpmedia/github/amazon/Home+Before+Dark)
+## 2. [Home Before Dark](https://serp.ly/amazon/Home+Before+Dark)
 
 ![Home Before Dark](https://image.tmdb.org/t/p/original/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg)
 

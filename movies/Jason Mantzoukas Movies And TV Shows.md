@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [John Wick: Chapter 3 - Parabellum](https://serp.ly/@serpmedia/github/amazon/John+Wick%3A+Chapter+3+-+Parabellum)
+## 1. [John Wick: Chapter 3 - Parabellum](https://serp.ly/amazon/John+Wick%3A+Chapter+3+-+Parabellum)
 
 ![John Wick: Chapter 3 - Parabellum](https://image.tmdb.org/t/p/original/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg)
 
@@ -80,7 +80,7 @@ In "John Wick: Chapter 3 - Parabellum", the legendary super-assassin returns to 
 <hr>
 
 
-## 2. [Ralph Breaks the Internet](https://serp.ly/@serpmedia/github/amazon/Ralph+Breaks+the+Internet)
+## 2. [Ralph Breaks the Internet](https://serp.ly/amazon/Ralph+Breaks+the+Internet)
 
 ![Ralph Breaks the Internet](https://image.tmdb.org/t/p/original/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg)
 
@@ -123,7 +123,7 @@ Join Ralph and Vanellope as they embark on an epic adventure through the World W
 <hr>
 
 
-## 3. [Neighbors](https://serp.ly/@serpmedia/github/amazon/Neighbors)
+## 3. [Neighbors](https://serp.ly/amazon/Neighbors)
 
 ![Neighbors](https://image.tmdb.org/t/p/original/dyO9BQ4M4flTOAzP79rmsz61yAT.jpg)
 
@@ -166,7 +166,7 @@ When a young couple moves into a house next to a fraternity, their peaceful life
 <hr>
 
 
-## 4. [The Dictator](https://serp.ly/@serpmedia/github/amazon/The+Dictator)
+## 4. [The Dictator](https://serp.ly/amazon/The+Dictator)
 
 ![The Dictator](https://image.tmdb.org/t/p/original/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg)
 
@@ -209,7 +209,7 @@ In a comedic twist on political filmmaking, "The Dictator" follows the eccentric
 <hr>
 
 
-## 5. [The Lego Batman Movie](https://serp.ly/@serpmedia/github/amazon/The+Lego+Batman+Movie)
+## 5. [The Lego Batman Movie](https://serp.ly/amazon/The+Lego+Batman+Movie)
 
 ![The Lego Batman Movie](https://image.tmdb.org/t/p/original/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg)
 
@@ -252,7 +252,7 @@ When the Dark Knight of Gotham City isn't dealing with the usual suspects planni
 <hr>
 
 
-## 6. [Dirty Grandpa](https://serp.ly/@serpmedia/github/amazon/Dirty+Grandpa)
+## 6. [Dirty Grandpa](https://serp.ly/amazon/Dirty+Grandpa)
 
 ![Dirty Grandpa](https://image.tmdb.org/t/p/original/k0Lz1TfSlbcQthQKYGwE7blDfwN.jpg)
 
@@ -293,7 +293,7 @@ Just before his wedding, an uptight guy agrees to drive his grandfather to Flori
 <hr>
 
 
-## 7. [The Disaster Artist](https://serp.ly/@serpmedia/github/amazon/The+Disaster+Artist)
+## 7. [The Disaster Artist](https://serp.ly/amazon/The+Disaster+Artist)
 
 ![The Disaster Artist](https://image.tmdb.org/t/p/original/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg)
 
@@ -333,7 +333,7 @@ The Disaster Artist tells the remarkable story of Tommy Wiseau, an enigmatic fig
 <hr>
 
 
-## 8. [Dolittle](https://serp.ly/@serpmedia/github/amazon/Dolittle)
+## 8. [Dolittle](https://serp.ly/amazon/Dolittle)
 
 ![Dolittle](https://image.tmdb.org/t/p/original/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg)
 
@@ -373,7 +373,7 @@ After losing his wife seven years earlier, the eccentric Dr. John Dolittle hides
 <hr>
 
 
-## 9. [How to Be Single](https://serp.ly/@serpmedia/github/amazon/How+to+Be+Single)
+## 9. [How to Be Single](https://serp.ly/amazon/How+to+Be+Single)
 
 ![How to Be Single](https://image.tmdb.org/t/p/original/a4Ce3qHqIyHM3QfGsiVTAu3YADJ.jpg)
 
@@ -416,7 +416,7 @@ Welcome to the party
 <hr>
 
 
-## 10. [Infinite](https://serp.ly/@serpmedia/github/amazon/Infinite)
+## 10. [Infinite](https://serp.ly/amazon/Infinite)
 
 ![Infinite](https://image.tmdb.org/t/p/original/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg)
 
@@ -454,7 +454,7 @@ Evan McCauley leads a double life - or perhaps multiple lives. Struggling with u
 <hr>
 
 
-## 11. [The Night Before](https://serp.ly/@serpmedia/github/amazon/The+Night+Before)
+## 11. [The Night Before](https://serp.ly/amazon/The+Night+Before)
 
 ![The Night Before](https://image.tmdb.org/t/p/original/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg)
 
@@ -497,7 +497,7 @@ The Night Before captures an intimate moment in time as three lifelong friends r
 <hr>
 
 
-## 12. [Sleeping with Other People](https://serp.ly/@serpmedia/github/amazon/Sleeping+with+Other+People)
+## 12. [Sleeping with Other People](https://serp.ly/amazon/Sleeping+with+Other+People)
 
 ![Sleeping with Other People](https://image.tmdb.org/t/p/original/thYomS3wTYDTRZaM98ADMfBiDxm.jpg)
 
@@ -535,7 +535,7 @@ When two serial cheaters run into each other twelve years after their college fl
 <hr>
 
 
-## 13. [The House](https://serp.ly/@serpmedia/github/amazon/The+House)
+## 13. [The House](https://serp.ly/amazon/The+House)
 
 ![The House](https://image.tmdb.org/t/p/original/hkmWkVgirei79bwds23Hr0lWSXS.jpg)
 
@@ -576,7 +576,7 @@ When a town takes away their daughter's college scholarship, an ambitious couple
 <hr>
 
 
-## 14. [Stretch](https://serp.ly/@serpmedia/github/amazon/Stretch)
+## 14. [Stretch](https://serp.ly/amazon/Stretch)
 
 ![Stretch](https://image.tmdb.org/t/p/original/9mjYzPlp2hu2xsUnntGei8sdF0T.jpg)
 
@@ -612,7 +612,7 @@ When a debt-ridden limo driver picks up a erratic passenger, their personal stru
 <hr>
 
 
-## 15. [Baby Mama](https://serp.ly/@serpmedia/github/amazon/Baby+Mama)
+## 15. [Baby Mama](https://serp.ly/amazon/Baby+Mama)
 
 ![Baby Mama](https://image.tmdb.org/t/p/original/xZOwucsL5NInPyFcmqJzytHkaJR.jpg)
 
@@ -652,7 +652,7 @@ Would you put your eggs in this basket?
 <hr>
 
 
-## 16. [Regular Show: The Movie](https://serp.ly/@serpmedia/github/amazon/Regular+Show%3A+The+Movie)
+## 16. [Regular Show: The Movie](https://serp.ly/amazon/Regular+Show%3A+The+Movie)
 
 ![Regular Show: The Movie](https://image.tmdb.org/t/p/original/p44RoW4naoE1nlSGOqqT0J2pc09.jpg)
 
@@ -690,7 +690,7 @@ When a high school lab experiment takes an unexpected turn, Mordecai and Rigby f
 <hr>
 
 
-## 17. [They Came Together](https://serp.ly/@serpmedia/github/amazon/They+Came+Together)
+## 17. [They Came Together](https://serp.ly/amazon/They+Came+Together)
 
 ![They Came Together](https://image.tmdb.org/t/p/original/ifvKTtvmPYOGed2hP9ogPq98In7.jpg)
 
@@ -729,7 +729,7 @@ When a major corporate development threatens to close down her small business, a
 <hr>
 
 
-## 18. [I Hate Valentine's Day](https://serp.ly/@serpmedia/github/amazon/I+Hate+Valentine%27s+Day)
+## 18. [I Hate Valentine's Day](https://serp.ly/amazon/I+Hate+Valentine%27s+Day)
 
 ![I Hate Valentine's Day](https://image.tmdb.org/t/p/original/j0iHgzfThoAlrgoiuix7BS1ezao.jpg)
 
@@ -770,7 +770,7 @@ In this Manhattan-based love story, a florist who strictly limits herself to fiv
 <hr>
 
 
-## 19. [America: The Motion Picture](https://serp.ly/@serpmedia/github/amazon/America%3A+The+Motion+Picture)
+## 19. [America: The Motion Picture](https://serp.ly/amazon/America%3A+The+Motion+Picture)
 
 ![America: The Motion Picture](https://image.tmdb.org/t/p/original/1JRRvx5RotvWM1maeq9r82ktdHi.jpg)
 
@@ -806,7 +806,7 @@ This summer they're redrawing history.
 <hr>
 
 
-## 20. [Adult Beginners](https://serp.ly/@serpmedia/github/amazon/Adult+Beginners)
+## 20. [Adult Beginners](https://serp.ly/amazon/Adult+Beginners)
 
 ![Adult Beginners](https://image.tmdb.org/t/p/original/H9zeZ4Vr1lPUfOCz07FPn1ENRX.jpg)
 
@@ -849,7 +849,7 @@ When a young entrepreneur's big Manhattan launch falls apart, he crashes in with
 <hr>
 
 
-## 21. [Search Party](https://serp.ly/@serpmedia/github/amazon/Search+Party)
+## 21. [Search Party](https://serp.ly/amazon/Search+Party)
 
 ![Search Party](https://image.tmdb.org/t/p/original/qnhMdtcbZnzcA9cMuZttwosaXji.jpg)
 
@@ -887,7 +887,7 @@ When their buddy gets stranded in Mexico, two oafs turn a vacation into a rescue
 <hr>
 
 
-## 22. [Please Give](https://serp.ly/@serpmedia/github/amazon/Please+Give)
+## 22. [Please Give](https://serp.ly/amazon/Please+Give)
 
 ![Please Give](https://image.tmdb.org/t/p/original/kft7oy2SoImjDUXgeFbUxhICdc2.jpg)
 
@@ -923,7 +923,7 @@ When a husband and wife in New York City face off with the granddaughters of the
 <hr>
 
 
-## 23. [Donald Trump's The Art of the Deal: The Movie](https://serp.ly/@serpmedia/github/amazon/Donald+Trump%27s+The+Art+of+the+Deal%3A+The+Movie)
+## 23. [Donald Trump's The Art of the Deal: The Movie](https://serp.ly/amazon/Donald+Trump%27s+The+Art+of+the+Deal%3A+The+Movie)
 
 ![Donald Trump's The Art of the Deal: The Movie](https://image.tmdb.org/t/p/original/vy28pjIwIGwjDLSa47CI6wdvEYQ.jpg)
 
@@ -959,7 +959,7 @@ Donald Trump's "The Art of the Deal" film adaptation brings you inside the board
 <hr>
 
 
-## 24. [The Long Dumb Road](https://serp.ly/@serpmedia/github/amazon/The+Long+Dumb+Road)
+## 24. [The Long Dumb Road](https://serp.ly/amazon/The+Long+Dumb+Road)
 
 ![The Long Dumb Road](https://image.tmdb.org/t/p/original/nGfKFEnKqSVaM0I2xxUnDeLx7t4.jpg)
 
@@ -998,7 +998,7 @@ The Long Dumb Road begins when two guys meet at a crossroads - literally and fig
 <hr>
 
 
-## 25. [A Parks and Recreation Special](https://serp.ly/@serpmedia/github/amazon/A+Parks+and+Recreation+Special)
+## 25. [A Parks and Recreation Special](https://serp.ly/amazon/A+Parks+and+Recreation+Special)
 
 ![A Parks and Recreation Special](https://image.tmdb.org/t/p/original/17MBP8R6FWBUftLeipCY5RH8tjh.jpg)
 
@@ -1032,7 +1032,7 @@ When social distancing becomes the new normal, Pawnee's beloved civil servant, L
 <hr>
 
 
-## 26. [American Loser](https://serp.ly/@serpmedia/github/amazon/American+Loser)
+## 26. [American Loser](https://serp.ly/amazon/American+Loser)
 
 ![American Loser](https://image.tmdb.org/t/p/original/yvPmsEYxDLmosWcalo9zW2i3RqD.jpg)
 
@@ -1068,7 +1068,7 @@ Trainwreck: My Life as an Idiot follows a young Manhattanite with a host of neur
 <hr>
 
 
-## 27. [Splinterheads](https://serp.ly/@serpmedia/github/amazon/Splinterheads)
+## 27. [Splinterheads](https://serp.ly/amazon/Splinterheads)
 
 ![Splinterheads](https://image.tmdb.org/t/p/original/2XV9EGC85ug0RUBVA6F4rt2FHEF.jpg)
 
@@ -1107,7 +1107,7 @@ Justin Frost is a twenty-something slacker whose life takes an unexpected turn w
 <hr>
 
 
-## 28. [Conception](https://serp.ly/@serpmedia/github/amazon/Conception)
+## 28. [Conception](https://serp.ly/amazon/Conception)
 
 ![Conception](https://image.tmdb.org/t/p/original/jUBEmGU3f3ItMInVkCfdWE4NMJJ.jpg)
 
@@ -1143,7 +1143,7 @@ When does sex become conception? This clever romantic comedy follows nine differ
 <hr>
 
 
-## 29. [Thank You, Del: The Story of the Del Close Marathon](https://serp.ly/@serpmedia/github/amazon/Thank+You%2C+Del%3A+The+Story+of+the+Del+Close+Marathon)
+## 29. [Thank You, Del: The Story of the Del Close Marathon](https://serp.ly/amazon/Thank+You%2C+Del%3A+The+Story+of+the+Del+Close+Marathon)
 
 ![Thank You, Del: The Story of the Del Close Marathon](https://image.tmdb.org/t/p/original/rnGpvbQ8Xr1v5kvIa52yFQYf9EZ.jpg)
 
@@ -1179,7 +1179,7 @@ Del Close was never a household name, but his influence in comedy is immeasurabl
 <hr>
 
 
-## 30. [I'm "George Lucas": A Connor Ratliff Story](https://serp.ly/@serpmedia/github/amazon/I%27m+%22George+Lucas%22%3A+A+Connor+Ratliff+Story)
+## 30. [I'm "George Lucas": A Connor Ratliff Story](https://serp.ly/amazon/I%27m+%22George+Lucas%22%3A+A+Connor+Ratliff+Story)
 
 ![I'm "George Lucas": A Connor Ratliff Story](https://image.tmdb.org/t/p/original/eBBKkhC72XcWInIZUntWgFEirFf.jpg)
 
@@ -1214,7 +1214,7 @@ When comedian Connor Ratliff takes his deadpan wit and timing from the small scr
 <hr>
 
 
-## 31. [Terrorists](https://serp.ly/@serpmedia/github/amazon/Terrorists)
+## 31. [Terrorists](https://serp.ly/amazon/Terrorists)
 
 ![Terrorists](https://image.tmdb.org/t/p/original/dY9VGwGz6bsXDZI6Isvp4lJsbOa.jpg)
 
@@ -1250,7 +1250,7 @@ In a small town where the police chief's ambitions meet a visiting graduate stud
 <hr>
 
 
-## 32. [Giant Sloth](https://serp.ly/@serpmedia/github/amazon/Giant+Sloth)
+## 32. [Giant Sloth](https://serp.ly/amazon/Giant+Sloth)
 
 ![Giant Sloth](https://image.tmdb.org/t/p/original/tYPqA2EzN857XFOslGx9q0nj5XK.jpg)
 
@@ -1281,7 +1281,7 @@ Museum curator Gordon Boonewell's life changes when a giant sloth enters his wor
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1327,7 +1327,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [Bob's Burgers](https://serp.ly/@serpmedia/github/amazon/Bob%27s+Burgers)
+## 2. [Bob's Burgers](https://serp.ly/amazon/Bob%27s+Burgers)
 
 ![Bob's Burgers](https://image.tmdb.org/t/p/original/couFnWryh9JRmmfDyPU6hUyTKIa.jpg)
 
@@ -1371,7 +1371,7 @@ When third-generation restaurateur Bob runs Bob's Burgers with his wife and thre
 <hr>
 
 
-## 3. [Modern Family](https://serp.ly/@serpmedia/github/amazon/Modern+Family)
+## 3. [Modern Family](https://serp.ly/amazon/Modern+Family)
 
 ![Modern Family](https://image.tmdb.org/t/p/original/klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg)
 
@@ -1415,7 +1415,7 @@ When modern families blend, their differences turn everyday situations into memo
 <hr>
 
 
-## 4. [We Bare Bears](https://serp.ly/@serpmedia/github/amazon/We+Bare+Bears)
+## 4. [We Bare Bears](https://serp.ly/amazon/We+Bare+Bears)
 
 ![We Bare Bears](https://image.tmdb.org/t/p/original/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg)
 
@@ -1457,7 +1457,7 @@ When three brother bears venture out of their cave to explore the San Francisco 
 <hr>
 
 
-## 5. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 5. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -1503,7 +1503,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 6. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 6. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -1549,7 +1549,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 7. [Brooklyn Nine-Nine](https://serp.ly/@serpmedia/github/amazon/Brooklyn+Nine-Nine)
+## 7. [Brooklyn Nine-Nine](https://serp.ly/amazon/Brooklyn+Nine-Nine)
 
 ![Brooklyn Nine-Nine](https://image.tmdb.org/t/p/original/hgRMSOt7a1b8qyQR68vUixJPang.jpg)
 
@@ -1593,7 +1593,7 @@ Join an eclectic group of detectives in a New York precinct where the law meets 
 <hr>
 
 
-## 8. [Legion](https://serp.ly/@serpmedia/github/amazon/Legion)
+## 8. [Legion](https://serp.ly/amazon/Legion)
 
 ![Legion](https://image.tmdb.org/t/p/original/l8paJlma8P3t73B4SPtFjr8nsWF.jpg)
 
@@ -1637,7 +1637,7 @@ When a young man diagnosed with schizophrenia begins to question his reality, an
 <hr>
 
 
-## 9. [Regular Show](https://serp.ly/@serpmedia/github/amazon/Regular+Show)
+## 9. [Regular Show](https://serp.ly/amazon/Regular+Show)
 
 ![Regular Show](https://image.tmdb.org/t/p/original/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg)
 
@@ -1681,7 +1681,7 @@ When two peculiar groundskeepers, a six-foot-tall blue jay named Mordecai and hi
 <hr>
 
 
-## 10. [INVINCIBLE](https://serp.ly/@serpmedia/github/amazon/INVINCIBLE)
+## 10. [INVINCIBLE](https://serp.ly/amazon/INVINCIBLE)
 
 ![INVINCIBLE](https://image.tmdb.org/t/p/original/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg)
 
@@ -1729,7 +1729,7 @@ When a normal teenager discovers he's the son of the world's most powerful super
 <hr>
 
 
-## 11. [Comedy Bang! Bang!](https://serp.ly/@serpmedia/github/amazon/Comedy+Bang%21+Bang%21)
+## 11. [Comedy Bang! Bang!](https://serp.ly/amazon/Comedy+Bang%21+Bang%21)
 
 ![Comedy Bang! Bang!](https://image.tmdb.org/t/p/original/5undCFoglpvKYFmu404ve9mh6on.jpg)
 
@@ -1771,7 +1771,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 12. [Obliterated](https://serp.ly/@serpmedia/github/amazon/Obliterated)
+## 12. [Obliterated](https://serp.ly/amazon/Obliterated)
 
 ![Obliterated](https://image.tmdb.org/t/p/original/5g3UrcV6oguAcI3myMKb6wi28y5.jpg)
 
@@ -1815,7 +1815,7 @@ When a special forces team thwarts a deadly plot in Sin City, their victory lead
 <hr>
 
 
-## 13. [Parks and Recreation](https://serp.ly/@serpmedia/github/amazon/Parks+and+Recreation)
+## 13. [Parks and Recreation](https://serp.ly/amazon/Parks+and+Recreation)
 
 ![Parks and Recreation](https://image.tmdb.org/t/p/original/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg)
 
@@ -1859,7 +1859,7 @@ Because parks don't grow on trees.
 <hr>
 
 
-## 14. [Rise of the Teenage Mutant Ninja Turtles](https://serp.ly/@serpmedia/github/amazon/Rise+of+the+Teenage+Mutant+Ninja+Turtles)
+## 14. [Rise of the Teenage Mutant Ninja Turtles](https://serp.ly/amazon/Rise+of+the+Teenage+Mutant+Ninja+Turtles)
 
 ![Rise of the Teenage Mutant Ninja Turtles](https://image.tmdb.org/t/p/original/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg)
 
@@ -1901,7 +1901,7 @@ Join Raph, Leo, Donnie, and Mikey as the Teenage Mutant Ninja Turtles get an all
 <hr>
 
 
-## 15. [Robot Chicken](https://serp.ly/@serpmedia/github/amazon/Robot+Chicken)
+## 15. [Robot Chicken](https://serp.ly/amazon/Robot+Chicken)
 
 ![Robot Chicken](https://image.tmdb.org/t/p/original/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg)
 
@@ -1945,7 +1945,7 @@ When an ordinary chicken meets an untimely end, mad scientist Fritz Huhnmorder b
 <hr>
 
 
-## 16. [Percy Jackson and the Olympians](https://serp.ly/@serpmedia/github/amazon/Percy+Jackson+and+the+Olympians)
+## 16. [Percy Jackson and the Olympians](https://serp.ly/amazon/Percy+Jackson+and+the+Olympians)
 
 ![Percy Jackson and the Olympians](https://image.tmdb.org/t/p/original/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg)
 
@@ -1991,7 +1991,7 @@ Join Percy Jackson on a thrilling quest across America to return Zeus' master bo
 <hr>
 
 
-## 17. [Community](https://serp.ly/@serpmedia/github/amazon/Community)
+## 17. [Community](https://serp.ly/amazon/Community)
 
 ![Community](https://image.tmdb.org/t/p/original/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg)
 
@@ -2035,7 +2035,7 @@ Community College in Greendale, Colorado, serves as the backdrop for this six-se
 <hr>
 
 
-## 18. [Star Trek: Prodigy](https://serp.ly/@serpmedia/github/amazon/Star+Trek%3A+Prodigy)
+## 18. [Star Trek: Prodigy](https://serp.ly/amazon/Star+Trek%3A+Prodigy)
 
 ![Star Trek: Prodigy](https://image.tmdb.org/t/p/original/hUzSjQYNZ1T0yiKDTzvxsTJR4of.jpg)
 
@@ -2081,7 +2081,7 @@ When six young outcasts commandeer an old Starfleet ship, they embark on a thril
 <hr>
 
 
-## 19. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 19. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2125,7 +2125,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 20. [DuckTales](https://serp.ly/@serpmedia/github/amazon/DuckTales)
+## 20. [DuckTales](https://serp.ly/amazon/DuckTales)
 
 ![DuckTales](https://image.tmdb.org/t/p/original/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg)
 
@@ -2169,7 +2169,7 @@ Join Scrooge McDuck and his nephews Huey, Dewey, and Louie on their adventures t
 <hr>
 
 
-## 21. [The League](https://serp.ly/@serpmedia/github/amazon/The+League)
+## 21. [The League](https://serp.ly/amazon/The+League)
 
 ![The League](https://image.tmdb.org/t/p/original/2l9lrTVG0BxU7zqsf5UQ1g4AbBH.jpg)
 
@@ -2211,7 +2211,7 @@ The League combines scripted humor with semi-improvised comedy to create an ente
 <hr>
 
 
-## 22. [Transparent](https://serp.ly/@serpmedia/github/amazon/Transparent)
+## 22. [Transparent](https://serp.ly/amazon/Transparent)
 
 ![Transparent](https://image.tmdb.org/t/p/original/mrLzehvZpm5osA4MlMR41gYayWZ.jpg)
 
@@ -2255,7 +2255,7 @@ When a dramatic admission causes a Los Angeles family's secrets to spill out, th
 <hr>
 
 
-## 23. [History of the World: Part II](https://serp.ly/@serpmedia/github/amazon/History+of+the+World%3A+Part+II)
+## 23. [History of the World: Part II](https://serp.ly/amazon/History+of+the+World%3A+Part+II)
 
 ![History of the World: Part II](https://image.tmdb.org/t/p/original/6PlHUsScubMx3VADGRh1kIylML2.jpg)
 
@@ -2299,7 +2299,7 @@ Hysterically accurate.
 <hr>
 
 
-## 24. [Off Camera with Sam Jones](https://serp.ly/@serpmedia/github/amazon/Off+Camera+with+Sam+Jones)
+## 24. [Off Camera with Sam Jones](https://serp.ly/amazon/Off+Camera+with+Sam+Jones)
 
 ![Off Camera with Sam Jones](https://image.tmdb.org/t/p/original/wFzCudeLabyjvwh0n5C9rEtCqVy.jpg)
 
@@ -2345,7 +2345,7 @@ The best conversations happen off camera.
 <hr>
 
 
-## 25. [The Good Place](https://serp.ly/@serpmedia/github/amazon/The+Good+Place)
+## 25. [The Good Place](https://serp.ly/amazon/The+Good+Place)
 
 ![The Good Place](https://image.tmdb.org/t/p/original/qIhsuhoIYR5yTnDta0IL4senbeN.jpg)
 
@@ -2389,7 +2389,7 @@ Eleanor Shellstrop's mundane existence transforms into something extraordinary w
 <hr>
 
 
-## 26. [We Baby Bears](https://serp.ly/@serpmedia/github/amazon/We+Baby+Bears)
+## 26. [We Baby Bears](https://serp.ly/amazon/We+Baby+Bears)
 
 ![We Baby Bears](https://image.tmdb.org/t/p/original/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg)
 
@@ -2433,7 +2433,7 @@ Travel with Grizz, Panda, and Ice Bear as they journey through enchanted realms 
 <hr>
 
 
-## 27. [Animals.](https://serp.ly/@serpmedia/github/amazon/Animals.)
+## 27. [Animals.](https://serp.ly/amazon/Animals.)
 
 ![Animals.](https://image.tmdb.org/t/p/original/8KoVldL8ZdX7YwocFfsI8RtvuZP.jpg)
 
@@ -2475,7 +2475,7 @@ Animals is a delightful animated comedy that brings New York City's wild residen
 <hr>
 
 
-## 28. [Childrens Hospital](https://serp.ly/@serpmedia/github/amazon/Childrens+Hospital)
+## 28. [Childrens Hospital](https://serp.ly/amazon/Childrens+Hospital)
 
 ![Childrens Hospital](https://image.tmdb.org/t/p/original/bbnXmarKkuxde9kkeyjAPzZY6Od.jpg)
 
@@ -2517,7 +2517,7 @@ When smart people dedicate their lives to caring for others, their personal stru
 <hr>
 
 
-## 29. [Big Mouth](https://serp.ly/@serpmedia/github/amazon/Big+Mouth)
+## 29. [Big Mouth](https://serp.ly/amazon/Big+Mouth)
 
 ![Big Mouth](https://image.tmdb.org/t/p/original/v0WrnCkqwXAVhVOu0bGo5ljaZJV.jpg)
 
@@ -2563,7 +2563,7 @@ When two best friends navigate the tumultuous waters of puberty, their lives tur
 <hr>
 
 
-## 30. [Drunk History](https://serp.ly/@serpmedia/github/amazon/Drunk+History)
+## 30. [Drunk History](https://serp.ly/amazon/Drunk+History)
 
 ![Drunk History](https://image.tmdb.org/t/p/original/6zTclFjUEm6aTodjYciYtwzh5tY.jpg)
 
@@ -2607,7 +2607,7 @@ When two best friends navigate the tumultuous waters of puberty, their lives tur
 <hr>
 
 
-## 31. [The Life & Times of Tim](https://serp.ly/@serpmedia/github/amazon/The+Life+%26+Times+of+Tim)
+## 31. [The Life & Times of Tim](https://serp.ly/amazon/The+Life+%26+Times+of+Tim)
 
 ![The Life & Times of Tim](https://image.tmdb.org/t/p/original/j6Ryambcu7JvHCeos1YH1ykme8L.jpg)
 
@@ -2649,7 +2649,7 @@ Join Tim, a 20-something New Yorker, as he navigates the awkwardness of modern l
 <hr>
 
 
-## 32. [Broad City](https://serp.ly/@serpmedia/github/amazon/Broad+City)
+## 32. [Broad City](https://serp.ly/amazon/Broad+City)
 
 ![Broad City](https://image.tmdb.org/t/p/original/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg)
 
@@ -2691,7 +2691,7 @@ Broad City is a scripted series that follows two women through their daily lives
 <hr>
 
 
-## 33. [Workaholics](https://serp.ly/@serpmedia/github/amazon/Workaholics)
+## 33. [Workaholics](https://serp.ly/amazon/Workaholics)
 
 ![Workaholics](https://image.tmdb.org/t/p/original/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg)
 
@@ -2733,7 +2733,7 @@ When three recent college dropouts become roommates and teammates at a telemarke
 <hr>
 
 
-## 34. [The Wonderful World of Mickey Mouse](https://serp.ly/@serpmedia/github/amazon/The+Wonderful+World+of+Mickey+Mouse)
+## 34. [The Wonderful World of Mickey Mouse](https://serp.ly/amazon/The+Wonderful+World+of+Mickey+Mouse)
 
 ![The Wonderful World of Mickey Mouse](https://image.tmdb.org/t/p/original/8F1V4ve64YPmyRZZ5u0jh7KCIID.jpg)
 
@@ -2775,7 +2775,7 @@ Mickey Mouse teams up with Minnie, Donald, Daisy, Goofy, and Pluto for adventuro
 <hr>
 
 
-## 35. [The Shivering Truth](https://serp.ly/@serpmedia/github/amazon/The+Shivering+Truth)
+## 35. [The Shivering Truth](https://serp.ly/amazon/The+Shivering+Truth)
 
 ![The Shivering Truth](https://image.tmdb.org/t/p/original/41r0yzrZOrnL1U8v5I19F0hXWlF.jpg)
 
@@ -2817,7 +2817,7 @@ Mickey Mouse teams up with Minnie, Donald, Daisy, Goofy, and Pluto for adventuro
 <hr>
 
 
-## 36. [Close Enough](https://serp.ly/@serpmedia/github/amazon/Close+Enough)
+## 36. [Close Enough](https://serp.ly/amazon/Close+Enough)
 
 ![Close Enough](https://image.tmdb.org/t/p/original/8aNYMcMyhv1m0MKibgCVmJrAeLs.jpg)
 
@@ -2861,7 +2861,7 @@ When a married couple navigates the transition from their 20s to their 30s, they
 <hr>
 
 
-## 37. [No Activity](https://serp.ly/@serpmedia/github/amazon/No+Activity)
+## 37. [No Activity](https://serp.ly/amazon/No+Activity)
 
 ![No Activity](https://image.tmdb.org/t/p/original/qQTmlqa0jlaMxQ2FZXkKAcMP547.jpg)
 
@@ -2905,7 +2905,7 @@ When a major drug cartel operation goes down, it kicks off one wild ride through
 <hr>
 
 
-## 38. [Dickinson](https://serp.ly/@serpmedia/github/amazon/Dickinson)
+## 38. [Dickinson](https://serp.ly/amazon/Dickinson)
 
 ![Dickinson](https://image.tmdb.org/t/p/original/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg)
 
@@ -2949,7 +2949,7 @@ When Emily Dickinson decides to become the world's greatest poet, she transforms
 <hr>
 
 
-## 39. [Gilmore Girls: A Year in the Life](https://serp.ly/@serpmedia/github/amazon/Gilmore+Girls%3A+A+Year+in+the+Life)
+## 39. [Gilmore Girls: A Year in the Life](https://serp.ly/amazon/Gilmore+Girls%3A+A+Year+in+the+Life)
 
 ![Gilmore Girls: A Year in the Life](https://image.tmdb.org/t/p/original/8vqjelflnBJAsfRWRQVGDkGfCFb.jpg)
 
@@ -2991,7 +2991,7 @@ When Emily Dickinson decides to become the world's greatest poet, she transforms
 <hr>
 
 
-## 40. [Twisted Metal](https://serp.ly/@serpmedia/github/amazon/Twisted+Metal)
+## 40. [Twisted Metal](https://serp.ly/amazon/Twisted+Metal)
 
 ![Twisted Metal](https://image.tmdb.org/t/p/original/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg)
 
@@ -3037,7 +3037,7 @@ When a mysterious package offers an outsider his only chance at redemption in a 
 <hr>
 
 
-## 41. [Ultra City Smiths](https://serp.ly/@serpmedia/github/amazon/Ultra+City+Smiths)
+## 41. [Ultra City Smiths](https://serp.ly/amazon/Ultra+City+Smiths)
 
 ![Ultra City Smiths](https://image.tmdb.org/t/p/original/1TkSXf3SjHNhPyK7nXpcxAaM7Qa.jpg)
 
@@ -3081,7 +3081,7 @@ In a dark city where corruption runs deep, two detectives race against time to s
 <hr>
 
 
-## 42. [Bajillion Dollar Propertie$](https://serp.ly/@serpmedia/github/amazon/Bajillion+Dollar+Propertie%24)
+## 42. [Bajillion Dollar Propertie$](https://serp.ly/amazon/Bajillion+Dollar+Propertie%24)
 
 ![Bajillion Dollar Propertie$](https://image.tmdb.org/t/p/original/o8Ni49UcFdozzcbdd0s8Me6XQiV.jpg)
 
@@ -3123,7 +3123,7 @@ Join Platinum Realty, Los Angeles' premier real estate group, as a team of ambit
 <hr>
 
 
-## 43. [Velma](https://serp.ly/@serpmedia/github/amazon/Velma)
+## 43. [Velma](https://serp.ly/amazon/Velma)
 
 ![Velma](https://image.tmdb.org/t/p/original/38ICxu88LgU44i6B54dxz0t4lXK.jpg)
 
@@ -3169,7 +3169,7 @@ Twice the meddling.
 <hr>
 
 
-## 44. [HarmonQuest](https://serp.ly/@serpmedia/github/amazon/HarmonQuest)
+## 44. [HarmonQuest](https://serp.ly/amazon/HarmonQuest)
 
 ![HarmonQuest](https://image.tmdb.org/t/p/original/jeBr5TZoh3uZNqHqve12jKzkRUd.jpg)
 
@@ -3211,7 +3211,7 @@ When Dan Harmon, Jeff Davis, and Erin McGathy sit down at a kitchen table with a
 <hr>
 
 
-## 45. [Review](https://serp.ly/@serpmedia/github/amazon/Review)
+## 45. [Review](https://serp.ly/amazon/Review)
 
 ![Review](https://image.tmdb.org/t/p/original/zT7Ujia53WOHsIh5FMprro8ia2Y.jpg)
 
@@ -3255,7 +3255,7 @@ Forrest MacNeil is a critic who takes viewer suggestions to extreme heights, tur
 <hr>
 
 
-## 46. [Pam & Tommy](https://serp.ly/@serpmedia/github/amazon/Pam+%26+Tommy)
+## 46. [Pam & Tommy](https://serp.ly/amazon/Pam+%26+Tommy)
 
 ![Pam & Tommy](https://image.tmdb.org/t/p/original/u6Hfb3EsnvlPChr01jErXDTsdan.jpg)
 
@@ -3299,7 +3299,7 @@ The greatest love story ever sold.
 <hr>
 
 
-## 47. [Roar](https://serp.ly/@serpmedia/github/amazon/Roar)
+## 47. [Roar](https://serp.ly/amazon/Roar)
 
 ![Roar](https://image.tmdb.org/t/p/original/eht88y50jvgWCI3Q0Sfyu4o3ad1.jpg)
 
@@ -3343,7 +3343,7 @@ Eight stories. Full volume.
 <hr>
 
 
-## 48. [The Jeselnik Offensive](https://serp.ly/@serpmedia/github/amazon/The+Jeselnik+Offensive)
+## 48. [The Jeselnik Offensive](https://serp.ly/amazon/The+Jeselnik+Offensive)
 
 ![The Jeselnik Offensive](https://image.tmdb.org/t/p/original/clDYMUXIdtmUyPnltpnVbp0pVaG.jpg)
 
@@ -3385,7 +3385,7 @@ Hosted by stand-up comedian Anthony Jeselnik, this late-night series brings a da
 <hr>
 
 
-## 49. [Agent Elvis](https://serp.ly/@serpmedia/github/amazon/Agent+Elvis)
+## 49. [Agent Elvis](https://serp.ly/amazon/Agent+Elvis)
 
 ![Agent Elvis](https://image.tmdb.org/t/p/original/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg)
 
@@ -3427,7 +3427,7 @@ When the government approaches Elvis Presley with an offer he can't refuse, the 
 <hr>
 
 
-## 50. [Enlightened](https://serp.ly/@serpmedia/github/amazon/Enlightened)
+## 50. [Enlightened](https://serp.ly/amazon/Enlightened)
 
 ![Enlightened](https://image.tmdb.org/t/p/original/cTRcV3AT69iEVFq7HRa3maqylZB.jpg)
 
@@ -3473,7 +3473,7 @@ When Amy hits rock bottom and checks into rehab, she emerges with a whole new ou
 <hr>
 
 
-## 51. [Nailed It!](https://serp.ly/@serpmedia/github/amazon/Nailed+It%21)
+## 51. [Nailed It!](https://serp.ly/amazon/Nailed+It%21)
 
 ![Nailed It!](https://image.tmdb.org/t/p/original/3wLAkbQu2Ld1rjiEeFvHnqmO5zN.jpg)
 
@@ -3517,7 +3517,7 @@ When Amy hits rock bottom and checks into rehab, she emerges with a whole new ou
 <hr>
 
 
-## 52. [Thank You and Sorry](https://serp.ly/@serpmedia/github/amazon/Thank+You+and+Sorry)
+## 52. [Thank You and Sorry](https://serp.ly/amazon/Thank+You+and+Sorry)
 
 ![Thank You and Sorry](https://image.tmdb.org/t/p/original/7X7qD7QUAH431SZH0f9M12viQyM.jpg)
 
@@ -3559,7 +3559,7 @@ Jack Antonoff hits the road with his band Bleachers, balancing tour life with pe
 <hr>
 
 
-## 53. [HouseBroken](https://serp.ly/@serpmedia/github/amazon/HouseBroken)
+## 53. [HouseBroken](https://serp.ly/amazon/HouseBroken)
 
 ![HouseBroken](https://image.tmdb.org/t/p/original/elcQIEZcU76esXbO2SNmq5OBEgW.jpg)
 
@@ -3601,7 +3601,7 @@ When Honey the dog discovers she has a talent for therapy, she transforms ordina
 <hr>
 
 
-## 54. [I'm Sorry](https://serp.ly/@serpmedia/github/amazon/I%27m+Sorry)
+## 54. [I'm Sorry](https://serp.ly/amazon/I%27m+Sorry)
 
 ![I'm Sorry](https://image.tmdb.org/t/p/original/cHxvMuaDk5rbswQlt2BaKVzvsxf.jpg)
 
@@ -3643,7 +3643,7 @@ Andrea is a comedy writer navigating the challenges of modern motherhood and mar
 <hr>
 
 
-## 55. [Comrade Detective](https://serp.ly/@serpmedia/github/amazon/Comrade+Detective)
+## 55. [Comrade Detective](https://serp.ly/amazon/Comrade+Detective)
 
 ![Comrade Detective](https://image.tmdb.org/t/p/original/n19gxtUntrsAIfKCILKZRBm4O8G.jpg)
 
@@ -3685,7 +3685,7 @@ Travel back to the 1980s with Comrade Detective, Romania's original communist bu
 <hr>
 
 
-## 56. [The Greatest Event in Television History](https://serp.ly/@serpmedia/github/amazon/The+Greatest+Event+in+Television+History)
+## 56. [The Greatest Event in Television History](https://serp.ly/amazon/The+Greatest+Event+in+Television+History)
 
 ![The Greatest Event in Television History](https://image.tmdb.org/t/p/original/abiiLt0LCFItR6VPtn5MT3NwJKK.jpg)
 
@@ -3727,7 +3727,7 @@ Join Adam Scott on a hilarious quest to create the greatest TV event in history 
 <hr>
 
 
-## 57. [Paper Girls](https://serp.ly/@serpmedia/github/amazon/Paper+Girls)
+## 57. [Paper Girls](https://serp.ly/amazon/Paper+Girls)
 
 ![Paper Girls](https://image.tmdb.org/t/p/original/6eaySyOW29li0CgXHqy7pgb0IUT.jpg)
 
@@ -3769,7 +3769,7 @@ It's the day after Halloween in 1988 when four young friends accidentally stumbl
 <hr>
 
 
-## 58. [Drive Share](https://serp.ly/@serpmedia/github/amazon/Drive+Share)
+## 58. [Drive Share](https://serp.ly/amazon/Drive+Share)
 
 ![Drive Share](https://image.tmdb.org/t/p/original/oKUiUf4yVgY3bSm0SUWWWjHuleH.jpg)
 
@@ -3813,7 +3813,7 @@ When it comes to ride-sharing, you never know who you're going to pick up - and 
 <hr>
 
 
-## 59. [Lady Dynamite](https://serp.ly/@serpmedia/github/amazon/Lady+Dynamite)
+## 59. [Lady Dynamite](https://serp.ly/amazon/Lady+Dynamite)
 
 ![Lady Dynamite](https://image.tmdb.org/t/p/original/d05IXcye3cdJIclnW2ccmOb6ceV.jpg)
 

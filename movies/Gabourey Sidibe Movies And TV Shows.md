@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Seven Psychopaths](https://serp.ly/@serpmedia/github/amazon/Seven+Psychopaths)
+## 1. [Seven Psychopaths](https://serp.ly/amazon/Seven+Psychopaths)
 
 ![Seven Psychopaths](https://image.tmdb.org/t/p/original/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg)
 
@@ -80,7 +80,7 @@ When a struggling screenwriter's quirky friends decide to kidnap a gangster's be
 <hr>
 
 
-## 2. [Tower Heist](https://serp.ly/@serpmedia/github/amazon/Tower+Heist)
+## 2. [Tower Heist](https://serp.ly/amazon/Tower+Heist)
 
 ![Tower Heist](https://image.tmdb.org/t/p/original/1HcOyMODYZXnncMikfhYkw3x2ss.jpg)
 
@@ -123,7 +123,7 @@ When a Wall Street swindler steals $20 million from an unsuspecting luxury condo
 <hr>
 
 
-## 3. [Grimsby](https://serp.ly/@serpmedia/github/amazon/Grimsby)
+## 3. [Grimsby](https://serp.ly/amazon/Grimsby)
 
 ![Grimsby](https://image.tmdb.org/t/p/original/2jQGFmShpdflApc5oidJZ97m1d1.jpg)
 
@@ -166,7 +166,7 @@ When a top MI6 assassin is wrongly accused and goes on the run, he teams up with
 <hr>
 
 
-## 4. [Precious](https://serp.ly/@serpmedia/github/amazon/Precious)
+## 4. [Precious](https://serp.ly/amazon/Precious)
 
 ![Precious](https://image.tmdb.org/t/p/original/d4ltLIDbvZskSwbzXqi0Hfv5ma4.jpg)
 
@@ -209,7 +209,7 @@ In 1987 Harlem, 16-year-old Claireece "Precious" Jones leads a life no one would
 <hr>
 
 
-## 5. [Antebellum](https://serp.ly/@serpmedia/github/amazon/Antebellum)
+## 5. [Antebellum](https://serp.ly/amazon/Antebellum)
 
 ![Antebellum](https://image.tmdb.org/t/p/original/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg)
 
@@ -249,7 +249,7 @@ When successful author Veronica stumbles into a dark mystery, she discovers that
 <hr>
 
 
-## 6. [White Bird in a Blizzard](https://serp.ly/@serpmedia/github/amazon/White+Bird+in+a+Blizzard)
+## 6. [White Bird in a Blizzard](https://serp.ly/amazon/White+Bird+in+a+Blizzard)
 
 ![White Bird in a Blizzard](https://image.tmdb.org/t/p/original/aVGYxG8kFR5EOtQ8vwdSJgIyHLy.jpg)
 
@@ -287,7 +287,7 @@ In 1988, a devastating blizzard sweeps through a young girl's life when her moth
 <hr>
 
 
-## 7. [Top Five](https://serp.ly/@serpmedia/github/amazon/Top+Five)
+## 7. [Top Five](https://serp.ly/amazon/Top+Five)
 
 ![Top Five](https://image.tmdb.org/t/p/original/nM5zWv6zpWHsrKNMrPKg23UHZCA.jpg)
 
@@ -326,7 +326,7 @@ When a comedian agrees to broadcast his wedding on his reality-TV star fiancé's
 <hr>
 
 
-## 8. [Life Partners](https://serp.ly/@serpmedia/github/amazon/Life+Partners)
+## 8. [Life Partners](https://serp.ly/amazon/Life+Partners)
 
 ![Life Partners](https://image.tmdb.org/t/p/original/434samTfccB2N7zl0saWp9ev5pL.jpg)
 
@@ -367,7 +367,7 @@ Life Partners explores the evolving dynamics between a 29-year-old lawyer and he
 <hr>
 
 
-## 9. [Come As You Are](https://serp.ly/@serpmedia/github/amazon/Come+As+You+Are)
+## 9. [Come As You Are](https://serp.ly/amazon/Come+As+You+Are)
 
 ![Come As You Are](https://image.tmdb.org/t/p/original/hl87sLl3oJafp8aIHdaJKgtsCRD.jpg)
 
@@ -406,7 +406,7 @@ When three young men with disabilities set out on a road trip to a Montreal brot
 <hr>
 
 
-## 10. [Gravy](https://serp.ly/@serpmedia/github/amazon/Gravy)
+## 10. [Gravy](https://serp.ly/amazon/Gravy)
 
 ![Gravy](https://image.tmdb.org/t/p/original/ruskUcYFAy6ctl2ZlTsXqJ7kPCD.jpg)
 
@@ -444,7 +444,7 @@ On All Hallow's Eve, a quirky trio of food enthusiasts storms into a Mexican can
 <hr>
 
 
-## 11. [All In: The Fight for Democracy](https://serp.ly/@serpmedia/github/amazon/All+In%3A+The+Fight+for+Democracy)
+## 11. [All In: The Fight for Democracy](https://serp.ly/amazon/All+In%3A+The+Fight+for+Democracy)
 
 ![All In: The Fight for Democracy](https://image.tmdb.org/t/p/original/17nj0QAJy3xqVZawSj0sxpCUDVN.jpg)
 
@@ -483,7 +483,7 @@ In anticipation of the 2020 presidential election, this film examines the covert
 <hr>
 
 
-## 12. [Asking For It](https://serp.ly/@serpmedia/github/amazon/Asking+For+It)
+## 12. [Asking For It](https://serp.ly/amazon/Asking+For+It)
 
 ![Asking For It](https://image.tmdb.org/t/p/original/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg)
 
@@ -522,7 +522,7 @@ After a devastating assault, small-town waitress Joey finds herself at the cente
 <hr>
 
 
-## 13. [Yelling To The Sky](https://serp.ly/@serpmedia/github/amazon/Yelling+To+The+Sky)
+## 13. [Yelling To The Sky](https://serp.ly/amazon/Yelling+To+The+Sky)
 
 ![Yelling To The Sky](https://image.tmdb.org/t/p/original/qfAYPc5ZRnPkPBSZMvepbno8XNC.jpg)
 
@@ -559,7 +559,7 @@ When her family crumbles, 17-year-old Sweetness O'Hara is left to navigate a nei
 <hr>
 
 
-## 14. [Black Barbie](https://serp.ly/@serpmedia/github/amazon/Black+Barbie)
+## 14. [Black Barbie](https://serp.ly/amazon/Black+Barbie)
 
 ![Black Barbie](https://image.tmdb.org/t/p/original/y6vyzS6gIhC8vriCf0axTZyxErg.jpg)
 
@@ -595,7 +595,7 @@ More than just a doll.
 <hr>
 
 
-## 15. [All I Didn't Want for Christmas](https://serp.ly/@serpmedia/github/amazon/All+I+Didn%27t+Want+for+Christmas)
+## 15. [All I Didn't Want for Christmas](https://serp.ly/amazon/All+I+Didn%27t+Want+for+Christmas)
 
 ![All I Didn't Want for Christmas](https://image.tmdb.org/t/p/original/DDOeBtFRoZM31UuzQxLODROXMr.jpg)
 
@@ -629,7 +629,7 @@ Emily Harris is having a rough year, and Christmas isn't looking much better. In
 <hr>
 
 
-## 16. [School Girls; Or, The African Mean Girls Play](https://serp.ly/@serpmedia/github/amazon/School+Girls%3B+Or%2C+The+African+Mean+Girls+Play)
+## 16. [School Girls; Or, The African Mean Girls Play](https://serp.ly/amazon/School+Girls%3B+Or%2C+The+African+Mean+Girls+Play)
 
 ![School Girls; Or, The African Mean Girls Play](https://image.tmdb.org/t/p/original/k6rf2Kr2MDR5PgSis5ogN7Sss3.jpg)
 
@@ -663,7 +663,7 @@ At Ghana's most selective boarding school, Paulina reigns as the undisputed lead
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -709,7 +709,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [Tamron Hall](https://serp.ly/@serpmedia/github/amazon/Tamron+Hall)
+## 2. [Tamron Hall](https://serp.ly/amazon/Tamron+Hall)
 
 ![Tamron Hall](https://image.tmdb.org/t/p/original/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg)
 
@@ -753,7 +753,7 @@ Tamron Hall brings her extensive experience as a news host and journalist to thi
 <hr>
 
 
-## 3. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 3. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -797,7 +797,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 4. [Empire](https://serp.ly/@serpmedia/github/amazon/Empire)
+## 4. [Empire](https://serp.ly/amazon/Empire)
 
 ![Empire](https://image.tmdb.org/t/p/original/gTrzYR6gWMhQ8yINW9JCLeoJHvf.jpg)
 
@@ -841,7 +841,7 @@ When the head of a music empire falls ill, his three sons and ex-wife transform 
 <hr>
 
 
-## 5. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 5. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -887,7 +887,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 6. [American Horror Story](https://serp.ly/@serpmedia/github/amazon/American+Horror+Story)
+## 6. [American Horror Story](https://serp.ly/amazon/American+Horror+Story)
 
 ![American Horror Story](https://image.tmdb.org/t/p/original/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg)
 
@@ -933,7 +933,7 @@ What to suspect when you're expecting.
 <hr>
 
 
-## 7. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 7. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -975,7 +975,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 8. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 8. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -1021,7 +1021,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 9. [Stars in the House](https://serp.ly/@serpmedia/github/amazon/Stars+in+the+House)
+## 9. [Stars in the House](https://serp.ly/amazon/Stars+in+the+House)
 
 ![Stars in the House](https://image.tmdb.org/t/p/original/2Cp64eLIOErysYDX2K9gHNsDVD3.jpg)
 
@@ -1062,7 +1062,7 @@ When the Coronavirus pandemic forced theatres worldwide to close, SiriusXM host 
 <hr>
 
 
-## 10. [American Horror Stories](https://serp.ly/@serpmedia/github/amazon/American+Horror+Stories)
+## 10. [American Horror Stories](https://serp.ly/amazon/American+Horror+Stories)
 
 ![American Horror Stories](https://image.tmdb.org/t/p/original/8b9FGJ9WhpkeGFOHYgKjPT5AXS6.jpg)
 
@@ -1110,7 +1110,7 @@ Descend into disbelief.
 <hr>
 
 
-## 11. [BoJack Horseman](https://serp.ly/@serpmedia/github/amazon/BoJack+Horseman)
+## 11. [BoJack Horseman](https://serp.ly/amazon/BoJack+Horseman)
 
 ![BoJack Horseman](https://image.tmdb.org/t/p/original/pB9L0jAnEQLMKgexqCEocEW8TA.jpg)
 
@@ -1154,7 +1154,7 @@ BoJack Horseman was once the shining star of the 1990s TV show "Horsin' Around,"
 <hr>
 
 
-## 12. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 12. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1198,7 +1198,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 13. [The Jay Leno Show](https://serp.ly/@serpmedia/github/amazon/The+Jay+Leno+Show)
+## 13. [The Jay Leno Show](https://serp.ly/amazon/The+Jay+Leno+Show)
 
 ![The Jay Leno Show](https://image.tmdb.org/t/p/original/3ZjkPl1T3deY8cXagvfHGOje9Wb.jpg)
 
@@ -1240,7 +1240,7 @@ When Jay Leno returns to NBC after his initial retirement from The Tonight Show,
 <hr>
 
 
-## 14. [The Big C](https://serp.ly/@serpmedia/github/amazon/The+Big+C)
+## 14. [The Big C](https://serp.ly/amazon/The+Big+C)
 
 ![The Big C](https://image.tmdb.org/t/p/original/eOZ3dN6XqUIXPabxdUNOG9qfZTw.jpg)
 
@@ -1282,7 +1282,7 @@ When a suburban mom receives a cancer diagnosis, she discovers an unexpected rem
 <hr>
 
 
-## 15. [Difficult People](https://serp.ly/@serpmedia/github/amazon/Difficult+People)
+## 15. [Difficult People](https://serp.ly/amazon/Difficult+People)
 
 ![Difficult People](https://image.tmdb.org/t/p/original/6gTwHsQjp6bGh6PYP4oUrlG2yWh.jpg)
 
@@ -1324,7 +1324,7 @@ Julie Kessler and Billy Epstein are two thirty-something comics struggling to ma
 <hr>
 
 
-## 16. [The Prank Panel](https://serp.ly/@serpmedia/github/amazon/The+Prank+Panel)
+## 16. [The Prank Panel](https://serp.ly/amazon/The+Prank+Panel)
 
 ![The Prank Panel](https://image.tmdb.org/t/p/original/mnwH86A3lLa7NpI3gS0WQyK6vR3.jpg)
 
@@ -1370,7 +1370,7 @@ Karma's a pitch.
 <hr>
 
 
-## 17. [Santa Inc.](https://serp.ly/@serpmedia/github/amazon/Santa+Inc.)
+## 17. [Santa Inc.](https://serp.ly/amazon/Santa+Inc.)
 
 ![Santa Inc.](https://image.tmdb.org/t/p/original/kDrs3u2AXFYdbu42ZnKCcWmF9uQ.jpg)
 
@@ -1414,7 +1414,7 @@ Candy Smalls, the highest-ranking female elf in the North Pole, gets the chance 
 <hr>
 
 
-## 18. [1266](https://serp.ly/@serpmedia/github/amazon/1266)
+## 18. [1266](https://serp.ly/amazon/1266)
 
 <br>
 
@@ -1449,7 +1449,7 @@ After being fired from her job, Gabby Brixton discovers an unexpected career in 
 <hr>
 
 
-## 19. [StuGo](https://serp.ly/@serpmedia/github/amazon/StuGo)
+## 19. [StuGo](https://serp.ly/amazon/StuGo)
 
 <br>
 

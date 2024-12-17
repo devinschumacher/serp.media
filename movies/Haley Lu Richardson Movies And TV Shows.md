@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Split](https://serp.ly/@serpmedia/github/amazon/Split)
+## 1. [Split](https://serp.ly/amazon/Split)
 
 ![Split](https://image.tmdb.org/t/p/original/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg)
 
@@ -77,7 +77,7 @@ Kevin has 23 distinct personalities, but the 24th is about to emerge and change 
 <hr>
 
 
-## 2. [Five Feet Apart](https://serp.ly/@serpmedia/github/amazon/Five+Feet+Apart)
+## 2. [Five Feet Apart](https://serp.ly/amazon/Five+Feet+Apart)
 
 ![Five Feet Apart](https://image.tmdb.org/t/p/original/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg)
 
@@ -117,7 +117,7 @@ Seventeen-year-old Stella's hospital routine is upended when she meets Will, an 
 <hr>
 
 
-## 3. [The Edge of Seventeen](https://serp.ly/@serpmedia/github/amazon/The+Edge+of+Seventeen)
+## 3. [The Edge of Seventeen](https://serp.ly/amazon/The+Edge+of+Seventeen)
 
 ![The Edge of Seventeen](https://image.tmdb.org/t/p/original/gVg5pMfHPwYDjsxC4G6qmMPrHOX.jpg)
 
@@ -160,7 +160,7 @@ The Edge of Seventeen follows two high school best friends whose relationship ch
 <hr>
 
 
-## 4. [Operation Finale](https://serp.ly/@serpmedia/github/amazon/Operation+Finale)
+## 4. [Operation Finale](https://serp.ly/amazon/Operation+Finale)
 
 ![Operation Finale](https://image.tmdb.org/t/p/original/nlIdPeH5IrR1qRErschnVQeZAQu.jpg)
 
@@ -203,7 +203,7 @@ After World War II, Adolf Eichmann - the notorious architect of the Holocaust - 
 <hr>
 
 
-## 5. [Love at First Sight](https://serp.ly/@serpmedia/github/amazon/Love+at+First+Sight)
+## 5. [Love at First Sight](https://serp.ly/amazon/Love+at+First+Sight)
 
 ![Love at First Sight](https://image.tmdb.org/t/p/original/vCMGlarDrcmhclBmnYoH7JUCDuA.jpg)
 
@@ -239,7 +239,7 @@ Hadley and Oliver's chance encounter on a flight from New York to London marks t
 <hr>
 
 
-## 6. [Columbus](https://serp.ly/@serpmedia/github/amazon/Columbus)
+## 6. [Columbus](https://serp.ly/amazon/Columbus)
 
 ![Columbus](https://image.tmdb.org/t/p/original/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg)
 
@@ -282,7 +282,7 @@ When a renowned architecture scholar falls suddenly ill during a speaking tour, 
 <hr>
 
 
-## 7. [After Yang](https://serp.ly/@serpmedia/github/amazon/After+Yang)
+## 7. [After Yang](https://serp.ly/amazon/After+Yang)
 
 ![After Yang](https://image.tmdb.org/t/p/original/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg)
 
@@ -320,7 +320,7 @@ When Jake's young daughter loses her beloved android companion Yang to a malfunc
 <hr>
 
 
-## 8. [The Bronze](https://serp.ly/@serpmedia/github/amazon/The+Bronze)
+## 8. [The Bronze](https://serp.ly/amazon/The+Bronze)
 
 ![The Bronze](https://image.tmdb.org/t/p/original/Ah2nD3Kml59svErVsz6DUsxlJ8.jpg)
 
@@ -363,7 +363,7 @@ At just 14 years old, Hope Ann Greggory became an American gymnastics hero by se
 <hr>
 
 
-## 9. [Unpregnant](https://serp.ly/@serpmedia/github/amazon/Unpregnant)
+## 9. [Unpregnant](https://serp.ly/amazon/Unpregnant)
 
 ![Unpregnant](https://image.tmdb.org/t/p/original/1BqjLXnPkGzIFR5CRBTYfXdu2DV.jpg)
 
@@ -402,7 +402,7 @@ When a responsible 17-year-old Missouri teen discovers she's pregnant, her caref
 <hr>
 
 
-## 10. [The Last Survivors](https://serp.ly/@serpmedia/github/amazon/The+Last+Survivors)
+## 10. [The Last Survivors](https://serp.ly/amazon/The+Last+Survivors)
 
 ![The Last Survivors](https://image.tmdb.org/t/p/original/pUTps5z6OXWCvuWooQE2py417o4.jpg)
 
@@ -440,7 +440,7 @@ In a future where water is scarce and society has collapsed, a 17-year-old girl 
 <hr>
 
 
-## 11. [Support the Girls](https://serp.ly/@serpmedia/github/amazon/Support+the+Girls)
+## 11. [Support the Girls](https://serp.ly/amazon/Support+the+Girls)
 
 ![Support the Girls](https://image.tmdb.org/t/p/original/hXfwrs8g3pY4mmaO5WDAowWLqBg.jpg)
 
@@ -479,7 +479,7 @@ Lisa Conroy runs a highway sports bar with a unique twist, fostering a supportiv
 <hr>
 
 
-## 12. [The Young Kieslowski](https://serp.ly/@serpmedia/github/amazon/The+Young+Kieslowski)
+## 12. [The Young Kieslowski](https://serp.ly/amazon/The+Young+Kieslowski)
 
 ![The Young Kieslowski](https://image.tmdb.org/t/p/original/6g2VGKQRrUe8IFJ4sCc6DnSJhUn.jpg)
 
@@ -513,7 +513,7 @@ When freshman Brian Kieslowski takes a girl home for the first time, their buddi
 <hr>
 
 
-## 13. [Christmas Twister](https://serp.ly/@serpmedia/github/amazon/Christmas+Twister)
+## 13. [Christmas Twister](https://serp.ly/amazon/Christmas+Twister)
 
 ![Christmas Twister](https://image.tmdb.org/t/p/original/4KZ8qCBmvJccKpjDQpSehrR3Zrz.jpg)
 
@@ -547,7 +547,7 @@ In this heartwarming holiday tale, a meteorologist and his TV news reporter wife
 <hr>
 
 
-## 14. [Escape from Polygamy](https://serp.ly/@serpmedia/github/amazon/Escape+from+Polygamy)
+## 14. [Escape from Polygamy](https://serp.ly/amazon/Escape+from+Polygamy)
 
 ![Escape from Polygamy](https://image.tmdb.org/t/p/original/hjI7FsPIUnwOmqnkXMWPdMMGCrI.jpg)
 
@@ -581,7 +581,7 @@ After her mother's passing, 17-year-old Julina moves with her widowed father int
 <hr>
 
 
-## 15. [Montana Story](https://serp.ly/@serpmedia/github/amazon/Montana+Story)
+## 15. [Montana Story](https://serp.ly/amazon/Montana+Story)
 
 ![Montana Story](https://image.tmdb.org/t/p/original/gkyHSVORlY5Fjtw3BfNB4qb5dPN.jpg)
 
@@ -620,7 +620,7 @@ When two estranged siblings return home to care for their ailing father, they re
 <hr>
 
 
-## 16. [The Chaperone](https://serp.ly/@serpmedia/github/amazon/The+Chaperone)
+## 16. [The Chaperone](https://serp.ly/amazon/The+Chaperone)
 
 ![The Chaperone](https://image.tmdb.org/t/p/original/tu8VIrkJ8LTyrrT9wT9Nhix2VG7.jpg)
 
@@ -658,7 +658,7 @@ The 1920s Kansas prairie comes to life through the story of a woman who trades h
 <hr>
 
 
-## 17. [The Making of 'Split'](https://serp.ly/@serpmedia/github/amazon/The+Making+of+%27Split%27)
+## 17. [The Making of 'Split'](https://serp.ly/amazon/The+Making+of+%27Split%27)
 
 ![The Making of 'Split'](https://image.tmdb.org/t/p/original/u5B29EdugGRKgvbUsS5oUsjodfE.jpg)
 
@@ -692,7 +692,7 @@ The 1920s Kansas prairie comes to life through the story of a woman who trades h
 <hr>
 
 
-## 18. [Follow](https://serp.ly/@serpmedia/github/amazon/Follow)
+## 18. [Follow](https://serp.ly/amazon/Follow)
 
 ![Follow](https://image.tmdb.org/t/p/original/bHe8skaE4GAZtXROCJybslUT5os.jpg)
 
@@ -728,7 +728,7 @@ Quinn's peaceful Christmas morning turns into a nightmare when he wakes up to fi
 <hr>
 
 
-## 19. [Inside The Operation](https://serp.ly/@serpmedia/github/amazon/Inside+The+Operation)
+## 19. [Inside The Operation](https://serp.ly/amazon/Inside+The+Operation)
 
 <br>
 
@@ -754,7 +754,7 @@ Quinn's peaceful Christmas morning turns into a nightmare when he wakes up to fi
 <hr>
 
 
-## 20. [Good Luck, Have Fun, Don't Die](https://serp.ly/@serpmedia/github/amazon/Good+Luck%2C+Have+Fun%2C+Don%27t+Die)
+## 20. [Good Luck, Have Fun, Don't Die](https://serp.ly/amazon/Good+Luck%2C+Have+Fun%2C+Don%27t+Die)
 
 ![Good Luck, Have Fun, Don't Die](https://image.tmdb.org/t/p/original/iS4hn4Hb0kAbWmddKrEqP4MuKdD.jpg)
 
@@ -782,7 +782,7 @@ In a dystopian future, a mysterious figure arrives at a deserted diner in Los An
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -828,7 +828,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -872,7 +872,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 3. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -914,7 +914,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 4. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 4. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -958,7 +958,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 5. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 5. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -1004,7 +1004,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 6. [MTV Movie & TV Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Movie+%26+TV+Awards)
+## 6. [MTV Movie & TV Awards](https://serp.ly/amazon/MTV+Movie+%26+TV+Awards)
 
 ![MTV Movie & TV Awards](https://image.tmdb.org/t/p/original/77FuUQrJVO8GcyCpfHBZOICINwm.jpg)
 
@@ -1048,7 +1048,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 7. [The White Lotus](https://serp.ly/@serpmedia/github/amazon/The+White+Lotus)
+## 7. [The White Lotus](https://serp.ly/amazon/The+White+Lotus)
 
 ![The White Lotus](https://image.tmdb.org/t/p/original/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg)
 
@@ -1094,7 +1094,7 @@ The White Lotus welcomes you to a week at a tropical resort where nothing - and 
 <hr>
 
 
-## 8. [Shake It Up](https://serp.ly/@serpmedia/github/amazon/Shake+It+Up)
+## 8. [Shake It Up](https://serp.ly/amazon/Shake+It+Up)
 
 ![Shake It Up](https://image.tmdb.org/t/p/original/d3opexNCkiSaCaIZ104J8LiCqxi.jpg)
 
@@ -1138,7 +1138,7 @@ When best friends CeCe and Rocky win spots as backup dancers on "Shake It Up, Ch
 <hr>
 
 
-## 9. [Awkward.](https://serp.ly/@serpmedia/github/amazon/Awkward.)
+## 9. [Awkward.](https://serp.ly/amazon/Awkward.)
 
 ![Awkward.](https://image.tmdb.org/t/p/original/hRCQ0BDFcblyLitmio28pJqBN6s.jpg)
 
@@ -1180,7 +1180,7 @@ When a minor accident spirals into an epic misunderstanding, 15-year-old Jenna H
 <hr>
 
 
-## 10. [Ravenswood](https://serp.ly/@serpmedia/github/amazon/Ravenswood)
+## 10. [Ravenswood](https://serp.ly/amazon/Ravenswood)
 
 ![Ravenswood](https://image.tmdb.org/t/p/original/iyHfTSDTSkj4sIGcFCaj2LcqAim.jpg)
 
@@ -1226,7 +1226,7 @@ Ravenswood bears a sinister weight of history, and five outsiders find themselve
 <hr>
 
 
-## 11. [Recovery Road](https://serp.ly/@serpmedia/github/amazon/Recovery+Road)
+## 11. [Recovery Road](https://serp.ly/amazon/Recovery+Road)
 
 ![Recovery Road](https://image.tmdb.org/t/p/original/awoLSvv65KBx1rzb1BG7GI4o0zD.jpg)
 

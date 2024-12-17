@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Finding Dory](https://serp.ly/@serpmedia/github/amazon/Finding+Dory)
+## 1. [Finding Dory](https://serp.ly/amazon/Finding+Dory)
 
 ![Finding Dory](https://image.tmdb.org/t/p/original/yFjVlsJmEMacU0BNUwdGZlo2ixq.jpg)
 
@@ -77,7 +77,7 @@ Join Dory on an epic underwater adventure as she reunites with her friends Nemo 
 <hr>
 
 
-## 2. [Barbie](https://serp.ly/@serpmedia/github/amazon/Barbie)
+## 2. [Barbie](https://serp.ly/amazon/Barbie)
 
 ![Barbie](https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg)
 
@@ -117,7 +117,7 @@ Join Barbie and Ken in Barbie Land, where life is colorful and extraordinary. Wh
 <hr>
 
 
-## 3. [Ted 2](https://serp.ly/@serpmedia/github/amazon/Ted+2)
+## 3. [Ted 2](https://serp.ly/amazon/Ted+2)
 
 ![Ted 2](https://image.tmdb.org/t/p/original/qMOt0uy1x49OBW0jzodgRM9waW0.jpg)
 
@@ -158,7 +158,7 @@ When newlywed couple Ted and Tami-Lynn decide they're ready to start a family, t
 <hr>
 
 
-## 4. [Ghostbusters](https://serp.ly/@serpmedia/github/amazon/Ghostbusters)
+## 4. [Ghostbusters](https://serp.ly/amazon/Ghostbusters)
 
 ![Ghostbusters](https://image.tmdb.org/t/p/original/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg)
 
@@ -201,7 +201,7 @@ When ghosts invade Manhattan, four unlikely heroes - Erin Gilbert, Abby Yates, J
 <hr>
 
 
-## 5. [Yesterday](https://serp.ly/@serpmedia/github/amazon/Yesterday)
+## 5. [Yesterday](https://serp.ly/amazon/Yesterday)
 
 ![Yesterday](https://image.tmdb.org/t/p/original/9fYka5CQt9nrb6LOtKicysUf9NA.jpg)
 
@@ -244,7 +244,7 @@ Jack Malik, a singer-songwriter in an English coastal town, faces the diminishin
 <hr>
 
 
-## 6. [The Angry Birds Movie](https://serp.ly/@serpmedia/github/amazon/The+Angry+Birds+Movie)
+## 6. [The Angry Birds Movie](https://serp.ly/amazon/The+Angry+Birds+Movie)
 
 ![The Angry Birds Movie](https://image.tmdb.org/t/p/original/cqcBmUvip0CWiYIKaPyBbvBEnac.jpg)
 
@@ -287,7 +287,7 @@ In a paradise of happy, flightless birds, three unlikely outcasts - Red, Chuck, 
 <hr>
 
 
-## 7. [Ferdinand](https://serp.ly/@serpmedia/github/amazon/Ferdinand)
+## 7. [Ferdinand](https://serp.ly/amazon/Ferdinand)
 
 ![Ferdinand](https://image.tmdb.org/t/p/original/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg)
 
@@ -330,7 +330,7 @@ Ferdinand, a young bull with a big heart, lives in a world where bravery and com
 <hr>
 
 
-## 8. [Bombshell](https://serp.ly/@serpmedia/github/amazon/Bombshell)
+## 8. [Bombshell](https://serp.ly/amazon/Bombshell)
 
 ![Bombshell](https://image.tmdb.org/t/p/original/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg)
 
@@ -370,7 +370,7 @@ Based on a Real Scandal
 <hr>
 
 
-## 9. [The Spy Who Dumped Me](https://serp.ly/@serpmedia/github/amazon/The+Spy+Who+Dumped+Me)
+## 9. [The Spy Who Dumped Me](https://serp.ly/amazon/The+Spy+Who+Dumped+Me)
 
 ![The Spy Who Dumped Me](https://image.tmdb.org/t/p/original/tpPERI5i6yjT73jYWyZ9iWltQ9L.jpg)
 
@@ -410,7 +410,7 @@ When two thirtysomething best friends have their ordinary evening interrupted by
 <hr>
 
 
-## 10. [Ballerina](https://serp.ly/@serpmedia/github/amazon/Ballerina)
+## 10. [Ballerina](https://serp.ly/amazon/Ballerina)
 
 ![Ballerina](https://image.tmdb.org/t/p/original/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg)
 
@@ -455,7 +455,7 @@ In 1879 Paris, an orphaned Brittany girl arrives at the Grand Opera house with n
 <hr>
 
 
-## 11. [Office Christmas Party](https://serp.ly/@serpmedia/github/amazon/Office+Christmas+Party)
+## 11. [Office Christmas Party](https://serp.ly/amazon/Office+Christmas+Party)
 
 ![Office Christmas Party](https://image.tmdb.org/t/p/original/7r3w3cPTbNEIr1imb8zXyeIJCJe.jpg)
 
@@ -498,7 +498,7 @@ When Carol Vanstone threatens to close the Chicago branch of her tech company Ze
 <hr>
 
 
-## 12. [Rough Night](https://serp.ly/@serpmedia/github/amazon/Rough+Night)
+## 12. [Rough Night](https://serp.ly/amazon/Rough+Night)
 
 ![Rough Night](https://image.tmdb.org/t/p/original/ttC00xcQ5UIO04kU8y0h5OAIYYJ.jpg)
 
@@ -539,7 +539,7 @@ When a group of girlfriends hire a male stripper for their bachelorette party in
 <hr>
 
 
-## 13. [DC League of Super-Pets](https://serp.ly/@serpmedia/github/amazon/DC+League+of+Super-Pets)
+## 13. [DC League of Super-Pets](https://serp.ly/amazon/DC+League+of+Super-Pets)
 
 ![DC League of Super-Pets](https://image.tmdb.org/t/p/original/qpPMewlugFaejXjz4YNDnpTniFX.jpg)
 
@@ -582,7 +582,7 @@ Join Krypto the Super-Dog on a heroic adventure to save Superman and the Justice
 <hr>
 
 
-## 14. [Masterminds](https://serp.ly/@serpmedia/github/amazon/Masterminds)
+## 14. [Masterminds](https://serp.ly/amazon/Masterminds)
 
 ![Masterminds](https://image.tmdb.org/t/p/original/nuVcF1AflHwi54YRZjrakM7nBLH.jpg)
 
@@ -625,7 +625,7 @@ In the heart of the Southern U. S. , a night guard at an armored car company hat
 <hr>
 
 
-## 15. [Sisters](https://serp.ly/@serpmedia/github/amazon/Sisters)
+## 15. [Sisters](https://serp.ly/amazon/Sisters)
 
 ![Sisters](https://image.tmdb.org/t/p/original/hpvHqAiusQtGNDx48dA3z5ejjon.jpg)
 
@@ -668,7 +668,7 @@ When two estranged sisters return home to pack up their childhood bedrooms, they
 <hr>
 
 
-## 16. [Toy Story of Terror!](https://serp.ly/@serpmedia/github/amazon/Toy+Story+of+Terror%21)
+## 16. [Toy Story of Terror!](https://serp.ly/amazon/Toy+Story+of+Terror%21)
 
 ![Toy Story of Terror!](https://image.tmdb.org/t/p/original/oPBEnNP4Fg4gv9c0KBhchmtoG4H.jpg)
 
@@ -704,7 +704,7 @@ Join the Toy Story gang for what starts out as a fun road trip, but takes an une
 <hr>
 
 
-## 17. [Irreplaceable You](https://serp.ly/@serpmedia/github/amazon/Irreplaceable+You)
+## 17. [Irreplaceable You](https://serp.ly/amazon/Irreplaceable+You)
 
 ![Irreplaceable You](https://image.tmdb.org/t/p/original/hkflwtWCJffdDSwg63fdDFbwOvS.jpg)
 
@@ -742,7 +742,7 @@ When Abbie receives a devastating cancer diagnosis, she makes a heartfelt reques
 <hr>
 
 
-## 18. [The Bubble](https://serp.ly/@serpmedia/github/amazon/The+Bubble)
+## 18. [The Bubble](https://serp.ly/amazon/The+Bubble)
 
 ![The Bubble](https://image.tmdb.org/t/p/original/edYk5TSowZIDv138bCpF5ls3XI5.jpg)
 
@@ -781,7 +781,7 @@ When a blockbuster action franchise decides to shoot its sequel at a posh hotel,
 <hr>
 
 
-## 19. [Life Partners](https://serp.ly/@serpmedia/github/amazon/Life+Partners)
+## 19. [Life Partners](https://serp.ly/amazon/Life+Partners)
 
 ![Life Partners](https://image.tmdb.org/t/p/original/434samTfccB2N7zl0saWp9ev5pL.jpg)
 
@@ -822,7 +822,7 @@ Life Partners explores the evolving dynamics between a 29-year-old lawyer and he
 <hr>
 
 
-## 20. [Staten Island Summer](https://serp.ly/@serpmedia/github/amazon/Staten+Island+Summer)
+## 20. [Staten Island Summer](https://serp.ly/amazon/Staten+Island+Summer)
 
 ![Staten Island Summer](https://image.tmdb.org/t/p/original/mAG2oqObFOR58bUI8A2DQCkRlcf.jpg)
 
@@ -860,7 +860,7 @@ When high school friends Danny and Frank trade their classrooms for lifeguard to
 <hr>
 
 
-## 21. [Family](https://serp.ly/@serpmedia/github/amazon/Family)
+## 21. [Family](https://serp.ly/amazon/Family)
 
 ![Family](https://image.tmdb.org/t/p/original/gy5VaQpkwrqMXTxjImw4KiWvfhP.jpg)
 
@@ -894,7 +894,7 @@ Kate Stone, a career-oriented woman, accepts a short-term babysitting gig for he
 <hr>
 
 
-## 22. [The Magic School Bus Rides Again: Kids in Space](https://serp.ly/@serpmedia/github/amazon/The+Magic+School+Bus+Rides+Again%3A+Kids+in+Space)
+## 22. [The Magic School Bus Rides Again: Kids in Space](https://serp.ly/amazon/The+Magic+School+Bus+Rides+Again%3A+Kids+in+Space)
 
 ![The Magic School Bus Rides Again: Kids in Space](https://image.tmdb.org/t/p/original/aWQ6Q47PiO8mpfSsPbNzKiUVQRX.jpg)
 
@@ -928,7 +928,7 @@ When the Magic School Bus kids blast off into orbit, their exciting journey take
 <hr>
 
 
-## 23. [Balls Out](https://serp.ly/@serpmedia/github/amazon/Balls+Out)
+## 23. [Balls Out](https://serp.ly/amazon/Balls+Out)
 
 ![Balls Out](https://image.tmdb.org/t/p/original/yQ5PWOIOE2zTZTeiLg1YpaXZCYn.jpg)
 
@@ -967,7 +967,7 @@ This semester everyone scores
 <hr>
 
 
-## 24. [Celebrity Escape Room](https://serp.ly/@serpmedia/github/amazon/Celebrity+Escape+Room)
+## 24. [Celebrity Escape Room](https://serp.ly/amazon/Celebrity+Escape+Room)
 
 ![Celebrity Escape Room](https://image.tmdb.org/t/p/original/z21oelicEnMXZcoztMMxyOTnGvY.jpg)
 
@@ -1000,7 +1000,7 @@ When five celebrity friends gather for an escape room challenge, their personal 
 <hr>
 
 
-## 25. [My Best Day](https://serp.ly/@serpmedia/github/amazon/My+Best+Day)
+## 25. [My Best Day](https://serp.ly/amazon/My+Best+Day)
 
 <br>
 
@@ -1032,7 +1032,7 @@ In a small town on a beautiful Fourth of July, Karen's ordinary day as a recepti
 <hr>
 
 
-## 26. [Saturday Night Live: 40th Anniversary Special](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+40th+Anniversary+Special)
+## 26. [Saturday Night Live: 40th Anniversary Special](https://serp.ly/amazon/Saturday+Night+Live%3A+40th+Anniversary+Special)
 
 ![Saturday Night Live: 40th Anniversary Special](https://image.tmdb.org/t/p/original/cda1A0SQ0C9511GSCVnEQ0821bh.jpg)
 
@@ -1066,7 +1066,7 @@ In a small town on a beautiful Fourth of July, Karen's ordinary day as a recepti
 <hr>
 
 
-## 27. [Nature Cat: The Return of Bad Dog Bart](https://serp.ly/@serpmedia/github/amazon/Nature+Cat%3A+The+Return+of+Bad+Dog+Bart)
+## 27. [Nature Cat: The Return of Bad Dog Bart](https://serp.ly/amazon/Nature+Cat%3A+The+Return+of+Bad+Dog+Bart)
 
 ![Nature Cat: The Return of Bad Dog Bart](https://image.tmdb.org/t/p/original/5ZEq9mkGekF4ox8dq8L0jbXXHWX.jpg)
 
@@ -1097,7 +1097,7 @@ In this animated adventure, Nature Cat and Hal uncover Bad Dog Bart's second bur
 <hr>
 
 
-## 28. [Hannah Has a Ho-Phase](https://serp.ly/@serpmedia/github/amazon/Hannah+Has+a+Ho-Phase)
+## 28. [Hannah Has a Ho-Phase](https://serp.ly/amazon/Hannah+Has+a+Ho-Phase)
 
 ![Hannah Has a Ho-Phase](https://image.tmdb.org/t/p/original/aKaPsN1ciGzSq0o5vA1y8TKb3bO.jpg)
 
@@ -1131,7 +1131,7 @@ Leslie's fed up with her prudish roommate, Hannah, so she cooks up a wild bet: H
 <hr>
 
 
-## 29. [Mr. Ross](https://serp.ly/@serpmedia/github/amazon/Mr.+Ross)
+## 29. [Mr. Ross](https://serp.ly/amazon/Mr.+Ross)
 
 <br>
 
@@ -1160,7 +1160,7 @@ When businessman Mr. Ross decides to create a PowerPoint presentation of his mos
 <hr>
 
 
-## 30. [In the Blink of an Eye](https://serp.ly/@serpmedia/github/amazon/In+the+Blink+of+an+Eye)
+## 30. [In the Blink of an Eye](https://serp.ly/amazon/In+the+Blink+of+an+Eye)
 
 <br>
 
@@ -1183,7 +1183,7 @@ When businessman Mr. Ross decides to create a PowerPoint presentation of his mos
 <hr>
 
 
-## 31. [The Roses](https://serp.ly/@serpmedia/github/amazon/The+Roses)
+## 31. [The Roses](https://serp.ly/amazon/The+Roses)
 
 <br>
 
@@ -1204,7 +1204,7 @@ Ivy and Theo seem to have it all - successful careers, wonderful kids, and a fan
 <hr>
 
 
-## 32. [Giant Sloth](https://serp.ly/@serpmedia/github/amazon/Giant+Sloth)
+## 32. [Giant Sloth](https://serp.ly/amazon/Giant+Sloth)
 
 ![Giant Sloth](https://image.tmdb.org/t/p/original/tYPqA2EzN857XFOslGx9q0nj5XK.jpg)
 
@@ -1232,7 +1232,7 @@ Museum curator Gordon Boonewell's life changes when a giant sloth enters his wor
 <hr>
 
 
-## 33. [Nature Cat: A Nature Carol](https://serp.ly/@serpmedia/github/amazon/Nature+Cat%3A+A+Nature+Carol)
+## 33. [Nature Cat: A Nature Carol](https://serp.ly/amazon/Nature+Cat%3A+A+Nature+Carol)
 
 ![Nature Cat: A Nature Carol](https://image.tmdb.org/t/p/original/84F8pD9IRrxHQG6HznEVPICUSSN.jpg)
 
@@ -1260,7 +1260,7 @@ When Nature Cat gets festive in the great outdoors, his celebratory spirit turns
 <hr>
 
 
-## 34. [Nature Cat's Nature Movie Special Extraordinaire](https://serp.ly/@serpmedia/github/amazon/Nature+Cat%27s+Nature+Movie+Special+Extraordinaire)
+## 34. [Nature Cat's Nature Movie Special Extraordinaire](https://serp.ly/amazon/Nature+Cat%27s+Nature+Movie+Special+Extraordinaire)
 
 ![Nature Cat's Nature Movie Special Extraordinaire](https://image.tmdb.org/t/p/original/jcku5mwtJdQedhvKb9ylb0C6xvl.jpg)
 
@@ -1288,7 +1288,7 @@ Join Nature Cat and his friends as they check off the last item on their Nature 
 <hr>
 
 
-## 35. [Nature Cat: Ocean Commotion](https://serp.ly/@serpmedia/github/amazon/Nature+Cat%3A+Ocean+Commotion)
+## 35. [Nature Cat: Ocean Commotion](https://serp.ly/amazon/Nature+Cat%3A+Ocean+Commotion)
 
 ![Nature Cat: Ocean Commotion](https://image.tmdb.org/t/p/original/3hV6kn0PfqadY1sfbnLTsCJaZAz.jpg)
 
@@ -1316,7 +1316,7 @@ Nature Cat teams up with his friends for an ocean rescue mission to find Hal's f
 <hr>
 
 
-## 36. [Minecraft](https://serp.ly/@serpmedia/github/amazon/Minecraft)
+## 36. [Minecraft](https://serp.ly/amazon/Minecraft)
 
 ![Minecraft](https://image.tmdb.org/t/p/original/8QXztkfy0y7nLgUhy8fGfokSloM.jpg)
 
@@ -1341,7 +1341,7 @@ Nature Cat teams up with his friends for an ocean rescue mission to find Hal's f
 <hr>
 
 
-## 37. [The Lunch Witch](https://serp.ly/@serpmedia/github/amazon/The+Lunch+Witch)
+## 37. [The Lunch Witch](https://serp.ly/amazon/The+Lunch+Witch)
 
 <br>
 
@@ -1365,7 +1365,7 @@ When an ordinary school lunch becomes the centerpiece of a magical tale, young r
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1411,7 +1411,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1457,7 +1457,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 3. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1501,7 +1501,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 4. [The Graham Norton Show](https://serp.ly/@serpmedia/github/amazon/The+Graham+Norton+Show)
+## 4. [The Graham Norton Show](https://serp.ly/amazon/The+Graham+Norton+Show)
 
 ![The Graham Norton Show](https://image.tmdb.org/t/p/original/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg)
 
@@ -1545,7 +1545,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 5. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 5. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -1591,7 +1591,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 6. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 6. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -1637,7 +1637,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 7. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 7. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -1681,7 +1681,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 8. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 8. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -1727,7 +1727,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 9. [Close Up with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Close+Up+with+The+Hollywood+Reporter)
+## 9. [Close Up with The Hollywood Reporter](https://serp.ly/amazon/Close+Up+with+The+Hollywood+Reporter)
 
 ![Close Up with The Hollywood Reporter](https://image.tmdb.org/t/p/original/h7X59O3T4VWVAUzZ00LEpbwA3GP.jpg)
 
@@ -1769,7 +1769,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 10. [Comedy Bang! Bang!](https://serp.ly/@serpmedia/github/amazon/Comedy+Bang%21+Bang%21)
+## 10. [Comedy Bang! Bang!](https://serp.ly/amazon/Comedy+Bang%21+Bang%21)
 
 ![Comedy Bang! Bang!](https://image.tmdb.org/t/p/original/5undCFoglpvKYFmu404ve9mh6on.jpg)
 
@@ -1813,7 +1813,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 11. [Comedians in Cars Getting Coffee](https://serp.ly/@serpmedia/github/amazon/Comedians+in+Cars+Getting+Coffee)
+## 11. [Comedians in Cars Getting Coffee](https://serp.ly/amazon/Comedians+in+Cars+Getting+Coffee)
 
 ![Comedians in Cars Getting Coffee](https://image.tmdb.org/t/p/original/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg)
 
@@ -1855,7 +1855,7 @@ When it comes to comedy, sometimes the best bits happen between shows. That's th
 <hr>
 
 
-## 12. [The Magic School Bus Rides Again](https://serp.ly/@serpmedia/github/amazon/The+Magic+School+Bus+Rides+Again)
+## 12. [The Magic School Bus Rides Again](https://serp.ly/amazon/The+Magic+School+Bus+Rides+Again)
 
 ![The Magic School Bus Rides Again](https://image.tmdb.org/t/p/original/42cJukwvrC8eZ1mShB5jBE3HLPL.jpg)
 
@@ -1897,7 +1897,7 @@ Join Ms. Frizzle's sister as she whisks her class on 26 unforgettable science ad
 <hr>
 
 
-## 13. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 13. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -1941,7 +1941,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 14. [Billy on the Street](https://serp.ly/@serpmedia/github/amazon/Billy+on+the+Street)
+## 14. [Billy on the Street](https://serp.ly/amazon/Billy+on+the+Street)
 
 ![Billy on the Street](https://image.tmdb.org/t/p/original/kmWs0EjvFo1jZiAxndBt7tMxvTu.jpg)
 
@@ -1985,7 +1985,7 @@ Billy Eichner takes his comedic genius from the Straßen of New York to your scr
 <hr>
 
 
-## 15. [Friends from College](https://serp.ly/@serpmedia/github/amazon/Friends+from+College)
+## 15. [Friends from College](https://serp.ly/amazon/Friends+from+College)
 
 ![Friends from College](https://image.tmdb.org/t/p/original/38HzAmLPNALw0fSdZ7rMH0EymqC.jpg)
 
@@ -2027,7 +2027,7 @@ Twenty years after graduation, a tight-knit group of college friends reunites an
 <hr>
 
 
-## 16. [Nature Cat](https://serp.ly/@serpmedia/github/amazon/Nature+Cat)
+## 16. [Nature Cat](https://serp.ly/amazon/Nature+Cat)
 
 ![Nature Cat](https://image.tmdb.org/t/p/original/fNjiDb37HydqazzGpriSfFaIKlv.jpg)
 
@@ -2071,7 +2071,7 @@ Nature Cat transforms ordinary backyard walks into extraordinary adventures, com
 <hr>
 
 
-## 17. [Breakfast, Lunch & Dinner](https://serp.ly/@serpmedia/github/amazon/Breakfast%2C+Lunch+%26+Dinner)
+## 17. [Breakfast, Lunch & Dinner](https://serp.ly/amazon/Breakfast%2C+Lunch+%26+Dinner)
 
 ![Breakfast, Lunch & Dinner](https://image.tmdb.org/t/p/original/xcNhjxnqWqICl3svpFAp5StgMk1.jpg)
 
@@ -2113,7 +2113,7 @@ Join Chef David Chang as he hits the road with his signature curiosity about foo
 <hr>
 
 
-## 18. [The Big Gay Sketch Show](https://serp.ly/@serpmedia/github/amazon/The+Big+Gay+Sketch+Show)
+## 18. [The Big Gay Sketch Show](https://serp.ly/amazon/The+Big+Gay+Sketch+Show)
 
 ![The Big Gay Sketch Show](https://image.tmdb.org/t/p/original/5N69rfnJmFMei5nCe4qRT5d8Vyx.jpg)
 
@@ -2155,7 +2155,7 @@ Join Chef David Chang as he hits the road with his signature curiosity about foo
 <hr>
 
 
-## 19. [Robotomy](https://serp.ly/@serpmedia/github/amazon/Robotomy)
+## 19. [Robotomy](https://serp.ly/amazon/Robotomy)
 
 ![Robotomy](https://image.tmdb.org/t/p/original/h1gAKK6uwqXlgKjJVdd2oc3mlvq.jpg)
 
@@ -2197,7 +2197,7 @@ When a brilliant inventor creates a series of highly advanced robots, he sets of
 <hr>
 
 
-## 20. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 20. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -2243,7 +2243,7 @@ When a brilliant inventor creates a series of highly advanced robots, he sets of
 <hr>
 
 
-## 21. [The Alec Baldwin Show](https://serp.ly/@serpmedia/github/amazon/The+Alec+Baldwin+Show)
+## 21. [The Alec Baldwin Show](https://serp.ly/amazon/The+Alec+Baldwin+Show)
 
 ![The Alec Baldwin Show](https://image.tmdb.org/t/p/original/cvutuzDgyrfKqECecZu4X6UKbqi.jpg)
 
@@ -2282,7 +2282,7 @@ Join Alec Baldwin for eight insightful conversations with notable figures from A
 <hr>
 
 
-## 22. [Saturday Night Live Weekend Update Thursday](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live+Weekend+Update+Thursday)
+## 22. [Saturday Night Live Weekend Update Thursday](https://serp.ly/amazon/Saturday+Night+Live+Weekend+Update+Thursday)
 
 ![Saturday Night Live Weekend Update Thursday](https://image.tmdb.org/t/p/original/iyw6xbQnRQ80eDKU9QSCVBm62vb.jpg)
 
@@ -2324,7 +2324,7 @@ Saturday Night Live Weekend Update Thursday brings you three 30-minute episodes 
 <hr>
 
 
-## 23. [Joe vs Carole](https://serp.ly/@serpmedia/github/amazon/Joe+vs+Carole)
+## 23. [Joe vs Carole](https://serp.ly/amazon/Joe+vs+Carole)
 
 ![Joe vs Carole](https://image.tmdb.org/t/p/original/cmqA84Zgb698myAgzbtKq8IdYJH.jpg)
 
@@ -2366,7 +2366,7 @@ When Carole Baskin, a dedicated big cat enthusiast, discovers that Joe "Exotic" 
 <hr>
 
 
-## 24. [China, IL](https://serp.ly/@serpmedia/github/amazon/China%2C+IL)
+## 24. [China, IL](https://serp.ly/amazon/China%2C+IL)
 
 ![China, IL](https://image.tmdb.org/t/p/original/gxzKGspzftXVmhIquL2tYdt9ZU5.jpg)
 
@@ -2408,7 +2408,7 @@ When the quirky Professor Brothers and their friend Baby Cakes collide with the 
 <hr>
 
 
-## 25. [Concierge: The Series](https://serp.ly/@serpmedia/github/amazon/Concierge%3A+The+Series)
+## 25. [Concierge: The Series](https://serp.ly/amazon/Concierge%3A+The+Series)
 
 <br>
 
@@ -2445,7 +2445,7 @@ When the quirky Professor Brothers and their friend Baby Cakes collide with the 
 <hr>
 
 
-## 26. [The Spoils Before Dying](https://serp.ly/@serpmedia/github/amazon/The+Spoils+Before+Dying)
+## 26. [The Spoils Before Dying](https://serp.ly/amazon/The+Spoils+Before+Dying)
 
 ![The Spoils Before Dying](https://image.tmdb.org/t/p/original/AhIFPJBUge7H8gAO1JMyZZLg3tt.jpg)
 
@@ -2489,7 +2489,7 @@ In this 1950s underground jazz scene, a pianist-turned-detective investigates a 
 <hr>
 
 
-## 27. [Hillary](https://serp.ly/@serpmedia/github/amazon/Hillary)
+## 27. [Hillary](https://serp.ly/amazon/Hillary)
 
 ![Hillary](https://image.tmdb.org/t/p/original/g5ktnrny1shM3QHwBulnOiA4DuN.jpg)
 

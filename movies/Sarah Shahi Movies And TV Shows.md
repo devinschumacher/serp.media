@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Black Adam](https://serp.ly/@serpmedia/github/amazon/Black+Adam)
+## 1. [Black Adam](https://serp.ly/amazon/Black+Adam)
 
 ![Black Adam](https://image.tmdb.org/t/p/original/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg)
 
@@ -80,7 +80,7 @@ When a powerful ancient Egyptian god is freed from his earthly tomb after nearly
 <hr>
 
 
-## 2. [Rush Hour 3](https://serp.ly/@serpmedia/github/amazon/Rush+Hour+3)
+## 2. [Rush Hour 3](https://serp.ly/amazon/Rush+Hour+3)
 
 ![Rush Hour 3](https://image.tmdb.org/t/p/original/rZ7IxJlPhNNJ6Rn8z1rzsXuA70P.jpg)
 
@@ -123,7 +123,7 @@ In "Rush Hour 3", Lee and Carter are back for another high-stakes adventure in P
 <hr>
 
 
-## 3. [Old School](https://serp.ly/@serpmedia/github/amazon/Old+School)
+## 3. [Old School](https://serp.ly/amazon/Old+School)
 
 ![Old School](https://image.tmdb.org/t/p/original/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg)
 
@@ -163,7 +163,7 @@ Three college buddies reunite near their alma mater to revive their fraternity d
 <hr>
 
 
-## 4. [Red, White & Royal Blue](https://serp.ly/@serpmedia/github/amazon/Red%2C+White+%26+Royal+Blue)
+## 4. [Red, White & Royal Blue](https://serp.ly/amazon/Red%2C+White+%26+Royal+Blue)
 
 ![Red, White & Royal Blue](https://image.tmdb.org/t/p/original/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg)
 
@@ -202,7 +202,7 @@ When the president's son, Alex, clashes publicly with Britain's Prince Henry at 
 <hr>
 
 
-## 5. [A Lot Like Love](https://serp.ly/@serpmedia/github/amazon/A+Lot+Like+Love)
+## 5. [A Lot Like Love](https://serp.ly/amazon/A+Lot+Like+Love)
 
 ![A Lot Like Love](https://image.tmdb.org/t/p/original/6xrF9zwEbYiYBOalMO14RAWBLLj.jpg)
 
@@ -245,7 +245,7 @@ When Oliver and Emily meet on a flight from Los Angeles to New York, they make a
 <hr>
 
 
-## 6. [Bullet to the Head](https://serp.ly/@serpmedia/github/amazon/Bullet+to+the+Head)
+## 6. [Bullet to the Head](https://serp.ly/amazon/Bullet+to+the+Head)
 
 ![Bullet to the Head](https://image.tmdb.org/t/p/original/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg)
 
@@ -288,7 +288,7 @@ When two partners, one a cop and the other a hitman, lose their respective partn
 <hr>
 
 
-## 7. [Hangman](https://serp.ly/@serpmedia/github/amazon/Hangman)
+## 7. [Hangman](https://serp.ly/amazon/Hangman)
 
 ![Hangman](https://image.tmdb.org/t/p/original/u7HwjTX9h4B8kuolyKiztYjtqna.jpg)
 
@@ -324,7 +324,7 @@ When a serial killer starts leaving behind morbid puzzles inspired by the childr
 <hr>
 
 
-## 8. [The Congress](https://serp.ly/@serpmedia/github/amazon/The+Congress)
+## 8. [The Congress](https://serp.ly/amazon/The+Congress)
 
 ![The Congress](https://image.tmdb.org/t/p/original/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg)
 
@@ -363,7 +363,7 @@ When an aging actress can't find work, she accepts one last role that changes he
 <hr>
 
 
-## 9. [Crossing Over](https://serp.ly/@serpmedia/github/amazon/Crossing+Over)
+## 9. [Crossing Over](https://serp.ly/amazon/Crossing+Over)
 
 ![Crossing Over](https://image.tmdb.org/t/p/original/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg)
 
@@ -406,7 +406,7 @@ Every day thousands of people illegally cross our borders... only one thing stan
 <hr>
 
 
-## 10. [I Don't Know How She Does It](https://serp.ly/@serpmedia/github/amazon/I+Don%27t+Know+How+She+Does+It)
+## 10. [I Don't Know How She Does It](https://serp.ly/amazon/I+Don%27t+Know+How+She+Does+It)
 
 ![I Don't Know How She Does It](https://image.tmdb.org/t/p/original/zQoXlm7NXKrBL4jcbIw3urMHHgs.jpg)
 
@@ -448,7 +448,7 @@ If it were easy, men would do it too.
 <hr>
 
 
-## 11. [For Your Consideration](https://serp.ly/@serpmedia/github/amazon/For+Your+Consideration)
+## 11. [For Your Consideration](https://serp.ly/amazon/For+Your+Consideration)
 
 ![For Your Consideration](https://image.tmdb.org/t/p/original/fvXClgY4ZJ7dBxalFuxPgb4nJ9s.jpg)
 
@@ -488,7 +488,7 @@ When a virtually unknown actor delivers an Oscar-worthy performance in an indepe
 <hr>
 
 
-## 12. [Road to Paloma](https://serp.ly/@serpmedia/github/amazon/Road+to+Paloma)
+## 12. [Road to Paloma](https://serp.ly/amazon/Road+to+Paloma)
 
 ![Road to Paloma](https://image.tmdb.org/t/p/original/cM0IitlIIS5kzdUPqyGTvl79TOY.jpg)
 
@@ -524,7 +524,7 @@ While Native American Wolf races against time to spread his mother's ashes in th
 <hr>
 
 
-## 13. [Static](https://serp.ly/@serpmedia/github/amazon/Static)
+## 13. [Static](https://serp.ly/amazon/Static)
 
 ![Static](https://image.tmdb.org/t/p/original/ecPbDVrirQgXcjOrwfyFBOQmq1S.jpg)
 
@@ -560,7 +560,7 @@ When a couple struggling with the loss of their child is visited by a mysterious
 <hr>
 
 
-## 14. [Michael Bolton's Big, Sexy Valentine's Day Special](https://serp.ly/@serpmedia/github/amazon/Michael+Bolton%27s+Big%2C+Sexy+Valentine%27s+Day+Special)
+## 14. [Michael Bolton's Big, Sexy Valentine's Day Special](https://serp.ly/amazon/Michael+Bolton%27s+Big%2C+Sexy+Valentine%27s+Day+Special)
 
 ![Michael Bolton's Big, Sexy Valentine's Day Special](https://image.tmdb.org/t/p/original/jrTzDKugY8ay5A3Z66IdSiNniPE.jpg)
 
@@ -594,7 +594,7 @@ When Santa Claus informs Michael Bolton that 75,000 new babies are needed by Chr
 <hr>
 
 
-## 15. [The Dog Problem](https://serp.ly/@serpmedia/github/amazon/The+Dog+Problem)
+## 15. [The Dog Problem](https://serp.ly/amazon/The+Dog+Problem)
 
 ![The Dog Problem](https://image.tmdb.org/t/p/original/hErQSzvfemQDawgMvbNmN1UgcCA.jpg)
 
@@ -630,7 +630,7 @@ Solo, a down-on-his-luck writer, gets a surprising recommendation from his psych
 <hr>
 
 
-## 16. [The Trouble With Bliss](https://serp.ly/@serpmedia/github/amazon/The+Trouble+With+Bliss)
+## 16. [The Trouble With Bliss](https://serp.ly/amazon/The+Trouble+With+Bliss)
 
 ![The Trouble With Bliss](https://image.tmdb.org/t/p/original/jpBpUvy6sHzcACt5iJaDPAoEmdJ.jpg)
 
@@ -671,7 +671,7 @@ Morris Bliss is a 35-year-old New Yorker stuck in a rut: no money for travel, no
 <hr>
 
 
-## 17. [Guns for Hire](https://serp.ly/@serpmedia/github/amazon/Guns+for+Hire)
+## 17. [Guns for Hire](https://serp.ly/amazon/Guns+for+Hire)
 
 ![Guns for Hire](https://image.tmdb.org/t/p/original/umsPInK2ZLwba72VqyvKMQ3ctdZ.jpg)
 
@@ -705,7 +705,7 @@ When a quirky loner runs a business that blurs the line between towing services 
 <hr>
 
 
-## 18. [Bad Therapy](https://serp.ly/@serpmedia/github/amazon/Bad+Therapy)
+## 18. [Bad Therapy](https://serp.ly/amazon/Bad+Therapy)
 
 ![Bad Therapy](https://image.tmdb.org/t/p/original/4dXeF33A7tlWggztDfyTYUmq8Zy.jpg)
 
@@ -741,7 +741,7 @@ When married couple Bob and Susan Howard decide to see a marriage counselor, the
 <hr>
 
 
-## 19. [Shades of Ray](https://serp.ly/@serpmedia/github/amazon/Shades+of+Ray)
+## 19. [Shades of Ray](https://serp.ly/amazon/Shades+of+Ray)
 
 ![Shades of Ray](https://image.tmdb.org/t/p/original/1grSWwgARYV9ypa9yRbio7e0U1R.jpg)
 
@@ -777,7 +777,7 @@ When American-born Ray Rehman finds his Pakistani father on his doorstep one nig
 <hr>
 
 
-## 20. [AmericanEast](https://serp.ly/@serpmedia/github/amazon/AmericanEast)
+## 20. [AmericanEast](https://serp.ly/amazon/AmericanEast)
 
 ![AmericanEast](https://image.tmdb.org/t/p/original/1e3AeuV238REi5dgU8Ip27sCIbz.jpg)
 
@@ -813,7 +813,7 @@ In the heart of L. A. , where the summer sun blazes and the threat of terrorism 
 <hr>
 
 
-## 21. [Divine Access](https://serp.ly/@serpmedia/github/amazon/Divine+Access)
+## 21. [Divine Access](https://serp.ly/amazon/Divine+Access)
 
 ![Divine Access](https://image.tmdb.org/t/p/original/3wEPUA8zLfbN5P7CJchrFKjqpVM.jpg)
 
@@ -849,7 +849,7 @@ When Jack Harriman debunkes Reverend Guy Roy on TV, he becomes a spiritual celeb
 <hr>
 
 
-## 22. [The Death and Return of Superman](https://serp.ly/@serpmedia/github/amazon/The+Death+and+Return+of+Superman)
+## 22. [The Death and Return of Superman](https://serp.ly/amazon/The+Death+and+Return+of+Superman)
 
 ![The Death and Return of Superman](https://image.tmdb.org/t/p/original/nGeuE5XbVCvORtvishD5K8IB0zv.jpg)
 
@@ -880,7 +880,7 @@ When Jack Harriman debunkes Reverend Guy Roy on TV, he becomes a spiritual celeb
 <hr>
 
 
-## 23. [Monkey Love](https://serp.ly/@serpmedia/github/amazon/Monkey+Love)
+## 23. [Monkey Love](https://serp.ly/amazon/Monkey+Love)
 
 ![Monkey Love](https://image.tmdb.org/t/p/original/16GdG5WzXJKwR3qEEBPHBxB0Spd.jpg)
 
@@ -916,7 +916,7 @@ College senior Amy decides to mix things up by sleeping with her two best friend
 <hr>
 
 
-## 24. [Language Arts](https://serp.ly/@serpmedia/github/amazon/Language+Arts)
+## 24. [Language Arts](https://serp.ly/amazon/Language+Arts)
 
 ![Language Arts](https://image.tmdb.org/t/p/original/rWcs4mn5pfOzudtqYYO8uGuUwxn.jpg)
 
@@ -950,7 +950,7 @@ When a dedicated mother fights to help her autistic son, their intimate struggle
 <hr>
 
 
-## 25. [Extreme Honor](https://serp.ly/@serpmedia/github/amazon/Extreme+Honor)
+## 25. [Extreme Honor](https://serp.ly/amazon/Extreme+Honor)
 
 ![Extreme Honor](https://image.tmdb.org/t/p/original/kUoKRhMvmtctzUBx2kfbT0kTYPk.jpg)
 
@@ -984,7 +984,7 @@ When a decorated Navy Seal is forced out of retirement to save his son's life, h
 <hr>
 
 
-## 26. [Halfway There](https://serp.ly/@serpmedia/github/amazon/Halfway+There)
+## 26. [Halfway There](https://serp.ly/amazon/Halfway+There)
 
 ![Halfway There](https://image.tmdb.org/t/p/original/rSq0TK0epHym1MQx7b1LUfoitXU.jpg)
 
@@ -1018,7 +1018,7 @@ When Jimmy Bishop runs a sober living facility, he's forced to make a difficult 
 <hr>
 
 
-## 27. [The Hollys](https://serp.ly/@serpmedia/github/amazon/The+Hollys)
+## 27. [The Hollys](https://serp.ly/amazon/The+Hollys)
 
 <br>
 
@@ -1039,7 +1039,7 @@ When successful food editor Emma Holly loses her job in the city, she's forced t
 <hr>
 
 
-## 28. [There's Only One America's Team](https://serp.ly/@serpmedia/github/amazon/There%27s+Only+One+America%27s+Team)
+## 28. [There's Only One America's Team](https://serp.ly/amazon/There%27s+Only+One+America%27s+Team)
 
 ![There's Only One America's Team](https://image.tmdb.org/t/p/original/pKCxoZboFfmDD1dvZqbhFedzaUf.jpg)
 
@@ -1070,7 +1070,7 @@ The Dallas Cowboys have long been football's most recognizable franchise, and th
 <hr>
 
 
-## 1. [Supernatural](https://serp.ly/@serpmedia/github/amazon/Supernatural)
+## 1. [Supernatural](https://serp.ly/amazon/Supernatural)
 
 ![Supernatural](https://image.tmdb.org/t/p/original/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg)
 
@@ -1114,7 +1114,7 @@ When Sam and Dean Winchester were just boys, they lost their mother to a mysteri
 <hr>
 
 
-## 2. [Hell's Kitchen](https://serp.ly/@serpmedia/github/amazon/Hell%27s+Kitchen)
+## 2. [Hell's Kitchen](https://serp.ly/amazon/Hell%27s+Kitchen)
 
 ![Hell's Kitchen](https://image.tmdb.org/t/p/original/shOVFku8daIGRpgjTdMZBxUAvsV.jpg)
 
@@ -1160,7 +1160,7 @@ In this reality series, aspiring restaurateurs face off in Hell's Kitchen, where
 <hr>
 
 
-## 3. [Tamron Hall](https://serp.ly/@serpmedia/github/amazon/Tamron+Hall)
+## 3. [Tamron Hall](https://serp.ly/amazon/Tamron+Hall)
 
 ![Tamron Hall](https://image.tmdb.org/t/p/original/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg)
 
@@ -1204,7 +1204,7 @@ Tamron Hall brings her extensive experience as a news host and journalist to thi
 <hr>
 
 
-## 4. [The Rookie](https://serp.ly/@serpmedia/github/amazon/The+Rookie)
+## 4. [The Rookie](https://serp.ly/amazon/The+Rookie)
 
 ![The Rookie](https://image.tmdb.org/t/p/original/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg)
 
@@ -1250,7 +1250,7 @@ When small-town guy John Nolan decides to pursue his dream of becoming an LAPD o
 <hr>
 
 
-## 5. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 5. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1294,7 +1294,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -1336,7 +1336,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 7. [Frasier](https://serp.ly/@serpmedia/github/amazon/Frasier)
+## 7. [Frasier](https://serp.ly/amazon/Frasier)
 
 ![Frasier](https://image.tmdb.org/t/p/original/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg)
 
@@ -1380,7 +1380,7 @@ After working at the famed "Cheers" bar for years, Frasier returns to Seattle to
 <hr>
 
 
-## 8. [Psych](https://serp.ly/@serpmedia/github/amazon/Psych)
+## 8. [Psych](https://serp.ly/amazon/Psych)
 
 ![Psych](https://image.tmdb.org/t/p/original/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg)
 
@@ -1424,7 +1424,7 @@ When Shawn Spencer's knack for solving crimes gets him falsely accused of a crim
 <hr>
 
 
-## 9. [Reba](https://serp.ly/@serpmedia/github/amazon/Reba)
+## 9. [Reba](https://serp.ly/amazon/Reba)
 
 ![Reba](https://image.tmdb.org/t/p/original/ngMBdjwadGj233A3DApyIijCGlg.jpg)
 
@@ -1468,7 +1468,7 @@ When Reba Hart's 20-year marriage ends unexpectedly, she must navigate a new cha
 <hr>
 
 
-## 10. [Dawson's Creek](https://serp.ly/@serpmedia/github/amazon/Dawson%27s+Creek)
+## 10. [Dawson's Creek](https://serp.ly/amazon/Dawson%27s+Creek)
 
 ![Dawson's Creek](https://image.tmdb.org/t/p/original/arT93dBemanftfWTcf9I0JRIlxU.jpg)
 
@@ -1514,7 +1514,7 @@ Dawson's Creek invites you into the lives of a close-knit group of friends as th
 <hr>
 
 
-## 11. [Chicago Fire](https://serp.ly/@serpmedia/github/amazon/Chicago+Fire)
+## 11. [Chicago Fire](https://serp.ly/amazon/Chicago+Fire)
 
 ![Chicago Fire](https://image.tmdb.org/t/p/original/2yaeYNplMuLGNjBigMFsek7UZmq.jpg)
 
@@ -1560,7 +1560,7 @@ Experience the highs and lows of America's noblest profession through the eyes o
 <hr>
 
 
-## 12. [The L Word](https://serp.ly/@serpmedia/github/amazon/The+L+Word)
+## 12. [The L Word](https://serp.ly/amazon/The+L+Word)
 
 ![The L Word](https://image.tmdb.org/t/p/original/cRuye5mp69wfnsbfgJiBFQJQo1e.jpg)
 
@@ -1604,7 +1604,7 @@ The L Word explores the personal and professional lives of a close-knit group of
 <hr>
 
 
-## 13. [Person of Interest](https://serp.ly/@serpmedia/github/amazon/Person+of+Interest)
+## 13. [Person of Interest](https://serp.ly/amazon/Person+of+Interest)
 
 ![Person of Interest](https://image.tmdb.org/t/p/original/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg)
 
@@ -1648,7 +1648,7 @@ When former CIA operative John Reese surfaces after being presumed dead, he team
 <hr>
 
 
-## 14. [The Sopranos](https://serp.ly/@serpmedia/github/amazon/The+Sopranos)
+## 14. [The Sopranos](https://serp.ly/amazon/The+Sopranos)
 
 ![The Sopranos](https://image.tmdb.org/t/p/original/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg)
 
@@ -1692,7 +1692,7 @@ When a successful mobster runs a criminal organization in New Jersey, he faces m
 <hr>
 
 
-## 15. [Ray Donovan](https://serp.ly/@serpmedia/github/amazon/Ray+Donovan)
+## 15. [Ray Donovan](https://serp.ly/amazon/Ray+Donovan)
 
 ![Ray Donovan](https://image.tmdb.org/t/p/original/zxftW7ZGVrOCqH2ifuruieCTb5X.jpg)
 
@@ -1736,7 +1736,7 @@ When the legendary fixer Ray Donovan is called upon to handle LA's most high-pro
 <hr>
 
 
-## 16. [Sex/Life](https://serp.ly/@serpmedia/github/amazon/Sex%2FLife)
+## 16. [Sex/Life](https://serp.ly/amazon/Sex%2FLife)
 
 ![Sex/Life](https://image.tmdb.org/t/p/original/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg)
 
@@ -1780,7 +1780,7 @@ When a woman's provocative past meets her suburban present, their carefully cons
 <hr>
 
 
-## 17. [Spin City](https://serp.ly/@serpmedia/github/amazon/Spin+City)
+## 17. [Spin City](https://serp.ly/amazon/Spin+City)
 
 ![Spin City](https://image.tmdb.org/t/p/original/3Ksmbpg33PigXKWncD8rFMl24vF.jpg)
 
@@ -1822,7 +1822,7 @@ When workaholic Mike Flaherty becomes Deputy Mayor of New York City, he transfor
 <hr>
 
 
-## 18. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 18. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -1868,7 +1868,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 19. [Young Justice](https://serp.ly/@serpmedia/github/amazon/Young+Justice)
+## 19. [Young Justice](https://serp.ly/amazon/Young+Justice)
 
 ![Young Justice](https://image.tmdb.org/t/p/original/fn2wMnrPWIjDMnxIf0H89ZtDehK.jpg)
 
@@ -1912,7 +1912,7 @@ When a group of teenagers join the Justice League, they discover that being a si
 <hr>
 
 
-## 20. [Boston Public](https://serp.ly/@serpmedia/github/amazon/Boston+Public)
+## 20. [Boston Public](https://serp.ly/amazon/Boston+Public)
 
 ![Boston Public](https://image.tmdb.org/t/p/original/yUEMfetlqwab7mOzrZIoAOGwfKi.jpg)
 
@@ -1956,7 +1956,7 @@ Winslow High School's Principal Steven Harper faces the joys and challenges of h
 <hr>
 
 
-## 21. [City on a Hill](https://serp.ly/@serpmedia/github/amazon/City+on+a+Hill)
+## 21. [City on a Hill](https://serp.ly/amazon/City+on+a+Hill)
 
 ![City on a Hill](https://image.tmdb.org/t/p/original/rxa00ipClA8SUQxTdZQOyt2NlB8.jpg)
 
@@ -2000,7 +2000,7 @@ In 1993 Boston, a young African-American DA from Brooklyn teams up with a corrup
 <hr>
 
 
-## 22. [ER](https://serp.ly/@serpmedia/github/amazon/ER)
+## 22. [ER](https://serp.ly/amazon/ER)
 
 ![ER](https://image.tmdb.org/t/p/original/rAxd8H0zGH61RWMPVZiR9zT4Nqk.jpg)
 
@@ -2044,7 +2044,7 @@ ER dives into the high-stakes world of emergency medicine through the eyes of th
 <hr>
 
 
-## 23. [Life](https://serp.ly/@serpmedia/github/amazon/Life)
+## 23. [Life](https://serp.ly/amazon/Life)
 
 ![Life](https://image.tmdb.org/t/p/original/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg)
 
@@ -2088,7 +2088,7 @@ When offbeat detective Charlie Crews returns to the force after serving time in 
 <hr>
 
 
-## 24. [Fairly Legal](https://serp.ly/@serpmedia/github/amazon/Fairly+Legal)
+## 24. [Fairly Legal](https://serp.ly/amazon/Fairly+Legal)
 
 ![Fairly Legal](https://image.tmdb.org/t/p/original/pISB4y5brd9wCyl9Rd3wkP8Q8fm.jpg)
 
@@ -2130,7 +2130,7 @@ When lawyer Kate Reed becomes a mediator, she brings her legal expertise and wit
 <hr>
 
 
-## 25. [Wednesday 9:30 (8:30 Central)](https://serp.ly/@serpmedia/github/amazon/Wednesday+9%3A30+%288%3A30+Central%29)
+## 25. [Wednesday 9:30 (8:30 Central)](https://serp.ly/amazon/Wednesday+9%3A30+%288%3A30+Central%29)
 
 ![Wednesday 9:30 (8:30 Central)](https://image.tmdb.org/t/p/original/oocgyanKacCUpt4ozrQOIOGgvMi.jpg)
 
@@ -2169,7 +2169,7 @@ When lawyer Kate Reed becomes a mediator, she brings her legal expertise and wit
 <hr>
 
 
-## 26. [Dolly Parton's Heartstrings](https://serp.ly/@serpmedia/github/amazon/Dolly+Parton%27s+Heartstrings)
+## 26. [Dolly Parton's Heartstrings](https://serp.ly/amazon/Dolly+Parton%27s+Heartstrings)
 
 ![Dolly Parton's Heartstrings](https://image.tmdb.org/t/p/original/jW41XQ28sRYf7WDTtPuQaymlOxW.jpg)
 
@@ -2213,7 +2213,7 @@ When lawyer Kate Reed becomes a mediator, she brings her legal expertise and wit
 <hr>
 
 
-## 27. [Reverie](https://serp.ly/@serpmedia/github/amazon/Reverie)
+## 27. [Reverie](https://serp.ly/amazon/Reverie)
 
 ![Reverie](https://image.tmdb.org/t/p/original/jrA47ygwLxWJoofHe9LHoWOrNJh.jpg)
 
@@ -2255,7 +2255,7 @@ When a groundbreaking virtual reality program goes live, it kicks off a summer o
 <hr>
 
 
-## 28. [City Guys](https://serp.ly/@serpmedia/github/amazon/City+Guys)
+## 28. [City Guys](https://serp.ly/amazon/City+Guys)
 
 ![City Guys](https://image.tmdb.org/t/p/original/pfcwf3b79k3xN5bufb3b1yO2Aot.jpg)
 
@@ -2297,7 +2297,7 @@ City Guys offers an intimate look at urban teen life in NYC, following the unlik
 <hr>
 
 
-## 29. [Nightline](https://serp.ly/@serpmedia/github/amazon/Nightline)
+## 29. [Nightline](https://serp.ly/amazon/Nightline)
 
 ![Nightline](https://image.tmdb.org/t/p/original/sdQo5ytP06WW5No3b33PTVS1yHC.jpg)
 
@@ -2341,7 +2341,7 @@ City Guys offers an intimate look at urban teen life in NYC, following the unlik
 <hr>
 
 
-## 30. [Paradise City](https://serp.ly/@serpmedia/github/amazon/Paradise+City)
+## 30. [Paradise City](https://serp.ly/amazon/Paradise+City)
 
 <br>
 
@@ -2378,7 +2378,7 @@ City Guys offers an intimate look at urban teen life in NYC, following the unlik
 <hr>
 
 
-## 31. [Off Centre](https://serp.ly/@serpmedia/github/amazon/Off+Centre)
+## 31. [Off Centre](https://serp.ly/amazon/Off+Centre)
 
 ![Off Centre](https://image.tmdb.org/t/p/original/imDCSdyfz4X1M1mwCQn5BDVRCea.jpg)
 
@@ -2420,7 +2420,7 @@ Off Centre is an American sitcom that aired on The WB network from October 2001 
 <hr>
 
 
-## 32. [Alias](https://serp.ly/@serpmedia/github/amazon/Alias)
+## 32. [Alias](https://serp.ly/amazon/Alias)
 
 ![Alias](https://image.tmdb.org/t/p/original/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg)
 
@@ -2464,7 +2464,7 @@ Sydney Bristow leads a double life as a CIA agent working undercover for a crimi
 <hr>
 
 
-## 33. [Pitch](https://serp.ly/@serpmedia/github/amazon/Pitch)
+## 33. [Pitch](https://serp.ly/amazon/Pitch)
 
 ![Pitch](https://image.tmdb.org/t/p/original/qTK0N1qLBWzwxuG0DH3cdYXghIT.jpg)
 
@@ -2508,7 +2508,7 @@ When a young pitcher throws the first perfect game in Major League Baseball hist
 <hr>
 
 
-## 34. [Century City](https://serp.ly/@serpmedia/github/amazon/Century+City)
+## 34. [Century City](https://serp.ly/amazon/Century+City)
 
 ![Century City](https://image.tmdb.org/t/p/original/yfvQ9McRI6S6lfeMvUidsL6EhTh.jpg)
 
@@ -2550,7 +2550,7 @@ Set in Los Angeles in the year 2030, "Century City" is a science-forward legal d
 <hr>
 
 
-## 35. [Teachers](https://serp.ly/@serpmedia/github/amazon/Teachers)
+## 35. [Teachers](https://serp.ly/amazon/Teachers)
 
 ![Teachers](https://image.tmdb.org/t/p/original/aS2WcoxM6V73woaeesHfNNNt1sd.jpg)
 

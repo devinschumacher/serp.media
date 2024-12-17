@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Jurassic World Dominion](https://serp.ly/@serpmedia/github/amazon/Jurassic+World+Dominion)
+## 1. [Jurassic World Dominion](https://serp.ly/amazon/Jurassic+World+Dominion)
 
 ![Jurassic World Dominion](https://image.tmdb.org/t/p/original/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg)
 
@@ -80,7 +80,7 @@ In "Jurassic World Dominion", four years have passed since the destruction of Is
 <hr>
 
 
-## 2. [Elemental](https://serp.ly/@serpmedia/github/amazon/Elemental)
+## 2. [Elemental](https://serp.ly/amazon/Elemental)
 
 ![Elemental](https://image.tmdb.org/t/p/original/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg)
 
@@ -123,7 +123,7 @@ In a diverse city where fire, water, land, and air residents coexist, a passiona
 <hr>
 
 
-## 3. [The Circle](https://serp.ly/@serpmedia/github/amazon/The+Circle)
+## 3. [The Circle](https://serp.ly/amazon/The+Circle)
 
 ![The Circle](https://image.tmdb.org/t/p/original/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg)
 
@@ -166,7 +166,7 @@ When a young tech worker lands a job at a powerful Internet corporation, she thi
 <hr>
 
 
-## 4. [Underwater](https://serp.ly/@serpmedia/github/amazon/Underwater)
+## 4. [Underwater](https://serp.ly/amazon/Underwater)
 
 ![Underwater](https://image.tmdb.org/t/p/original/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg)
 
@@ -206,7 +206,7 @@ When an underwater research station is destroyed by an earthquake, six scientist
 <hr>
 
 
-## 5. [Unicorn Store](https://serp.ly/@serpmedia/github/amazon/Unicorn+Store)
+## 5. [Unicorn Store](https://serp.ly/amazon/Unicorn+Store)
 
 ![Unicorn Store](https://image.tmdb.org/t/p/original/rGe3eWy3F3qggDZMc86bASN4I7C.jpg)
 
@@ -245,7 +245,7 @@ When Kit returns to her parents' home, she receives an invitation that promises 
 <hr>
 
 
-## 6. [Black Box](https://serp.ly/@serpmedia/github/amazon/Black+Box)
+## 6. [Black Box](https://serp.ly/amazon/Black+Box)
 
 ![Black Box](https://image.tmdb.org/t/p/original/ldlpTitpSTBINwgifzlRRXveXUF.jpg)
 
@@ -284,7 +284,7 @@ After losing his wife and his memory in a tragic car accident, a single father u
 <hr>
 
 
-## 7. [The Burial](https://serp.ly/@serpmedia/github/amazon/The+Burial)
+## 7. [The Burial](https://serp.ly/amazon/The+Burial)
 
 ![The Burial](https://image.tmdb.org/t/p/original/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg)
 
@@ -325,7 +325,7 @@ When a funeral home owner's family business hangs in the balance, he makes an un
 <hr>
 
 
-## 8. [Experimenter](https://serp.ly/@serpmedia/github/amazon/Experimenter)
+## 8. [Experimenter](https://serp.ly/amazon/Experimenter)
 
 ![Experimenter](https://image.tmdb.org/t/p/original/y0lBJjDGYfAdjxsZYYiuL5m3835.jpg)
 
@@ -361,7 +361,7 @@ Yale University, 1961. Stanley Milgram designs a groundbreaking psychology exper
 <hr>
 
 
-## 9. [The Front Runner](https://serp.ly/@serpmedia/github/amazon/The+Front+Runner)
+## 9. [The Front Runner](https://serp.ly/amazon/The+Front+Runner)
 
 ![The Front Runner](https://image.tmdb.org/t/p/original/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg)
 
@@ -404,7 +404,7 @@ In 1987, Gary Hart emerges as the Democratic front-runner for president, but his
 <hr>
 
 
-## 10. [Kinds of Kindness](https://serp.ly/@serpmedia/github/amazon/Kinds+of+Kindness)
+## 10. [Kinds of Kindness](https://serp.ly/amazon/Kinds+of+Kindness)
 
 ![Kinds of Kindness](https://image.tmdb.org/t/p/original/8mmpltkcG9areafsQHXaURedno3.jpg)
 
@@ -441,7 +441,7 @@ In 1987, Gary Hart emerges as the Democratic front-runner for president, but his
 <hr>
 
 
-## 11. [Uncorked](https://serp.ly/@serpmedia/github/amazon/Uncorked)
+## 11. [Uncorked](https://serp.ly/amazon/Uncorked)
 
 ![Uncorked](https://image.tmdb.org/t/p/original/neUgCuBhafxYQyXTKxwjQejqqa7.jpg)
 
@@ -477,7 +477,7 @@ Elijah's passion for wine leads him to pursue becoming a master sommelier, but h
 <hr>
 
 
-## 12. [Patti Cake$](https://serp.ly/@serpmedia/github/amazon/Patti+Cake%24)
+## 12. [Patti Cake$](https://serp.ly/amazon/Patti+Cake%24)
 
 ![Patti Cake$](https://image.tmdb.org/t/p/original/11MVxyp77zUPwc4cmqsUumNQYWK.jpg)
 
@@ -511,7 +511,7 @@ When Patricia Dombrowski transforms herself from Jersey girl to rapper Patti Cak
 <hr>
 
 
-## 13. [One Percent More Humid](https://serp.ly/@serpmedia/github/amazon/One+Percent+More+Humid)
+## 13. [One Percent More Humid](https://serp.ly/amazon/One+Percent+More+Humid)
 
 ![One Percent More Humid](https://image.tmdb.org/t/p/original/zP0FOglHkoGVE8VvHP7iz3nwTdF.jpg)
 
@@ -545,7 +545,7 @@ Two college students take a break from their studies to reunite in their hometow
 <hr>
 
 
-## 14. [Jurassic Greatest Moments: Jurassic Park to Jurassic World](https://serp.ly/@serpmedia/github/amazon/Jurassic+Greatest+Moments%3A+Jurassic+Park+to+Jurassic+World)
+## 14. [Jurassic Greatest Moments: Jurassic Park to Jurassic World](https://serp.ly/amazon/Jurassic+Greatest+Moments%3A+Jurassic+Park+to+Jurassic+World)
 
 ![Jurassic Greatest Moments: Jurassic Park to Jurassic World](https://image.tmdb.org/t/p/original/tPdsrxdJBBIvJi5rwcnYGUoPAai.jpg)
 
@@ -579,7 +579,7 @@ Travel back in time with the stars of "Jurassic World Dominion" to relive the mo
 <hr>
 
 
-## 15. [Jean of the Joneses](https://serp.ly/@serpmedia/github/amazon/Jean+of+the+Joneses)
+## 15. [Jean of the Joneses](https://serp.ly/amazon/Jean+of+the+Joneses)
 
 ![Jean of the Joneses](https://image.tmdb.org/t/p/original/fenitiniUzPk4R1pXVAPjWQqVS0.jpg)
 
@@ -615,7 +615,7 @@ When the estranged patriarch of the Jones family dies on their doorstep, chaos u
 <hr>
 
 
-## 16. [Oh Jerome, No](https://serp.ly/@serpmedia/github/amazon/Oh+Jerome%2C+No)
+## 16. [Oh Jerome, No](https://serp.ly/amazon/Oh+Jerome%2C+No)
 
 ![Oh Jerome, No](https://image.tmdb.org/t/p/original/cQXYB6M1Q1VpVg8ETVqJ9dAgHFz.jpg)
 
@@ -646,7 +646,7 @@ When a man's carefully constructed emotional facade is threatened, he employs su
 <hr>
 
 
-## 17. [Watch Room](https://serp.ly/@serpmedia/github/amazon/Watch+Room)
+## 17. [Watch Room](https://serp.ly/amazon/Watch+Room)
 
 ![Watch Room](https://image.tmdb.org/t/p/original/5g6dqIjJsHlth5017J12p2a6hAs.jpg)
 
@@ -680,7 +680,7 @@ In a world where friendship and science collide, three lifelong friends - Nate, 
 <hr>
 
 
-## 18. [Verano de película 3](https://serp.ly/@serpmedia/github/amazon/Verano+de+pel%C3%ADcula+3)
+## 18. [Verano de película 3](https://serp.ly/amazon/Verano+de+pel%C3%ADcula+3)
 
 <br>
 
@@ -703,7 +703,7 @@ The summer of 2023 brings the third installment of "Verano de película" to Puer
 <hr>
 
 
-## 19. [Wardriver](https://serp.ly/@serpmedia/github/amazon/Wardriver)
+## 19. [Wardriver](https://serp.ly/amazon/Wardriver)
 
 <br>
 
@@ -724,7 +724,7 @@ When a tech-savvy thief named Cole crosses paths with a dangerous criminal, Osca
 <hr>
 
 
-## 20. [Puddysticks](https://serp.ly/@serpmedia/github/amazon/Puddysticks)
+## 20. [Puddysticks](https://serp.ly/amazon/Puddysticks)
 
 ![Puddysticks](https://image.tmdb.org/t/p/original/c7owrzDJFPpDgfMckFmpra71wEB.jpg)
 
@@ -757,7 +757,7 @@ When a tech-savvy thief named Cole crosses paths with a dangerous criminal, Osca
 <hr>
 
 
-## 1. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 1. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -801,7 +801,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 2. [Sorry For Your Loss](https://serp.ly/@serpmedia/github/amazon/Sorry+For+Your+Loss)
+## 2. [Sorry For Your Loss](https://serp.ly/amazon/Sorry+For+Your+Loss)
 
 ![Sorry For Your Loss](https://image.tmdb.org/t/p/original/eUtM5shJF0CZn3MhEMmdSxyHJ0W.jpg)
 
@@ -843,7 +843,7 @@ When Leigh Shaw's husband dies suddenly, it turns everyday experiences into batt
 <hr>
 
 
-## 3. [The Get Down](https://serp.ly/@serpmedia/github/amazon/The+Get+Down)
+## 3. [The Get Down](https://serp.ly/amazon/The+Get+Down)
 
 ![The Get Down](https://image.tmdb.org/t/p/original/zeEeNDklukfG1Y6jKgfCm0cgI97.jpg)
 
@@ -887,7 +887,7 @@ The Get Down invites you into the heart of 1977 New York City, where the South B
 <hr>
 
 
-## 4. [Archive 81](https://serp.ly/@serpmedia/github/amazon/Archive+81)
+## 4. [Archive 81](https://serp.ly/amazon/Archive+81)
 
 ![Archive 81](https://image.tmdb.org/t/p/original/l1jeSEm6a88GFcLzlHQr60D0dOi.jpg)
 
@@ -931,7 +931,7 @@ When an archivist lands a job restoring damaged videotapes, their routine task t
 <hr>
 
 
-## 5. [Oh Jerome, No](https://serp.ly/@serpmedia/github/amazon/Oh+Jerome%2C+No)
+## 5. [Oh Jerome, No](https://serp.ly/amazon/Oh+Jerome%2C+No)
 
 ![Oh Jerome, No](https://image.tmdb.org/t/p/original/kzN1uVfbTJP6T2Q81nNqNKDvRJr.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Bird Box](https://serp.ly/@serpmedia/github/amazon/Bird+Box)
+## 1. [Bird Box](https://serp.ly/amazon/Bird+Box)
 
 ![Bird Box](https://image.tmdb.org/t/p/original/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg)
 
@@ -78,7 +78,7 @@ In a world where most have lost hope, a determined mother leads her two children
 <hr>
 
 
-## 2. [Lady Bird](https://serp.ly/@serpmedia/github/amazon/Lady+Bird)
+## 2. [Lady Bird](https://serp.ly/amazon/Lady+Bird)
 
 ![Lady Bird](https://image.tmdb.org/t/p/original/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg)
 
@@ -118,7 +118,7 @@ Lady Bird McPherson is a determined 17-year-old artist navigating the transition
 <hr>
 
 
-## 3. [Dumplin'](https://serp.ly/@serpmedia/github/amazon/Dumplin%27)
+## 3. [Dumplin'](https://serp.ly/amazon/Dumplin%27)
 
 ![Dumplin'](https://image.tmdb.org/t/p/original/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg)
 
@@ -157,7 +157,7 @@ Willowdean "Dumplin'" Dickson is a Texas teen who decides to enter a local pagea
 <hr>
 
 
-## 4. [The East](https://serp.ly/@serpmedia/github/amazon/The+East)
+## 4. [The East](https://serp.ly/amazon/The+East)
 
 ![The East](https://image.tmdb.org/t/p/original/nGoFIX5WmthZZ3eLBd0QwDSkWNy.jpg)
 
@@ -200,7 +200,7 @@ When a top private intelligence operative is tasked with infiltrating an anarchi
 <hr>
 
 
-## 5. [Paradise Hills](https://serp.ly/@serpmedia/github/amazon/Paradise+Hills)
+## 5. [Paradise Hills](https://serp.ly/amazon/Paradise+Hills)
 
 ![Paradise Hills](https://image.tmdb.org/t/p/original/7V1N8vMPNDw6be3MDiA4DC0s4Bv.jpg)
 
@@ -238,7 +238,7 @@ When a young woman is sent to Paradise Hills for reform, she discovers that the 
 <hr>
 
 
-## 6. [Skin](https://serp.ly/@serpmedia/github/amazon/Skin)
+## 6. [Skin](https://serp.ly/amazon/Skin)
 
 ![Skin](https://image.tmdb.org/t/p/original/7ryH8Noh6VKE4L42yhpR5jqIGsF.jpg)
 
@@ -275,7 +275,7 @@ When a young man raised by racist skinheads runs into trouble with white suprema
 <hr>
 
 
-## 7. [Every Secret Thing](https://serp.ly/@serpmedia/github/amazon/Every+Secret+Thing)
+## 7. [Every Secret Thing](https://serp.ly/amazon/Every+Secret+Thing)
 
 ![Every Secret Thing](https://image.tmdb.org/t/p/original/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg)
 
@@ -316,7 +316,7 @@ In a Baltimore suburb, two young girls are sentenced to seven years for kidnappi
 <hr>
 
 
-## 8. [Patti Cake$](https://serp.ly/@serpmedia/github/amazon/Patti+Cake%24)
+## 8. [Patti Cake$](https://serp.ly/amazon/Patti+Cake%24)
 
 ![Patti Cake$](https://image.tmdb.org/t/p/original/11MVxyp77zUPwc4cmqsUumNQYWK.jpg)
 
@@ -350,7 +350,7 @@ When Patricia Dombrowski transforms herself into Killa P, she trades her ordinar
 <hr>
 
 
-## 9. [Skin](https://serp.ly/@serpmedia/github/amazon/Skin)
+## 9. [Skin](https://serp.ly/amazon/Skin)
 
 ![Skin](https://image.tmdb.org/t/p/original/3fuif2SyRehNE68JYlC0uBWROVO.jpg)
 
@@ -384,7 +384,7 @@ In a small supermarket checkout line, a black man's friendly smile at a young wh
 <hr>
 
 
-## 10. [French Exit](https://serp.ly/@serpmedia/github/amazon/French+Exit)
+## 10. [French Exit](https://serp.ly/amazon/French+Exit)
 
 ![French Exit](https://image.tmdb.org/t/p/original/9fyG5y5czwDVOSRsrkSjaob1Hsc.jpg)
 
@@ -423,7 +423,7 @@ When 60-year-old Frances Price runs out of money in Manhattan, she makes a bold 
 <hr>
 
 
-## 11. [Trust Me](https://serp.ly/@serpmedia/github/amazon/Trust+Me)
+## 11. [Trust Me](https://serp.ly/amazon/Trust+Me)
 
 ![Trust Me](https://image.tmdb.org/t/p/original/81wFlm2lN3bptJ6DZKPdGclzVQk.jpg)
 
@@ -459,7 +459,7 @@ Howard Holloway, a former child star turned talent agent, is on a mission to sig
 <hr>
 
 
-## 12. [Falling for Figaro](https://serp.ly/@serpmedia/github/amazon/Falling+for+Figaro)
+## 12. [Falling for Figaro](https://serp.ly/amazon/Falling+for+Figaro)
 
 ![Falling for Figaro](https://image.tmdb.org/t/p/original/AsGtT5mi100StqELtqBBZ3iwYYH.jpg)
 
@@ -497,7 +497,7 @@ In the Scottish Highlands, a talented young fund manager leaves her successful c
 <hr>
 
 
-## 13. [Extracurricular Activities](https://serp.ly/@serpmedia/github/amazon/Extracurricular+Activities)
+## 13. [Extracurricular Activities](https://serp.ly/amazon/Extracurricular+Activities)
 
 ![Extracurricular Activities](https://image.tmdb.org/t/p/original/gqfPlF73jGE7HZGQ2bkqXqb0Hz5.jpg)
 
@@ -534,7 +534,7 @@ Reagan Collins is the model high school student who runs a unique after-school b
 <hr>
 
 
-## 14. [I Am Woman](https://serp.ly/@serpmedia/github/amazon/I+Am+Woman)
+## 14. [I Am Woman](https://serp.ly/amazon/I+Am+Woman)
 
 ![I Am Woman](https://image.tmdb.org/t/p/original/gpAkNeMzrSTJX2YIYcuwfqBrEqS.jpg)
 
@@ -575,7 +575,7 @@ The Helen Reddy story and the song that inspired a revolution
 <hr>
 
 
-## 15. [The Rachels](https://serp.ly/@serpmedia/github/amazon/The+Rachels)
+## 15. [The Rachels](https://serp.ly/amazon/The+Rachels)
 
 ![The Rachels](https://image.tmdb.org/t/p/original/M1iRgIT4gWbnZYzX0SMfy6cEwW.jpg)
 
@@ -611,7 +611,7 @@ When a beloved teen dies, her best friend soaks up the social media attention, w
 <hr>
 
 
-## 16. [The Thief](https://serp.ly/@serpmedia/github/amazon/The+Thief)
+## 16. [The Thief](https://serp.ly/amazon/The+Thief)
 
 ![The Thief](https://image.tmdb.org/t/p/original/7TI3ftvS4U1YyAEYRCHkYw8N55h.jpg)
 
@@ -645,7 +645,7 @@ In this 2011 US drama, a thief breaks into a house searching for money but disco
 <hr>
 
 
-## 17. [If I Had Legs I’d Kick You](https://serp.ly/@serpmedia/github/amazon/If+I+Had+Legs+I%E2%80%99d+Kick+You)
+## 17. [If I Had Legs I’d Kick You](https://serp.ly/amazon/If+I+Had+Legs+I%E2%80%99d+Kick+You)
 
 <br>
 
@@ -666,7 +666,7 @@ When devastating news rocks Linda's world, this Long Island therapist and mother
 <hr>
 
 
-## 18. [White Girl Problems](https://serp.ly/@serpmedia/github/amazon/White+Girl+Problems)
+## 18. [White Girl Problems](https://serp.ly/amazon/White+Girl+Problems)
 
 <br>
 
@@ -687,7 +687,7 @@ In "White Girl Problems", a woman's pursuit of perfection unfolds as she grapple
 <hr>
 
 
-## 19. [Gay Kid and Fat Chick](https://serp.ly/@serpmedia/github/amazon/Gay+Kid+and+Fat+Chick)
+## 19. [Gay Kid and Fat Chick](https://serp.ly/amazon/Gay+Kid+and+Fat+Chick)
 
 <br>
 
@@ -708,7 +708,7 @@ When two high school outsiders are fed up with bullying, they come up with a cle
 <hr>
 
 
-## 20. [The Valley](https://serp.ly/@serpmedia/github/amazon/The+Valley)
+## 20. [The Valley](https://serp.ly/amazon/The+Valley)
 
 ![The Valley](https://image.tmdb.org/t/p/original/wKdXhFeD10p0TAKGcM8L9PQv54o.jpg)
 
@@ -738,7 +738,7 @@ The Valley follows the next generation of LA power players as they navigate the 
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -784,7 +784,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -828,7 +828,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [2 Broke Girls](https://serp.ly/@serpmedia/github/amazon/2+Broke+Girls)
+## 3. [2 Broke Girls](https://serp.ly/amazon/2+Broke+Girls)
 
 ![2 Broke Girls](https://image.tmdb.org/t/p/original/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg)
 
@@ -870,7 +870,7 @@ When two young women from different worlds meet at a trendy Brooklyn diner, an u
 <hr>
 
 
-## 4. [Pretty Little Liars](https://serp.ly/@serpmedia/github/amazon/Pretty+Little+Liars)
+## 4. [Pretty Little Liars](https://serp.ly/amazon/Pretty+Little+Liars)
 
 ![Pretty Little Liars](https://image.tmdb.org/t/p/original/koY6oFMTj7tP3HQh10gQ5mVdd32.jpg)
 
@@ -914,7 +914,7 @@ Time to bring your A game.
 <hr>
 
 
-## 5. [American Horror Story](https://serp.ly/@serpmedia/github/amazon/American+Horror+Story)
+## 5. [American Horror Story](https://serp.ly/amazon/American+Horror+Story)
 
 ![American Horror Story](https://image.tmdb.org/t/p/original/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg)
 
@@ -960,7 +960,7 @@ What to suspect when you're expecting.
 <hr>
 
 
-## 6. [The Middle](https://serp.ly/@serpmedia/github/amazon/The+Middle)
+## 6. [The Middle](https://serp.ly/amazon/The+Middle)
 
 ![The Middle](https://image.tmdb.org/t/p/original/QdCyzFDoa6sUs6zqjvIdTHZ8Go.jpg)
 
@@ -1004,7 +1004,7 @@ The Middle unfolds in Orson, Indiana, where a married woman navigates the semi-d
 <hr>
 
 
-## 7. [Glee](https://serp.ly/@serpmedia/github/amazon/Glee)
+## 7. [Glee](https://serp.ly/amazon/Glee)
 
 ![Glee](https://image.tmdb.org/t/p/original/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg)
 
@@ -1048,7 +1048,7 @@ When optimistic high school teacher Will Schuester takes over McKinley High's st
 <hr>
 
 
-## 8. [Poker Face](https://serp.ly/@serpmedia/github/amazon/Poker+Face)
+## 8. [Poker Face](https://serp.ly/amazon/Poker+Face)
 
 ![Poker Face](https://image.tmdb.org/t/p/original/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg)
 
@@ -1094,7 +1094,7 @@ When it comes to solving mysteries, Charlie Cale is in a class of her own. With 
 <hr>
 
 
-## 9. [Easy](https://serp.ly/@serpmedia/github/amazon/Easy)
+## 9. [Easy](https://serp.ly/amazon/Easy)
 
 ![Easy](https://image.tmdb.org/t/p/original/uh0pHb6JV0m6Vjmz1tGhohr9B7y.jpg)
 
@@ -1136,7 +1136,7 @@ When it comes to solving mysteries, Charlie Cale is in a class of her own. With 
 <hr>
 
 
-## 10. [The Tourist](https://serp.ly/@serpmedia/github/amazon/The+Tourist)
+## 10. [The Tourist](https://serp.ly/amazon/The+Tourist)
 
 ![The Tourist](https://image.tmdb.org/t/p/original/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg)
 
@@ -1182,7 +1182,7 @@ When a man wakes up in the Australian outback with no memory, he must use the fe
 <hr>
 
 
-## 11. [Unbelievable](https://serp.ly/@serpmedia/github/amazon/Unbelievable)
+## 11. [Unbelievable](https://serp.ly/amazon/Unbelievable)
 
 ![Unbelievable](https://image.tmdb.org/t/p/original/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg)
 
@@ -1226,7 +1226,7 @@ Two female detectives are assigned to investigate a teenager's rape allegation t
 <hr>
 
 
-## 12. [The Last Anniversary](https://serp.ly/@serpmedia/github/amazon/The+Last+Anniversary)
+## 12. [The Last Anniversary](https://serp.ly/amazon/The+Last+Anniversary)
 
 <br>
 

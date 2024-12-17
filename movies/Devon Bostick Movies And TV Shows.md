@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Oppenheimer](https://serp.ly/@serpmedia/github/amazon/Oppenheimer)
+## 1. [Oppenheimer](https://serp.ly/amazon/Oppenheimer)
 
 ![Oppenheimer](https://image.tmdb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg)
 
@@ -78,7 +78,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 2. [Okja](https://serp.ly/@serpmedia/github/amazon/Okja)
+## 2. [Okja](https://serp.ly/amazon/Okja)
 
 ![Okja](https://image.tmdb.org/t/p/original/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg)
 
@@ -117,7 +117,7 @@ In a heartwarming tale of friendship, a young girl named Mija stands up to a pow
 <hr>
 
 
-## 3. [Saw IV](https://serp.ly/@serpmedia/github/amazon/Saw+IV)
+## 3. [Saw IV](https://serp.ly/amazon/Saw+IV)
 
 ![Saw IV](https://image.tmdb.org/t/p/original/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg)
 
@@ -160,7 +160,7 @@ In "Saw IV", Lieutenant Rigg returns for a nightmare reunion with Jigsaw's twist
 <hr>
 
 
-## 4. [Saw VI](https://serp.ly/@serpmedia/github/amazon/Saw+VI)
+## 4. [Saw VI](https://serp.ly/amazon/Saw+VI)
 
 ![Saw VI](https://image.tmdb.org/t/p/original/cT7ufx1x6OKoi3bpUCWf2eV446G.jpg)
 
@@ -200,7 +200,7 @@ In "Saw VI", Detective Hoffman takes over Jigsaw's legacy, only to face his own 
 <hr>
 
 
-## 5. [American Pie Presents: The Naked Mile](https://serp.ly/@serpmedia/github/amazon/American+Pie+Presents%3A+The+Naked+Mile)
+## 5. [American Pie Presents: The Naked Mile](https://serp.ly/amazon/American+Pie+Presents%3A+The+Naked+Mile)
 
 ![American Pie Presents: The Naked Mile](https://image.tmdb.org/t/p/original/sreeL5kKj47oofEGVtDKTAcUDY6.jpg)
 
@@ -236,7 +236,7 @@ Erik Stifler faces the unenviable prospect of graduating high school as the only
 <hr>
 
 
-## 6. [Regression](https://serp.ly/@serpmedia/github/amazon/Regression)
+## 6. [Regression](https://serp.ly/amazon/Regression)
 
 ![Regression](https://image.tmdb.org/t/p/original/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg)
 
@@ -279,7 +279,7 @@ In 1990 Minnesota, Detective Bruce Kenner investigates a case involving young An
 <hr>
 
 
-## 7. [Diary of a Wimpy Kid](https://serp.ly/@serpmedia/github/amazon/Diary+of+a+Wimpy+Kid)
+## 7. [Diary of a Wimpy Kid](https://serp.ly/amazon/Diary+of+a+Wimpy+Kid)
 
 ![Diary of a Wimpy Kid](https://image.tmdb.org/t/p/original/iLAGiPnSuODt9cn332bkFElrRig.jpg)
 
@@ -322,7 +322,7 @@ Greg Heffley is in for the ride of his life as he navigates the treacherous wate
 <hr>
 
 
-## 8. [Land of the Dead](https://serp.ly/@serpmedia/github/amazon/Land+of+the+Dead)
+## 8. [Land of the Dead](https://serp.ly/amazon/Land+of+the+Dead)
 
 ![Land of the Dead](https://image.tmdb.org/t/p/original/q7tLETjCPu2gNO5vR9esXEd6Mil.jpg)
 
@@ -365,7 +365,7 @@ In a world where zombies have overrun the earth, the remaining survivors have ba
 <hr>
 
 
-## 9. [Diary of a Wimpy Kid: Rodrick Rules](https://serp.ly/@serpmedia/github/amazon/Diary+of+a+Wimpy+Kid%3A+Rodrick+Rules)
+## 9. [Diary of a Wimpy Kid: Rodrick Rules](https://serp.ly/amazon/Diary+of+a+Wimpy+Kid%3A+Rodrick+Rules)
 
 ![Diary of a Wimpy Kid: Rodrick Rules](https://image.tmdb.org/t/p/original/k54R3ag1sLu93Wbfo4quw9sSFyj.jpg)
 
@@ -405,7 +405,7 @@ When Greg Heffley enters seventh grade, he's confident he has middle school figu
 <hr>
 
 
-## 10. [Diary of a Wimpy Kid: Dog Days](https://serp.ly/@serpmedia/github/amazon/Diary+of+a+Wimpy+Kid%3A+Dog+Days)
+## 10. [Diary of a Wimpy Kid: Dog Days](https://serp.ly/amazon/Diary+of+a+Wimpy+Kid%3A+Dog+Days)
 
 ![Diary of a Wimpy Kid: Dog Days](https://image.tmdb.org/t/p/original/7pTvjELxw0f0E6sUPGtPEl4WD0S.jpg)
 
@@ -450,7 +450,7 @@ It's summertime, and Greg Heffley can't wait to kick back and play video games w
 <hr>
 
 
-## 11. [Words on Bathroom Walls](https://serp.ly/@serpmedia/github/amazon/Words+on+Bathroom+Walls)
+## 11. [Words on Bathroom Walls](https://serp.ly/amazon/Words+on+Bathroom+Walls)
 
 ![Words on Bathroom Walls](https://image.tmdb.org/t/p/original/mMICdcRBxiEUUpdAFCYRezE3Dy5.jpg)
 
@@ -489,7 +489,7 @@ When a high school senior is diagnosed with a mental illness, he keeps it a secr
 <hr>
 
 
-## 12. [The Art of the Steal](https://serp.ly/@serpmedia/github/amazon/The+Art+of+the+Steal)
+## 12. [The Art of the Steal](https://serp.ly/amazon/The+Art+of+the+Steal)
 
 ![The Art of the Steal](https://image.tmdb.org/t/p/original/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg)
 
@@ -530,7 +530,7 @@ When a small-time motorcycle daredevil runs a sophisticated art heist with his b
 <hr>
 
 
-## 13. [Godsend](https://serp.ly/@serpmedia/github/amazon/Godsend)
+## 13. [Godsend](https://serp.ly/amazon/Godsend)
 
 ![Godsend](https://image.tmdb.org/t/p/original/lLncs8FEzKupj19wCqZ3sPmg3eU.jpg)
 
@@ -573,7 +573,7 @@ When a couple agrees to clone their deceased son under the supervision of an eni
 <hr>
 
 
-## 14. [Survival of the Dead](https://serp.ly/@serpmedia/github/amazon/Survival+of+the+Dead)
+## 14. [Survival of the Dead](https://serp.ly/amazon/Survival+of+the+Dead)
 
 ![Survival of the Dead](https://image.tmdb.org/t/p/original/abJiDooakUefaStfGBShm0I3ENc.jpg)
 
@@ -614,7 +614,7 @@ On a small island off the coast of Delaware, two families fight for control over
 <hr>
 
 
-## 15. [Being Charlie](https://serp.ly/@serpmedia/github/amazon/Being+Charlie)
+## 15. [Being Charlie](https://serp.ly/amazon/Being+Charlie)
 
 ![Being Charlie](https://image.tmdb.org/t/p/original/4aO9lxMMNX4Z7LhScnMrOaWWm9B.jpg)
 
@@ -650,7 +650,7 @@ Being Charlie follows an 18-year-old troublemaker who checks out of a youth drug
 <hr>
 
 
-## 16. [The Entitled](https://serp.ly/@serpmedia/github/amazon/The+Entitled)
+## 16. [The Entitled](https://serp.ly/amazon/The+Entitled)
 
 ![The Entitled](https://image.tmdb.org/t/p/original/nJMru27zbwolphYGEvzqYkMmm0e.jpg)
 
@@ -686,7 +686,7 @@ When Paul Dynan's careful plans go awry, he finds himself at the center of a hig
 <hr>
 
 
-## 17. [A Dark Truth](https://serp.ly/@serpmedia/github/amazon/A+Dark+Truth)
+## 17. [A Dark Truth](https://serp.ly/amazon/A+Dark+Truth)
 
 ![A Dark Truth](https://image.tmdb.org/t/p/original/je93UwdBdhtHpp9YgaYGnJqnX8G.jpg)
 
@@ -724,7 +724,7 @@ In the Ecuadorian jungle, a dark truth emerges as a multinational conglomerate a
 <hr>
 
 
-## 18. [Dead Before Dawn](https://serp.ly/@serpmedia/github/amazon/Dead+Before+Dawn)
+## 18. [Dead Before Dawn](https://serp.ly/amazon/Dead+Before+Dawn)
 
 ![Dead Before Dawn](https://image.tmdb.org/t/p/original/5eg33AUKUsnGuX5LCe1OMTSJdIC.jpg)
 
@@ -763,7 +763,7 @@ When a group of college friends accidentally unleashes an ancient curse, they se
 <hr>
 
 
-## 19. [Princess](https://serp.ly/@serpmedia/github/amazon/Princess)
+## 19. [Princess](https://serp.ly/amazon/Princess)
 
 ![Princess](https://image.tmdb.org/t/p/original/47O5AY560GkjMqQCYDjE3BIkJVO.jpg)
 
@@ -799,7 +799,7 @@ In a world where mythical creatures are on the verge of extinction, a reclusive 
 <hr>
 
 
-## 20. [Adoration](https://serp.ly/@serpmedia/github/amazon/Adoration)
+## 20. [Adoration](https://serp.ly/amazon/Adoration)
 
 ![Adoration](https://image.tmdb.org/t/p/original/pHYpXNJPsYQ3aOK2MTLzsvszlYh.jpg)
 
@@ -839,7 +839,7 @@ When a high school student incorporates his family history into a French-class n
 <hr>
 
 
-## 21. [Sacrifice](https://serp.ly/@serpmedia/github/amazon/Sacrifice)
+## 21. [Sacrifice](https://serp.ly/amazon/Sacrifice)
 
 ![Sacrifice](https://image.tmdb.org/t/p/original/fMXYwKqR82b9qDiCq8A6fVgekhw.jpg)
 
@@ -877,7 +877,7 @@ In a thrilling tale of drug trade and police work, an undercover cop finds himse
 <hr>
 
 
-## 22. [The Scream Team](https://serp.ly/@serpmedia/github/amazon/The+Scream+Team)
+## 22. [The Scream Team](https://serp.ly/amazon/The+Scream+Team)
 
 ![The Scream Team](https://image.tmdb.org/t/p/original/7yNkp4WVF2gRS5jw0YXU4NWagXM.jpg)
 
@@ -911,7 +911,7 @@ In the small town of Steeple Falls, an eccentric horror shop owner runs a busine
 <hr>
 
 
-## 23. [Fugitive Pieces](https://serp.ly/@serpmedia/github/amazon/Fugitive+Pieces)
+## 23. [Fugitive Pieces](https://serp.ly/amazon/Fugitive+Pieces)
 
 ![Fugitive Pieces](https://image.tmdb.org/t/p/original/aKkSgPBmbJ6mDSfxRzTFpqSQCzE.jpg)
 
@@ -947,7 +947,7 @@ In this heartwrenching tale, a young Polish boy flees his war-torn homeland and 
 <hr>
 
 
-## 24. [Hidden 3D](https://serp.ly/@serpmedia/github/amazon/Hidden+3D)
+## 24. [Hidden 3D](https://serp.ly/amazon/Hidden+3D)
 
 ![Hidden 3D](https://image.tmdb.org/t/p/original/mVJuiBgeHygy6JLh6KVtJTdPeAH.jpg)
 
@@ -985,7 +985,7 @@ When Brian inherits his mother's experimental treatment center for addictions, h
 <hr>
 
 
-## 25. [Small Time](https://serp.ly/@serpmedia/github/amazon/Small+Time)
+## 25. [Small Time](https://serp.ly/amazon/Small+Time)
 
 ![Small Time](https://image.tmdb.org/t/p/original/plL7UtSuJCseH2WltA7lnOBYZtb.jpg)
 
@@ -1024,7 +1024,7 @@ When high school grad Freddy Klein chooses car sales over college, he turns to h
 <hr>
 
 
-## 26. [The Poet](https://serp.ly/@serpmedia/github/amazon/The+Poet)
+## 26. [The Poet](https://serp.ly/amazon/The+Poet)
 
 ![The Poet](https://image.tmdb.org/t/p/original/iHfqatnKlnMeLel63IOAjH5HAHP.jpg)
 
@@ -1062,7 +1062,7 @@ In the shadow of World War II, a young woman from a Jewish family in Germany fal
 <hr>
 
 
-## 27. [DC 9/11: Time of Crisis](https://serp.ly/@serpmedia/github/amazon/DC+9%2F11%3A+Time+of+Crisis)
+## 27. [DC 9/11: Time of Crisis](https://serp.ly/amazon/DC+9%2F11%3A+Time+of+Crisis)
 
 ![DC 9/11: Time of Crisis](https://image.tmdb.org/t/p/original/5b05HYB65A3Ww93UKI6s8N9dqFO.jpg)
 
@@ -1096,7 +1096,7 @@ In the shadow of World War II, a young woman from a Jewish family in Germany fal
 <hr>
 
 
-## 28. [The Stone Angel](https://serp.ly/@serpmedia/github/amazon/The+Stone+Angel)
+## 28. [The Stone Angel](https://serp.ly/amazon/The+Stone+Angel)
 
 ![The Stone Angel](https://image.tmdb.org/t/p/original/iUmjFO2ZjdbqLvSyX4CENOY1aRI.jpg)
 
@@ -1134,7 +1134,7 @@ Hagar Shipley, a spirited elderly woman, has led an unconventional life that has
 <hr>
 
 
-## 29. [Tuscaloosa](https://serp.ly/@serpmedia/github/amazon/Tuscaloosa)
+## 29. [Tuscaloosa](https://serp.ly/amazon/Tuscaloosa)
 
 ![Tuscaloosa](https://image.tmdb.org/t/p/original/jDCfNHisRQLySPPpuzUtxG0gETQ.jpg)
 
@@ -1170,7 +1170,7 @@ Billy Mitchell, a college graduate on the verge of high society, has his plans f
 <hr>
 
 
-## 30. [Knights of the South Bronx](https://serp.ly/@serpmedia/github/amazon/Knights+of+the+South+Bronx)
+## 30. [Knights of the South Bronx](https://serp.ly/amazon/Knights+of+the+South+Bronx)
 
 ![Knights of the South Bronx](https://image.tmdb.org/t/p/original/31tamKoAe4NayUVAxZ6PSbNBpY2.jpg)
 
@@ -1208,7 +1208,7 @@ In the heart of the South Bronx, a successful businessman makes an unexpected ca
 <hr>
 
 
-## 31. [Pink Skies Ahead](https://serp.ly/@serpmedia/github/amazon/Pink+Skies+Ahead)
+## 31. [Pink Skies Ahead](https://serp.ly/amazon/Pink+Skies+Ahead)
 
 ![Pink Skies Ahead](https://image.tmdb.org/t/p/original/9znH5e4b36vjNSVKwyyjiUTq728.jpg)
 
@@ -1245,7 +1245,7 @@ In the heart of the South Bronx, a successful businessman makes an unexpected ca
 <hr>
 
 
-## 32. [A Life Interrupted](https://serp.ly/@serpmedia/github/amazon/A+Life+Interrupted)
+## 32. [A Life Interrupted](https://serp.ly/amazon/A+Life+Interrupted)
 
 ![A Life Interrupted](https://image.tmdb.org/t/p/original/v3v3C6GiwJrcyN5HrGyzoP1QMX2.jpg)
 
@@ -1278,7 +1278,7 @@ After Debbie Smith was brutally raped in 1989, she didn't just seek justice - sh
 <hr>
 
 
-## 33. [Finn's Girl](https://serp.ly/@serpmedia/github/amazon/Finn%27s+Girl)
+## 33. [Finn's Girl](https://serp.ly/amazon/Finn%27s+Girl)
 
 ![Finn's Girl](https://image.tmdb.org/t/p/original/uzMUuV7uvrcvNJ33DjMwLbrufc4.jpg)
 
@@ -1312,7 +1312,7 @@ When Dr. Finn Jeffries steps into her deceased lover's shoes, she becomes more t
 <hr>
 
 
-## 34. [Roxy Hunter and the Horrific Halloween](https://serp.ly/@serpmedia/github/amazon/Roxy+Hunter+and+the+Horrific+Halloween)
+## 34. [Roxy Hunter and the Horrific Halloween](https://serp.ly/amazon/Roxy+Hunter+and+the+Horrific+Halloween)
 
 ![Roxy Hunter and the Horrific Halloween](https://image.tmdb.org/t/p/original/z4uFiDkDAJVasXFVw2I2mprNidN.jpg)
 
@@ -1346,7 +1346,7 @@ Roxy's first Halloween in Serenity Falls turns from boring to bone-chilling when
 <hr>
 
 
-## 35. [Hustle](https://serp.ly/@serpmedia/github/amazon/Hustle)
+## 35. [Hustle](https://serp.ly/amazon/Hustle)
 
 ![Hustle](https://image.tmdb.org/t/p/original/rf3Rd8eekjFcdkhDri98cad5u0L.jpg)
 
@@ -1380,7 +1380,7 @@ Roxy's first Halloween in Serenity Falls turns from boring to bone-chilling when
 <hr>
 
 
-## 36. [Citizen Duane](https://serp.ly/@serpmedia/github/amazon/Citizen+Duane)
+## 36. [Citizen Duane](https://serp.ly/amazon/Citizen+Duane)
 
 ![Citizen Duane](https://image.tmdb.org/t/p/original/qi0K30hYhhHdKagfWdoo1MU9EYB.jpg)
 
@@ -1416,7 +1416,7 @@ In the quirky town of Ridgeway, an ambitious teenager named Duane Balfour channe
 <hr>
 
 
-## 37. [Shania A Life in Eight Albums](https://serp.ly/@serpmedia/github/amazon/Shania+A+Life+in+Eight+Albums)
+## 37. [Shania A Life in Eight Albums](https://serp.ly/amazon/Shania+A+Life+in+Eight+Albums)
 
 ![Shania A Life in Eight Albums](https://image.tmdb.org/t/p/original/9Wmr66w9x5zAAh4jW8jxHoH54DV.jpg)
 
@@ -1450,7 +1450,7 @@ In the quirky town of Ridgeway, an ambitious teenager named Duane Balfour channe
 <hr>
 
 
-## 38. [30/30 Vision: Three Decades of Strand Releasing](https://serp.ly/@serpmedia/github/amazon/30%2F30+Vision%3A+Three+Decades+of+Strand+Releasing)
+## 38. [30/30 Vision: Three Decades of Strand Releasing](https://serp.ly/amazon/30%2F30+Vision%3A+Three+Decades+of+Strand+Releasing)
 
 ![30/30 Vision: Three Decades of Strand Releasing](https://image.tmdb.org/t/p/original/88FdEoGjEzvClNuWLdeZB6RjfHS.jpg)
 
@@ -1486,7 +1486,7 @@ An omnibus presentation of 35 original films from master filmmakers all shot on 
 <hr>
 
 
-## 39. [Verona](https://serp.ly/@serpmedia/github/amazon/Verona)
+## 39. [Verona](https://serp.ly/amazon/Verona)
 
 ![Verona](https://image.tmdb.org/t/p/original/yIE3LUzbj5NqIAeB6Ew4vEdBH4O.jpg)
 
@@ -1520,7 +1520,7 @@ In this heartwarming tale, two young lovers from Verona, Italy, fall unexpectedl
 <hr>
 
 
-## 40. [King of Sorrow](https://serp.ly/@serpmedia/github/amazon/King+of+Sorrow)
+## 40. [King of Sorrow](https://serp.ly/amazon/King+of+Sorrow)
 
 ![King of Sorrow](https://image.tmdb.org/t/p/original/sx1sTG4Bdb5r1sjaDXlvSU3bKRL.jpg)
 
@@ -1556,7 +1556,7 @@ In "King of Sorrow", a suicidal psychiatrist falls unexpectedly in love with a d
 <hr>
 
 
-## 41. [Aruba](https://serp.ly/@serpmedia/github/amazon/Aruba)
+## 41. [Aruba](https://serp.ly/amazon/Aruba)
 
 ![Aruba](https://image.tmdb.org/t/p/original/8v1AC8RTWAiBIm54k6AMnXraKWV.jpg)
 
@@ -1587,7 +1587,7 @@ Milan is an 11-year-old boy living in a violent home environment. When his paren
 <hr>
 
 
-## 42. [All That We Love](https://serp.ly/@serpmedia/github/amazon/All+That+We+Love)
+## 42. [All That We Love](https://serp.ly/amazon/All+That+We+Love)
 
 <br>
 
@@ -1613,7 +1613,7 @@ After losing her beloved dog, Emma's life takes an unexpected turn that transfor
 <hr>
 
 
-## 43. [Mirage](https://serp.ly/@serpmedia/github/amazon/Mirage)
+## 43. [Mirage](https://serp.ly/amazon/Mirage)
 
 ![Mirage](https://image.tmdb.org/t/p/original/XQkzPs5GjuDiBOhJXE374c6DAz.jpg)
 
@@ -1644,7 +1644,7 @@ In a world where dark secrets threaten to destroy their love, Adam and Loli find
 <hr>
 
 
-## 1. [Fargo](https://serp.ly/@serpmedia/github/amazon/Fargo)
+## 1. [Fargo](https://serp.ly/amazon/Fargo)
 
 ![Fargo](https://image.tmdb.org/t/p/original/6U9CPeD8obHzweikFhiLhpc7YBT.jpg)
 
@@ -1690,7 +1690,7 @@ Fargo delves into the darker side of Minnesota life through five seasons of scri
 <hr>
 
 
-## 2. [Degrassi](https://serp.ly/@serpmedia/github/amazon/Degrassi)
+## 2. [Degrassi](https://serp.ly/amazon/Degrassi)
 
 ![Degrassi](https://image.tmdb.org/t/p/original/58SXbXUvMCimb26hRgdfgBeeCAR.jpg)
 
@@ -1734,7 +1734,7 @@ If your life was a TV show, this would be it.
 <hr>
 
 
-## 3. [The 100](https://serp.ly/@serpmedia/github/amazon/The+100)
+## 3. [The 100](https://serp.ly/amazon/The+100)
 
 ![The 100](https://image.tmdb.org/t/p/original/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg)
 
@@ -1778,7 +1778,7 @@ The year is 2114, and Earth has been abandoned due toradioactivity. The last sur
 <hr>
 
 
-## 4. [The Listener](https://serp.ly/@serpmedia/github/amazon/The+Listener)
+## 4. [The Listener](https://serp.ly/amazon/The+Listener)
 
 ![The Listener](https://image.tmdb.org/t/p/original/8408RJvs3zRjA0e69I1zJTRxQye.jpg)
 
@@ -1822,7 +1822,7 @@ Toby Logan is a highly skilled paramedic with a secret - he can read minds. Grow
 <hr>
 
 
-## 5. [The Marvelous Mrs. Maisel](https://serp.ly/@serpmedia/github/amazon/The+Marvelous+Mrs.+Maisel)
+## 5. [The Marvelous Mrs. Maisel](https://serp.ly/amazon/The+Marvelous+Mrs.+Maisel)
 
 ![The Marvelous Mrs. Maisel](https://image.tmdb.org/t/p/original/zS7fQiOZiKCVH2vlYSiIsFWW8hh.jpg)
 
@@ -1864,7 +1864,7 @@ In 1958 Manhattan, Miriam "Midge" Maisel has the perfect Upper West Side life - 
 <hr>
 
 
-## 6. [Haven](https://serp.ly/@serpmedia/github/amazon/Haven)
+## 6. [Haven](https://serp.ly/amazon/Haven)
 
 ![Haven](https://image.tmdb.org/t/p/original/aceumwROgphFLSyOXFfijaoSZJE.jpg)
 
@@ -1908,7 +1908,7 @@ When FBI agent Audrey Parker arrives in the small Maine town of Haven to investi
 <hr>
 
 
-## 7. [Rookie Blue](https://serp.ly/@serpmedia/github/amazon/Rookie+Blue)
+## 7. [Rookie Blue](https://serp.ly/amazon/Rookie+Blue)
 
 ![Rookie Blue](https://image.tmdb.org/t/p/original/e3hfrKjLHKjj3p82xvvGvfIu628.jpg)
 
@@ -1952,7 +1952,7 @@ When five ambitious young cops join the force, they discover that every day is a
 <hr>
 
 
-## 8. [Most Dangerous Game](https://serp.ly/@serpmedia/github/amazon/Most+Dangerous+Game)
+## 8. [Most Dangerous Game](https://serp.ly/amazon/Most+Dangerous+Game)
 
 ![Most Dangerous Game](https://image.tmdb.org/t/p/original/begeAFRPkHzrW05ZQXHrB9pqugt.jpg)
 
@@ -1996,7 +1996,7 @@ When Dodge Maynard receives a terminal diagnosis, he makes a desperate pact to s
 <hr>
 
 
-## 9. [Jake 2.0](https://serp.ly/@serpmedia/github/amazon/Jake+2.0)
+## 9. [Jake 2.0](https://serp.ly/amazon/Jake+2.0)
 
 ![Jake 2.0](https://image.tmdb.org/t/p/original/5v1ztY9py8pPgeMPYn606zsgjRI.jpg)
 
@@ -2038,7 +2038,7 @@ When computer expert Jake Foley works for the U. S. government's National Securi
 <hr>
 
 
-## 10. [FUBAR](https://serp.ly/@serpmedia/github/amazon/FUBAR)
+## 10. [FUBAR](https://serp.ly/amazon/FUBAR)
 
 ![FUBAR](https://image.tmdb.org/t/p/original/ryqcPZCEnEahBW4X06QZBUmtavp.jpg)
 
@@ -2086,7 +2086,7 @@ When a father and daughter discover they both secretly work for the CIA, an alre
 <hr>
 
 
-## 11. [A Teacher](https://serp.ly/@serpmedia/github/amazon/A+Teacher)
+## 11. [A Teacher](https://serp.ly/amazon/A+Teacher)
 
 ![A Teacher](https://image.tmdb.org/t/p/original/rH2eEuThzRQh87Uxz6SY3BuVNBD.jpg)
 
@@ -2130,7 +2130,7 @@ Power, abuse, and the damage it leaves.
 <hr>
 
 
-## 12. [72 Hours: True Crime](https://serp.ly/@serpmedia/github/amazon/72+Hours%3A+True+Crime)
+## 12. [72 Hours: True Crime](https://serp.ly/amazon/72+Hours%3A+True+Crime)
 
 ![72 Hours: True Crime](https://image.tmdb.org/t/p/original/pqbMswEAccLvvKdmhmZXY0XYUcr.jpg)
 
@@ -2172,7 +2172,7 @@ Power, abuse, and the damage it leaves.
 <hr>
 
 
-## 13. [Being Erica](https://serp.ly/@serpmedia/github/amazon/Being+Erica)
+## 13. [Being Erica](https://serp.ly/amazon/Being+Erica)
 
 ![Being Erica](https://image.tmdb.org/t/p/original/51RMb62ig5q2VWG9BOQBtsHjxoN.jpg)
 
@@ -2214,7 +2214,7 @@ When young Erica Strange finds herself regretting nearly every decision she's ev
 <hr>
 
 
-## 14. [Assassin's Creed: Lineage](https://serp.ly/@serpmedia/github/amazon/Assassin%27s+Creed%3A+Lineage)
+## 14. [Assassin's Creed: Lineage](https://serp.ly/amazon/Assassin%27s+Creed%3A+Lineage)
 
 ![Assassin's Creed: Lineage](https://image.tmdb.org/t/p/original/i9H4PEtufr7yazAAkShwGemkwHz.jpg)
 
@@ -2258,7 +2258,7 @@ When the Duke of Milan is brutally murdered, Assassin Giovanni Auditore is dispa
 <hr>
 
 
-## 15. [Monday Mornings](https://serp.ly/@serpmedia/github/amazon/Monday+Mornings)
+## 15. [Monday Mornings](https://serp.ly/amazon/Monday+Mornings)
 
 ![Monday Mornings](https://image.tmdb.org/t/p/original/wwleMzF1coegmnieJiMvsOgYTQ9.jpg)
 
@@ -2300,7 +2300,7 @@ Starting as a promising medical drama on TNT, "Monday Mornings" quickly became a
 <hr>
 
 
-## 16. [Odyssey 5](https://serp.ly/@serpmedia/github/amazon/Odyssey+5)
+## 16. [Odyssey 5](https://serp.ly/amazon/Odyssey+5)
 
 ![Odyssey 5](https://image.tmdb.org/t/p/original/cFmvX3lFdBXRkSsTqS2eUoDTdC3.jpg)
 
@@ -2342,7 +2342,7 @@ Starting as a promising medical drama on TNT, "Monday Mornings" quickly became a
 <hr>
 
 
-## 17. [The Altar Boy Gang](https://serp.ly/@serpmedia/github/amazon/The+Altar+Boy+Gang)
+## 17. [The Altar Boy Gang](https://serp.ly/amazon/The+Altar+Boy+Gang)
 
 <br>
 

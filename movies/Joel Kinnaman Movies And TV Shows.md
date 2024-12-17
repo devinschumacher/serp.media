@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Suicide Squad](https://serp.ly/@serpmedia/github/amazon/Suicide+Squad)
+## 1. [Suicide Squad](https://serp.ly/amazon/Suicide+Squad)
 
 ![Suicide Squad](https://image.tmdb.org/t/p/original/xFw9RXKZDvevAGocgBK0zteto4U.jpg)
 
@@ -80,7 +80,7 @@ When the United States government needs to get rid of bad guys, they turn to the
 <hr>
 
 
-## 2. [The Suicide Squad](https://serp.ly/@serpmedia/github/amazon/The+Suicide+Squad)
+## 2. [The Suicide Squad](https://serp.ly/amazon/The+Suicide+Squad)
 
 ![The Suicide Squad](https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg)
 
@@ -123,7 +123,7 @@ When the super-secret Task Force X picks some of the most dangerous villains fro
 <hr>
 
 
-## 3. [The Girl with the Dragon Tattoo](https://serp.ly/@serpmedia/github/amazon/The+Girl+with+the+Dragon+Tattoo)
+## 3. [The Girl with the Dragon Tattoo](https://serp.ly/amazon/The+Girl+with+the+Dragon+Tattoo)
 
 ![The Girl with the Dragon Tattoo](https://image.tmdb.org/t/p/original/8bokS83zGdhaXgN9tjidUKmAftW.jpg)
 
@@ -164,7 +164,7 @@ Mikael Blomkvist, a distinguished journalist, embarks on a relentless search for
 <hr>
 
 
-## 4. [RoboCop](https://serp.ly/@serpmedia/github/amazon/RoboCop)
+## 4. [RoboCop](https://serp.ly/amazon/RoboCop)
 
 ![RoboCop](https://image.tmdb.org/t/p/original/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg)
 
@@ -204,7 +204,7 @@ In RoboCop, OmniCorp envisions a future where part-man, part-robot police office
 <hr>
 
 
-## 5. [Safe House](https://serp.ly/@serpmedia/github/amazon/Safe+House)
+## 5. [Safe House](https://serp.ly/amazon/Safe+House)
 
 ![Safe House](https://image.tmdb.org/t/p/original/7SYBPjv5ywF6cI4BSFFtlDyChT2.jpg)
 
@@ -247,7 +247,7 @@ When a rogue CIA agent returns from a decade on the run, he's sent to a safe hou
 <hr>
 
 
-## 6. [Run All Night](https://serp.ly/@serpmedia/github/amazon/Run+All+Night)
+## 6. [Run All Night](https://serp.ly/amazon/Run+All+Night)
 
 ![Run All Night](https://image.tmdb.org/t/p/original/frzdzHceByAIlwVKvSvY9zqpjyV.jpg)
 
@@ -288,7 +288,7 @@ When Jimmy Conlon, a Brooklyn mobster, learns that his estranged son is in dange
 <hr>
 
 
-## 7. [Child 44](https://serp.ly/@serpmedia/github/amazon/Child+44)
+## 7. [Child 44](https://serp.ly/amazon/Child+44)
 
 ![Child 44](https://image.tmdb.org/t/p/original/qqGhMt31HVUN3WnH0L2r0OWq38E.jpg)
 
@@ -331,7 +331,7 @@ In Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a
 <hr>
 
 
-## 8. [The Darkest Hour](https://serp.ly/@serpmedia/github/amazon/The+Darkest+Hour)
+## 8. [The Darkest Hour](https://serp.ly/amazon/The+Darkest+Hour)
 
 ![The Darkest Hour](https://image.tmdb.org/t/p/original/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg)
 
@@ -374,7 +374,7 @@ The Darkest Hour brings young heroes to the forefront of Earth's defense against
 <hr>
 
 
-## 9. [The Informer](https://serp.ly/@serpmedia/github/amazon/The+Informer)
+## 9. [The Informer](https://serp.ly/amazon/The+Informer)
 
 ![The Informer](https://image.tmdb.org/t/p/original/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg)
 
@@ -414,7 +414,7 @@ When former convict Pete Koslow returns to New York, he's pulled back into the c
 <hr>
 
 
-## 10. [Silent Night](https://serp.ly/@serpmedia/github/amazon/Silent+Night)
+## 10. [Silent Night](https://serp.ly/amazon/Silent+Night)
 
 ![Silent Night](https://image.tmdb.org/t/p/original/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg)
 
@@ -455,7 +455,7 @@ Silent Night plunges you into a father's darkest hour as he loses his young son 
 <hr>
 
 
-## 11. [Knight of Cups](https://serp.ly/@serpmedia/github/amazon/Knight+of+Cups)
+## 11. [Knight of Cups](https://serp.ly/amazon/Knight+of+Cups)
 
 ![Knight of Cups](https://image.tmdb.org/t/p/original/xejFBC19Nc7Xi1MiIvcf84ZCy2g.jpg)
 
@@ -496,7 +496,7 @@ A quest.
 <hr>
 
 
-## 12. [The Secrets We Keep](https://serp.ly/@serpmedia/github/amazon/The+Secrets+We+Keep)
+## 12. [The Secrets We Keep](https://serp.ly/amazon/The+Secrets+We+Keep)
 
 ![The Secrets We Keep](https://image.tmdb.org/t/p/original/llH79Avl9IYYoHTKRv0iA8rzpuO.jpg)
 
@@ -539,7 +539,7 @@ In post-World War II America, a woman carefully rebuilding her life in the subur
 <hr>
 
 
-## 13. [Easy Money](https://serp.ly/@serpmedia/github/amazon/Easy+Money)
+## 13. [Easy Money](https://serp.ly/amazon/Easy+Money)
 
 ![Easy Money](https://image.tmdb.org/t/p/original/ezx8LhhpZd6U4sd0lXyCEUhIBUc.jpg)
 
@@ -573,7 +573,7 @@ When JW becomes a drug runner to maintain his double life, he gets entangled wit
 <hr>
 
 
-## 14. [Sympathy for the Devil](https://serp.ly/@serpmedia/github/amazon/Sympathy+for+the+Devil)
+## 14. [Sympathy for the Devil](https://serp.ly/amazon/Sympathy+for+the+Devil)
 
 ![Sympathy for the Devil](https://image.tmdb.org/t/p/original/afGdVMa80LMs6ibLP22CwM5uI4e.jpg)
 
@@ -612,7 +612,7 @@ After being forced to drive a mysterious passenger at gunpoint, a man finds hims
 <hr>
 
 
-## 15. [Edge of Winter](https://serp.ly/@serpmedia/github/amazon/Edge+of+Winter)
+## 15. [Edge of Winter](https://serp.ly/amazon/Edge+of+Winter)
 
 ![Edge of Winter](https://image.tmdb.org/t/p/original/6SyQ9ebUm90yPrIfQtIKvrFwxnj.jpg)
 
@@ -651,7 +651,7 @@ Two brothers find themselves trapped by a violent winter storm with a distant fa
 <hr>
 
 
-## 16. [Brothers by Blood](https://serp.ly/@serpmedia/github/amazon/Brothers+by+Blood)
+## 16. [Brothers by Blood](https://serp.ly/amazon/Brothers+by+Blood)
 
 ![Brothers by Blood](https://image.tmdb.org/t/p/original/2RKGUCbo2R6IDsufxApL6nRFL4j.jpg)
 
@@ -690,7 +690,7 @@ In the shadowed corners of Philadelphia, two Irish mob sons, Peter and Michael, 
 <hr>
 
 
-## 17. [Easy Money: Hard to Kill](https://serp.ly/@serpmedia/github/amazon/Easy+Money%3A+Hard+to+Kill)
+## 17. [Easy Money: Hard to Kill](https://serp.ly/amazon/Easy+Money%3A+Hard+to+Kill)
 
 ![Easy Money: Hard to Kill](https://image.tmdb.org/t/p/original/kgSE9epmyShnfjAIWzIelW534cg.jpg)
 
@@ -729,7 +729,7 @@ JW is serving hard time in prison and struggling to get back on an honest path. 
 <hr>
 
 
-## 18. [Lola Versus](https://serp.ly/@serpmedia/github/amazon/Lola+Versus)
+## 18. [Lola Versus](https://serp.ly/amazon/Lola+Versus)
 
 ![Lola Versus](https://image.tmdb.org/t/p/original/vAmofQjo2lECavOLlK72O3kFNc0.jpg)
 
@@ -770,7 +770,7 @@ Three weeks before her wedding, Lola's longtime fiancé ends their relationship,
 <hr>
 
 
-## 19. [Arn: The Kingdom at Road's End](https://serp.ly/@serpmedia/github/amazon/Arn%3A+The+Kingdom+at+Road%27s+End)
+## 19. [Arn: The Kingdom at Road's End](https://serp.ly/amazon/Arn%3A+The+Kingdom+at+Road%27s+End)
 
 ![Arn: The Kingdom at Road's End](https://image.tmdb.org/t/p/original/6yu0RmSffk4sVeEGIRO1LSvtYvq.jpg)
 
@@ -804,7 +804,7 @@ When Arn returns from his holy land service, he finds political forces trying to
 <hr>
 
 
-## 20. [Easy Money III: Life Deluxe](https://serp.ly/@serpmedia/github/amazon/Easy+Money+III%3A+Life+Deluxe)
+## 20. [Easy Money III: Life Deluxe](https://serp.ly/amazon/Easy+Money+III%3A+Life+Deluxe)
 
 ![Easy Money III: Life Deluxe](https://image.tmdb.org/t/p/original/oSTHRFOcC1l1qpW84n7RioCDRnY.jpg)
 
@@ -840,7 +840,7 @@ JW, living in exile, embarks on a personal mission to uncover the truth behind h
 <hr>
 
 
-## 21. [DC Films Presents Dawn of the Justice League](https://serp.ly/@serpmedia/github/amazon/DC+Films+Presents+Dawn+of+the+Justice+League)
+## 21. [DC Films Presents Dawn of the Justice League](https://serp.ly/amazon/DC+Films+Presents+Dawn+of+the+Justice+League)
 
 ![DC Films Presents Dawn of the Justice League](https://image.tmdb.org/t/p/original/jjYndp8PuLFNuIbGg6Zs7MkxWIc.jpg)
 
@@ -874,7 +874,7 @@ Travel back in time with Kevin Smith and Geoff Johns to explore the birth of the
 <hr>
 
 
-## 22. [Johan Falk: GSI - Gruppen för särskilda insatser](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+GSI+-+Gruppen+f%C3%B6r+s%C3%A4rskilda+insatser)
+## 22. [Johan Falk: GSI - Gruppen för särskilda insatser](https://serp.ly/amazon/Johan+Falk%3A+GSI+-+Gruppen+f%C3%B6r+s%C3%A4rskilda+insatser)
 
 ![Johan Falk: GSI - Gruppen för särskilda insatser](https://image.tmdb.org/t/p/original/hJVq80mJAy992hdtiBDuvrrI8nP.jpg)
 
@@ -910,7 +910,7 @@ When Johan Falk teams up with the GSI organized crime unit, their mission is to 
 <hr>
 
 
-## 23. [The Invisible](https://serp.ly/@serpmedia/github/amazon/The+Invisible)
+## 23. [The Invisible](https://serp.ly/amazon/The+Invisible)
 
 ![The Invisible](https://image.tmdb.org/t/p/original/vinvtwxUlNlcnsTwh17NvoFcC5s.jpg)
 
@@ -944,7 +944,7 @@ When a young man is tragically killed, he returns as a ghost to haunt his killer
 <hr>
 
 
-## 24. [Johan Falk: Leo Gaut](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Leo+Gaut)
+## 24. [Johan Falk: Leo Gaut](https://serp.ly/amazon/Johan+Falk%3A+Leo+Gaut)
 
 ![Johan Falk: Leo Gaut](https://image.tmdb.org/t/p/original/kEIee5x7tsJkwUTNaIohzuPSPvA.jpg)
 
@@ -978,7 +978,7 @@ When a car explodes in front of a primary school, it brings together an unlikely
 <hr>
 
 
-## 25. [Johan Falk: Vapenbröder](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Vapenbr%C3%B6der)
+## 25. [Johan Falk: Vapenbröder](https://serp.ly/amazon/Johan+Falk%3A+Vapenbr%C3%B6der)
 
 ![Johan Falk: Vapenbröder](https://image.tmdb.org/t/p/original/vDQkGkZd38B5JP6zP5HTcWK1Kej.jpg)
 
@@ -1012,7 +1012,7 @@ When the Gothenburg police special unit GSI receives intelligence about a major 
 <hr>
 
 
-## 26. [Johan Falk: Kodnamn: Lisa](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Kodnamn%3A+Lisa)
+## 26. [Johan Falk: Kodnamn: Lisa](https://serp.ly/amazon/Johan+Falk%3A+Kodnamn%3A+Lisa)
 
 ![Johan Falk: Kodnamn: Lisa](https://image.tmdb.org/t/p/original/uEaWnpEmoOgHlOwJIyGmPlyR0JR.jpg)
 
@@ -1046,7 +1046,7 @@ When five men storm into Frank Wagner's apartment, he narrowly escapes and turns
 <hr>
 
 
-## 27. [Johan Falk: De 107 patrioterna](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+De+107+patrioterna)
+## 27. [Johan Falk: De 107 patrioterna](https://serp.ly/amazon/Johan+Falk%3A+De+107+patrioterna)
 
 ![Johan Falk: De 107 patrioterna](https://image.tmdb.org/t/p/original/mzxxguGcn0mFFwUCzhrM2QVzUrB.jpg)
 
@@ -1080,7 +1080,7 @@ In Gothenburg's picturesque Slottsskogen park, an ordinary day turns deadly when
 <hr>
 
 
-## 28. [Johan Falk: Organizatsija Karayan](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Organizatsija+Karayan)
+## 28. [Johan Falk: Organizatsija Karayan](https://serp.ly/amazon/Johan+Falk%3A+Organizatsija+Karayan)
 
 ![Johan Falk: Organizatsija Karayan](https://image.tmdb.org/t/p/original/2cNfhaCFKAwDoWlEzrykylERQ2H.jpg)
 
@@ -1114,7 +1114,7 @@ When Johan Falk's stepdaughter Nina reconnects with her biological father Orjan,
 <hr>
 
 
-## 29. [Johan Falk: National Target](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+National+Target)
+## 29. [Johan Falk: National Target](https://serp.ly/amazon/Johan+Falk%3A+National+Target)
 
 ![Johan Falk: National Target](https://image.tmdb.org/t/p/original/lXkdIyUuSTieOGQbxT6QjqphYSh.jpg)
 
@@ -1148,7 +1148,7 @@ When Frank Wagner goes undercover to infiltrate Europe's most dangerous Mafia, h
 <hr>
 
 
-## 30. [Johan Falk: The Outlaws](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+The+Outlaws)
+## 30. [Johan Falk: The Outlaws](https://serp.ly/amazon/Johan+Falk%3A+The+Outlaws)
 
 ![Johan Falk: The Outlaws](https://image.tmdb.org/t/p/original/el0EbbBsh8zWKYiiuANQxznELr5.jpg)
 
@@ -1184,7 +1184,7 @@ In this Swedish crime thriller, aShoot-out between Johan, a Gothenburg cop, and 
 <hr>
 
 
-## 31. [Johan Falk: Operation Näktergal](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Operation+N%C3%A4ktergal)
+## 31. [Johan Falk: Operation Näktergal](https://serp.ly/amazon/Johan+Falk%3A+Operation+N%C3%A4ktergal)
 
 ![Johan Falk: Operation Näktergal](https://image.tmdb.org/t/p/original/k15ho9b3YEVtFf0txA56Rim0wto.jpg)
 
@@ -1218,7 +1218,7 @@ When young women from Eastern Europe are forcibly brought into prostitution, Joh
 <hr>
 
 
-## 32. [Johan Falk: Barninfiltratören](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Barninfiltrat%C3%B6ren)
+## 32. [Johan Falk: Barninfiltratören](https://serp.ly/amazon/Johan+Falk%3A+Barninfiltrat%C3%B6ren)
 
 ![Johan Falk: Barninfiltratören](https://image.tmdb.org/t/p/original/wu5cpt5wgsFl9gsN1rEQyjQ7ncr.jpg)
 
@@ -1252,7 +1252,7 @@ In this 2012 Swedish crime thriller, a talented young robber named Ricky leads a
 <hr>
 
 
-## 33. [Johan Falk: Spelets regler](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Spelets+regler)
+## 33. [Johan Falk: Spelets regler](https://serp.ly/amazon/Johan+Falk%3A+Spelets+regler)
 
 ![Johan Falk: Spelets regler](https://image.tmdb.org/t/p/original/50mNDBybJEfiu4PKni73YSlDo9s.jpg)
 
@@ -1286,7 +1286,7 @@ When John Falk's investigation crosses paths with Frank Wagner's undercover work
 <hr>
 
 
-## 34. [Johan Falk: Alla råns moder](https://serp.ly/@serpmedia/github/amazon/Johan+Falk%3A+Alla+r%C3%A5ns+moder)
+## 34. [Johan Falk: Alla råns moder](https://serp.ly/amazon/Johan+Falk%3A+Alla+r%C3%A5ns+moder)
 
 ![Johan Falk: Alla råns moder](https://image.tmdb.org/t/p/original/oscDeCqfQdrnAASrIGPcsSfGW3S.jpg)
 
@@ -1320,7 +1320,7 @@ In this 2012 Swedish thriller, Sophie Nordh - second in command at GSI - convinc
 <hr>
 
 
-## 35. [Storm](https://serp.ly/@serpmedia/github/amazon/Storm)
+## 35. [Storm](https://serp.ly/amazon/Storm)
 
 ![Storm](https://image.tmdb.org/t/p/original/kHoTQa6CToMsnPYP2Uy6K1B6H1x.jpg)
 
@@ -1356,7 +1356,7 @@ You may have forgotten your past, but it hasn't forgotten you…
 <hr>
 
 
-## 36. [God Save the King](https://serp.ly/@serpmedia/github/amazon/God+Save+the+King)
+## 36. [God Save the King](https://serp.ly/amazon/God+Save+the+King)
 
 ![God Save the King](https://image.tmdb.org/t/p/original/k7K0PGTnDeOBd03R0Xi3oFyaPHw.jpg)
 
@@ -1390,7 +1390,7 @@ In this 2005 Swedish punk drama, a young girl runs away from her small town to p
 <hr>
 
 
-## 37. [In Your Veins](https://serp.ly/@serpmedia/github/amazon/In+Your+Veins)
+## 37. [In Your Veins](https://serp.ly/amazon/In+Your+Veins)
 
 ![In Your Veins](https://image.tmdb.org/t/p/original/9a0WYI3uCRbPJZ8bDwXwsryE6JW.jpg)
 
@@ -1424,7 +1424,7 @@ In a romantic drama set in Sweden, a security officer's carefully constructed li
 <hr>
 
 
-## 38. [No Time for Love](https://serp.ly/@serpmedia/github/amazon/No+Time+for+Love)
+## 38. [No Time for Love](https://serp.ly/amazon/No+Time+for+Love)
 
 ![No Time for Love](https://image.tmdb.org/t/p/original/h50E6Y59LmS1EMi48jCKY0bCmLP.jpg)
 
@@ -1462,7 +1462,7 @@ When the free-spirited Danish novelist Simon invites the meticulous Swedish lawy
 <hr>
 
 
-## 39. [Hannah med H](https://serp.ly/@serpmedia/github/amazon/Hannah+med+H)
+## 39. [Hannah med H](https://serp.ly/amazon/Hannah+med+H)
 
 ![Hannah med H](https://image.tmdb.org/t/p/original/5n26zwpvNrBxVZsm3C5Svkc0wJC.jpg)
 
@@ -1498,7 +1498,7 @@ Hannah med H follows a young Swedish woman named Hannah who lives alone and star
 <hr>
 
 
-## 40. [Paltalk](https://serp.ly/@serpmedia/github/amazon/Paltalk)
+## 40. [Paltalk](https://serp.ly/amazon/Paltalk)
 
 ![Paltalk](https://image.tmdb.org/t/p/original/owns4FrcPD2ApSQJFa3NylaLxbJ.jpg)
 
@@ -1531,7 +1531,7 @@ Erik and Jocke, two aimless friends, wander through town discussing the directio
 <hr>
 
 
-## 41. [The Silent Hour](https://serp.ly/@serpmedia/github/amazon/The+Silent+Hour)
+## 41. [The Silent Hour](https://serp.ly/amazon/The+Silent+Hour)
 
 ![The Silent Hour](https://image.tmdb.org/t/p/original/5g58e3kQT9kmCSrazTkkMWpiXhc.jpg)
 
@@ -1559,7 +1559,7 @@ In "The Silent Hour", a hearing-impaired police detective works alongside prosec
 <hr>
 
 
-## 42. [The Beast](https://serp.ly/@serpmedia/github/amazon/The+Beast)
+## 42. [The Beast](https://serp.ly/amazon/The+Beast)
 
 <br>
 
@@ -1580,7 +1580,7 @@ The Beast rises as an elite militia threatens the U. S. , and the president disc
 <hr>
 
 
-## 43. [Run All Night 2](https://serp.ly/@serpmedia/github/amazon/Run+All+Night+2)
+## 43. [Run All Night 2](https://serp.ly/amazon/Run+All+Night+2)
 
 <br>
 
@@ -1601,7 +1601,7 @@ When former Irish mobster Jimmy "The Gravedigger" Conlon returns for a sequel, h
 <hr>
 
 
-## 44. [Ice Fall](https://serp.ly/@serpmedia/github/amazon/Ice+Fall)
+## 44. [Ice Fall](https://serp.ly/amazon/Ice+Fall)
 
 <br>
 
@@ -1622,7 +1622,7 @@ In a frozen wilderness, a young Indigenous game warden's world changes when he a
 <hr>
 
 
-## 45. [They Found Us](https://serp.ly/@serpmedia/github/amazon/They+Found+Us)
+## 45. [They Found Us](https://serp.ly/amazon/They+Found+Us)
 
 <br>
 
@@ -1646,7 +1646,7 @@ When a father and daughter hit the Utah wilderness for a much-needed camping tri
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1692,7 +1692,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 2. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1736,7 +1736,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 3. [For All Mankind](https://serp.ly/@serpmedia/github/amazon/For+All+Mankind)
+## 3. [For All Mankind](https://serp.ly/amazon/For+All+Mankind)
 
 ![For All Mankind](https://image.tmdb.org/t/p/original/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg)
 
@@ -1782,7 +1782,7 @@ In this scripted series, NASA and the space program take center stage as the ult
 <hr>
 
 
-## 4. [House of Cards](https://serp.ly/@serpmedia/github/amazon/House+of+Cards)
+## 4. [House of Cards](https://serp.ly/amazon/House+of+Cards)
 
 ![House of Cards](https://image.tmdb.org/t/p/original/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg)
 
@@ -1826,7 +1826,7 @@ In present-day Washington, D. C. , Frank Underwood navigates a landscape of poli
 <hr>
 
 
-## 5. [Altered Carbon](https://serp.ly/@serpmedia/github/amazon/Altered+Carbon)
+## 5. [Altered Carbon](https://serp.ly/amazon/Altered+Carbon)
 
 ![Altered Carbon](https://image.tmdb.org/t/p/original/95IsiH4p5937YXQHaOS2W2dWYOG.jpg)
 
@@ -1870,7 +1870,7 @@ When a prisoner returns to life after 250 years on ice, he's offered a chance to
 <hr>
 
 
-## 6. [Hanna](https://serp.ly/@serpmedia/github/amazon/Hanna)
+## 6. [Hanna](https://serp.ly/amazon/Hanna)
 
 ![Hanna](https://image.tmdb.org/t/p/original/pe10EUjgO2jgwiu01MAv9l3IjxG.jpg)
 
@@ -1912,7 +1912,7 @@ When a young girl discovers she's the target of a secretive CIA operation, she e
 <hr>
 
 
-## 7. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 7. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1956,7 +1956,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 8. [In Treatment](https://serp.ly/@serpmedia/github/amazon/In+Treatment)
+## 8. [In Treatment](https://serp.ly/amazon/In+Treatment)
 
 ![In Treatment](https://image.tmdb.org/t/p/original/gytzjthKWMji7olvAnBGohbGmWS.jpg)
 
@@ -2000,7 +2000,7 @@ In Treatment delves into the raw, unfiltered world of psychotherapy, following D
 <hr>
 
 
-## 9. [Carpool Karaoke: The Series](https://serp.ly/@serpmedia/github/amazon/Carpool+Karaoke%3A+The+Series)
+## 9. [Carpool Karaoke: The Series](https://serp.ly/amazon/Carpool+Karaoke%3A+The+Series)
 
 ![Carpool Karaoke: The Series](https://image.tmdb.org/t/p/original/bA6tpDMoyQO8fRmXC8sHh7LQoqW.jpg)
 
@@ -2046,7 +2046,7 @@ Buckle up. Belt it out.
 <hr>
 
 
-## 10. [The Killing](https://serp.ly/@serpmedia/github/amazon/The+Killing)
+## 10. [The Killing](https://serp.ly/amazon/The+Killing)
 
 ![The Killing](https://image.tmdb.org/t/p/original/mOzYV3QH5Nwm8CwkVIUmb0Ae0IO.jpg)
 
@@ -2092,7 +2092,7 @@ The Killing is an American crime drama television series that aired from 2011 to
 <hr>
 
 
-## 11. [Chelsea](https://serp.ly/@serpmedia/github/amazon/Chelsea)
+## 11. [Chelsea](https://serp.ly/amazon/Chelsea)
 
 ![Chelsea](https://image.tmdb.org/t/p/original/lDbyyKRDk5FmDY98eCc97gUEZod.jpg)
 
@@ -2134,7 +2134,7 @@ The Killing is an American crime drama television series that aired from 2011 to
 <hr>
 
 
-## 12. [Arn: The Knight Templar](https://serp.ly/@serpmedia/github/amazon/Arn%3A+The+Knight+Templar)
+## 12. [Arn: The Knight Templar](https://serp.ly/amazon/Arn%3A+The+Knight+Templar)
 
 ![Arn: The Knight Templar](https://image.tmdb.org/t/p/original/34gWDfPhZ7ScCkLiDVZboswdyzx.jpg)
 
@@ -2176,7 +2176,7 @@ In this six-episode miniseries, Arn must overcome incredible challenges to be wi
 <hr>
 
 
-## 13. [Johan Falk](https://serp.ly/@serpmedia/github/amazon/Johan+Falk)
+## 13. [Johan Falk](https://serp.ly/amazon/Johan+Falk)
 
 ![Johan Falk](https://image.tmdb.org/t/p/original/uhx1B0GSjYENh2v7tn32hBQOuiu.jpg)
 
@@ -2218,7 +2218,7 @@ When Johan Falk loses his girlfriend Maria and their unborn child in a tragic ca
 <hr>
 
 
-## 14. [Second Avenue](https://serp.ly/@serpmedia/github/amazon/Second+Avenue)
+## 14. [Second Avenue](https://serp.ly/amazon/Second+Avenue)
 
 ![Second Avenue](https://image.tmdb.org/t/p/original/7CkooJ3xlA6Od4a7pisjVY09oIC.jpg)
 
@@ -2260,7 +2260,7 @@ Andra Avenyn was a Swedish drama series that aired from 2007 to 2010, combining 
 <hr>
 
 
-## 15. [Detective Hole](https://serp.ly/@serpmedia/github/amazon/Detective+Hole)
+## 15. [Detective Hole](https://serp.ly/amazon/Detective+Hole)
 
 <br>
 

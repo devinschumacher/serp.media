@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Avengers: Infinity War](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Infinity+War)
+## 1. [Avengers: Infinity War](https://serp.ly/amazon/Avengers%3A+Infinity+War)
 
 ![Avengers: Infinity War](https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg)
 
@@ -80,7 +80,7 @@ As the Avengers and their allies defend the world from threats beyond any single
 <hr>
 
 
-## 2. [Avengers: Endgame](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Endgame)
+## 2. [Avengers: Endgame](https://serp.ly/amazon/Avengers%3A+Endgame)
 
 ![Avengers: Endgame](https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg)
 
@@ -120,7 +120,7 @@ After the catastrophic events of Avengers: Infinity War, the universe lies in ru
 <hr>
 
 
-## 3. [Captain America: Civil War](https://serp.ly/@serpmedia/github/amazon/Captain+America%3A+Civil+War)
+## 3. [Captain America: Civil War](https://serp.ly/amazon/Captain+America%3A+Civil+War)
 
 ![Captain America: Civil War](https://image.tmdb.org/t/p/original/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg)
 
@@ -163,7 +163,7 @@ United we stand. Divided we fall.
 <hr>
 
 
-## 4. [Spider-Man: Homecoming](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Homecoming)
+## 4. [Spider-Man: Homecoming](https://serp.ly/amazon/Spider-Man%3A+Homecoming)
 
 ![Spider-Man: Homecoming](https://image.tmdb.org/t/p/original/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg)
 
@@ -203,7 +203,7 @@ When Peter Parker returns to his high school life in Queens after the events of 
 <hr>
 
 
-## 5. [Spider-Man: No Way Home](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+No+Way+Home)
+## 5. [Spider-Man: No Way Home](https://serp.ly/amazon/Spider-Man%3A+No+Way+Home)
 
 ![Spider-Man: No Way Home](https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg)
 
@@ -243,7 +243,7 @@ When Peter Parker's secret identity as Spider-Man is exposed, he turns to Doctor
 <hr>
 
 
-## 6. [Spider-Man: Far From Home](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Far+From+Home)
+## 6. [Spider-Man: Far From Home](https://serp.ly/amazon/Spider-Man%3A+Far+From+Home)
 
 ![Spider-Man: Far From Home](https://image.tmdb.org/t/p/original/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg)
 
@@ -286,7 +286,7 @@ When Peter Parker heads to Europe for a summer trip with his friends, he doesn't
 <hr>
 
 
-## 7. [Venom: Let There Be Carnage](https://serp.ly/@serpmedia/github/amazon/Venom%3A+Let+There+Be+Carnage)
+## 7. [Venom: Let There Be Carnage](https://serp.ly/amazon/Venom%3A+Let+There+Be+Carnage)
 
 ![Venom: Let There Be Carnage](https://image.tmdb.org/t/p/original/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg)
 
@@ -324,7 +324,7 @@ When the alien symbiote merges with investigative reporter Eddie Brock, their da
 <hr>
 
 
-## 8. [Onward](https://serp.ly/@serpmedia/github/amazon/Onward)
+## 8. [Onward](https://serp.ly/amazon/Onward)
 
 ![Onward](https://image.tmdb.org/t/p/original/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg)
 
@@ -367,7 +367,7 @@ In a world where magic meets the mundane, two teenage elf brothers embark on an 
 <hr>
 
 
-## 9. [The Impossible](https://serp.ly/@serpmedia/github/amazon/The+Impossible)
+## 9. [The Impossible](https://serp.ly/amazon/The+Impossible)
 
 ![The Impossible](https://image.tmdb.org/t/p/original/1kBYwWu24QKf47mumWEIAzo5tIu.jpg)
 
@@ -407,7 +407,7 @@ The Impossible tells the harrowing true story of a family's Christmas vacation i
 <hr>
 
 
-## 10. [Uncharted](https://serp.ly/@serpmedia/github/amazon/Uncharted)
+## 10. [Uncharted](https://serp.ly/amazon/Uncharted)
 
 ![Uncharted](https://image.tmdb.org/t/p/original/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg)
 
@@ -452,7 +452,7 @@ When a young street-smart named Nathan Drake teams up with his wisecracking part
 <hr>
 
 
-## 11. [In the Heart of the Sea](https://serp.ly/@serpmedia/github/amazon/In+the+Heart+of+the+Sea)
+## 11. [In the Heart of the Sea](https://serp.ly/amazon/In+the+Heart+of+the+Sea)
 
 ![In the Heart of the Sea](https://image.tmdb.org/t/p/original/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg)
 
@@ -492,7 +492,7 @@ In the winter of 1820, the New England whaling ship Essex encounters a colossal 
 <hr>
 
 
-## 12. [Dolittle](https://serp.ly/@serpmedia/github/amazon/Dolittle)
+## 12. [Dolittle](https://serp.ly/amazon/Dolittle)
 
 ![Dolittle](https://image.tmdb.org/t/p/original/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg)
 
@@ -532,7 +532,7 @@ After losing his wife seven years earlier, the eccentric Dr. John Dolittle has r
 <hr>
 
 
-## 13. [The Devil All the Time](https://serp.ly/@serpmedia/github/amazon/The+Devil+All+the+Time)
+## 13. [The Devil All the Time](https://serp.ly/amazon/The+Devil+All+the+Time)
 
 ![The Devil All the Time](https://image.tmdb.org/t/p/original/v3wGDRhnik4HSuaMzATkgaqDJLS.jpg)
 
@@ -568,7 +568,7 @@ In the shadowy backwoods of Knockemstiff, Ohio, young Arvin Russell faces an epi
 <hr>
 
 
-## 14. [Spies in Disguise](https://serp.ly/@serpmedia/github/amazon/Spies+in+Disguise)
+## 14. [Spies in Disguise](https://serp.ly/amazon/Spies+in+Disguise)
 
 ![Spies in Disguise](https://image.tmdb.org/t/p/original/30YacPAcxpNemhhwX0PVUl9pVA3.jpg)
 
@@ -611,7 +611,7 @@ When super spy Lance Sterling crosses paths with the brilliant but socially awkw
 <hr>
 
 
-## 15. [Locke](https://serp.ly/@serpmedia/github/amazon/Locke)
+## 15. [Locke](https://serp.ly/amazon/Locke)
 
 ![Locke](https://image.tmdb.org/t/p/original/mZTMFDk5VRQuvkJaCFFAXFV65G6.jpg)
 
@@ -654,7 +654,7 @@ Ivan Locke has built a successful life, but everything changes in an instant whe
 <hr>
 
 
-## 16. [The Lost City of Z](https://serp.ly/@serpmedia/github/amazon/The+Lost+City+of+Z)
+## 16. [The Lost City of Z](https://serp.ly/amazon/The+Lost+City+of+Z)
 
 ![The Lost City of Z](https://image.tmdb.org/t/p/original/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg)
 
@@ -697,7 +697,7 @@ In the 1920s, British explorer Col. Percy Fawcett ventured into the Amazon rainf
 <hr>
 
 
-## 17. [Chaos Walking](https://serp.ly/@serpmedia/github/amazon/Chaos+Walking)
+## 17. [Chaos Walking](https://serp.ly/amazon/Chaos+Walking)
 
 ![Chaos Walking](https://image.tmdb.org/t/p/original/6FzOcNh6hdn9MNsuqpR6o9jCucM.jpg)
 
@@ -737,7 +737,7 @@ In a universe where thoughts are as loud as words, two unlikely companions forge
 <hr>
 
 
-## 18. [Cherry](https://serp.ly/@serpmedia/github/amazon/Cherry)
+## 18. [Cherry](https://serp.ly/amazon/Cherry)
 
 ![Cherry](https://image.tmdb.org/t/p/original/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg)
 
@@ -778,7 +778,7 @@ Life leaves a mark.
 <hr>
 
 
-## 19. [The Current War](https://serp.ly/@serpmedia/github/amazon/The+Current+War)
+## 19. [The Current War](https://serp.ly/amazon/The+Current+War)
 
 ![The Current War](https://image.tmdb.org/t/p/original/eqTjO8yTaPRSKWj7i6Qnr7R5cls.jpg)
 
@@ -821,7 +821,7 @@ Power changes everything
 <hr>
 
 
-## 20. [How I Live Now](https://serp.ly/@serpmedia/github/amazon/How+I+Live+Now)
+## 20. [How I Live Now](https://serp.ly/amazon/How+I+Live+Now)
 
 ![How I Live Now](https://image.tmdb.org/t/p/original/4FyDHVuuiy6XObYLyXxFUb4oX8J.jpg)
 
@@ -862,7 +862,7 @@ When an American girl is sent to the English countryside to stay with relatives,
 <hr>
 
 
-## 21. [Pilgrimage](https://serp.ly/@serpmedia/github/amazon/Pilgrimage)
+## 21. [Pilgrimage](https://serp.ly/amazon/Pilgrimage)
 
 ![Pilgrimage](https://image.tmdb.org/t/p/original/lR5ilnIzIonItxL5mQPAPzXpwPJ.jpg)
 
@@ -901,7 +901,7 @@ In 13th century Ireland, a sacred relic must be escorted across a perilous lands
 <hr>
 
 
-## 22. [Edge of Winter](https://serp.ly/@serpmedia/github/amazon/Edge+of+Winter)
+## 22. [Edge of Winter](https://serp.ly/amazon/Edge+of+Winter)
 
 ![Edge of Winter](https://image.tmdb.org/t/p/original/6SyQ9ebUm90yPrIfQtIKvrFwxnj.jpg)
 
@@ -940,7 +940,7 @@ When two brothers find themselves stranded with a father they barely know in "Ed
 <hr>
 
 
-## 23. [Billy Elliot: The Musical Live](https://serp.ly/@serpmedia/github/amazon/Billy+Elliot%3A+The+Musical+Live)
+## 23. [Billy Elliot: The Musical Live](https://serp.ly/amazon/Billy+Elliot%3A+The+Musical+Live)
 
 ![Billy Elliot: The Musical Live](https://image.tmdb.org/t/p/original/idiUs9X6bxlp9o5l2hCl1PXMWGQ.jpg)
 
@@ -978,7 +978,7 @@ In County Durham, England, 1984, a young dancer named Billy Elliot turns his box
 <hr>
 
 
-## 24. [Peter's To-Do List](https://serp.ly/@serpmedia/github/amazon/Peter%27s+To-Do+List)
+## 24. [Peter's To-Do List](https://serp.ly/amazon/Peter%27s+To-Do+List)
 
 ![Peter's To-Do List](https://image.tmdb.org/t/p/original/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg)
 
@@ -1012,7 +1012,7 @@ On the eve of his departure to Europe, Peter Parker sits down with Ned Leeds to 
 <hr>
 
 
-## 25. [Spider-Man: All Roads Lead to No Way Home](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+All+Roads+Lead+to+No+Way+Home)
+## 25. [Spider-Man: All Roads Lead to No Way Home](https://serp.ly/amazon/Spider-Man%3A+All+Roads+Lead+to+No+Way+Home)
 
 ![Spider-Man: All Roads Lead to No Way Home](https://image.tmdb.org/t/p/original/e2LLmI5wKIrWGAy9Of3yyWu7Szn.jpg)
 
@@ -1046,7 +1046,7 @@ Join JB Smoove and Martin Starr for a 20-year celebration of Spider-Man movies, 
 <hr>
 
 
-## 26. [Celebrating Marvel's Stan Lee](https://serp.ly/@serpmedia/github/amazon/Celebrating+Marvel%27s+Stan+Lee)
+## 26. [Celebrating Marvel's Stan Lee](https://serp.ly/amazon/Celebrating+Marvel%27s+Stan+Lee)
 
 ![Celebrating Marvel's Stan Lee](https://image.tmdb.org/t/p/original/8qlFNCxQQOLfnqwRcHY6WMkb7tF.jpg)
 
@@ -1077,7 +1077,7 @@ This tribute to Stan Lee brings together never-before-seen interviews and archiv
 <hr>
 
 
-## 27. [A Fan's Guide to Spider-Man: Homecoming](https://serp.ly/@serpmedia/github/amazon/A+Fan%27s+Guide+to+Spider-Man%3A+Homecoming)
+## 27. [A Fan's Guide to Spider-Man: Homecoming](https://serp.ly/amazon/A+Fan%27s+Guide+to+Spider-Man%3A+Homecoming)
 
 ![A Fan's Guide to Spider-Man: Homecoming](https://image.tmdb.org/t/p/original/aXXkTxJbZJ8R9I3N47ekFiLkM1W.jpg)
 
@@ -1111,7 +1111,7 @@ This tribute to Stan Lee brings together never-before-seen interviews and archiv
 <hr>
 
 
-## 28. [Moments](https://serp.ly/@serpmedia/github/amazon/Moments)
+## 28. [Moments](https://serp.ly/amazon/Moments)
 
 ![Moments](https://image.tmdb.org/t/p/original/qDLl93o5TPU76GfuyBfwxfPnV5A.jpg)
 
@@ -1149,7 +1149,7 @@ In this heartfelt short film, a young man bids farewell to his girlfriend, refle
 <hr>
 
 
-## 29. [Last Call](https://serp.ly/@serpmedia/github/amazon/Last+Call)
+## 29. [Last Call](https://serp.ly/amazon/Last+Call)
 
 ![Last Call](https://image.tmdb.org/t/p/original/cjX78ptdE2ksPOGFbDUhxOI9KhV.jpg)
 
@@ -1183,7 +1183,7 @@ In this heartfelt British drama, a mother's desperate quest to reconnect with he
 <hr>
 
 
-## 30. [Untitled Spider-Man 4 Film](https://serp.ly/@serpmedia/github/amazon/Untitled+Spider-Man+4+Film)
+## 30. [Untitled Spider-Man 4 Film](https://serp.ly/amazon/Untitled+Spider-Man+4+Film)
 
 <br>
 
@@ -1206,7 +1206,7 @@ The next chapter in the MCU's Spider-Man saga picks up after the events of "Spid
 <hr>
 
 
-## 31. [Uncharted 2](https://serp.ly/@serpmedia/github/amazon/Uncharted+2)
+## 31. [Uncharted 2](https://serp.ly/amazon/Uncharted+2)
 
 ![Uncharted 2](https://image.tmdb.org/t/p/original/r0NcSE4hu887nzVuVWfmAZZIKLb.jpg)
 
@@ -1229,7 +1229,7 @@ The next chapter in the MCU's Spider-Man saga picks up after the events of "Spid
 <hr>
 
 
-## 32. [National Theatre Live: Romeo & Juliet](https://serp.ly/@serpmedia/github/amazon/National+Theatre+Live%3A+Romeo+%26+Juliet)
+## 32. [National Theatre Live: Romeo & Juliet](https://serp.ly/amazon/National+Theatre+Live%3A+Romeo+%26+Juliet)
 
 ![National Theatre Live: Romeo & Juliet](https://image.tmdb.org/t/p/original/4P01Y2WRjAXjMLqa8hYiB3eleNF.jpg)
 
@@ -1260,7 +1260,7 @@ When two young people fall in love against the backdrop of their feuding familie
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1304,7 +1304,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1350,7 +1350,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1396,7 +1396,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 4. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1440,7 +1440,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 5. [The Graham Norton Show](https://serp.ly/@serpmedia/github/amazon/The+Graham+Norton+Show)
+## 5. [The Graham Norton Show](https://serp.ly/amazon/The+Graham+Norton+Show)
 
 ![The Graham Norton Show](https://image.tmdb.org/t/p/original/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg)
 
@@ -1484,7 +1484,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 6. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 6. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -1528,7 +1528,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 7. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 7. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -1570,7 +1570,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 8. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 8. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1614,7 +1614,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 9. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 9. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -1658,7 +1658,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 10. [The Crowded Room](https://serp.ly/@serpmedia/github/amazon/The+Crowded+Room)
+## 10. [The Crowded Room](https://serp.ly/amazon/The+Crowded+Room)
 
 ![The Crowded Room](https://image.tmdb.org/t/p/original/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg)
 
@@ -1704,7 +1704,7 @@ In 1979 Manhattan, a young man's arrest for a shocking crime leads to an unlikel
 <hr>
 
 
-## 11. [Wolf Hall](https://serp.ly/@serpmedia/github/amazon/Wolf+Hall)
+## 11. [Wolf Hall](https://serp.ly/amazon/Wolf+Hall)
 
 ![Wolf Hall](https://image.tmdb.org/t/p/original/w6nwMuJMQcfu5JcQ8iEKoDwwjee.jpg)
 
@@ -1746,7 +1746,7 @@ In 1520s England, Henry VIII faces a crisis that threatens to destroy his kingdo
 <hr>
 
 
-## 12. [The Chef Show](https://serp.ly/@serpmedia/github/amazon/The+Chef+Show)
+## 12. [The Chef Show](https://serp.ly/amazon/The+Chef+Show)
 
 ![The Chef Show](https://image.tmdb.org/t/p/original/s8AeydpsdX9KoyB6Y1qGuY5jl1O.jpg)
 

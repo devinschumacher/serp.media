@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Totally Killer](https://serp.ly/@serpmedia/github/amazon/Totally+Killer)
+## 1. [Totally Killer](https://serp.ly/amazon/Totally+Killer)
 
 ![Totally Killer](https://image.tmdb.org/t/p/original/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg)
 
@@ -76,7 +76,7 @@ When the "Sweet Sixteen Killer" returns 35 years after his first murder spree, 1
 <hr>
 
 
-## 2. [Speed Kills](https://serp.ly/@serpmedia/github/amazon/Speed+Kills)
+## 2. [Speed Kills](https://serp.ly/amazon/Speed+Kills)
 
 ![Speed Kills](https://image.tmdb.org/t/p/original/f4p18CwxidvznZYMA6m4qv5FCvp.jpg)
 
@@ -119,7 +119,7 @@ When speedboat racing champion Ben Aronoff crosses paths with the law and drug l
 <hr>
 
 
-## 3. [Runt](https://serp.ly/@serpmedia/github/amazon/Runt)
+## 3. [Runt](https://serp.ly/amazon/Runt)
 
 ![Runt](https://image.tmdb.org/t/p/original/pl8ErG20nzAWOkcCVu88hjUt41t.jpg)
 
@@ -155,7 +155,7 @@ When a group of high school seniors is left unsupervised, their neglected state 
 <hr>
 
 
-## 4. [The Rest of Us](https://serp.ly/@serpmedia/github/amazon/The+Rest+of+Us)
+## 4. [The Rest of Us](https://serp.ly/amazon/The+Rest+of+Us)
 
 ![The Rest of Us](https://image.tmdb.org/t/p/original/xMjJ0acrj0W5g9c4XKiW0PFVzP2.jpg)
 
@@ -192,7 +192,7 @@ The Rest of Us explores how two mother-daughter pairs navigate their grief and c
 <hr>
 
 
-## 5. [Suze](https://serp.ly/@serpmedia/github/amazon/Suze)
+## 5. [Suze](https://serp.ly/amazon/Suze)
 
 ![Suze](https://image.tmdb.org/t/p/original/j1CBbkJGuWMjZw7jzxVa2wCDvSL.jpg)
 
@@ -226,7 +226,7 @@ When her only daughter heads off to university, a mother finds herself unexpecte
 <hr>
 
 
-## 6. [Deltopia](https://serp.ly/@serpmedia/github/amazon/Deltopia)
+## 6. [Deltopia](https://serp.ly/amazon/Deltopia)
 
 ![Deltopia](https://image.tmdb.org/t/p/original/cL36UT4NzgkK8oA9DJR7Qu5KlLX.jpg)
 
@@ -260,7 +260,7 @@ Every spring break, tens of thousands of college students flock to Isla Vista, C
 <hr>
 
 
-## 7. [The Outlaw League](https://serp.ly/@serpmedia/github/amazon/The+Outlaw+League)
+## 7. [The Outlaw League](https://serp.ly/amazon/The+Outlaw+League)
 
 ![The Outlaw League](https://image.tmdb.org/t/p/original/cfbu5SD28k5SFJ2HUrEjlSXrabP.jpg)
 
@@ -296,7 +296,7 @@ Nicolas loves baseball, and every summer day he plays with his friends at their 
 <hr>
 
 
-## 8. [Love You Anyway](https://serp.ly/@serpmedia/github/amazon/Love+You+Anyway)
+## 8. [Love You Anyway](https://serp.ly/amazon/Love+You+Anyway)
 
 ![Love You Anyway](https://image.tmdb.org/t/p/original/og9zXUcC5Xmw8T7Y7I9OXxx6vZ1.jpg)
 
@@ -332,7 +332,7 @@ Through a heartfelt journey captured in home video formats, this film follows Ma
 <hr>
 
 
-## 9. [The Class](https://serp.ly/@serpmedia/github/amazon/The+Class)
+## 9. [The Class](https://serp.ly/amazon/The+Class)
 
 ![The Class](https://image.tmdb.org/t/p/original/2gctNnQcc059h2KkURuogM1trKl.jpg)
 
@@ -366,7 +366,7 @@ The Class is a coming of age film about a group of high school seniors who must 
 <hr>
 
 
-## 10. [Shattered Ice](https://serp.ly/@serpmedia/github/amazon/Shattered+Ice)
+## 10. [Shattered Ice](https://serp.ly/amazon/Shattered+Ice)
 
 <br>
 
@@ -392,7 +392,7 @@ When high school hockey star Danny takes his own life, his best friend Will Mank
 <hr>
 
 
-## 1. [The Next Step](https://serp.ly/@serpmedia/github/amazon/The+Next+Step)
+## 1. [The Next Step](https://serp.ly/amazon/The+Next+Step)
 
 ![The Next Step](https://image.tmdb.org/t/p/original/dlZC6oo2iIKnRtLtAiiBn7tnuGc.jpg)
 
@@ -436,7 +436,7 @@ The Next Step Studio is home to an elite group of young dancers who train in the
 <hr>
 
 
-## 2. [Charmed](https://serp.ly/@serpmedia/github/amazon/Charmed)
+## 2. [Charmed](https://serp.ly/amazon/Charmed)
 
 ![Charmed](https://image.tmdb.org/t/p/original/doXHjfOtEmX8kEq1tsMnNqq9YLZ.jpg)
 
@@ -480,7 +480,7 @@ When their mother passes away, three college sisters - Macy, Mel, and Maggie Ver
 <hr>
 
 
-## 3. [Degrassi: Next Class](https://serp.ly/@serpmedia/github/amazon/Degrassi%3A+Next+Class)
+## 3. [Degrassi: Next Class](https://serp.ly/amazon/Degrassi%3A+Next+Class)
 
 ![Degrassi: Next Class](https://image.tmdb.org/t/p/original/vSbSrFvnLkHeT7XGW68lEjcEaGG.jpg)
 
@@ -522,7 +522,7 @@ When their mother passes away, three college sisters - Macy, Mel, and Maggie Ver
 <hr>
 
 
-## 4. [Julie and the Phantoms](https://serp.ly/@serpmedia/github/amazon/Julie+and+the+Phantoms)
+## 4. [Julie and the Phantoms](https://serp.ly/amazon/Julie+and+the+Phantoms)
 
 ![Julie and the Phantoms](https://image.tmdb.org/t/p/original/m6uNY62Rx6gpUkC7urCOrOTlaj2.jpg)
 
@@ -566,7 +566,7 @@ When Julie stumbles upon three spectral musicians trapped between worlds, she di
 <hr>
 
 
-## 5. [Conséquences](https://serp.ly/@serpmedia/github/amazon/Cons%C3%A9quences)
+## 5. [Conséquences](https://serp.ly/amazon/Cons%C3%A9quences)
 
 ![Conséquences](https://image.tmdb.org/t/p/original/3TAklEQ7ZwPodGOf9NRcb0WRrBM.jpg)
 
@@ -608,7 +608,7 @@ When Julie stumbles upon three spectral musicians trapped between worlds, she di
 <hr>
 
 
-## 6. [2nd Generation](https://serp.ly/@serpmedia/github/amazon/2nd+Generation)
+## 6. [2nd Generation](https://serp.ly/amazon/2nd+Generation)
 
 ![2nd Generation](https://image.tmdb.org/t/p/original/jZMR7MsIbNctqo8WkcaEAavgOAG.jpg)
 

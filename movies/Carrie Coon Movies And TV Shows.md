@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Avengers: Infinity War](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Infinity+War)
+## 1. [Avengers: Infinity War](https://serp.ly/amazon/Avengers%3A+Infinity+War)
 
 ![Avengers: Infinity War](https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg)
 
@@ -80,7 +80,7 @@ As the Avengers and their allies defend the world from threats beyond any single
 <hr>
 
 
-## 2. [Gone Girl](https://serp.ly/@serpmedia/github/amazon/Gone+Girl)
+## 2. [Gone Girl](https://serp.ly/amazon/Gone+Girl)
 
 ![Gone Girl](https://image.tmdb.org/t/p/original/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg)
 
@@ -120,7 +120,7 @@ You don't know what you've got 'til it's...
 <hr>
 
 
-## 3. [Ghostbusters: Afterlife](https://serp.ly/@serpmedia/github/amazon/Ghostbusters%3A+Afterlife)
+## 3. [Ghostbusters: Afterlife](https://serp.ly/amazon/Ghostbusters%3A+Afterlife)
 
 ![Ghostbusters: Afterlife](https://image.tmdb.org/t/p/original/sg4xJaufDiQl7caFEskBtQXfD4x.jpg)
 
@@ -160,7 +160,7 @@ When single mom Callie and her two kids Trevor and Phoebe arrive in a small Okla
 <hr>
 
 
-## 4. [The Post](https://serp.ly/@serpmedia/github/amazon/The+Post)
+## 4. [The Post](https://serp.ly/amazon/The+Post)
 
 ![The Post](https://image.tmdb.org/t/p/original/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg)
 
@@ -200,7 +200,7 @@ When four U. S. Presidents keep a dangerous secret, The Washington Post's first 
 <hr>
 
 
-## 5. [Widows](https://serp.ly/@serpmedia/github/amazon/Widows)
+## 5. [Widows](https://serp.ly/amazon/Widows)
 
 ![Widows](https://image.tmdb.org/t/p/original/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg)
 
@@ -243,7 +243,7 @@ When four thieves die in a Chicago shootout, their widows - left with nothing bu
 <hr>
 
 
-## 6. [Ghostbusters: Frozen Empire](https://serp.ly/@serpmedia/github/amazon/Ghostbusters%3A+Frozen+Empire)
+## 6. [Ghostbusters: Frozen Empire](https://serp.ly/amazon/Ghostbusters%3A+Frozen+Empire)
 
 ![Ghostbusters: Frozen Empire](https://image.tmdb.org/t/p/original/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg)
 
@@ -280,7 +280,7 @@ When an ancient artifact is discovered, it unleashes an evil force that threaten
 <hr>
 
 
-## 7. [Kin](https://serp.ly/@serpmedia/github/amazon/Kin)
+## 7. [Kin](https://serp.ly/amazon/Kin)
 
 ![Kin](https://image.tmdb.org/t/p/original/oPE5GXHaTlu5eRcd4USuOX3A1mf.jpg)
 
@@ -320,7 +320,7 @@ In a small Oregon town, a young boy discovers a powerful otherworldly weapon tha
 <hr>
 
 
-## 8. [Boston Strangler](https://serp.ly/@serpmedia/github/amazon/Boston+Strangler)
+## 8. [Boston Strangler](https://serp.ly/amazon/Boston+Strangler)
 
 ![Boston Strangler](https://image.tmdb.org/t/p/original/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg)
 
@@ -356,7 +356,7 @@ Inspired by a true story
 <hr>
 
 
-## 9. [The Nest](https://serp.ly/@serpmedia/github/amazon/The+Nest)
+## 9. [The Nest](https://serp.ly/amazon/The+Nest)
 
 ![The Nest](https://image.tmdb.org/t/p/original/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg)
 
@@ -394,7 +394,7 @@ Rory, an ambitious entrepreneur, relocates his American family to England in pur
 <hr>
 
 
-## 10. [The Keeping Hours](https://serp.ly/@serpmedia/github/amazon/The+Keeping+Hours)
+## 10. [The Keeping Hours](https://serp.ly/amazon/The+Keeping+Hours)
 
 ![The Keeping Hours](https://image.tmdb.org/t/p/original/34IyXcl44VG9VVEps0rBgNo9jQb.jpg)
 
@@ -432,7 +432,7 @@ The Keeping Hours is a supernatural love story about two parents whose lives fal
 <hr>
 
 
-## 11. [The Legacy of a Whitetail Deer Hunter](https://serp.ly/@serpmedia/github/amazon/The+Legacy+of+a+Whitetail+Deer+Hunter)
+## 11. [The Legacy of a Whitetail Deer Hunter](https://serp.ly/amazon/The+Legacy+of+a+Whitetail+Deer+Hunter)
 
 ![The Legacy of a Whitetail Deer Hunter](https://image.tmdb.org/t/p/original/rEz6ArsPGzVnizMS1fWrvrQcp7t.jpg)
 
@@ -469,7 +469,7 @@ When a renowned whitetail deer hunter takes his 12-year-old son on a wilderness 
 <hr>
 
 
-## 12. [Izzy Gets the F\*ck Across Town](https://serp.ly/@serpmedia/github/amazon/Izzy+Gets+the+F%2Ack+Across+Town)
+## 12. [Izzy Gets the F\*ck Across Town](https://serp.ly/amazon/Izzy+Gets+the+F%2Ack+Across+Town)
 
 ![Izzy Gets the F\*ck Across Town](https://image.tmdb.org/t/p/original/PB9GF6RkDNVPhuk4hl1WICeomU.jpg)
 
@@ -505,7 +505,7 @@ When a woman at rock bottom learns her ex-boyfriend is getting married, she make
 <hr>
 
 
-## 13. [Strange Weather](https://serp.ly/@serpmedia/github/amazon/Strange+Weather)
+## 13. [Strange Weather](https://serp.ly/amazon/Strange+Weather)
 
 ![Strange Weather](https://image.tmdb.org/t/p/original/vlw625tmRD1qFIy4JiOZzQKc98P.jpg)
 
@@ -542,7 +542,7 @@ After her son's tragic suicide, a determined woman returns to confront not only 
 <hr>
 
 
-## 14. [Great Choice](https://serp.ly/@serpmedia/github/amazon/Great+Choice)
+## 14. [Great Choice](https://serp.ly/amazon/Great+Choice)
 
 ![Great Choice](https://image.tmdb.org/t/p/original/s3zyvyGH68JQ7pUwYBVS3RYwhKC.jpg)
 
@@ -576,7 +576,7 @@ When a woman lands in a Red Lobster commercial, she discovers she's not the only
 <hr>
 
 
-## 15. [Making The Leftovers](https://serp.ly/@serpmedia/github/amazon/Making+The+Leftovers)
+## 15. [Making The Leftovers](https://serp.ly/amazon/Making+The+Leftovers)
 
 ![Making The Leftovers](https://image.tmdb.org/t/p/original/hrSsypGIgWx5x0GPEhDBKCbTEnx.jpg)
 
@@ -607,7 +607,7 @@ When a woman lands in a Red Lobster commercial, she discovers she's not the only
 <hr>
 
 
-## 16. [Another Happy Day](https://serp.ly/@serpmedia/github/amazon/Another+Happy+Day)
+## 16. [Another Happy Day](https://serp.ly/amazon/Another+Happy+Day)
 
 ![Another Happy Day](https://image.tmdb.org/t/p/original/6PF38dqPXe1mN3WZMV9uEQoN1Wx.jpg)
 
@@ -637,7 +637,7 @@ When a new mother struggles to care for her newborn, she stumbles into an unexpe
 <hr>
 
 
-## 17. [His Three Daughters](https://serp.ly/@serpmedia/github/amazon/His+Three+Daughters)
+## 17. [His Three Daughters](https://serp.ly/amazon/His+Three+Daughters)
 
 ![His Three Daughters](https://image.tmdb.org/t/p/original/w6RmeagaERpeMruVnWmRuNyoFH.jpg)
 
@@ -668,7 +668,7 @@ When their father's health takes a turn for the worse, three long-estranged sist
 <hr>
 
 
-## 18. [One in a Million](https://serp.ly/@serpmedia/github/amazon/One+in+a+Million)
+## 18. [One in a Million](https://serp.ly/amazon/One+in+a+Million)
 
 ![One in a Million](https://image.tmdb.org/t/p/original/2yvGgTvVWPu1qyIi9oOgiRvMkho.jpg)
 
@@ -701,7 +701,7 @@ On the night before their wedding, a couple discovers that their future together
 <hr>
 
 
-## 19. [Lake George](https://serp.ly/@serpmedia/github/amazon/Lake+George)
+## 19. [Lake George](https://serp.ly/amazon/Lake+George)
 
 <br>
 
@@ -727,7 +727,7 @@ When a white-collar criminal fresh out of prison gets one last job from his boss
 <hr>
 
 
-## 20. [Barbecue](https://serp.ly/@serpmedia/github/amazon/Barbecue)
+## 20. [Barbecue](https://serp.ly/amazon/Barbecue)
 
 ![Barbecue](https://image.tmdb.org/t/p/original/7JvET1xdqJdhfJ9Si79FvymvtBP.jpg)
 
@@ -760,7 +760,7 @@ The O'Mallery family has gathered in their local park for what seems like a fest
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -806,7 +806,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 2. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -850,7 +850,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 3. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 3. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -896,7 +896,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 4. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 4. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -942,7 +942,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -986,7 +986,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 6. [Fargo](https://serp.ly/@serpmedia/github/amazon/Fargo)
+## 6. [Fargo](https://serp.ly/amazon/Fargo)
 
 ![Fargo](https://image.tmdb.org/t/p/original/6U9CPeD8obHzweikFhiLhpc7YBT.jpg)
 
@@ -1032,7 +1032,7 @@ Fargo delves into the darker side of Minnesota life through five seasons of scri
 <hr>
 
 
-## 7. [The Gilded Age](https://serp.ly/@serpmedia/github/amazon/The+Gilded+Age)
+## 7. [The Gilded Age](https://serp.ly/amazon/The+Gilded+Age)
 
 ![The Gilded Age](https://image.tmdb.org/t/p/original/nNushCdPlicAyTKjqIDC3XhrOrn.jpg)
 
@@ -1078,7 +1078,7 @@ In 1882 New York, a young Southern orphan named Marian Brook arrives to live wit
 <hr>
 
 
-## 8. [What If...?](https://serp.ly/@serpmedia/github/amazon/What+If...%3F)
+## 8. [What If...?](https://serp.ly/amazon/What+If...%3F)
 
 ![What If...?](https://image.tmdb.org/t/p/original/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg)
 
@@ -1124,7 +1124,7 @@ What if classic Marvel moments unfolded differently? This animated anthology ser
 <hr>
 
 
-## 9. [The Leftovers](https://serp.ly/@serpmedia/github/amazon/The+Leftovers)
+## 9. [The Leftovers](https://serp.ly/amazon/The+Leftovers)
 
 ![The Leftovers](https://image.tmdb.org/t/p/original/ri8xr223xBb2TeHX3GKypvQPV2B.jpg)
 
@@ -1168,7 +1168,7 @@ When 2% of the world's population vanishes without explanation, the remaining 98
 <hr>
 
 
-## 10. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 10. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1214,7 +1214,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 11. [Intelligence](https://serp.ly/@serpmedia/github/amazon/Intelligence)
+## 11. [Intelligence](https://serp.ly/amazon/Intelligence)
 
 ![Intelligence](https://image.tmdb.org/t/p/original/yWO3w2isgxBarZEH4vE4qbrpqTd.jpg)
 
@@ -1258,7 +1258,7 @@ When a government cyber-security director selects an operative for a groundbreak
 <hr>
 
 
-## 12. [The Sinner](https://serp.ly/@serpmedia/github/amazon/The+Sinner)
+## 12. [The Sinner](https://serp.ly/amazon/The+Sinner)
 
 ![The Sinner](https://image.tmdb.org/t/p/original/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg)
 
@@ -1302,7 +1302,7 @@ In a small New York town, a haunted detective hunts for answers about perplexing
 <hr>
 
 
-## 13. [The Playboy Club](https://serp.ly/@serpmedia/github/amazon/The+Playboy+Club)
+## 13. [The Playboy Club](https://serp.ly/amazon/The+Playboy+Club)
 
 ![The Playboy Club](https://image.tmdb.org/t/p/original/mAlg24jS0Qsc4SmrLAzW79f7L9K.jpg)
 
@@ -1344,7 +1344,7 @@ In a small New York town, a haunted detective hunts for answers about perplexing
 <hr>
 
 
-## 14. [Ironside](https://serp.ly/@serpmedia/github/amazon/Ironside)
+## 14. [Ironside](https://serp.ly/amazon/Ironside)
 
 ![Ironside](https://image.tmdb.org/t/p/original/f14yvzQg1xEpK3rQGdlApltJki4.jpg)
 

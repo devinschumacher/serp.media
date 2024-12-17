@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Mission: Impossible - Ghost Protocol](https://serp.ly/@serpmedia/github/amazon/Mission%3A+Impossible+-+Ghost+Protocol)
+## 1. [Mission: Impossible - Ghost Protocol](https://serp.ly/amazon/Mission%3A+Impossible+-+Ghost+Protocol)
 
 ![Mission: Impossible - Ghost Protocol](https://image.tmdb.org/t/p/original/7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg)
 
@@ -80,7 +80,7 @@ Ethan Hunt and his team race against time to track down a dangerous terrorist na
 <hr>
 
 
-## 2. [Mr. & Mrs. Smith](https://serp.ly/@serpmedia/github/amazon/Mr.+%26+Mrs.+Smith)
+## 2. [Mr. & Mrs. Smith](https://serp.ly/amazon/Mr.+%26+Mrs.+Smith)
 
 ![Mr. & Mrs. Smith](https://image.tmdb.org/t/p/original/wzIO3ytxeSNt1wRpXLIdkNbGoDm.jpg)
 
@@ -123,7 +123,7 @@ Mr. & Mrs. Smith is a 2005 action comedy about an ordinary suburban couple whose
 <hr>
 
 
-## 3. [Mission: Impossible - Fallout](https://serp.ly/@serpmedia/github/amazon/Mission%3A+Impossible+-+Fallout)
+## 3. [Mission: Impossible - Fallout](https://serp.ly/amazon/Mission%3A+Impossible+-+Fallout)
 
 ![Mission: Impossible - Fallout](https://image.tmdb.org/t/p/original/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg)
 
@@ -166,7 +166,7 @@ When an IMF mission goes awry, Ethan Hunt must choose between following his orig
 <hr>
 
 
-## 4. [Source Code](https://serp.ly/@serpmedia/github/amazon/Source+Code)
+## 4. [Source Code](https://serp.ly/amazon/Source+Code)
 
 ![Source Code](https://image.tmdb.org/t/p/original/zXJe3nXCp7ggE3rLbhDx8jWZ4qn.jpg)
 
@@ -209,7 +209,7 @@ When decorated soldier Captain Colter Stevens wakes up in the body of an unknown
 <hr>
 
 
-## 5. [The Bourne Supremacy](https://serp.ly/@serpmedia/github/amazon/The+Bourne+Supremacy)
+## 5. [The Bourne Supremacy](https://serp.ly/amazon/The+Bourne+Supremacy)
 
 ![The Bourne Supremacy](https://image.tmdb.org/t/p/original/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg)
 
@@ -252,7 +252,7 @@ In "The Bourne Supremacy", a CIA operation goes wrong, drawing Bourne and Marie 
 <hr>
 
 
-## 6. [Constantine](https://serp.ly/@serpmedia/github/amazon/Constantine)
+## 6. [Constantine](https://serp.ly/amazon/Constantine)
 
 ![Constantine](https://image.tmdb.org/t/p/original/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg)
 
@@ -295,7 +295,7 @@ John Constantine has literally been to Hell and back. When he teams up with a po
 <hr>
 
 
-## 7. [Mission: Impossible III](https://serp.ly/@serpmedia/github/amazon/Mission%3A+Impossible+III)
+## 7. [Mission: Impossible III](https://serp.ly/amazon/Mission%3A+Impossible+III)
 
 ![Mission: Impossible III](https://image.tmdb.org/t/p/original/vKGYCpmQyV9uHybWDzXuII8Los5.jpg)
 
@@ -338,7 +338,7 @@ When master spy Ethan Hunt returns from retirement to take on his toughest assig
 <hr>
 
 
-## 8. [Pixels](https://serp.ly/@serpmedia/github/amazon/Pixels)
+## 8. [Pixels](https://serp.ly/amazon/Pixels)
 
 ![Pixels](https://image.tmdb.org/t/p/original/rV5DzghQv6z6Yagak6ysKE77nuf.jpg)
 
@@ -381,7 +381,7 @@ When 1980s video game characters invade New York, the military recruits gaming e
 <hr>
 
 
-## 9. [Due Date](https://serp.ly/@serpmedia/github/amazon/Due+Date)
+## 9. [Due Date](https://serp.ly/amazon/Due+Date)
 
 ![Due Date](https://image.tmdb.org/t/p/original/sBxWS09pOOyXZ0dcnqfqqCAQGan.jpg)
 
@@ -421,7 +421,7 @@ Leave your comfort zone.
 <hr>
 
 
-## 10. [Gone Baby Gone](https://serp.ly/@serpmedia/github/amazon/Gone+Baby+Gone)
+## 10. [Gone Baby Gone](https://serp.ly/amazon/Gone+Baby+Gone)
 
 ![Gone Baby Gone](https://image.tmdb.org/t/p/original/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg)
 
@@ -463,7 +463,7 @@ When 4-year-old Amanda McCready disappears from her home, the police investigati
 <hr>
 
 
-## 11. [The Best of Me](https://serp.ly/@serpmedia/github/amazon/The+Best+of+Me)
+## 11. [The Best of Me](https://serp.ly/amazon/The+Best+of+Me)
 
 ![The Best of Me](https://image.tmdb.org/t/p/original/8QBWh2Iwf1iUfsu2NfCue2V1hpV.jpg)
 
@@ -506,7 +506,7 @@ The Best of Me brings together an old high school couple who reunite in their sm
 <hr>
 
 
-## 12. [Kiss Kiss Bang Bang](https://serp.ly/@serpmedia/github/amazon/Kiss+Kiss+Bang+Bang)
+## 12. [Kiss Kiss Bang Bang](https://serp.ly/amazon/Kiss+Kiss+Bang+Bang)
 
 ![Kiss Kiss Bang Bang](https://image.tmdb.org/t/p/original/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg)
 
@@ -549,7 +549,7 @@ When a petty thief poses as an actor in Los Angeles, he stumbles into an unexpec
 <hr>
 
 
-## 13. [Eagle Eye](https://serp.ly/@serpmedia/github/amazon/Eagle+Eye)
+## 13. [Eagle Eye](https://serp.ly/amazon/Eagle+Eye)
 
 ![Eagle Eye](https://image.tmdb.org/t/p/original/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg)
 
@@ -592,7 +592,7 @@ When two strangers, Jerry Shaw and Rachel Holloman, receive mysterious calls thr
 <hr>
 
 
-## 14. [Patriots Day](https://serp.ly/@serpmedia/github/amazon/Patriots+Day)
+## 14. [Patriots Day](https://serp.ly/amazon/Patriots+Day)
 
 ![Patriots Day](https://image.tmdb.org/t/p/original/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg)
 
@@ -635,7 +635,7 @@ The inside story of the world's greatest manhunt.
 <hr>
 
 
-## 15. [Made of Honor](https://serp.ly/@serpmedia/github/amazon/Made+of+Honor)
+## 15. [Made of Honor](https://serp.ly/amazon/Made+of+Honor)
 
 ![Made of Honor](https://image.tmdb.org/t/p/original/pDg8D0jNqmz7RbCBgblWvmPswHE.jpg)
 
@@ -678,7 +678,7 @@ When his best friend Hannah gets engaged, serial dater Tom sees his chance to fi
 <hr>
 
 
-## 16. [Unfaithful](https://serp.ly/@serpmedia/github/amazon/Unfaithful)
+## 16. [Unfaithful](https://serp.ly/amazon/Unfaithful)
 
 ![Unfaithful](https://image.tmdb.org/t/p/original/bjiHEhuiwhIygzjczbTPAA07cGc.jpg)
 
@@ -718,7 +718,7 @@ When Connie's 11-year marriage to Edward hits a rough patch, an unexpected encou
 <hr>
 
 
-## 17. [The Family Plan](https://serp.ly/@serpmedia/github/amazon/The+Family+Plan)
+## 17. [The Family Plan](https://serp.ly/amazon/The+Family+Plan)
 
 ![The Family Plan](https://image.tmdb.org/t/p/original/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg)
 
@@ -757,7 +757,7 @@ Dan Morgan leads a double life - by day, he's a successful car salesman, but his
 <hr>
 
 
-## 18. [The Heartbreak Kid](https://serp.ly/@serpmedia/github/amazon/The+Heartbreak+Kid)
+## 18. [The Heartbreak Kid](https://serp.ly/amazon/The+Heartbreak+Kid)
 
 ![The Heartbreak Kid](https://image.tmdb.org/t/p/original/bVWM0L3DqFpNE3Yt49WjAgTQUc0.jpg)
 
@@ -800,7 +800,7 @@ Eddie, a 40-year-old bachelor, finally says "I do" to the beautiful Lila. But du
 <hr>
 
 
-## 19. [Justice League: War](https://serp.ly/@serpmedia/github/amazon/Justice+League%3A+War)
+## 19. [Justice League: War](https://serp.ly/amazon/Justice+League%3A+War)
 
 ![Justice League: War](https://image.tmdb.org/t/p/original/pdNprWYdgcB8z4FLD3BhRmhEys1.jpg)
 
@@ -840,7 +840,7 @@ Earth faces annihilation at the hands of an alien armada commanded by the formid
 <hr>
 
 
-## 20. [Sleepless](https://serp.ly/@serpmedia/github/amazon/Sleepless)
+## 20. [Sleepless](https://serp.ly/amazon/Sleepless)
 
 ![Sleepless](https://image.tmdb.org/t/p/original/9WkUSY33MDPGmz0vtzbsfaxTHVa.jpg)
 
@@ -885,7 +885,7 @@ When an undercover Las Vegas cop's world turns upside down after a high-stakes h
 <hr>
 
 
-## 21. [Machine Gun Preacher](https://serp.ly/@serpmedia/github/amazon/Machine+Gun+Preacher)
+## 21. [Machine Gun Preacher](https://serp.ly/amazon/Machine+Gun+Preacher)
 
 ![Machine Gun Preacher](https://image.tmdb.org/t/p/original/A9gRYTyNLGJuxHmqdGM5UxHxJtB.jpg)
 
@@ -928,7 +928,7 @@ When former drug-dealer Sam Childers finds God, he transforms from outlaw to cru
 <hr>
 
 
-## 22. [The Craft: Legacy](https://serp.ly/@serpmedia/github/amazon/The+Craft%3A+Legacy)
+## 22. [The Craft: Legacy](https://serp.ly/amazon/The+Craft%3A+Legacy)
 
 ![The Craft: Legacy](https://image.tmdb.org/t/p/original/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg)
 
@@ -971,7 +971,7 @@ When four teenage girls discover they have magical powers, they form a coven and
 <hr>
 
 
-## 23. [North Country](https://serp.ly/@serpmedia/github/amazon/North+Country)
+## 23. [North Country](https://serp.ly/amazon/North+Country)
 
 ![North Country](https://image.tmdb.org/t/p/original/upxUN4zmX79o49mBW9htKZDeNq7.jpg)
 
@@ -1014,7 +1014,7 @@ In the picturesque North Country, all she wanted was to make a living. . Instead
 <hr>
 
 
-## 24. [Somewhere](https://serp.ly/@serpmedia/github/amazon/Somewhere)
+## 24. [Somewhere](https://serp.ly/amazon/Somewhere)
 
 ![Somewhere](https://image.tmdb.org/t/p/original/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg)
 
@@ -1055,7 +1055,7 @@ In his Hollywood retreat at Chateau Marmont, a washed-up actor's world changes w
 <hr>
 
 
-## 25. [Playing It Cool](https://serp.ly/@serpmedia/github/amazon/Playing+It+Cool)
+## 25. [Playing It Cool](https://serp.ly/amazon/Playing+It+Cool)
 
 ![Playing It Cool](https://image.tmdb.org/t/p/original/4B2FLN0c2vY6im3Oe2ZkYftulmq.jpg)
 
@@ -1093,7 +1093,7 @@ When a young man meets an engaged woman, he finds himself irresistibly drawn to 
 <hr>
 
 
-## 26. [The Vanishing of Sidney Hall](https://serp.ly/@serpmedia/github/amazon/The+Vanishing+of+Sidney+Hall)
+## 26. [The Vanishing of Sidney Hall](https://serp.ly/amazon/The+Vanishing+of+Sidney+Hall)
 
 ![The Vanishing of Sidney Hall](https://image.tmdb.org/t/p/original/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg)
 
@@ -1132,7 +1132,7 @@ Sidney Hall's remarkable journey unfolds over 12 years, spanning three distinct 
 <hr>
 
 
-## 27. [Better Living Through Chemistry](https://serp.ly/@serpmedia/github/amazon/Better+Living+Through+Chemistry)
+## 27. [Better Living Through Chemistry](https://serp.ly/amazon/Better+Living+Through+Chemistry)
 
 ![Better Living Through Chemistry](https://image.tmdb.org/t/p/original/9PpwTNDsXnuGHcwBdpgybVSwsFN.jpg)
 
@@ -1175,7 +1175,7 @@ When a rigid pharmacist's world collides with a trophy wife's, their explosive a
 <hr>
 
 
-## 28. [Black Site](https://serp.ly/@serpmedia/github/amazon/Black+Site)
+## 28. [Black Site](https://serp.ly/amazon/Black+Site)
 
 ![Black Site](https://image.tmdb.org/t/p/original/ipn8khVVC4eToWiGf89WF9J5PJn.jpg)
 
@@ -1209,7 +1209,7 @@ In a top-secret prison, a group of officers faces their darkest hour when a bril
 <hr>
 
 
-## 29. [Every Breath You Take](https://serp.ly/@serpmedia/github/amazon/Every+Breath+You+Take)
+## 29. [Every Breath You Take](https://serp.ly/amazon/Every+Breath+You+Take)
 
 ![Every Breath You Take](https://image.tmdb.org/t/p/original/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg)
 
@@ -1248,7 +1248,7 @@ When a psychiatrist's client takes her own life, he introduces her surviving bro
 <hr>
 
 
-## 30. [Blood](https://serp.ly/@serpmedia/github/amazon/Blood)
+## 30. [Blood](https://serp.ly/amazon/Blood)
 
 ![Blood](https://image.tmdb.org/t/p/original/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg)
 
@@ -1286,7 +1286,7 @@ When Jess moves her family into their old farmhouse, they're seeking a fresh sta
 <hr>
 
 
-## 31. [Penthouse North](https://serp.ly/@serpmedia/github/amazon/Penthouse+North)
+## 31. [Penthouse North](https://serp.ly/amazon/Penthouse+North)
 
 ![Penthouse North](https://image.tmdb.org/t/p/original/1CcbRXZMbhZqFoBPqoR9386iqJp.jpg)
 
@@ -1320,7 +1320,7 @@ In a luxurious New York penthouse, a mysterious photojournalist's quiet life cha
 <hr>
 
 
-## 32. [Nanny](https://serp.ly/@serpmedia/github/amazon/Nanny)
+## 32. [Nanny](https://serp.ly/amazon/Nanny)
 
 ![Nanny](https://image.tmdb.org/t/p/original/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg)
 
@@ -1356,7 +1356,7 @@ In this haunting drama, a Senegalese immigrant named Aisha takes a nanny positio
 <hr>
 
 
-## 33. [Fort Bliss](https://serp.ly/@serpmedia/github/amazon/Fort+Bliss)
+## 33. [Fort Bliss](https://serp.ly/amazon/Fort+Bliss)
 
 ![Fort Bliss](https://image.tmdb.org/t/p/original/bDCWv9myyBpkvrKfcQusosFRAg1.jpg)
 
@@ -1395,7 +1395,7 @@ When a decorated U. S. Army medic returns home from Afghanistan, she faces the c
 <hr>
 
 
-## 34. [Saint Judy](https://serp.ly/@serpmedia/github/amazon/Saint+Judy)
+## 34. [Saint Judy](https://serp.ly/amazon/Saint+Judy)
 
 ![Saint Judy](https://image.tmdb.org/t/p/original/pwIejqS8wU7cYXqnAJzMpxTWqsa.jpg)
 
@@ -1434,7 +1434,7 @@ When immigration attorney Judy Wood takes on a challenging asylum case, she unco
 <hr>
 
 
-## 35. [It Runs in the Family](https://serp.ly/@serpmedia/github/amazon/It+Runs+in+the+Family)
+## 35. [It Runs in the Family](https://serp.ly/amazon/It+Runs+in+the+Family)
 
 ![It Runs in the Family](https://image.tmdb.org/t/p/original/2CQG3q7IhiaJyC4YIQZE8P0DWWB.jpg)
 
@@ -1473,7 +1473,7 @@ When a dysfunctional New York family gathers for the wedding of one of their own
 <hr>
 
 
-## 36. [Trucker](https://serp.ly/@serpmedia/github/amazon/Trucker)
+## 36. [Trucker](https://serp.ly/amazon/Trucker)
 
 ![Trucker](https://image.tmdb.org/t/p/original/kiOEBjIsTiGtYBDfaoaCwwXGIFP.jpg)
 
@@ -1514,7 +1514,7 @@ Diane Ford is a truck driver who runs a one-woman operation, ferrying freight ac
 <hr>
 
 
-## 37. [MaXXXine](https://serp.ly/@serpmedia/github/amazon/MaXXXine)
+## 37. [MaXXXine](https://serp.ly/amazon/MaXXXine)
 
 ![MaXXXine](https://image.tmdb.org/t/p/original/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg)
 
@@ -1549,7 +1549,7 @@ In 1980s Hollywood, adult film star Maxine Minx finally gets her big break. But 
 <hr>
 
 
-## 38. [Gus](https://serp.ly/@serpmedia/github/amazon/Gus)
+## 38. [Gus](https://serp.ly/amazon/Gus)
 
 ![Gus](https://image.tmdb.org/t/p/original/7WZLSWwEGyaVghoFNCNyq2n5xPS.jpg)
 
@@ -1586,7 +1586,7 @@ Lizzie's best friend Andie becomes pregnant and offers to give the baby to her. 
 <hr>
 
 
-## 39. [Tomorrow You're Gone](https://serp.ly/@serpmedia/github/amazon/Tomorrow+You%27re+Gone)
+## 39. [Tomorrow You're Gone](https://serp.ly/amazon/Tomorrow+You%27re+Gone)
 
 ![Tomorrow You're Gone](https://image.tmdb.org/t/p/original/1qFmod8EAEO6xRuhDRibfw15PoB.jpg)
 
@@ -1625,7 +1625,7 @@ When Charlie Rankin gets released from prison, he's got one thing on his mind: r
 <hr>
 
 
-## 40. [Spinning Gold](https://serp.ly/@serpmedia/github/amazon/Spinning+Gold)
+## 40. [Spinning Gold](https://serp.ly/amazon/Spinning+Gold)
 
 ![Spinning Gold](https://image.tmdb.org/t/p/original/pbCxv1KcdJhpzxCFsfHA3Tq9jtm.jpg)
 
@@ -1665,7 +1665,7 @@ Spinning Gold chronicles Neil Bogart's creative journey as a producer who co-fou
 <hr>
 
 
-## 41. [Perfume](https://serp.ly/@serpmedia/github/amazon/Perfume)
+## 41. [Perfume](https://serp.ly/amazon/Perfume)
 
 ![Perfume](https://image.tmdb.org/t/p/original/nQFxZ0MuOrArMDYDgLId69rkEZR.jpg)
 
@@ -1701,7 +1701,7 @@ Fame. Power. Sex.
 <hr>
 
 
-## 42. [Winter Solstice](https://serp.ly/@serpmedia/github/amazon/Winter+Solstice)
+## 42. [Winter Solstice](https://serp.ly/amazon/Winter+Solstice)
 
 ![Winter Solstice](https://image.tmdb.org/t/p/original/coSDsuEmLvdlGmP6CWGKB8stgtX.jpg)
 
@@ -1739,7 +1739,7 @@ In "Winter Solstice", a widowed father grapples with his older son's departure a
 <hr>
 
 
-## 43. [Open](https://serp.ly/@serpmedia/github/amazon/Open)
+## 43. [Open](https://serp.ly/amazon/Open)
 
 ![Open](https://image.tmdb.org/t/p/original/hZ5lHvozKuyfz1cp9ioNn3fiwhP.jpg)
 
@@ -1773,7 +1773,7 @@ In "Winter Solstice", a widowed father grapples with his older son's departure a
 <hr>
 
 
-## 44. [The Farrelly Bros.: In the French Tradition](https://serp.ly/@serpmedia/github/amazon/The+Farrelly+Bros.%3A+In+the+French+Tradition)
+## 44. [The Farrelly Bros.: In the French Tradition](https://serp.ly/amazon/The+Farrelly+Bros.%3A+In+the+French+Tradition)
 
 ![The Farrelly Bros.: In the French Tradition](https://image.tmdb.org/t/p/original/nChEzQtZDF1SjuGF2n57pU4GqvM.jpg)
 
@@ -1801,7 +1801,7 @@ Join the Farrelly brothers as they bring their signature style to French filmmak
 <hr>
 
 
-## 45. [Easy’s Waltz](https://serp.ly/@serpmedia/github/amazon/Easy%E2%80%99s+Waltz)
+## 45. [Easy’s Waltz](https://serp.ly/amazon/Easy%E2%80%99s+Waltz)
 
 <br>
 
@@ -1822,7 +1822,7 @@ In "Easy's Waltz", a struggling comedian-crooner finds himself in modern Las Veg
 <hr>
 
 
-## 46. [The Price of Admission](https://serp.ly/@serpmedia/github/amazon/The+Price+of+Admission)
+## 46. [The Price of Admission](https://serp.ly/amazon/The+Price+of+Admission)
 
 ![The Price of Admission](https://image.tmdb.org/t/p/original/y0DRB5JO0qhRToTAZ57jcMBEyJm.jpg)
 
@@ -1848,7 +1848,7 @@ When playwright Harold Sugar hits rock bottom, he does the unthinkable: he write
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1894,7 +1894,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1938,7 +1938,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 3. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -1984,7 +1984,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 4. [True Detective](https://serp.ly/@serpmedia/github/amazon/True+Detective)
+## 4. [True Detective](https://serp.ly/amazon/True+Detective)
 
 ![True Detective](https://image.tmdb.org/t/p/original/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg)
 
@@ -2030,7 +2030,7 @@ True Detective dives into the intricacies of criminal investigations through its
 <hr>
 
 
-## 5. [Comedy Bang! Bang!](https://serp.ly/@serpmedia/github/amazon/Comedy+Bang%21+Bang%21)
+## 5. [Comedy Bang! Bang!](https://serp.ly/amazon/Comedy+Bang%21+Bang%21)
 
 ![Comedy Bang! Bang!](https://image.tmdb.org/t/p/original/5undCFoglpvKYFmu404ve9mh6on.jpg)
 
@@ -2072,7 +2072,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 6. [Project Runway](https://serp.ly/@serpmedia/github/amazon/Project+Runway)
+## 6. [Project Runway](https://serp.ly/amazon/Project+Runway)
 
 ![Project Runway](https://image.tmdb.org/t/p/original/3JKvoVulQXwibxdGQYqBQyZBlBj.jpg)
 
@@ -2118,7 +2118,7 @@ Project Runway invites you to witness the relentless passion and raw talent of a
 <hr>
 
 
-## 7. [Boston Public](https://serp.ly/@serpmedia/github/amazon/Boston+Public)
+## 7. [Boston Public](https://serp.ly/amazon/Boston+Public)
 
 ![Boston Public](https://image.tmdb.org/t/p/original/yUEMfetlqwab7mOzrZIoAOGwfKi.jpg)
 
@@ -2160,7 +2160,7 @@ Winslow High School's Principal Steven Harper faces the joys and challenges of h
 <hr>
 
 
-## 8. [Off Camera with Sam Jones](https://serp.ly/@serpmedia/github/amazon/Off+Camera+with+Sam+Jones)
+## 8. [Off Camera with Sam Jones](https://serp.ly/amazon/Off+Camera+with+Sam+Jones)
 
 ![Off Camera with Sam Jones](https://image.tmdb.org/t/p/original/wFzCudeLabyjvwh0n5C9rEtCqVy.jpg)
 
@@ -2206,7 +2206,7 @@ The best conversations happen off camera.
 <hr>
 
 
-## 9. [Messiah](https://serp.ly/@serpmedia/github/amazon/Messiah)
+## 9. [Messiah](https://serp.ly/amazon/Messiah)
 
 ![Messiah](https://image.tmdb.org/t/p/original/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg)
 
@@ -2250,7 +2250,7 @@ When a charismatic man emerges, sparking both a spiritual movement and political
 <hr>
 
 
-## 10. [The Path](https://serp.ly/@serpmedia/github/amazon/The+Path)
+## 10. [The Path](https://serp.ly/amazon/The+Path)
 
 ![The Path](https://image.tmdb.org/t/p/original/se3MZ1OVfIrZqFJkpm3kVnpkKpO.jpg)
 
@@ -2294,7 +2294,7 @@ In upstate New York, a cult-like movement emerges, centered around Eddie, a conf
 <hr>
 
 
-## 11. [Hack](https://serp.ly/@serpmedia/github/amazon/Hack)
+## 11. [Hack](https://serp.ly/amazon/Hack)
 
 ![Hack](https://image.tmdb.org/t/p/original/zdfIl0Nddmo9G5BWG5L0UoW1WMy.jpg)
 
@@ -2336,7 +2336,7 @@ When a former police officer is forced to leave the force due to corruption char
 <hr>
 
 
-## 12. [Young Americans](https://serp.ly/@serpmedia/github/amazon/Young+Americans)
+## 12. [Young Americans](https://serp.ly/amazon/Young+Americans)
 
 ![Young Americans](https://image.tmdb.org/t/p/original/566z1R102QJYVJ4t5eW0io5twia.jpg)
 
@@ -2378,7 +2378,7 @@ When forbidden love blossoms between social classes, it tests the boundaries of 
 <hr>
 
 
-## 13. [Talking with Chris Hardwick](https://serp.ly/@serpmedia/github/amazon/Talking+with+Chris+Hardwick)
+## 13. [Talking with Chris Hardwick](https://serp.ly/amazon/Talking+with+Chris+Hardwick)
 
 ![Talking with Chris Hardwick](https://image.tmdb.org/t/p/original/u4DTRA6ArRSSxhvTRAFJm2YEMEU.jpg)
 
@@ -2420,7 +2420,7 @@ AMC's "Talking with Chris Hardwick" transforms the popular "Talking Dead" host's
 <hr>
 
 
-## 14. [Bad Monkey](https://serp.ly/@serpmedia/github/amazon/Bad+Monkey)
+## 14. [Bad Monkey](https://serp.ly/amazon/Bad+Monkey)
 
 <br>
 
@@ -2457,7 +2457,7 @@ In Southern Florida, a former detective now inspecting restaurants gets pulled i
 <hr>
 
 
-## 15. [Echoes](https://serp.ly/@serpmedia/github/amazon/Echoes)
+## 15. [Echoes](https://serp.ly/amazon/Echoes)
 
 ![Echoes](https://image.tmdb.org/t/p/original/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg)
 
@@ -2501,7 +2501,7 @@ When identical twins Leni and Gina switch places for years, their secret dual li
 <hr>
 
 
-## 16. [Dead Talk Live](https://serp.ly/@serpmedia/github/amazon/Dead+Talk+Live)
+## 16. [Dead Talk Live](https://serp.ly/amazon/Dead+Talk+Live)
 
 ![Dead Talk Live](https://image.tmdb.org/t/p/original/8y1rjTToy9dqAHVqrTpnHJJ7WCJ.jpg)
 
@@ -2545,7 +2545,7 @@ When identical twins Leni and Gina switch places for years, their secret dual li
 <hr>
 
 
-## 17. [HypaSpace](https://serp.ly/@serpmedia/github/amazon/HypaSpace)
+## 17. [HypaSpace](https://serp.ly/amazon/HypaSpace)
 
 <br>
 

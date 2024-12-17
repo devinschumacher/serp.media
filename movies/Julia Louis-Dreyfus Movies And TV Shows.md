@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Black Widow](https://serp.ly/@serpmedia/github/amazon/Black+Widow)
+## 1. [Black Widow](https://serp.ly/amazon/Black+Widow)
 
 ![Black Widow](https://image.tmdb.org/t/p/original/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg)
 
@@ -80,7 +80,7 @@ When a dangerous conspiracy threatens to expose her darkest secrets, Natasha Rom
 <hr>
 
 
-## 2. [A Bug's Life](https://serp.ly/@serpmedia/github/amazon/A+Bug%27s+Life)
+## 2. [A Bug's Life](https://serp.ly/amazon/A+Bug%27s+Life)
 
 ![A Bug's Life](https://image.tmdb.org/t/p/original/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg)
 
@@ -123,7 +123,7 @@ In a world where bugs aren't just small but incredibly sophisticated, an epic ta
 <hr>
 
 
-## 3. [Onward](https://serp.ly/@serpmedia/github/amazon/Onward)
+## 3. [Onward](https://serp.ly/amazon/Onward)
 
 ![Onward](https://image.tmdb.org/t/p/original/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg)
 
@@ -166,7 +166,7 @@ In a world where magic meets the mundane, two teenage elf brothers embark on an 
 <hr>
 
 
-## 4. [Black Panther: Wakanda Forever](https://serp.ly/@serpmedia/github/amazon/Black+Panther%3A+Wakanda+Forever)
+## 4. [Black Panther: Wakanda Forever](https://serp.ly/amazon/Black+Panther%3A+Wakanda+Forever)
 
 ![Black Panther: Wakanda Forever](https://image.tmdb.org/t/p/original/sv1xJUazXeYqALzczSZ3O6nkH75.jpg)
 
@@ -209,7 +209,7 @@ Following King T'Challa's death, Queen Ramonda teams up with Shuri, M'Baku, Okoy
 <hr>
 
 
-## 5. [National Lampoon's Christmas Vacation](https://serp.ly/@serpmedia/github/amazon/National+Lampoon%27s+Christmas+Vacation)
+## 5. [National Lampoon's Christmas Vacation](https://serp.ly/amazon/National+Lampoon%27s+Christmas+Vacation)
 
 ![National Lampoon's Christmas Vacation](https://image.tmdb.org/t/p/original/nF0Ya225sdZr5ytdOPuhzxirbBm.jpg)
 
@@ -252,7 +252,7 @@ It's Christmastime, and the Griswolds are preparing for their annual family cele
 <hr>
 
 
-## 6. [Planes](https://serp.ly/@serpmedia/github/amazon/Planes)
+## 6. [Planes](https://serp.ly/amazon/Planes)
 
 ![Planes](https://image.tmdb.org/t/p/original/i2xgU0y0p77WTrB0oIkbpdaWq8R.jpg)
 
@@ -292,7 +292,7 @@ From above the world of Cars
 <hr>
 
 
-## 7. [Hannah and Her Sisters](https://serp.ly/@serpmedia/github/amazon/Hannah+and+Her+Sisters)
+## 7. [Hannah and Her Sisters](https://serp.ly/amazon/Hannah+and+Her+Sisters)
 
 ![Hannah and Her Sisters](https://image.tmdb.org/t/p/original/gARgIRb2QFRFVrsziwWE389u1pK.jpg)
 
@@ -335,7 +335,7 @@ When Hannah's husband develops feelings for her sister Lee between two Thanksgiv
 <hr>
 
 
-## 8. [Deconstructing Harry](https://serp.ly/@serpmedia/github/amazon/Deconstructing+Harry)
+## 8. [Deconstructing Harry](https://serp.ly/amazon/Deconstructing+Harry)
 
 ![Deconstructing Harry](https://image.tmdb.org/t/p/original/i7Z5DdznqANJUjqWISEFu9bw6J7.jpg)
 
@@ -378,7 +378,7 @@ Writer Harry Block turns personal experiences and close friendships into bestsel
 <hr>
 
 
-## 9. [Enough Said](https://serp.ly/@serpmedia/github/amazon/Enough+Said)
+## 9. [Enough Said](https://serp.ly/amazon/Enough+Said)
 
 ![Enough Said](https://image.tmdb.org/t/p/original/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg)
 
@@ -414,7 +414,7 @@ Eva, a divorced empty-nester, meets Marianne, the embodiment of her perfect self
 <hr>
 
 
-## 10. [You People](https://serp.ly/@serpmedia/github/amazon/You+People)
+## 10. [You People](https://serp.ly/amazon/You+People)
 
 ![You People](https://image.tmdb.org/t/p/original/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg)
 
@@ -455,7 +455,7 @@ When a new couple falls in love amidst the chaos of modern life, their contrasti
 <hr>
 
 
-## 11. [The Pixar Story](https://serp.ly/@serpmedia/github/amazon/The+Pixar+Story)
+## 11. [The Pixar Story](https://serp.ly/amazon/The+Pixar+Story)
 
 ![The Pixar Story](https://image.tmdb.org/t/p/original/vhK51wJybwZTRCPVUOkGpSI4auN.jpg)
 
@@ -491,7 +491,7 @@ Documentary about the history of Pixar animation
 <hr>
 
 
-## 12. [Fathers' Day](https://serp.ly/@serpmedia/github/amazon/Fathers%27+Day)
+## 12. [Fathers' Day](https://serp.ly/amazon/Fathers%27+Day)
 
 ![Fathers' Day](https://image.tmdb.org/t/p/original/834wRxQRbbctFupf8AES7CCeTSM.jpg)
 
@@ -531,7 +531,7 @@ When a woman asks two old boyfriends to help find her runaway son, she sets off 
 <hr>
 
 
-## 13. [Downhill](https://serp.ly/@serpmedia/github/amazon/Downhill)
+## 13. [Downhill](https://serp.ly/amazon/Downhill)
 
 ![Downhill](https://image.tmdb.org/t/p/original/ruLqLb2bfWKykckxVlVZayuBOgW.jpg)
 
@@ -569,7 +569,7 @@ When a married couple survives an avalanche during their family ski vacation in 
 <hr>
 
 
-## 14. [North](https://serp.ly/@serpmedia/github/amazon/North)
+## 14. [North](https://serp.ly/amazon/North)
 
 ![North](https://image.tmdb.org/t/p/original/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg)
 
@@ -607,7 +607,7 @@ When 11-year-old North files a lawsuit against his parents, it kicks off one wil
 <hr>
 
 
-## 15. [Troll](https://serp.ly/@serpmedia/github/amazon/Troll)
+## 15. [Troll](https://serp.ly/amazon/Troll)
 
 ![Troll](https://image.tmdb.org/t/p/original/5KXuzLzP1pdM87HXIoneiwrDIld.jpg)
 
@@ -650,7 +650,7 @@ When a family moves into a San Francisco apartment, they unknowingly invite an o
 <hr>
 
 
-## 16. [Naqoyqatsi](https://serp.ly/@serpmedia/github/amazon/Naqoyqatsi)
+## 16. [Naqoyqatsi](https://serp.ly/amazon/Naqoyqatsi)
 
 ![Naqoyqatsi](https://image.tmdb.org/t/p/original/buDo6FcSlOVEQJomKB0IviNV0Do.jpg)
 
@@ -690,7 +690,7 @@ Life as war
 <hr>
 
 
-## 17. [You Hurt My Feelings](https://serp.ly/@serpmedia/github/amazon/You+Hurt+My+Feelings)
+## 17. [You Hurt My Feelings](https://serp.ly/amazon/You+Hurt+My+Feelings)
 
 ![You Hurt My Feelings](https://image.tmdb.org/t/p/original/do9UvkcDJeYbhYVoQPS00yOCYdc.jpg)
 
@@ -729,7 +729,7 @@ In this heartfelt drama, a successful novelist's carefully constructed life chan
 <hr>
 
 
-## 18. [Soul Man](https://serp.ly/@serpmedia/github/amazon/Soul+Man)
+## 18. [Soul Man](https://serp.ly/amazon/Soul+Man)
 
 ![Soul Man](https://image.tmdb.org/t/p/original/tYwLh0wQ2Ggk4tRIbkEY3nkSiHA.jpg)
 
@@ -772,7 +772,7 @@ When a Caucasian law school hopeful's family refuses to fund his legal education
 <hr>
 
 
-## 19. [Animal Farm](https://serp.ly/@serpmedia/github/amazon/Animal+Farm)
+## 19. [Animal Farm](https://serp.ly/amazon/Animal+Farm)
 
 ![Animal Farm](https://image.tmdb.org/t/p/original/vFQo4DdhgHBr0Jy06VpzCYaZaPI.jpg)
 
@@ -810,7 +810,7 @@ When farm animals overthrow their human masters, they establish a new order wher
 <hr>
 
 
-## 20. [Jack the Bear](https://serp.ly/@serpmedia/github/amazon/Jack+the+Bear)
+## 20. [Jack the Bear](https://serp.ly/amazon/Jack+the+Bear)
 
 ![Jack the Bear](https://image.tmdb.org/t/p/original/ujQp7d43MmENpjMG9qaZslMqD24.jpg)
 
@@ -850,7 +850,7 @@ When a single father moves his two sons to California, their new life takes an u
 <hr>
 
 
-## 21. [Marvel Studios Assembled: The Making of Hawkeye](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Hawkeye)
+## 21. [Marvel Studios Assembled: The Making of Hawkeye](https://serp.ly/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Hawkeye)
 
 ![Marvel Studios Assembled: The Making of Hawkeye](https://image.tmdb.org/t/p/original/pQOLNPHe4rwXl3RpKNa0VWjYNLR.jpg)
 
@@ -883,7 +883,7 @@ Go beyond the bow and discover what made an Avenger a legend.
 <hr>
 
 
-## 22. [Live from New York!](https://serp.ly/@serpmedia/github/amazon/Live+from+New+York%21)
+## 22. [Live from New York!](https://serp.ly/amazon/Live+from+New+York%21)
 
 ![Live from New York!](https://image.tmdb.org/t/p/original/bzS4BgZVveWjiKhNxTe8gboynmp.jpg)
 
@@ -922,7 +922,7 @@ We don't go on because we're ready, we go on because it's 11:30.
 <hr>
 
 
-## 23. [James Gandolfini: Tribute to a Friend](https://serp.ly/@serpmedia/github/amazon/James+Gandolfini%3A+Tribute+to+a+Friend)
+## 23. [James Gandolfini: Tribute to a Friend](https://serp.ly/amazon/James+Gandolfini%3A+Tribute+to+a+Friend)
 
 ![James Gandolfini: Tribute to a Friend](https://image.tmdb.org/t/p/original/cX4jrvyVPlrdqM35tUzZXP3qhiu.jpg)
 
@@ -956,7 +956,7 @@ This half-hour tribute remembers James Gandolfini through the eyes of his friend
 <hr>
 
 
-## 24. [Being Mary Tyler Moore](https://serp.ly/@serpmedia/github/amazon/Being+Mary+Tyler+Moore)
+## 24. [Being Mary Tyler Moore](https://serp.ly/amazon/Being+Mary+Tyler+Moore)
 
 ![Being Mary Tyler Moore](https://image.tmdb.org/t/p/original/2A6MSRDblLl7X4gVPVxigc7psqG.jpg)
 
@@ -995,7 +995,7 @@ Mary Tyler Moore's six-decade career in show business comes to life through inti
 <hr>
 
 
-## 25. [Making a Scene](https://serp.ly/@serpmedia/github/amazon/Making+a+Scene)
+## 25. [Making a Scene](https://serp.ly/amazon/Making+a+Scene)
 
 ![Making a Scene](https://image.tmdb.org/t/p/original/j2nNchRu2GZqOGmNY8Ayx7cmw0n.jpg)
 
@@ -1031,7 +1031,7 @@ The year's best big-screen performers in 11 original (very) short films.
 <hr>
 
 
-## 26. [The Words That Built America](https://serp.ly/@serpmedia/github/amazon/The+Words+That+Built+America)
+## 26. [The Words That Built America](https://serp.ly/amazon/The+Words+That+Built+America)
 
 ![The Words That Built America](https://image.tmdb.org/t/p/original/pk7TYOGbtIHeVLSmmsfSgAKp75Z.jpg)
 
@@ -1065,7 +1065,7 @@ The year's best big-screen performers in 11 original (very) short films.
 <hr>
 
 
-## 27. [Geppetto](https://serp.ly/@serpmedia/github/amazon/Geppetto)
+## 27. [Geppetto](https://serp.ly/amazon/Geppetto)
 
 ![Geppetto](https://image.tmdb.org/t/p/original/8nrVXtdbZMzOAdYGXJhPBI6nSFj.jpg)
 
@@ -1098,7 +1098,7 @@ When a lonely toymaker brings a wooden puppet to life, he gains a son but loses 
 <hr>
 
 
-## 28. [Seinfeld: How It Began](https://serp.ly/@serpmedia/github/amazon/Seinfeld%3A+How+It+Began)
+## 28. [Seinfeld: How It Began](https://serp.ly/amazon/Seinfeld%3A+How+It+Began)
 
 ![Seinfeld: How It Began](https://image.tmdb.org/t/p/original/yeNvGF3gDqyh06hcHSTDxgmrjEk.jpg)
 
@@ -1132,7 +1132,7 @@ Before it became "the show about nothing, " Seinfeld struggled to find its voice
 <hr>
 
 
-## 29. [Tuesday](https://serp.ly/@serpmedia/github/amazon/Tuesday)
+## 29. [Tuesday](https://serp.ly/amazon/Tuesday)
 
 ![Tuesday](https://image.tmdb.org/t/p/original/zrd6blans3SqghHSxPAl7tqnaOf.jpg)
 
@@ -1168,7 +1168,7 @@ When Death comes knocking at their door in the form of an unexpected talking bir
 <hr>
 
 
-## 30. [Live from New York: The First 5 Years of Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Live+from+New+York%3A+The+First+5+Years+of+Saturday+Night+Live)
+## 30. [Live from New York: The First 5 Years of Saturday Night Live](https://serp.ly/amazon/Live+from+New+York%3A+The+First+5+Years+of+Saturday+Night+Live)
 
 ![Live from New York: The First 5 Years of Saturday Night Live](https://image.tmdb.org/t/p/original/2BWLFjP2twtZSQPsH1LJRkJcQKS.jpg)
 
@@ -1204,7 +1204,7 @@ When Death comes knocking at their door in the form of an unexpected talking bir
 <hr>
 
 
-## 31. [London Suite](https://serp.ly/@serpmedia/github/amazon/London+Suite)
+## 31. [London Suite](https://serp.ly/amazon/London+Suite)
 
 ![London Suite](https://image.tmdb.org/t/p/original/ezrNh0jGljJ5hQKgrCL4aKA2enR.jpg)
 
@@ -1240,7 +1240,7 @@ In this Neil Simon comedy, four couples experience different kinds of drama at a
 <hr>
 
 
-## 32. [The Women of SNL](https://serp.ly/@serpmedia/github/amazon/The+Women+of+SNL)
+## 32. [The Women of SNL](https://serp.ly/amazon/The+Women+of+SNL)
 
 ![The Women of SNL](https://image.tmdb.org/t/p/original/nMmt57scmrvzRciU9KWFUsYhuDI.jpg)
 
@@ -1274,7 +1274,7 @@ In this Neil Simon comedy, four couples experience different kinds of drama at a
 <hr>
 
 
-## 33. [Sesame Street All-Star 25th Birthday: Stars and Street Forever!](https://serp.ly/@serpmedia/github/amazon/Sesame+Street+All-Star+25th+Birthday%3A+Stars+and+Street+Forever%21)
+## 33. [Sesame Street All-Star 25th Birthday: Stars and Street Forever!](https://serp.ly/amazon/Sesame+Street+All-Star+25th+Birthday%3A+Stars+and+Street+Forever%21)
 
 ![Sesame Street All-Star 25th Birthday: Stars and Street Forever!](https://image.tmdb.org/t/p/original/sywn5nLdKJ0W7hegEJcE9WAPraW.jpg)
 
@@ -1308,7 +1308,7 @@ Join the celebration of Sesame Street's 25th birthday with this memorable 1994 T
 <hr>
 
 
-## 34. [Earth to America](https://serp.ly/@serpmedia/github/amazon/Earth+to+America)
+## 34. [Earth to America](https://serp.ly/amazon/Earth+to+America)
 
 ![Earth to America](https://image.tmdb.org/t/p/original/8XtgzKDylEFYYfMFOt8Y5SPd6zn.jpg)
 
@@ -1342,7 +1342,7 @@ Join Tom Hanks on a humorous journey through America's environmental challenges 
 <hr>
 
 
-## 35. [Jerry Seinfeld: Submarine Captain](https://serp.ly/@serpmedia/github/amazon/Jerry+Seinfeld%3A+Submarine+Captain)
+## 35. [Jerry Seinfeld: Submarine Captain](https://serp.ly/amazon/Jerry+Seinfeld%3A+Submarine+Captain)
 
 ![Jerry Seinfeld: Submarine Captain](https://image.tmdb.org/t/p/original/sZNeCetCnOhioFtQNnjyqD9CbOu.jpg)
 
@@ -1376,7 +1376,7 @@ When Larry David takes a break from the show, Jerry Seinfeld steps in as "Submar
 <hr>
 
 
-## 36. [The Making of 'Making a Scene'](https://serp.ly/@serpmedia/github/amazon/The+Making+of+%27Making+a+Scene%27)
+## 36. [The Making of 'Making a Scene'](https://serp.ly/amazon/The+Making+of+%27Making+a+Scene%27)
 
 ![The Making of 'Making a Scene'](https://image.tmdb.org/t/p/original/zS180hBd1PdDrZ2w1jOx8T0JEES.jpg)
 
@@ -1407,7 +1407,7 @@ When Larry David takes a break from the show, Jerry Seinfeld steps in as "Submar
 <hr>
 
 
-## 37. [Barely Legal Pawn](https://serp.ly/@serpmedia/github/amazon/Barely+Legal+Pawn)
+## 37. [Barely Legal Pawn](https://serp.ly/amazon/Barely+Legal+Pawn)
 
 ![Barely Legal Pawn](https://image.tmdb.org/t/p/original/iuALuHQAYQpw9aMJny9qLTmSSiX.jpg)
 
@@ -1438,7 +1438,7 @@ When two ambitious entrepreneurs open a new pawn shop, they attract an unusual c
 <hr>
 
 
-## 38. [Picture Paris](https://serp.ly/@serpmedia/github/amazon/Picture+Paris)
+## 38. [Picture Paris](https://serp.ly/amazon/Picture+Paris)
 
 ![Picture Paris](https://image.tmdb.org/t/p/original/rKtldeL5jMBvi8cQi6XJtUf16uu.jpg)
 
@@ -1474,7 +1474,7 @@ When her son heads off to college, an ordinary mom convinces her husband to join
 <hr>
 
 
-## 39. [Saturday Night Live Backstage](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live+Backstage)
+## 39. [Saturday Night Live Backstage](https://serp.ly/amazon/Saturday+Night+Live+Backstage)
 
 ![Saturday Night Live Backstage](https://image.tmdb.org/t/p/original/jNC5sPRrmEoDxkW7UXAkXjFLEt6.jpg)
 
@@ -1505,7 +1505,7 @@ When her son heads off to college, an ordinary mom convinces her husband to join
 <hr>
 
 
-## 40. [Thunderbolts\*](https://serp.ly/@serpmedia/github/amazon/Thunderbolts%2A)
+## 40. [Thunderbolts\*](https://serp.ly/amazon/Thunderbolts%2A)
 
 ![Thunderbolts\*](https://image.tmdb.org/t/p/original/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg)
 
@@ -1532,7 +1532,7 @@ When a group of misfit villains from the MCU is given a chance to redeem themsel
 <hr>
 
 
-## 41. [Julia Louis-Dreyfus: The Kennedy Center Mark Twain Prize](https://serp.ly/@serpmedia/github/amazon/Julia+Louis-Dreyfus%3A+The+Kennedy+Center+Mark+Twain+Prize)
+## 41. [Julia Louis-Dreyfus: The Kennedy Center Mark Twain Prize](https://serp.ly/amazon/Julia+Louis-Dreyfus%3A+The+Kennedy+Center+Mark+Twain+Prize)
 
 ![Julia Louis-Dreyfus: The Kennedy Center Mark Twain Prize](https://image.tmdb.org/t/p/original/8ivavO92ppfN0SEVdhasfghXrUS.jpg)
 
@@ -1563,7 +1563,7 @@ The Kennedy Center is celebrating Julia Louis-Dreyfus'sMark Twain Prize for Amer
 <hr>
 
 
-## 42. [They're Real & They're Spectacular: Seinfeld Super Fans & The Summer of George](https://serp.ly/@serpmedia/github/amazon/They%27re+Real+%26+They%27re+Spectacular%3A+Seinfeld+Super+Fans+%26+The+Summer+of+George)
+## 42. [They're Real & They're Spectacular: Seinfeld Super Fans & The Summer of George](https://serp.ly/amazon/They%27re+Real+%26+They%27re+Spectacular%3A+Seinfeld+Super+Fans+%26+The+Summer+of+George)
 
 ![They're Real & They're Spectacular: Seinfeld Super Fans & The Summer of George](https://image.tmdb.org/t/p/original/l6iZrnslNjcTfO3B3XAbklPWg3r.jpg)
 
@@ -1591,7 +1591,7 @@ They're Real & They're Spectacular: Seinfeld Super Fans & The Summer of George i
 <hr>
 
 
-## 43. [Generosity of Eye](https://serp.ly/@serpmedia/github/amazon/Generosity+of+Eye)
+## 43. [Generosity of Eye](https://serp.ly/amazon/Generosity+of+Eye)
 
 ![Generosity of Eye](https://image.tmdb.org/t/p/original/paVpm0JrYJhsNht3kSfFPvlLron.jpg)
 
@@ -1624,7 +1624,7 @@ When the Louis-Dreyfus family decides to sell their extensive art collection, ac
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1668,7 +1668,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1714,7 +1714,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1760,7 +1760,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [The Daily Show](https://serp.ly/@serpmedia/github/amazon/The+Daily+Show)
+## 4. [The Daily Show](https://serp.ly/amazon/The+Daily+Show)
 
 ![The Daily Show](https://image.tmdb.org/t/p/original/ixcfyK7it6FjRM36Te4OdblAq4X.jpg)
 
@@ -1806,7 +1806,7 @@ When news breaks, The Daily Show's fake news team is the first to fix it. Join t
 <hr>
 
 
-## 5. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 5. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -1852,7 +1852,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 6. [Curb Your Enthusiasm](https://serp.ly/@serpmedia/github/amazon/Curb+Your+Enthusiasm)
+## 6. [Curb Your Enthusiasm](https://serp.ly/amazon/Curb+Your+Enthusiasm)
 
 ![Curb Your Enthusiasm](https://image.tmdb.org/t/p/original/mZqWmSq1M61Jlre3furVDSXvdrN.jpg)
 
@@ -1896,7 +1896,7 @@ Deep inside you know you're him.
 <hr>
 
 
-## 7. [Hey Arnold!](https://serp.ly/@serpmedia/github/amazon/Hey+Arnold%21)
+## 7. [Hey Arnold!](https://serp.ly/amazon/Hey+Arnold%21)
 
 ![Hey Arnold!](https://image.tmdb.org/t/p/original/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg)
 
@@ -1940,7 +1940,7 @@ When it comes to adventures, fourth-grader Arnold has them all figured out. With
 <hr>
 
 
-## 8. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 8. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -1982,7 +1982,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 9. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 9. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -2026,7 +2026,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 10. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 10. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -2072,7 +2072,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 11. [Seinfeld](https://serp.ly/@serpmedia/github/amazon/Seinfeld)
+## 11. [Seinfeld](https://serp.ly/amazon/Seinfeld)
 
 ![Seinfeld](https://image.tmdb.org/t/p/original/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg)
 
@@ -2116,7 +2116,7 @@ When a stand-up comedian runs a business with his three odd friends in 1990s New
 <hr>
 
 
-## 12. [Family Ties](https://serp.ly/@serpmedia/github/amazon/Family+Ties)
+## 12. [Family Ties](https://serp.ly/amazon/Family+Ties)
 
 ![Family Ties](https://image.tmdb.org/t/p/original/3JVBzBToscU4uCyA67piI1RNarz.jpg)
 
@@ -2160,7 +2160,7 @@ When former 1960s flower children Steven and Elyse Keaton raise their conservati
 <hr>
 
 
-## 13. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 13. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -2206,7 +2206,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 14. [Last Week Tonight with John Oliver](https://serp.ly/@serpmedia/github/amazon/Last+Week+Tonight+with+John+Oliver)
+## 14. [Last Week Tonight with John Oliver](https://serp.ly/amazon/Last+Week+Tonight+with+John+Oliver)
 
 ![Last Week Tonight with John Oliver](https://image.tmdb.org/t/p/original/b12eM3FXNjN7yM7XYTIdmeQRud9.jpg)
 
@@ -2252,7 +2252,7 @@ Join John Oliver for a half-hour of witty commentary on the week's biggest news 
 <hr>
 
 
-## 15. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 15. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -2294,7 +2294,7 @@ Join John Oliver for a half-hour of witty commentary on the week's biggest news 
 <hr>
 
 
-## 16. [The New Adventures of Old Christine](https://serp.ly/@serpmedia/github/amazon/The+New+Adventures+of+Old+Christine)
+## 16. [The New Adventures of Old Christine](https://serp.ly/amazon/The+New+Adventures+of+Old+Christine)
 
 ![The New Adventures of Old Christine](https://image.tmdb.org/t/p/original/j1u9EGyEQEVFjl5VxK7NbRCxdZ1.jpg)
 
@@ -2336,7 +2336,7 @@ When single mom Christine Campbell runs a business with her ex-husband, their pe
 <hr>
 
 
-## 17. [Veep](https://serp.ly/@serpmedia/github/amazon/Veep)
+## 17. [Veep](https://serp.ly/amazon/Veep)
 
 ![Veep](https://image.tmdb.org/t/p/original/cdd78fGdaA3EbK2ToZRWcaaB1fx.jpg)
 
@@ -2380,7 +2380,7 @@ When former Senator Selina Meyer becomes Vice President of the United States, sh
 <hr>
 
 
-## 18. [Dinosaurs](https://serp.ly/@serpmedia/github/amazon/Dinosaurs)
+## 18. [Dinosaurs](https://serp.ly/amazon/Dinosaurs)
 
 ![Dinosaurs](https://image.tmdb.org/t/p/original/rcD2grjO6xAerWLkSgpmGkGhnTH.jpg)
 
@@ -2424,7 +2424,7 @@ When a family of dinosaurs moves into a modern home, their prehistoric ways meet
 <hr>
 
 
-## 19. [The Tonight Show with Jay Leno](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+with+Jay+Leno)
+## 19. [The Tonight Show with Jay Leno](https://serp.ly/amazon/The+Tonight+Show+with+Jay+Leno)
 
 ![The Tonight Show with Jay Leno](https://image.tmdb.org/t/p/original/xAFMZ3wFIEXTISryRZD94AAvWng.jpg)
 
@@ -2466,7 +2466,7 @@ Revisit a golden age of television with "The Tonight Show with Jay Leno, " the b
 <hr>
 
 
-## 20. [The Tony Danza Show](https://serp.ly/@serpmedia/github/amazon/The+Tony+Danza+Show)
+## 20. [The Tony Danza Show](https://serp.ly/amazon/The+Tony+Danza+Show)
 
 <br>
 
@@ -2508,7 +2508,7 @@ Revisit a golden age of daytime television with "The Tony Danza Show, " the belo
 <hr>
 
 
-## 21. [Arrested Development](https://serp.ly/@serpmedia/github/amazon/Arrested+Development)
+## 21. [Arrested Development](https://serp.ly/amazon/Arrested+Development)
 
 ![Arrested Development](https://image.tmdb.org/t/p/original/qMzwO952hMWQSCfHkp7IL20s4K7.jpg)
 
@@ -2552,7 +2552,7 @@ When a once-wealthy family loses everything, the responsibility falls on one son
 <hr>
 
 
-## 22. [30 Rock](https://serp.ly/@serpmedia/github/amazon/30+Rock)
+## 22. [30 Rock](https://serp.ly/amazon/30+Rock)
 
 ![30 Rock](https://image.tmdb.org/t/p/original/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg)
 
@@ -2596,7 +2596,7 @@ Liz Lemon runs a late-night TV variety show in New York, where her job managing 
 <hr>
 
 
-## 23. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 23. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2640,7 +2640,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 24. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 24. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -2684,7 +2684,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 25. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 25. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -2728,7 +2728,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 26. [The Ellen DeGeneres Show](https://serp.ly/@serpmedia/github/amazon/The+Ellen+DeGeneres+Show)
+## 26. [The Ellen DeGeneres Show](https://serp.ly/amazon/The+Ellen+DeGeneres+Show)
 
 ![The Ellen DeGeneres Show](https://image.tmdb.org/t/p/original/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg)
 
@@ -2770,7 +2770,7 @@ Revisit a golden era of television with "The Ellen DeGeneres Show, " the beloved
 <hr>
 
 
-## 27. [The Falcon and the Winter Soldier](https://serp.ly/@serpmedia/github/amazon/The+Falcon+and+the+Winter+Soldier)
+## 27. [The Falcon and the Winter Soldier](https://serp.ly/amazon/The+Falcon+and+the+Winter+Soldier)
 
 ![The Falcon and the Winter Soldier](https://image.tmdb.org/t/p/original/6kbAMLteGO8yyewYau6bJ683sw7.jpg)
 
@@ -2814,7 +2814,7 @@ Following the events of "Avengers: Endgame", Sam Wilson and Bucky Barnes team up
 <hr>
 
 
-## 28. [My Next Guest Needs No Introduction With David Letterman](https://serp.ly/@serpmedia/github/amazon/My+Next+Guest+Needs+No+Introduction+With+David+Letterman)
+## 28. [My Next Guest Needs No Introduction With David Letterman](https://serp.ly/amazon/My+Next+Guest+Needs+No+Introduction+With+David+Letterman)
 
 ![My Next Guest Needs No Introduction With David Letterman](https://image.tmdb.org/t/p/original/5dObN91CjQPUhgQoEMbpmLTtxc8.jpg)
 
@@ -2860,7 +2860,7 @@ His beard is big. His guests are bigger.
 <hr>
 
 
-## 29. [Comedians in Cars Getting Coffee](https://serp.ly/@serpmedia/github/amazon/Comedians+in+Cars+Getting+Coffee)
+## 29. [Comedians in Cars Getting Coffee](https://serp.ly/amazon/Comedians+in+Cars+Getting+Coffee)
 
 ![Comedians in Cars Getting Coffee](https://image.tmdb.org/t/p/original/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg)
 
@@ -2902,7 +2902,7 @@ When it comes to comedy, sometimes the best bits happen between shows. That's th
 <hr>
 
 
-## 30. [Marvel Studios Assembled](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled)
+## 30. [Marvel Studios Assembled](https://serp.ly/amazon/Marvel+Studios+Assembled)
 
 ![Marvel Studios Assembled](https://image.tmdb.org/t/p/original/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg)
 
@@ -2946,7 +2946,7 @@ When it comes to comedy, sometimes the best bits happen between shows. That's th
 <hr>
 
 
-## 31. [The Megan Mullally Show](https://serp.ly/@serpmedia/github/amazon/The+Megan+Mullally+Show)
+## 31. [The Megan Mullally Show](https://serp.ly/amazon/The+Megan+Mullally+Show)
 
 <br>
 
@@ -2986,7 +2986,7 @@ When Megan Mullally isn't busy being Karen Walker on Will & Grace, she's hosting
 <hr>
 
 
-## 32. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 32. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -3030,7 +3030,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 33. [Dr. Katz, Professional Therapist](https://serp.ly/@serpmedia/github/amazon/Dr.+Katz%2C+Professional+Therapist)
+## 33. [Dr. Katz, Professional Therapist](https://serp.ly/amazon/Dr.+Katz%2C+Professional+Therapist)
 
 ![Dr. Katz, Professional Therapist](https://image.tmdb.org/t/p/original/wHqJxW6vCi8g3ZZJnFEDGcMsaor.jpg)
 
@@ -3072,7 +3072,7 @@ When a Burbank production company repurposed stand-up comedy for cable TV, they 
 <hr>
 
 
-## 34. [The Jay Leno Show](https://serp.ly/@serpmedia/github/amazon/The+Jay+Leno+Show)
+## 34. [The Jay Leno Show](https://serp.ly/amazon/The+Jay+Leno+Show)
 
 ![The Jay Leno Show](https://image.tmdb.org/t/p/original/3ZjkPl1T3deY8cXagvfHGOje9Wb.jpg)
 
@@ -3114,7 +3114,7 @@ When Jay Leno returns to NBC after his initial retirement from The Tonight Show,
 <hr>
 
 
-## 35. [The Single Guy](https://serp.ly/@serpmedia/github/amazon/The+Single+Guy)
+## 35. [The Single Guy](https://serp.ly/amazon/The+Single+Guy)
 
 ![The Single Guy](https://image.tmdb.org/t/p/original/e58YsJuOvSNuUIRYBoKpPLygQ42.jpg)
 
@@ -3156,7 +3156,7 @@ When it comes to modern dating, The Single Guy has been there and done that. Thi
 <hr>
 
 
-## 36. [Web Therapy](https://serp.ly/@serpmedia/github/amazon/Web+Therapy)
+## 36. [Web Therapy](https://serp.ly/amazon/Web+Therapy)
 
 ![Web Therapy](https://image.tmdb.org/t/p/original/32B1UJmPnjVwoX37sr4783xsXZw.jpg)
 
@@ -3198,7 +3198,7 @@ Fiona Wallice is a therapist with limited patience for others' problems. Six sea
 <hr>
 
 
-## 37. [Primetime Glick](https://serp.ly/@serpmedia/github/amazon/Primetime+Glick)
+## 37. [Primetime Glick](https://serp.ly/amazon/Primetime+Glick)
 
 ![Primetime Glick](https://image.tmdb.org/t/p/original/9GEzuGqRaqIjCmT3KImOntRpQzf.jpg)
 
@@ -3240,7 +3240,7 @@ When it comes to talk shows, Primetime Glick is anything but ordinary. Hosted by
 <hr>
 
 
-## 38. [Talkshow with Spike Feresten](https://serp.ly/@serpmedia/github/amazon/Talkshow+with+Spike+Feresten)
+## 38. [Talkshow with Spike Feresten](https://serp.ly/amazon/Talkshow+with+Spike+Feresten)
 
 ![Talkshow with Spike Feresten](https://image.tmdb.org/t/p/original/vpvnM8ep6jGUt9rcfcDiGor2G5W.jpg)
 
@@ -3282,7 +3282,7 @@ When it comes to talk shows, Primetime Glick is anything but ordinary. Hosted by
 <hr>
 
 
-## 39. [Inside Comedy](https://serp.ly/@serpmedia/github/amazon/Inside+Comedy)
+## 39. [Inside Comedy](https://serp.ly/amazon/Inside+Comedy)
 
 ![Inside Comedy](https://image.tmdb.org/t/p/original/8tHx9hWRUWX7GZCSlVAtUFmUCXR.jpg)
 
@@ -3324,7 +3324,7 @@ When it comes to talk shows, Primetime Glick is anything but ordinary. Hosted by
 <hr>
 
 
-## 40. [Day by Day](https://serp.ly/@serpmedia/github/amazon/Day+by+Day)
+## 40. [Day by Day](https://serp.ly/amazon/Day+by+Day)
 
 ![Day by Day](https://image.tmdb.org/t/p/original/2Q0TqxK7sEwht0dJGftaSvr46wX.jpg)
 
@@ -3368,7 +3368,7 @@ When a group of friends decides to-document their lives "day by day, " they turn
 <hr>
 
 
-## 41. [The Art of Being Nick](https://serp.ly/@serpmedia/github/amazon/The+Art+of+Being+Nick)
+## 41. [The Art of Being Nick](https://serp.ly/amazon/The+Art+of+Being+Nick)
 
 ![The Art of Being Nick](https://image.tmdb.org/t/p/original/luBMEJgRj9YVOPWBuftNfqLhwHr.jpg)
 
@@ -3408,7 +3408,7 @@ When artist Nick Moore crashes into Mallory's life, he brings his wild ideas and
 <hr>
 
 
-## 42. [Web Therapy](https://serp.ly/@serpmedia/github/amazon/Web+Therapy)
+## 42. [Web Therapy](https://serp.ly/amazon/Web+Therapy)
 
 ![Web Therapy](https://image.tmdb.org/t/p/original/9LD7OvTYYCuDAEjetcNm6QaCVqQ.jpg)
 
@@ -3452,7 +3452,7 @@ Fiona Wallice has little patience for her patients' problems - which is why she 
 <hr>
 
 
-## 43. [Watching Ellie](https://serp.ly/@serpmedia/github/amazon/Watching+Ellie)
+## 43. [Watching Ellie](https://serp.ly/amazon/Watching+Ellie)
 
 ![Watching Ellie](https://image.tmdb.org/t/p/original/ta9r57t1boddYj7GH0WhBpwIbNO.jpg)
 
@@ -3494,7 +3494,7 @@ When single mom Ellie Riggs moves to Los Angeles, she brings her musical talent 
 <hr>
 
 
-## 44. [The Early Show](https://serp.ly/@serpmedia/github/amazon/The+Early+Show)
+## 44. [The Early Show](https://serp.ly/amazon/The+Early+Show)
 
 ![The Early Show](https://image.tmdb.org/t/p/original/iJvwr7kL0Q7BtrYC38KQ5baPw7g.jpg)
 
@@ -3536,7 +3536,7 @@ Wake up with The Early Show, the friendly morning program that brought you news 
 <hr>
 
 
-## 45. [Inside the Actors Studio](https://serp.ly/@serpmedia/github/amazon/Inside+the+Actors+Studio)
+## 45. [Inside the Actors Studio](https://serp.ly/amazon/Inside+the+Actors+Studio)
 
 ![Inside the Actors Studio](https://image.tmdb.org/t/p/original/a6O7gKJQe5HWaMujYvdMYaj9PnO.jpg)
 

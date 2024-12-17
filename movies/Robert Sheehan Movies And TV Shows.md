@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Geostorm](https://serp.ly/@serpmedia/github/amazon/Geostorm)
+## 1. [Geostorm](https://serp.ly/amazon/Geostorm)
 
 ![Geostorm](https://image.tmdb.org/t/p/original/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg)
 
@@ -80,7 +80,7 @@ When the world's weather becomes weaponized, it kicks off a high-stakes hunt to 
 <hr>
 
 
-## 2. [The Mortal Instruments: City of Bones](https://serp.ly/@serpmedia/github/amazon/The+Mortal+Instruments%3A+City+of+Bones)
+## 2. [The Mortal Instruments: City of Bones](https://serp.ly/amazon/The+Mortal+Instruments%3A+City+of+Bones)
 
 ![The Mortal Instruments: City of Bones](https://image.tmdb.org/t/p/original/fspW2P3ggzBjdIw5HpJOw8HKtQK.jpg)
 
@@ -120,7 +120,7 @@ There is a world hidden within our own, where half-angel warriors protect humani
 <hr>
 
 
-## 3. [Mortal Engines](https://serp.ly/@serpmedia/github/amazon/Mortal+Engines)
+## 3. [Mortal Engines](https://serp.ly/amazon/Mortal+Engines)
 
 ![Mortal Engines](https://image.tmdb.org/t/p/original/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg)
 
@@ -160,7 +160,7 @@ In a world where cities traverse the earth on massive wheels, consuming each oth
 <hr>
 
 
-## 4. [Season of the Witch](https://serp.ly/@serpmedia/github/amazon/Season+of+the+Witch)
+## 4. [Season of the Witch](https://serp.ly/amazon/Season+of+the+Witch)
 
 ![Season of the Witch](https://image.tmdb.org/t/p/original/4nQBaHV58pIPFlLqhuf3vQur8og.jpg)
 
@@ -203,7 +203,7 @@ In 14th century Europe, two Crusaders return from war to find their homeland dev
 <hr>
 
 
-## 5. [Mute](https://serp.ly/@serpmedia/github/amazon/Mute)
+## 5. [Mute](https://serp.ly/amazon/Mute)
 
 ![Mute](https://image.tmdb.org/t/p/original/ihGg1xndLl3MW34Km332pNkyLH7.jpg)
 
@@ -242,7 +242,7 @@ In a near-future Berlin, a mute man with a violent past is forced to confront th
 <hr>
 
 
-## 6. [Bad Samaritan](https://serp.ly/@serpmedia/github/amazon/Bad+Samaritan)
+## 6. [Bad Samaritan](https://serp.ly/amazon/Bad+Samaritan)
 
 ![Bad Samaritan](https://image.tmdb.org/t/p/original/gVMmgLVLKliFzb1m3jOjlAJ2wfu.jpg)
 
@@ -281,7 +281,7 @@ In this 2018 thriller, a thief breaks into a house and makes a chilling discover
 <hr>
 
 
-## 7. [A Turtle's Tale: Sammy's Adventures](https://serp.ly/@serpmedia/github/amazon/A+Turtle%27s+Tale%3A+Sammy%27s+Adventures)
+## 7. [A Turtle's Tale: Sammy's Adventures](https://serp.ly/amazon/A+Turtle%27s+Tale%3A+Sammy%27s+Adventures)
 
 ![A Turtle's Tale: Sammy's Adventures](https://image.tmdb.org/t/p/original/n2lKNUSAgeZDDPcWHGUnRU89YkF.jpg)
 
@@ -319,7 +319,7 @@ When a sea turtle named Sammy hatches on a Baja, California beach in 1959, he em
 <hr>
 
 
-## 8. [The Road Within](https://serp.ly/@serpmedia/github/amazon/The+Road+Within)
+## 8. [The Road Within](https://serp.ly/amazon/The+Road+Within)
 
 ![The Road Within](https://image.tmdb.org/t/p/original/1lkp87orcl6IjrdJJTJPnY2gEoc.jpg)
 
@@ -358,7 +358,7 @@ On a picturesque road trip through the American countryside, a young man with To
 <hr>
 
 
-## 9. [Moonwalkers](https://serp.ly/@serpmedia/github/amazon/Moonwalkers)
+## 9. [Moonwalkers](https://serp.ly/amazon/Moonwalkers)
 
 ![Moonwalkers](https://image.tmdb.org/t/p/original/wFIZ1QgnegnfNNM64GA0Sa3JDiK.jpg)
 
@@ -394,7 +394,7 @@ Based on a true conspiracy theory
 <hr>
 
 
-## 10. [Red Riding: The Year of Our Lord 1974](https://serp.ly/@serpmedia/github/amazon/Red+Riding%3A+The+Year+of+Our+Lord+1974)
+## 10. [Red Riding: The Year of Our Lord 1974](https://serp.ly/amazon/Red+Riding%3A+The+Year+of+Our+Lord+1974)
 
 ![Red Riding: The Year of Our Lord 1974](https://image.tmdb.org/t/p/original/1MGUwUFkcAKawdsT2q88Sdo2vv6.jpg)
 
@@ -434,7 +434,7 @@ In 1974 Yorkshire, rookie journalist Eddie Dunford stumbles into a web of corrup
 <hr>
 
 
-## 11. [Red Riding: The Year of Our Lord 1980](https://serp.ly/@serpmedia/github/amazon/Red+Riding%3A+The+Year+of+Our+Lord+1980)
+## 11. [Red Riding: The Year of Our Lord 1980](https://serp.ly/amazon/Red+Riding%3A+The+Year+of+Our+Lord+1980)
 
 ![Red Riding: The Year of Our Lord 1980](https://image.tmdb.org/t/p/original/8DeTSHV2gkT3HYTWb3o2Z8wKbIe.jpg)
 
@@ -470,7 +470,7 @@ In 1980, after six years of investigating brutal murders across Yorkshire, the W
 <hr>
 
 
-## 12. [Red Riding: The Year of Our Lord 1983](https://serp.ly/@serpmedia/github/amazon/Red+Riding%3A+The+Year+of+Our+Lord+1983)
+## 12. [Red Riding: The Year of Our Lord 1983](https://serp.ly/amazon/Red+Riding%3A+The+Year+of+Our+Lord+1983)
 
 ![Red Riding: The Year of Our Lord 1983](https://image.tmdb.org/t/p/original/zyaV5xR5Ugsvf4An1JFVEmlkSB.jpg)
 
@@ -509,7 +509,7 @@ In 1983, the disappearance of another Morley child on her way home from school b
 <hr>
 
 
-## 13. [Killing Bono](https://serp.ly/@serpmedia/github/amazon/Killing+Bono)
+## 13. [Killing Bono](https://serp.ly/amazon/Killing+Bono)
 
 ![Killing Bono](https://image.tmdb.org/t/p/original/jFrRBNf3wGqn7CSlDtE0syXzvNl.jpg)
 
@@ -548,7 +548,7 @@ When two Irish brothers, Neil and Ivan McCormick, try to make their mark in the 
 <hr>
 
 
-## 14. [Cherrybomb](https://serp.ly/@serpmedia/github/amazon/Cherrybomb)
+## 14. [Cherrybomb](https://serp.ly/amazon/Cherrybomb)
 
 ![Cherrybomb](https://image.tmdb.org/t/p/original/q3NdckfHKjXyrsRNoZyAidMf9em.jpg)
 
@@ -584,7 +584,7 @@ Two guys. One girl. Game on.
 <hr>
 
 
-## 15. [The Borrowers](https://serp.ly/@serpmedia/github/amazon/The+Borrowers)
+## 15. [The Borrowers](https://serp.ly/amazon/The+Borrowers)
 
 ![The Borrowers](https://image.tmdb.org/t/p/original/AeJu7Ux862xNa4PXdrL7JunoZZp.jpg)
 
@@ -618,7 +618,7 @@ The Borrowers is a family adventure based on Mary Norton's classic children's bo
 <hr>
 
 
-## 16. [Anita B.](https://serp.ly/@serpmedia/github/amazon/Anita+B.)
+## 16. [Anita B.](https://serp.ly/amazon/Anita+B.)
 
 ![Anita B.](https://image.tmdb.org/t/p/original/aJPB80TJbPJD0j4uW5kgyLozGhz.jpg)
 
@@ -654,7 +654,7 @@ Anita B. is a powerful Italian drama that explores the aftermath of World War II
 <hr>
 
 
-## 17. [Demons Never Die](https://serp.ly/@serpmedia/github/amazon/Demons+Never+Die)
+## 17. [Demons Never Die](https://serp.ly/amazon/Demons+Never+Die)
 
 ![Demons Never Die](https://image.tmdb.org/t/p/original/hBQN5prJzjl1mlXDvUyGoBm8vlv.jpg)
 
@@ -692,7 +692,7 @@ When a young girl takes her own life, Archie and the other Suicide Kids decide t
 <hr>
 
 
-## 18. [The Messenger](https://serp.ly/@serpmedia/github/amazon/The+Messenger)
+## 18. [The Messenger](https://serp.ly/amazon/The+Messenger)
 
 ![The Messenger](https://image.tmdb.org/t/p/original/xMubDsMhzFliqN6Fz6R95exAQiV.jpg)
 
@@ -728,7 +728,7 @@ When Jack's best friend Mark is murdered in the local park, he becomes the reluc
 <hr>
 
 
-## 19. [The Song of Sway Lake](https://serp.ly/@serpmedia/github/amazon/The+Song+of+Sway+Lake)
+## 19. [The Song of Sway Lake](https://serp.ly/amazon/The+Song+of+Sway+Lake)
 
 ![The Song of Sway Lake](https://image.tmdb.org/t/p/original/yPIAQcDVajhU4KVrUVH3jn5D3hs.jpg)
 
@@ -765,7 +765,7 @@ Ollie Sway returns to his family's lake house to claim an invaluable jazz record
 <hr>
 
 
-## 20. [Three Summers](https://serp.ly/@serpmedia/github/amazon/Three+Summers)
+## 20. [Three Summers](https://serp.ly/amazon/Three+Summers)
 
 ![Three Summers](https://image.tmdb.org/t/p/original/6ETpIenbPnZcBNUjq6zI7nk2n78.jpg)
 
@@ -801,7 +801,7 @@ Three Summers follows two young musicians falling in love at The Westival, an un
 <hr>
 
 
-## 21. [Jet Trash](https://serp.ly/@serpmedia/github/amazon/Jet+Trash)
+## 21. [Jet Trash](https://serp.ly/amazon/Jet+Trash)
 
 ![Jet Trash](https://image.tmdb.org/t/p/original/muJo4aYm96jCdL9t3Y22W5ipAb9.jpg)
 
@@ -837,7 +837,7 @@ Never hide.
 <hr>
 
 
-## 22. [Vegas Baby!](https://serp.ly/@serpmedia/github/amazon/Vegas+Baby%21)
+## 22. [Vegas Baby!](https://serp.ly/amazon/Vegas+Baby%21)
 
 ![Vegas Baby!](https://image.tmdb.org/t/p/original/8C5IaTZeKLUcFIXDYIgaEc8fPxu.jpg)
 
@@ -868,7 +868,7 @@ Never hide.
 <hr>
 
 
-## 23. [Lowland Fell](https://serp.ly/@serpmedia/github/amazon/Lowland+Fell)
+## 23. [Lowland Fell](https://serp.ly/amazon/Lowland+Fell)
 
 ![Lowland Fell](https://image.tmdb.org/t/p/original/nfn1ALOcZqOn27RrLeTTTItATAY.jpg)
 
@@ -904,7 +904,7 @@ When a teenage girl named Lowland falls into an Irish bog while her father is on
 <hr>
 
 
-## 24. [A Dublin Story](https://serp.ly/@serpmedia/github/amazon/A+Dublin+Story)
+## 24. [A Dublin Story](https://serp.ly/amazon/A+Dublin+Story)
 
 ![A Dublin Story](https://image.tmdb.org/t/p/original/lYdDj9l1PLKqT1BuF4yvKndk3Aa.jpg)
 
@@ -938,7 +938,7 @@ In contemporary Dublin, this short film follows "Clocker" and "Sanga", two young
 <hr>
 
 
-## 25. [An Créatúr](https://serp.ly/@serpmedia/github/amazon/An+Cr%C3%A9at%C3%BAr)
+## 25. [An Créatúr](https://serp.ly/amazon/An+Cr%C3%A9at%C3%BAr)
 
 ![An Créatúr](https://image.tmdb.org/t/p/original/bw7dP6OMiC1gp6DTABMEajfoPoq.jpg)
 
@@ -972,7 +972,7 @@ When a young boy with disabilities forms a deep connection with his brother, the
 <hr>
 
 
-## 26. [Ghostwood](https://serp.ly/@serpmedia/github/amazon/Ghostwood)
+## 26. [Ghostwood](https://serp.ly/amazon/Ghostwood)
 
 ![Ghostwood](https://image.tmdb.org/t/p/original/taXMg2pArrRhxJSAEuh3pM82hcw.jpg)
 
@@ -1008,7 +1008,7 @@ If you go down to the woods today...
 <hr>
 
 
-## 27. [The Bigger Picture](https://serp.ly/@serpmedia/github/amazon/The+Bigger+Picture)
+## 27. [The Bigger Picture](https://serp.ly/amazon/The+Bigger+Picture)
 
 ![The Bigger Picture](https://image.tmdb.org/t/p/original/eVY4uAccltx9mhjDRhFXKEutrJl.jpg)
 
@@ -1039,7 +1039,7 @@ When a guy and a girl who just ended a long-term relationship get back together 
 <hr>
 
 
-## 28. [Summer of the Flying Saucer](https://serp.ly/@serpmedia/github/amazon/Summer+of+the+Flying+Saucer)
+## 28. [Summer of the Flying Saucer](https://serp.ly/amazon/Summer+of+the+Flying+Saucer)
 
 ![Summer of the Flying Saucer](https://image.tmdb.org/t/p/original/aSoaUCve604kAqinAWL3BLE2isj.jpg)
 
@@ -1070,7 +1070,7 @@ It's Ireland in 1967, and Dan's summer gets out of this world when a flying sauc
 <hr>
 
 
-## 29. [Red Sonja](https://serp.ly/@serpmedia/github/amazon/Red+Sonja)
+## 29. [Red Sonja](https://serp.ly/amazon/Red+Sonja)
 
 ![Red Sonja](https://image.tmdb.org/t/p/original/l10eghFN1nQmWwMSt91MlLvZZFA.jpg)
 
@@ -1093,7 +1093,7 @@ In a world where tragedy meets opportunity, a young girl emerges from the ruins 
 <hr>
 
 
-## 30. [The Exchange](https://serp.ly/@serpmedia/github/amazon/The+Exchange)
+## 30. [The Exchange](https://serp.ly/amazon/The+Exchange)
 
 ![The Exchange](https://image.tmdb.org/t/p/original/it3GZkbSZPTYPPQZ4j0KVB8UsMr.jpg)
 
@@ -1128,7 +1128,7 @@ At a bustling hotel bar, two guests strike up an unexpected conversation. Their 
 <hr>
 
 
-## 1. [The Umbrella Academy](https://serp.ly/@serpmedia/github/amazon/The+Umbrella+Academy)
+## 1. [The Umbrella Academy](https://serp.ly/amazon/The+Umbrella+Academy)
 
 ![The Umbrella Academy](https://image.tmdb.org/t/p/original/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg)
 
@@ -1174,7 +1174,7 @@ When a mysterious superhero dies, his family of eccentric superheroes comes toge
 <hr>
 
 
-## 2. [Genius](https://serp.ly/@serpmedia/github/amazon/Genius)
+## 2. [Genius](https://serp.ly/amazon/Genius)
 
 ![Genius](https://image.tmdb.org/t/p/original/waCykVbku2Amh0revf535SOnlmm.jpg)
 
@@ -1220,7 +1220,7 @@ Martin Luther King Jr / Malcolm X. Two minds, one movement.
 <hr>
 
 
-## 3. [Accused](https://serp.ly/@serpmedia/github/amazon/Accused)
+## 3. [Accused](https://serp.ly/amazon/Accused)
 
 ![Accused](https://image.tmdb.org/t/p/original/nfeqQPO2hpw0NYG6xiK0gWUC2l0.jpg)
 
@@ -1264,7 +1264,7 @@ Martin Luther King Jr / Malcolm X. Two minds, one movement.
 <hr>
 
 
-## 4. [Love/Hate](https://serp.ly/@serpmedia/github/amazon/Love%2FHate)
+## 4. [Love/Hate](https://serp.ly/amazon/Love%2FHate)
 
 ![Love/Hate](https://image.tmdb.org/t/p/original/oLnOU5wYp7I6egnI6lzAIWOqS1D.jpg)
 
@@ -1306,7 +1306,7 @@ In this intense crime drama, modern-day Dublin serves as the backdrop for an epi
 <hr>
 
 
-## 5. [Misfits](https://serp.ly/@serpmedia/github/amazon/Misfits)
+## 5. [Misfits](https://serp.ly/amazon/Misfits)
 
 ![Misfits](https://image.tmdb.org/t/p/original/1yjmRIp8A92FlAw5JpouQ50ATUA.jpg)
 
@@ -1350,7 +1350,7 @@ When five young outsiders on community service get caught in a strange storm, th
 <hr>
 
 
-## 6. [The Clinic](https://serp.ly/@serpmedia/github/amazon/The+Clinic)
+## 6. [The Clinic](https://serp.ly/amazon/The+Clinic)
 
 ![The Clinic](https://image.tmdb.org/t/p/original/8glgVXVb5olsNzp7cEgd13Fah8A.jpg)
 
@@ -1392,7 +1392,7 @@ The Clinic is a multi award-winning Irish television medical drama that aired on
 <hr>
 
 
-## 7. [Fortitude](https://serp.ly/@serpmedia/github/amazon/Fortitude)
+## 7. [Fortitude](https://serp.ly/amazon/Fortitude)
 
 ![Fortitude](https://image.tmdb.org/t/p/original/u6vKMeFEfz9sJun65EZgp4ltr9r.jpg)
 
@@ -1434,7 +1434,7 @@ Fortitude is a remote Arctic town that prides itself on being one of the safest 
 <hr>
 
 
-## 8. [The Last Bus](https://serp.ly/@serpmedia/github/amazon/The+Last+Bus)
+## 8. [The Last Bus](https://serp.ly/amazon/The+Last+Bus)
 
 ![The Last Bus](https://image.tmdb.org/t/p/original/tv1jyfYC0ZClQod9v6IbhwP6ak.jpg)
 
@@ -1478,7 +1478,7 @@ When a group of talented students embarks on an extraordinary field trip, their 
 <hr>
 
 
-## 9. [Red Riding](https://serp.ly/@serpmedia/github/amazon/Red+Riding)
+## 9. [Red Riding](https://serp.ly/amazon/Red+Riding)
 
 ![Red Riding](https://image.tmdb.org/t/p/original/y614CZxl5HjN0iae59na5n1Fjui.jpg)
 
@@ -1520,7 +1520,7 @@ Red Riding examines Yorkshire from the 1970s to the 1980s through David Peace's 
 <hr>
 
 
-## 10. [Young Blades](https://serp.ly/@serpmedia/github/amazon/Young+Blades)
+## 10. [Young Blades](https://serp.ly/amazon/Young+Blades)
 
 ![Young Blades](https://image.tmdb.org/t/p/original/fjn2yOBtRSlruTiq09mpx8Ttc2G.jpg)
 
@@ -1564,7 +1564,7 @@ Travel back in time to 17th century France with Young Blades, an adventurous tal
 <hr>
 
 
-## 11. [Me and Mrs Jones](https://serp.ly/@serpmedia/github/amazon/Me+and+Mrs+Jones)
+## 11. [Me and Mrs Jones](https://serp.ly/amazon/Me+and+Mrs+Jones)
 
 ![Me and Mrs Jones](https://image.tmdb.org/t/p/original/vkitFooxQSxQqd44C9nQra6vLGG.jpg)
 
@@ -1606,7 +1606,7 @@ When Gemma Jones isn't navigating the joys and challenges of motherhood, she's c
 <hr>
 
 
-## 12. [Foreign Exchange](https://serp.ly/@serpmedia/github/amazon/Foreign+Exchange)
+## 12. [Foreign Exchange](https://serp.ly/amazon/Foreign+Exchange)
 
 ![Foreign Exchange](https://image.tmdb.org/t/p/original/dS4tTxuAiJIS6CGHvfqj2WNyrtU.jpg)
 
@@ -1648,7 +1648,7 @@ When an Irish girl named Hannah O'Flaherty stumbles into an Australian boy's lif
 <hr>
 
 
-## 13. [Bel's Boys](https://serp.ly/@serpmedia/github/amazon/Bel%27s+Boys)
+## 13. [Bel's Boys](https://serp.ly/amazon/Bel%27s+Boys)
 
 ![Bel's Boys](https://image.tmdb.org/t/p/original/6ZSg8DKbvYpwTTQiGU6sLrbpPsz.jpg)
 
@@ -1687,7 +1687,7 @@ Join Bel's Boys as they rock their way through 26 episodes of this CITV series. 
 <hr>
 
 
-## 14. [Rock Rivals](https://serp.ly/@serpmedia/github/amazon/Rock+Rivals)
+## 14. [Rock Rivals](https://serp.ly/amazon/Rock+Rivals)
 
 <br>
 

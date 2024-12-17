@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Emancipation](https://serp.ly/@serpmedia/github/amazon/Emancipation)
+## 1. [Emancipation](https://serp.ly/amazon/Emancipation)
 
 ![Emancipation](https://image.tmdb.org/t/p/original/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg)
 
@@ -74,7 +74,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 2. [Father Stu](https://serp.ly/@serpmedia/github/amazon/Father+Stu)
+## 2. [Father Stu](https://serp.ly/amazon/Father+Stu)
 
 ![Father Stu](https://image.tmdb.org/t/p/original/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg)
 
@@ -115,7 +115,7 @@ When a troubled boxer hangs up his gloves and walks into the priesthood, he tran
 <hr>
 
 
-## 3. [Ricki and the Flash](https://serp.ly/@serpmedia/github/amazon/Ricki+and+the+Flash)
+## 3. [Ricki and the Flash](https://serp.ly/amazon/Ricki+and+the+Flash)
 
 ![Ricki and the Flash](https://image.tmdb.org/t/p/original/y9hw9XSk8uVgLRfq3cweiAEJtU.jpg)
 
@@ -155,7 +155,7 @@ Ricki Rendazzo, a guitar heroine, returns home after a rock-and-roll journey fil
 <hr>
 
 
-## 4. [The Transfiguration](https://serp.ly/@serpmedia/github/amazon/The+Transfiguration)
+## 4. [The Transfiguration](https://serp.ly/amazon/The+Transfiguration)
 
 ![The Transfiguration](https://image.tmdb.org/t/p/original/b7DWSZeP9Rxbmoase8RaIg6I369.jpg)
 
@@ -194,7 +194,7 @@ When troubled teen Milo, who has a fascination with vampire lore, meets the equa
 <hr>
 
 
-## 5. [Native Son](https://serp.ly/@serpmedia/github/amazon/Native+Son)
+## 5. [Native Son](https://serp.ly/amazon/Native+Son)
 
 ![Native Son](https://image.tmdb.org/t/p/original/vVF6CnjXLqAjK2crI1ielma18TW.jpg)
 
@@ -228,7 +228,7 @@ When a young black man named Bigger Thomas accepts a job with a prominent Chicag
 <hr>
 
 
-## 6. [Ironwood](https://serp.ly/@serpmedia/github/amazon/Ironwood)
+## 6. [Ironwood](https://serp.ly/amazon/Ironwood)
 
 ![Ironwood](https://image.tmdb.org/t/p/original/rJDezInfVhMXsyO6PdUKoNHtmUy.jpg)
 
@@ -262,7 +262,7 @@ Two aspiring academics and best friends embark on a road trip through Wisconsin,
 <hr>
 
 
-## 1. [NCIS](https://serp.ly/@serpmedia/github/amazon/NCIS)
+## 1. [NCIS](https://serp.ly/amazon/NCIS)
 
 ![NCIS](https://image.tmdb.org/t/p/original/2exOHePjOTquUsbThPGhuEjYTyA.jpg)
 
@@ -306,7 +306,7 @@ When it comes to solving crimes, no one does it quite like the team at NCIS. Fro
 <hr>
 
 
-## 2. [Fallout](https://serp.ly/@serpmedia/github/amazon/Fallout)
+## 2. [Fallout](https://serp.ly/amazon/Fallout)
 
 ![Fallout](https://image.tmdb.org/t/p/original/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg)
 
@@ -352,7 +352,7 @@ The world deserves a better ending.
 <hr>
 
 
-## 3. [Mozart in the Jungle](https://serp.ly/@serpmedia/github/amazon/Mozart+in+the+Jungle)
+## 3. [Mozart in the Jungle](https://serp.ly/amazon/Mozart+in+the+Jungle)
 
 ![Mozart in the Jungle](https://image.tmdb.org/t/p/original/4mTEw29l1HCfsHbBp2QCYxy82w3.jpg)
 
@@ -394,7 +394,7 @@ The world deserves a better ending.
 <hr>
 
 
-## 4. [The Mysteries of Laura](https://serp.ly/@serpmedia/github/amazon/The+Mysteries+of+Laura)
+## 4. [The Mysteries of Laura](https://serp.ly/amazon/The+Mysteries+of+Laura)
 
 ![The Mysteries of Laura](https://image.tmdb.org/t/p/original/f9jBbq8GyuBOK3dAFPaBg7aaMb9.jpg)
 
@@ -438,7 +438,7 @@ The Mysteries of Laura follows Detective Laura Diamond as she navigates the comp
 <hr>
 
 
-## 5. [The Night Of](https://serp.ly/@serpmedia/github/amazon/The+Night+Of)
+## 5. [The Night Of](https://serp.ly/amazon/The+Night+Of)
 
 ![The Night Of](https://image.tmdb.org/t/p/original/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg)
 
@@ -482,7 +482,7 @@ After a night of partying with a mysterious woman, a man wakes up to find her st
 <hr>
 
 
-## 6. [NEXT](https://serp.ly/@serpmedia/github/amazon/NEXT)
+## 6. [NEXT](https://serp.ly/amazon/NEXT)
 
 ![NEXT](https://image.tmdb.org/t/p/original/u9bJd2cx2I3xfJqHKVVSAOCmdyL.jpg)
 
@@ -526,7 +526,7 @@ When a Silicon Valley pioneer realizes that one of his creations - a powerful AI
 <hr>
 
 
-## 7. [Disjointed](https://serp.ly/@serpmedia/github/amazon/Disjointed)
+## 7. [Disjointed](https://serp.ly/amazon/Disjointed)
 
 ![Disjointed](https://image.tmdb.org/t/p/original/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg)
 

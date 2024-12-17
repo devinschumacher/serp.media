@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Kissing Booth 2](https://serp.ly/@serpmedia/github/amazon/The+Kissing+Booth+2)
+## 1. [The Kissing Booth 2](https://serp.ly/amazon/The+Kissing+Booth+2)
 
 ![The Kissing Booth 2](https://image.tmdb.org/t/p/original/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg)
 
@@ -76,7 +76,7 @@ With college decisions on the horizon, Elle navigates a complicated web of relat
 <hr>
 
 
-## 2. [The Kissing Booth 3](https://serp.ly/@serpmedia/github/amazon/The+Kissing+Booth+3)
+## 2. [The Kissing Booth 3](https://serp.ly/amazon/The+Kissing+Booth+3)
 
 ![The Kissing Booth 3](https://image.tmdb.org/t/p/original/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg)
 
@@ -115,7 +115,7 @@ It's the summer before Elle heads to college, and she has a secret decision to m
 <hr>
 
 
-## 3. [Red, White & Royal Blue](https://serp.ly/@serpmedia/github/amazon/Red%2C+White+%26+Royal+Blue)
+## 3. [Red, White & Royal Blue](https://serp.ly/amazon/Red%2C+White+%26+Royal+Blue)
 
 ![Red, White & Royal Blue](https://image.tmdb.org/t/p/original/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg)
 
@@ -154,7 +154,7 @@ When the president's son, Alex, clashes publicly with Britain's Prince Henry at 
 <hr>
 
 
-## 4. [Alpha House](https://serp.ly/@serpmedia/github/amazon/Alpha+House)
+## 4. [Alpha House](https://serp.ly/amazon/Alpha+House)
 
 ![Alpha House](https://image.tmdb.org/t/p/original/s00AwtusVVG8lpA3fquKaE63NWW.jpg)
 
@@ -190,7 +190,7 @@ When two freshmen pledges are accepted into the biggest party frat on campus, th
 <hr>
 
 
-## 5. [1UP](https://serp.ly/@serpmedia/github/amazon/1UP)
+## 5. [1UP](https://serp.ly/amazon/1UP)
 
 ![1UP](https://image.tmdb.org/t/p/original/kqhLjoz3FGywYXUNTCPItfDY2N8.jpg)
 
@@ -224,7 +224,7 @@ When Valerie Lee quits her college esports team, she loses more than just her co
 <hr>
 
 
-## 6. [Red, White & Royal Blue 2](https://serp.ly/@serpmedia/github/amazon/Red%2C+White+%26+Royal+Blue+2)
+## 6. [Red, White & Royal Blue 2](https://serp.ly/amazon/Red%2C+White+%26+Royal+Blue+2)
 
 ![Red, White & Royal Blue 2](https://image.tmdb.org/t/p/original/rr6pHDEAJcZ5Z72mnv9I7yOtZw6.jpg)
 
@@ -249,7 +249,7 @@ Fancy another slice?
 <hr>
 
 
-## 7. [Philanthropy](https://serp.ly/@serpmedia/github/amazon/Philanthropy)
+## 7. [Philanthropy](https://serp.ly/amazon/Philanthropy)
 
 ![Philanthropy](https://image.tmdb.org/t/p/original/aLXFF9MD4fj84VmnqpnkYp6O4wN.jpg)
 
@@ -282,7 +282,7 @@ When five wealthy philanthropists gather for brunch, their carefully cultivated 
 <hr>
 
 
-## 1. [iCarly](https://serp.ly/@serpmedia/github/amazon/iCarly)
+## 1. [iCarly](https://serp.ly/amazon/iCarly)
 
 ![iCarly](https://image.tmdb.org/t/p/original/vprJasrLRtEqjyHCHzlOzChNo2o.jpg)
 
@@ -324,7 +324,7 @@ When three 8th-grade friends, Carly, Sam, and Freddie, turn their everyday life 
 <hr>
 
 
-## 2. [Code Black](https://serp.ly/@serpmedia/github/amazon/Code+Black)
+## 2. [Code Black](https://serp.ly/amazon/Code+Black)
 
 ![Code Black](https://image.tmdb.org/t/p/original/3T1b6YK6vLrZoLZC5hd65ZuRLq8.jpg)
 
@@ -366,7 +366,7 @@ Code Black draws from the real experiences of ER doctors and nurses at one of Am
 <hr>
 
 
-## 3. [Young & Hungry](https://serp.ly/@serpmedia/github/amazon/Young+%26+Hungry)
+## 3. [Young & Hungry](https://serp.ly/amazon/Young+%26+Hungry)
 
 ![Young & Hungry](https://image.tmdb.org/t/p/original/fh6DbXa5soHPd72dl2I8IJq4uZ0.jpg)
 
@@ -410,7 +410,7 @@ When a food blogger meets a tech entrepreneur, their worlds collide in unexpecte
 <hr>
 
 
-## 4. [Scandal](https://serp.ly/@serpmedia/github/amazon/Scandal)
+## 4. [Scandal](https://serp.ly/amazon/Scandal)
 
 ![Scandal](https://image.tmdb.org/t/p/original/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg)
 
@@ -454,7 +454,7 @@ Dirty little secrets always come out.
 <hr>
 
 
-## 5. [Awkward.](https://serp.ly/@serpmedia/github/amazon/Awkward.)
+## 5. [Awkward.](https://serp.ly/amazon/Awkward.)
 
 ![Awkward.](https://image.tmdb.org/t/p/original/hRCQ0BDFcblyLitmio28pJqBN6s.jpg)
 
@@ -496,7 +496,7 @@ When a minor accident spirals into an epic misunderstanding, 15-year-old Jenna H
 <hr>
 
 
-## 6. [Suburgatory](https://serp.ly/@serpmedia/github/amazon/Suburgatory)
+## 6. [Suburgatory](https://serp.ly/amazon/Suburgatory)
 
 ![Suburgatory](https://image.tmdb.org/t/p/original/tJ6rU9LZ6SSigvJF5P4sot0T8V3.jpg)
 
@@ -540,7 +540,7 @@ When single dad George Altman discovers a box of condoms in his daughter Tessa's
 <hr>
 
 
-## 7. [Minx](https://serp.ly/@serpmedia/github/amazon/Minx)
+## 7. [Minx](https://serp.ly/amazon/Minx)
 
 ![Minx](https://image.tmdb.org/t/p/original/8m4ExDRn3oqZJI33mxKaZBjbf1v.jpg)
 
@@ -584,7 +584,7 @@ When an ambitious young feminist meets a bold publisher, their partnership spark
 <hr>
 
 
-## 8. [Group Chat with Jayden and Brent](https://serp.ly/@serpmedia/github/amazon/Group+Chat+with+Jayden+and+Brent)
+## 8. [Group Chat with Jayden and Brent](https://serp.ly/amazon/Group+Chat+with+Jayden+and+Brent)
 
 ![Group Chat with Jayden and Brent](https://image.tmdb.org/t/p/original/75bYF58DcTj0g1rbtYqdBweApHn.jpg)
 
@@ -628,7 +628,7 @@ Join social media sensations Jayden Bartels and Brent Rivera as they host an ent
 <hr>
 
 
-## 9. [12 Deadly Days](https://serp.ly/@serpmedia/github/amazon/12+Deadly+Days)
+## 9. [12 Deadly Days](https://serp.ly/amazon/12+Deadly+Days)
 
 ![12 Deadly Days](https://image.tmdb.org/t/p/original/4NHB13MAyydLwQW1nG4kDJWn2IW.jpg)
 
@@ -670,7 +670,7 @@ When Christmas threatens to become the most dangerous time of year in Saturn, CA
 <hr>
 
 
-## 10. [Embeds](https://serp.ly/@serpmedia/github/amazon/Embeds)
+## 10. [Embeds](https://serp.ly/amazon/Embeds)
 
 <br>
 

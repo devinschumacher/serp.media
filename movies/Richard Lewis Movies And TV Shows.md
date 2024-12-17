@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Robin Hood: Men in Tights](https://serp.ly/@serpmedia/github/amazon/Robin+Hood%3A+Men+in+Tights)
+## 1. [Robin Hood: Men in Tights](https://serp.ly/amazon/Robin+Hood%3A+Men+in+Tights)
 
 ![Robin Hood: Men in Tights](https://image.tmdb.org/t/p/original/woexOLEkUlYsPLLuZRK6LjZaF38.jpg)
 
@@ -80,7 +80,7 @@ When Robin Hood returns from the Crusades, he finds his home under the oppressiv
 <hr>
 
 
-## 2. [Leaving Las Vegas](https://serp.ly/@serpmedia/github/amazon/Leaving+Las+Vegas)
+## 2. [Leaving Las Vegas](https://serp.ly/amazon/Leaving+Las+Vegas)
 
 ![Leaving Las Vegas](https://image.tmdb.org/t/p/original/wIfP6uLXD9Ptu68SyRx8WuSNNSK.jpg)
 
@@ -120,7 +120,7 @@ In Las Vegas, an alcoholic screenwriter named Ben Sanderson makes a pact with a 
 <hr>
 
 
-## 3. [She's Funny That Way](https://serp.ly/@serpmedia/github/amazon/She%27s+Funny+That+Way)
+## 3. [She's Funny That Way](https://serp.ly/amazon/She%27s+Funny+That+Way)
 
 ![She's Funny That Way](https://image.tmdb.org/t/p/original/2FiZVfwz27bvMROkud3dlFyE8uA.jpg)
 
@@ -161,7 +161,7 @@ When a successful playwright casts a call girl in his newest production, it kick
 <hr>
 
 
-## 4. [Sandy Wexler](https://serp.ly/@serpmedia/github/amazon/Sandy+Wexler)
+## 4. [Sandy Wexler](https://serp.ly/amazon/Sandy+Wexler)
 
 ![Sandy Wexler](https://image.tmdb.org/t/p/original/38SDqWOt4utiLOnWlas7BfrYQGS.jpg)
 
@@ -198,7 +198,7 @@ Sandy Wexler, a struggling talent manager, gets his big break when he signs his 
 <hr>
 
 
-## 5. [Vamps](https://serp.ly/@serpmedia/github/amazon/Vamps)
+## 5. [Vamps](https://serp.ly/amazon/Vamps)
 
 ![Vamps](https://image.tmdb.org/t/p/original/sW4MFTfW88Ii8TyZVD7oprzzhOU.jpg)
 
@@ -236,7 +236,7 @@ When two beautiful young vampires enter a complicated love triangle in modern-da
 <hr>
 
 
-## 6. [The Aristocrats](https://serp.ly/@serpmedia/github/amazon/The+Aristocrats)
+## 6. [The Aristocrats](https://serp.ly/amazon/The+Aristocrats)
 
 ![The Aristocrats](https://image.tmdb.org/t/p/original/kJs6hghPxo89e3KZIC7Pw1LwokA.jpg)
 
@@ -275,7 +275,7 @@ No nudity. No violence. Unspeakable obscenity.
 <hr>
 
 
-## 7. [Larry David: Curb Your Enthusiasm](https://serp.ly/@serpmedia/github/amazon/Larry+David%3A+Curb+Your+Enthusiasm)
+## 7. [Larry David: Curb Your Enthusiasm](https://serp.ly/amazon/Larry+David%3A+Curb+Your+Enthusiasm)
 
 ![Larry David: Curb Your Enthusiasm](https://image.tmdb.org/t/p/original/m9QE3XkVc9hjDgpRTVoMpTNtfOY.jpg)
 
@@ -309,7 +309,7 @@ When Seinfeld writer Larry David returns to stand-up comedy, he prepares an HBO 
 <hr>
 
 
-## 8. [Once Upon a Crime](https://serp.ly/@serpmedia/github/amazon/Once+Upon+a+Crime)
+## 8. [Once Upon a Crime](https://serp.ly/amazon/Once+Upon+a+Crime)
 
 ![Once Upon a Crime](https://image.tmdb.org/t/p/original/13zU7il6WMJ0QlXTMokJyBYSsYE.jpg)
 
@@ -352,7 +352,7 @@ Marilyn and Neil are just another couple on their way to Monte Carlo when they r
 <hr>
 
 
-## 9. [Wagons East!](https://serp.ly/@serpmedia/github/amazon/Wagons+East%21)
+## 9. [Wagons East!](https://serp.ly/amazon/Wagons+East%21)
 
 ![Wagons East!](https://image.tmdb.org/t/p/original/xRYheMiWnjdvUFuXmb1IzjbO9kz.jpg)
 
@@ -388,7 +388,7 @@ In the lawless Wild West of the 1860s, an unlikely group of settlers - including
 <hr>
 
 
-## 10. [The Great Buster: A Celebration](https://serp.ly/@serpmedia/github/amazon/The+Great+Buster%3A+A+Celebration)
+## 10. [The Great Buster: A Celebration](https://serp.ly/amazon/The+Great+Buster%3A+A+Celebration)
 
 ![The Great Buster: A Celebration](https://image.tmdb.org/t/p/original/8MJDh9WsMYuJzVV7ASsf4HP20A4.jpg)
 
@@ -424,7 +424,7 @@ In the lawless Wild West of the 1860s, an unlikely group of settlers - including
 <hr>
 
 
-## 11. [Hugo Pool](https://serp.ly/@serpmedia/github/amazon/Hugo+Pool)
+## 11. [Hugo Pool](https://serp.ly/amazon/Hugo+Pool)
 
 ![Hugo Pool](https://image.tmdb.org/t/p/original/sVVdjinglTAShsEYlYkPNQ0SQGv.jpg)
 
@@ -460,7 +460,7 @@ When a Los Angeles pool cleaner named Hugo meets a young man dying of Lou Gerhig
 <hr>
 
 
-## 12. [Misery Loves Comedy](https://serp.ly/@serpmedia/github/amazon/Misery+Loves+Comedy)
+## 12. [Misery Loves Comedy](https://serp.ly/amazon/Misery+Loves+Comedy)
 
 ![Misery Loves Comedy](https://image.tmdb.org/t/p/original/wjYla0vnZ3HtzAS6JxINNrZ3wY5.jpg)
 
@@ -496,7 +496,7 @@ Kevin Pollak explores the dark side of comedy in this fascinating documentary.
 <hr>
 
 
-## 13. [Mr. Warmth: The Don Rickles Project](https://serp.ly/@serpmedia/github/amazon/Mr.+Warmth%3A+The+Don+Rickles+Project)
+## 13. [Mr. Warmth: The Don Rickles Project](https://serp.ly/amazon/Mr.+Warmth%3A+The+Don+Rickles+Project)
 
 ![Mr. Warmth: The Don Rickles Project](https://image.tmdb.org/t/p/original/g2s6F0KeasorYfn3UhiEmxQQJwm.jpg)
 
@@ -532,7 +532,7 @@ When it comes to making people laugh, Don Rickles is the real deal. This documen
 <hr>
 
 
-## 14. [Mel Brooks: Make a Noise](https://serp.ly/@serpmedia/github/amazon/Mel+Brooks%3A+Make+a+Noise)
+## 14. [Mel Brooks: Make a Noise](https://serp.ly/amazon/Mel+Brooks%3A+Make+a+Noise)
 
 ![Mel Brooks: Make a Noise](https://image.tmdb.org/t/p/original/zE9VqcLpVNncxfcyltVQ8uzXxUk.jpg)
 
@@ -563,7 +563,7 @@ Mel Brooks: Make a Noise chronicles the legendary filmmaker's journey through te
 <hr>
 
 
-## 15. [The Wrong Guys](https://serp.ly/@serpmedia/github/amazon/The+Wrong+Guys)
+## 15. [The Wrong Guys](https://serp.ly/amazon/The+Wrong+Guys)
 
 ![The Wrong Guys](https://image.tmdb.org/t/p/original/obmLtYUh2NIqdBmybb7x7zusPzx.jpg)
 
@@ -599,7 +599,7 @@ Five former cub scouts reunite for a camping trip on the mountain they never con
 <hr>
 
 
-## 16. [Method to the Madness of Jerry Lewis](https://serp.ly/@serpmedia/github/amazon/Method+to+the+Madness+of+Jerry+Lewis)
+## 16. [Method to the Madness of Jerry Lewis](https://serp.ly/amazon/Method+to+the+Madness+of+Jerry+Lewis)
 
 ![Method to the Madness of Jerry Lewis](https://image.tmdb.org/t/p/original/4gCgluF2mXYol8Q6A1fVRr4hDDx.jpg)
 
@@ -633,7 +633,7 @@ Five former cub scouts reunite for a camping trip on the mountain they never con
 <hr>
 
 
-## 17. [Confessions of an Action Star](https://serp.ly/@serpmedia/github/amazon/Confessions+of+an+Action+Star)
+## 17. [Confessions of an Action Star](https://serp.ly/amazon/Confessions+of+an+Action+Star)
 
 ![Confessions of an Action Star](https://image.tmdb.org/t/p/original/uw6Jixhh36TQhzOWuvrF9d6kbHC.jpg)
 
@@ -671,7 +671,7 @@ When a Chip and Dales performer transitions into martial arts, he realizes that 
 <hr>
 
 
-## 18. ['Robin Hood: Men in Tights' – The Legend Had It Coming](https://serp.ly/@serpmedia/github/amazon/%27Robin+Hood%3A+Men+in+Tights%27+%E2%80%93+The+Legend+Had+It+Coming)
+## 18. ['Robin Hood: Men in Tights' – The Legend Had It Coming](https://serp.ly/amazon/%27Robin+Hood%3A+Men+in+Tights%27+%E2%80%93+The+Legend+Had+It+Coming)
 
 !['Robin Hood: Men in Tights' – The Legend Had It Coming](https://image.tmdb.org/t/p/original/32Dx7E8UMwAaGperCnGAINO0tTP.jpg)
 
@@ -702,7 +702,7 @@ When Robin Hood takes his legendary skills from the forest to the screen, he bri
 <hr>
 
 
-## 19. [Looking for Lenny](https://serp.ly/@serpmedia/github/amazon/Looking+for+Lenny)
+## 19. [Looking for Lenny](https://serp.ly/amazon/Looking+for+Lenny)
 
 ![Looking for Lenny](https://image.tmdb.org/t/p/original/e4wLuctEHOe0JiaJ9Uk88EopgV2.jpg)
 
@@ -736,7 +736,7 @@ When Robin Hood takes his legendary skills from the forest to the screen, he bri
 <hr>
 
 
-## 20. [Drunks](https://serp.ly/@serpmedia/github/amazon/Drunks)
+## 20. [Drunks](https://serp.ly/amazon/Drunks)
 
 ![Drunks](https://image.tmdb.org/t/p/original/lY5E0rjsgzlxUyMtUZRlzwHqLTA.jpg)
 
@@ -774,7 +774,7 @@ When Jim walks into an Alcoholics Anonymous meeting, he's carrying more than jus
 <hr>
 
 
-## 21. [The Last Party](https://serp.ly/@serpmedia/github/amazon/The+Last+Party)
+## 21. [The Last Party](https://serp.ly/amazon/The+Last+Party)
 
 ![The Last Party](https://image.tmdb.org/t/p/original/awOcl4B2M6LZkYYSixQVVCIRc2T.jpg)
 
@@ -810,7 +810,7 @@ The Last Party offers a fresh look at the 1992 presidential campaign through you
 <hr>
 
 
-## 22. [That's Adequate](https://serp.ly/@serpmedia/github/amazon/That%27s+Adequate)
+## 22. [That's Adequate](https://serp.ly/amazon/That%27s+Adequate)
 
 ![That's Adequate](https://image.tmdb.org/t/p/original/sb2bgaEsQ4nR3PtgSQriqepB6aW.jpg)
 
@@ -846,7 +846,7 @@ No money! No class! No shame!
 <hr>
 
 
-## 23. [Nichols and May: Take Two](https://serp.ly/@serpmedia/github/amazon/Nichols+and+May%3A+Take+Two)
+## 23. [Nichols and May: Take Two](https://serp.ly/amazon/Nichols+and+May%3A+Take+Two)
 
 ![Nichols and May: Take Two](https://image.tmdb.org/t/p/original/heHDOi4EZ7hjVPTsrgwS8POj0tX.jpg)
 
@@ -877,7 +877,7 @@ No money! No class! No shame!
 <hr>
 
 
-## 24. [The Danger of Love: The Carolyn Warmus Story](https://serp.ly/@serpmedia/github/amazon/The+Danger+of+Love%3A+The+Carolyn+Warmus+Story)
+## 24. [The Danger of Love: The Carolyn Warmus Story](https://serp.ly/amazon/The+Danger+of+Love%3A+The+Carolyn+Warmus+Story)
 
 ![The Danger of Love: The Carolyn Warmus Story](https://image.tmdb.org/t/p/original/yjWsbHUSCJd9px1Yp9pa6dRnqhf.jpg)
 
@@ -911,7 +911,7 @@ When high school teacher Michael Carlin's wife is murdered, he becomes the prime
 <hr>
 
 
-## 25. [Game Day](https://serp.ly/@serpmedia/github/amazon/Game+Day)
+## 25. [Game Day](https://serp.ly/amazon/Game+Day)
 
 ![Game Day](https://image.tmdb.org/t/p/original/jPysSlCZ0dEqrtV0UBRjDQOKnn2.jpg)
 
@@ -947,7 +947,7 @@ Game Day follows Richard Lewis as coach Steven Adler, a former high-profile coll
 <hr>
 
 
-## 26. [The Elevator](https://serp.ly/@serpmedia/github/amazon/The+Elevator)
+## 26. [The Elevator](https://serp.ly/amazon/The+Elevator)
 
 ![The Elevator](https://image.tmdb.org/t/p/original/t1neN4CFZbPBGsGuGa58VdRBaLK.jpg)
 
@@ -983,7 +983,7 @@ In this 1998 comedy, successful film producer Roy Tilden's perfect day takes an 
 <hr>
 
 
-## 27. [Richard Lewis: I'm Exhausted](https://serp.ly/@serpmedia/github/amazon/Richard+Lewis%3A+I%27m+Exhausted)
+## 27. [Richard Lewis: I'm Exhausted](https://serp.ly/amazon/Richard+Lewis%3A+I%27m+Exhausted)
 
 ![Richard Lewis: I'm Exhausted](https://image.tmdb.org/t/p/original/12DCfST9jrPQuxPd3dtyxkO8rrf.jpg)
 
@@ -1017,7 +1017,7 @@ In this 1988 comedy special, Richard Lewis tackles the most mundane aspects of d
 <hr>
 
 
-## 28. [A Weekend in the Country](https://serp.ly/@serpmedia/github/amazon/A+Weekend+in+the+Country)
+## 28. [A Weekend in the Country](https://serp.ly/amazon/A+Weekend+in+the+Country)
 
 ![A Weekend in the Country](https://image.tmdb.org/t/p/original/9ZB5t6fi8NGHXQA2BfCa9ViTvuQ.jpg)
 
@@ -1053,7 +1053,7 @@ What happens when six city dwellers trade their concrete jungle for the great ou
 <hr>
 
 
-## 29. [Richard Lewis: I'm Doomed](https://serp.ly/@serpmedia/github/amazon/Richard+Lewis%3A+I%27m+Doomed)
+## 29. [Richard Lewis: I'm Doomed](https://serp.ly/amazon/Richard+Lewis%3A+I%27m+Doomed)
 
 ![Richard Lewis: I'm Doomed](https://image.tmdb.org/t/p/original/AdVFtZlWBaiYqxOjnX28iYgU6zR.jpg)
 
@@ -1087,7 +1087,7 @@ Join Richard Lewis in this 1990 HBO special taped in Chicago, where he turns eve
 <hr>
 
 
-## 30. [Richard Lewis: I'm In Pain](https://serp.ly/@serpmedia/github/amazon/Richard+Lewis%3A+I%27m+In+Pain)
+## 30. [Richard Lewis: I'm In Pain](https://serp.ly/amazon/Richard+Lewis%3A+I%27m+In+Pain)
 
 ![Richard Lewis: I'm In Pain](https://image.tmdb.org/t/p/original/hQmvGZzjBz3JdeEuJofy2eeVXyX.jpg)
 
@@ -1123,7 +1123,7 @@ Join stand-up comedian Richard Lewis as he takes his "neurotic" sense of humor f
 <hr>
 
 
-## 31. [Laughing Out Loud: America's Funniest Comedians](https://serp.ly/@serpmedia/github/amazon/Laughing+Out+Loud%3A+America%27s+Funniest+Comedians)
+## 31. [Laughing Out Loud: America's Funniest Comedians](https://serp.ly/amazon/Laughing+Out+Loud%3A+America%27s+Funniest+Comedians)
 
 ![Laughing Out Loud: America's Funniest Comedians](https://image.tmdb.org/t/p/original/rQG3yAe4qzewDFZsXz6HjYCw65h.jpg)
 
@@ -1157,7 +1157,7 @@ Join stand-up comedian Richard Lewis as he takes his "neurotic" sense of humor f
 <hr>
 
 
-## 32. [The Maze](https://serp.ly/@serpmedia/github/amazon/The+Maze)
+## 32. [The Maze](https://serp.ly/amazon/The+Maze)
 
 ![The Maze](https://image.tmdb.org/t/p/original/5qD7ZrHfbl46iy52wXtLXW8bKy0.jpg)
 
@@ -1191,7 +1191,7 @@ In a solitary building where infinite corridors and rooms twist and turn, a hand
 <hr>
 
 
-## 33. [Bucky and the Squirrels](https://serp.ly/@serpmedia/github/amazon/Bucky+and+the+Squirrels)
+## 33. [Bucky and the Squirrels](https://serp.ly/amazon/Bucky+and+the+Squirrels)
 
 ![Bucky and the Squirrels](https://image.tmdb.org/t/p/original/gNPJpr9YKj4jqI2uVtLXWTsuySY.jpg)
 
@@ -1226,7 +1226,7 @@ The Greatest Rock Band Ever Frozen Alive for 50 Years
 <hr>
 
 
-## 34. [Emily @ the Edge of Chaos](https://serp.ly/@serpmedia/github/amazon/Emily+%40+the+Edge+of+Chaos)
+## 34. [Emily @ the Edge of Chaos](https://serp.ly/amazon/Emily+%40+the+Edge+of+Chaos)
 
 ![Emily @ the Edge of Chaos](https://image.tmdb.org/t/p/original/9jq9ByNjkbGYEzzy49rktfcjXUW.jpg)
 
@@ -1257,7 +1257,7 @@ Join physicist Emily Levine on a captivating journey through the intersection of
 <hr>
 
 
-## 35. [The Very Best of America's Funniest Comedians](https://serp.ly/@serpmedia/github/amazon/The+Very+Best+of+America%27s+Funniest+Comedians)
+## 35. [The Very Best of America's Funniest Comedians](https://serp.ly/amazon/The+Very+Best+of+America%27s+Funniest+Comedians)
 
 ![The Very Best of America's Funniest Comedians](https://image.tmdb.org/t/p/original/veS5P7FrpaRGoFtn3Kp57cO7PCv.jpg)
 
@@ -1285,7 +1285,7 @@ Join physicist Emily Levine on a captivating journey through the intersection of
 <hr>
 
 
-## 36. [Diary of a Young Comic](https://serp.ly/@serpmedia/github/amazon/Diary+of+a+Young+Comic)
+## 36. [Diary of a Young Comic](https://serp.ly/amazon/Diary+of+a+Young+Comic)
 
 ![Diary of a Young Comic](https://image.tmdb.org/t/p/original/bnHlCtCbJ5GkO4jrmvsN0wXEqAw.jpg)
 
@@ -1316,7 +1316,7 @@ Travel back to the 1970s with Richard Lewis in "Diary of a Young Comic, " a hear
 <hr>
 
 
-## 37. [The One, the Only... Groucho](https://serp.ly/@serpmedia/github/amazon/The+One%2C+the+Only...+Groucho)
+## 37. [The One, the Only... Groucho](https://serp.ly/amazon/The+One%2C+the+Only...+Groucho)
 
 ![The One, the Only... Groucho](https://image.tmdb.org/t/p/original/jQi36xylRlmdstSgrIxnA6EhBPh.jpg)
 
@@ -1347,7 +1347,7 @@ Travel back to the 1970s with Richard Lewis in "Diary of a Young Comic, " a hear
 <hr>
 
 
-## 38. [Excavating the 2000 Year Old Man](https://serp.ly/@serpmedia/github/amazon/Excavating+the+2000+Year+Old+Man)
+## 38. [Excavating the 2000 Year Old Man](https://serp.ly/amazon/Excavating+the+2000+Year+Old+Man)
 
 ![Excavating the 2000 Year Old Man](https://image.tmdb.org/t/p/original/uys2bXz1aTSQz4R7tapBlB7s4Bl.jpg)
 
@@ -1378,7 +1378,7 @@ Mel Brooks and Carl Reiner's "2,000 Year Old Man" routine has been a cornerstone
 <hr>
 
 
-## 39. [Richard Lewis: The Magical Misery Tour](https://serp.ly/@serpmedia/github/amazon/Richard+Lewis%3A+The+Magical+Misery+Tour)
+## 39. [Richard Lewis: The Magical Misery Tour](https://serp.ly/amazon/Richard+Lewis%3A+The+Magical+Misery+Tour)
 
 ![Richard Lewis: The Magical Misery Tour](https://image.tmdb.org/t/p/original/fVOhtrvKopEMR94sVd26onvLKNO.jpg)
 
@@ -1406,7 +1406,7 @@ When stand-up comedian Richard Lewis performs at New York's historic Bottom Line
 <hr>
 
 
-## 40. [The Facts](https://serp.ly/@serpmedia/github/amazon/The+Facts)
+## 40. [The Facts](https://serp.ly/amazon/The+Facts)
 
 The Truth Can Be Sillier Than Fiction!
 
@@ -1439,7 +1439,7 @@ The Facts is a 1982 CBS late movie that aired as a pilot, featuring Phil Hartman
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1485,7 +1485,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1531,7 +1531,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Johnny Carson](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Johnny+Carson)
+## 3. [The Tonight Show Starring Johnny Carson](https://serp.ly/amazon/The+Tonight+Show+Starring+Johnny+Carson)
 
 ![The Tonight Show Starring Johnny Carson](https://image.tmdb.org/t/p/original/oA8QVTGlAN511uCAMDN60aVQUs1.jpg)
 
@@ -1573,7 +1573,7 @@ Revisit a golden age of television with "The Tonight Show Starring Johnny Carson
 <hr>
 
 
-## 4. [The Daily Show](https://serp.ly/@serpmedia/github/amazon/The+Daily+Show)
+## 4. [The Daily Show](https://serp.ly/amazon/The+Daily+Show)
 
 ![The Daily Show](https://image.tmdb.org/t/p/original/ixcfyK7it6FjRM36Te4OdblAq4X.jpg)
 
@@ -1619,7 +1619,7 @@ When news breaks, The Daily Show's fake news team is the first to fix it. Join t
 <hr>
 
 
-## 5. [Two and a Half Men](https://serp.ly/@serpmedia/github/amazon/Two+and+a+Half+Men)
+## 5. [Two and a Half Men](https://serp.ly/amazon/Two+and+a+Half+Men)
 
 ![Two and a Half Men](https://image.tmdb.org/t/p/original/xgfjxyV3g1S68opzuvG6G87muDp.jpg)
 
@@ -1663,7 +1663,7 @@ When a successful jingle writer's carefree lifestyle changes overnight with the 
 <hr>
 
 
-## 6. [V.I.P.](https://serp.ly/@serpmedia/github/amazon/V.I.P.)
+## 6. [V.I.P.](https://serp.ly/amazon/V.I.P.)
 
 ![V.I.P.](https://image.tmdb.org/t/p/original/2pHBPVGn2DpYEAHBdT62nc0untt.jpg)
 
@@ -1707,7 +1707,7 @@ When a famous action star fails to protect his fan at a Hollywood premiere, Vall
 <hr>
 
 
-## 7. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 7. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -1753,7 +1753,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 8. [Curb Your Enthusiasm](https://serp.ly/@serpmedia/github/amazon/Curb+Your+Enthusiasm)
+## 8. [Curb Your Enthusiasm](https://serp.ly/amazon/Curb+Your+Enthusiasm)
 
 ![Curb Your Enthusiasm](https://image.tmdb.org/t/p/original/mZqWmSq1M61Jlre3furVDSXvdrN.jpg)
 
@@ -1797,7 +1797,7 @@ Deep inside you know you're him.
 <hr>
 
 
-## 9. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 9. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -1841,7 +1841,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 10. [Tales from the Crypt](https://serp.ly/@serpmedia/github/amazon/Tales+from+the+Crypt)
+## 10. [Tales from the Crypt](https://serp.ly/amazon/Tales+from+the+Crypt)
 
 ![Tales from the Crypt](https://image.tmdb.org/t/p/original/265Gpw7wSwwMkUQlksot8B2chRg.jpg)
 
@@ -1887,7 +1887,7 @@ Dead-On Humor and Horror.
 <hr>
 
 
-## 11. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 11. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -1929,7 +1929,7 @@ Dead-On Humor and Horror.
 <hr>
 
 
-## 12. [The Dead Zone](https://serp.ly/@serpmedia/github/amazon/The+Dead+Zone)
+## 12. [The Dead Zone](https://serp.ly/amazon/The+Dead+Zone)
 
 ![The Dead Zone](https://image.tmdb.org/t/p/original/j9l4svOscUWoVqGoATtGEDfTms.jpg)
 
@@ -1971,7 +1971,7 @@ When Johnny Smith wakes from a coma, he discovers an extraordinary gift: the abi
 <hr>
 
 
-## 13. [Las Vegas](https://serp.ly/@serpmedia/github/amazon/Las+Vegas)
+## 13. [Las Vegas](https://serp.ly/amazon/Las+Vegas)
 
 ![Las Vegas](https://image.tmdb.org/t/p/original/sGCTRol6goPV0VjS7iXtTVyu7Ai.jpg)
 
@@ -2015,7 +2015,7 @@ When Ed Deline leaves the Montecito casino, his former CIA protégé Danny McCoy
 <hr>
 
 
-## 14. [Hercules](https://serp.ly/@serpmedia/github/amazon/Hercules)
+## 14. [Hercules](https://serp.ly/amazon/Hercules)
 
 ![Hercules](https://image.tmdb.org/t/p/original/lcFM3LHehsX2xw3AZNym8tU3umz.jpg)
 
@@ -2057,7 +2057,7 @@ When Ed Deline leaves the Montecito casino, his former CIA protégé Danny McCoy
 <hr>
 
 
-## 15. [Everybody Hates Chris](https://serp.ly/@serpmedia/github/amazon/Everybody+Hates+Chris)
+## 15. [Everybody Hates Chris](https://serp.ly/amazon/Everybody+Hates+Chris)
 
 ![Everybody Hates Chris](https://image.tmdb.org/t/p/original/3FjakKDEuaO8FpR1qJctV6njqYy.jpg)
 
@@ -2101,7 +2101,7 @@ Travel back to the early 1980s with Chris, a Brooklyn teenager who's the eldest 
 <hr>
 
 
-## 16. [Happily Ever After: Fairy Tales for Every Child](https://serp.ly/@serpmedia/github/amazon/Happily+Ever+After%3A+Fairy+Tales+for+Every+Child)
+## 16. [Happily Ever After: Fairy Tales for Every Child](https://serp.ly/amazon/Happily+Ever+After%3A+Fairy+Tales+for+Every+Child)
 
 ![Happily Ever After: Fairy Tales for Every Child](https://image.tmdb.org/t/p/original/yOfpjbdrR4bc3Q0slw3o0j8b7sE.jpg)
 
@@ -2143,7 +2143,7 @@ Travel back to the early 1980s with Chris, a Brooklyn teenager who's the eldest 
 <hr>
 
 
-## 17. [The Tonight Show with Jay Leno](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+with+Jay+Leno)
+## 17. [The Tonight Show with Jay Leno](https://serp.ly/amazon/The+Tonight+Show+with+Jay+Leno)
 
 ![The Tonight Show with Jay Leno](https://image.tmdb.org/t/p/original/xAFMZ3wFIEXTISryRZD94AAvWng.jpg)
 
@@ -2185,7 +2185,7 @@ Revisit a golden age of television with "The Tonight Show with Jay Leno, " the b
 <hr>
 
 
-## 18. [BoJack Horseman](https://serp.ly/@serpmedia/github/amazon/BoJack+Horseman)
+## 18. [BoJack Horseman](https://serp.ly/amazon/BoJack+Horseman)
 
 ![BoJack Horseman](https://image.tmdb.org/t/p/original/pB9L0jAnEQLMKgexqCEocEW8TA.jpg)
 
@@ -2229,7 +2229,7 @@ BoJack Horseman was once the shining star of the 1990s TV show "Horsin' Around,"
 <hr>
 
 
-## 19. [7th Heaven](https://serp.ly/@serpmedia/github/amazon/7th+Heaven)
+## 19. [7th Heaven](https://serp.ly/amazon/7th+Heaven)
 
 ![7th Heaven](https://image.tmdb.org/t/p/original/s6mkZKanKim3VGUIxR2gGGf9jn0.jpg)
 
@@ -2271,7 +2271,7 @@ When it comes to managing a household, the Camden family knows no strangers - li
 <hr>
 
 
-## 20. [The Larry Sanders Show](https://serp.ly/@serpmedia/github/amazon/The+Larry+Sanders+Show)
+## 20. [The Larry Sanders Show](https://serp.ly/amazon/The+Larry+Sanders+Show)
 
 ![The Larry Sanders Show](https://image.tmdb.org/t/p/original/qMRVylcs6y2naOp7s6RIawELTAL.jpg)
 
@@ -2317,7 +2317,7 @@ Join Garry Shandling as he transforms his real-life talk show experiences into s
 <hr>
 
 
-## 21. [Revealed with Jules Asner](https://serp.ly/@serpmedia/github/amazon/Revealed+with+Jules+Asner)
+## 21. [Revealed with Jules Asner](https://serp.ly/amazon/Revealed+with+Jules+Asner)
 
 <br>
 
@@ -2357,7 +2357,7 @@ Join Garry Shandling as he transforms his real-life talk show experiences into s
 <hr>
 
 
-## 22. [Pound Puppies](https://serp.ly/@serpmedia/github/amazon/Pound+Puppies)
+## 22. [Pound Puppies](https://serp.ly/amazon/Pound+Puppies)
 
 ![Pound Puppies](https://image.tmdb.org/t/p/original/qRRfKjKtYsVeEZkBmfYLYo2PEAc.jpg)
 
@@ -2399,7 +2399,7 @@ When Lucky and Cookie bunk in Shelter 17 with the other dogs, they discover an i
 <hr>
 
 
-## 23. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 23. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -2443,7 +2443,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 24. [Anything But Love](https://serp.ly/@serpmedia/github/amazon/Anything+But+Love)
+## 24. [Anything But Love](https://serp.ly/amazon/Anything+But+Love)
 
 ![Anything But Love](https://image.tmdb.org/t/p/original/6mNqKhd8Z9KJ6v6V7hGbaZ57nLg.jpg)
 
@@ -2485,7 +2485,7 @@ Anything But Love is a humorous look at an office romance that threatens to upen
 <hr>
 
 
-## 25. [Dr. Katz, Professional Therapist](https://serp.ly/@serpmedia/github/amazon/Dr.+Katz%2C+Professional+Therapist)
+## 25. [Dr. Katz, Professional Therapist](https://serp.ly/amazon/Dr.+Katz%2C+Professional+Therapist)
 
 ![Dr. Katz, Professional Therapist](https://image.tmdb.org/t/p/original/wHqJxW6vCi8g3ZZJnFEDGcMsaor.jpg)
 
@@ -2527,7 +2527,7 @@ When a Burbank production company repurposed stand-up comedy for cable TV, they 
 <hr>
 
 
-## 26. [The Green Room with Paul Provenza](https://serp.ly/@serpmedia/github/amazon/The+Green+Room+with+Paul+Provenza)
+## 26. [The Green Room with Paul Provenza](https://serp.ly/amazon/The+Green+Room+with+Paul+Provenza)
 
 ![The Green Room with Paul Provenza](https://image.tmdb.org/t/p/original/xz48kMR3XvTWnXhBgQcTs1f7O7x.jpg)
 
@@ -2569,7 +2569,7 @@ Hosted by the brilliant and daring Paul Provenza, this talk show brings together
 <hr>
 
 
-## 27. [Hiller and Diller](https://serp.ly/@serpmedia/github/amazon/Hiller+and+Diller)
+## 27. [Hiller and Diller](https://serp.ly/amazon/Hiller+and+Diller)
 
 ![Hiller and Diller](https://image.tmdb.org/t/p/original/aO3LMMdCwHlipXH1gZS8CotJflh.jpg)
 
@@ -2610,7 +2610,7 @@ When two ambitious young producers, Hiller and Diller, launch their own scripted
 <hr>
 
 
-## 28. [American Masters](https://serp.ly/@serpmedia/github/amazon/American+Masters)
+## 28. [American Masters](https://serp.ly/amazon/American+Masters)
 
 ![American Masters](https://image.tmdb.org/t/p/original/n2PHBbRwNxaQGuqIW4Y5ulq0HQC.jpg)
 
@@ -2654,7 +2654,7 @@ When two ambitious young producers, Hiller and Diller, launch their own scripted
 <hr>
 
 
-## 29. ['Til Death](https://serp.ly/@serpmedia/github/amazon/%27Til+Death)
+## 29. ['Til Death](https://serp.ly/amazon/%27Til+Death)
 
 !['Til Death](https://image.tmdb.org/t/p/original/trOymv1SiVmMeWlCmV0EiOC6E6v.jpg)
 
@@ -2696,7 +2696,7 @@ When two ambitious young producers, Hiller and Diller, launch their own scripted
 <hr>
 
 
-## 30. [Inside Comedy](https://serp.ly/@serpmedia/github/amazon/Inside+Comedy)
+## 30. [Inside Comedy](https://serp.ly/amazon/Inside+Comedy)
 
 ![Inside Comedy](https://image.tmdb.org/t/p/original/8tHx9hWRUWX7GZCSlVAtUFmUCXR.jpg)
 
@@ -2740,7 +2740,7 @@ When two ambitious young producers, Hiller and Diller, launch their own scripted
 <hr>
 
 
-## 31. [Presidio Med](https://serp.ly/@serpmedia/github/amazon/Presidio+Med)
+## 31. [Presidio Med](https://serp.ly/amazon/Presidio+Med)
 
 ![Presidio Med](https://image.tmdb.org/t/p/original/dpsbrvlgr48nshG1MS8i2saaINQ.jpg)
 
@@ -2786,7 +2786,7 @@ Presidio Med takes viewers inside a bustling San Francisco hospital, where docto
 <hr>
 
 
-## 32. [Dinner for Five](https://serp.ly/@serpmedia/github/amazon/Dinner+for+Five)
+## 32. [Dinner for Five](https://serp.ly/amazon/Dinner+for+Five)
 
 ![Dinner for Five](https://image.tmdb.org/t/p/original/svPfSoyfWS9yE7qIdqjdtCAAbNC.jpg)
 
@@ -2828,7 +2828,7 @@ Presidio Med takes viewers inside a bustling San Francisco hospital, where docto
 <hr>
 
 
-## 33. [A.J.'s Time Travelers](https://serp.ly/@serpmedia/github/amazon/A.J.%27s+Time+Travelers)
+## 33. [A.J.'s Time Travelers](https://serp.ly/amazon/A.J.%27s+Time+Travelers)
 
 ![A.J.'s Time Travelers](https://image.tmdb.org/t/p/original/xrUUOgTirhqv6mxN6AOH1hOCes9.jpg)
 
@@ -2872,7 +2872,7 @@ Join AJ and his friends as they zip through time on the most educational ride of
 <hr>
 
 
-## 34. [Alias](https://serp.ly/@serpmedia/github/amazon/Alias)
+## 34. [Alias](https://serp.ly/amazon/Alias)
 
 ![Alias](https://image.tmdb.org/t/p/original/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg)
 
@@ -2916,7 +2916,7 @@ Sydney Bristow leads a double life as a CIA agent working undercover for a crimi
 <hr>
 
 
-## 35. [George Lopez](https://serp.ly/@serpmedia/github/amazon/George+Lopez)
+## 35. [George Lopez](https://serp.ly/amazon/George+Lopez)
 
 ![George Lopez](https://image.tmdb.org/t/p/original/jV28WAGIqAKf4uoRK4IqJz4KMY0.jpg)
 
@@ -2958,7 +2958,7 @@ When a man raises his daughter Carmen and dyslexic son Max with his wife Angie, 
 <hr>
 
 
-## 36. [Daddy Dearest](https://serp.ly/@serpmedia/github/amazon/Daddy+Dearest)
+## 36. [Daddy Dearest](https://serp.ly/amazon/Daddy+Dearest)
 
 ![Daddy Dearest](https://image.tmdb.org/t/p/original/ehIoN6dJpqceh8CoHhCOrwXah5A.jpg)
 
@@ -3000,7 +3000,7 @@ When a single father's grumpy and sarcastic dad moves in with him, their persona
 <hr>
 
 
-## 37. [TriBeCa](https://serp.ly/@serpmedia/github/amazon/TriBeCa)
+## 37. [TriBeCa](https://serp.ly/amazon/TriBeCa)
 
 <br>
 
@@ -3037,7 +3037,7 @@ When a single father's grumpy and sarcastic dad moves in with him, their persona
 <hr>
 
 
-## 38. [MADtv](https://serp.ly/@serpmedia/github/amazon/MADtv)
+## 38. [MADtv](https://serp.ly/amazon/MADtv)
 
 ![MADtv](https://image.tmdb.org/t/p/original/4tXHrqYbETym7Def99MeXrpPyRA.jpg)
 
@@ -3079,7 +3079,7 @@ MADtv takes its humorous inspiration from the iconic Mad magazine, bringing an h
 <hr>
 
 
-## 39. [Harry](https://serp.ly/@serpmedia/github/amazon/Harry)
+## 39. [Harry](https://serp.ly/amazon/Harry)
 
 <br>
 

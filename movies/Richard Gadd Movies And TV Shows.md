@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Against the Law](https://serp.ly/@serpmedia/github/amazon/Against+the+Law)
+## 1. [Against the Law](https://serp.ly/amazon/Against+the+Law)
 
 ![Against the Law](https://image.tmdb.org/t/p/original/k8hlC8dEGQjo1nokhbhG0X3U3Vo.jpg)
 
@@ -71,7 +71,7 @@ In 1950s Britain, where homosexuality was still criminalized, three friends - jo
 <hr>
 
 
-## 2. [A Year in the Ice: The Arctic Drift](https://serp.ly/@serpmedia/github/amazon/A+Year+in+the+Ice%3A+The+Arctic+Drift)
+## 2. [A Year in the Ice: The Arctic Drift](https://serp.ly/amazon/A+Year+in+the+Ice%3A+The+Arctic+Drift)
 
 ![A Year in the Ice: The Arctic Drift](https://image.tmdb.org/t/p/original/bKoVhgVwcyKAwiu20cgSFGxlNjd.jpg)
 
@@ -102,7 +102,7 @@ Join a daring expedition as 300 scientists spend a year in the heart of the Arct
 <hr>
 
 
-## 3. [Princess Diana, Freddie and Kenny: ‘One Normal Night’](https://serp.ly/@serpmedia/github/amazon/Princess+Diana%2C+Freddie+and+Kenny%3A+%E2%80%98One+Normal+Night%E2%80%99)
+## 3. [Princess Diana, Freddie and Kenny: ‘One Normal Night’](https://serp.ly/amazon/Princess+Diana%2C+Freddie+and+Kenny%3A+%E2%80%98One+Normal+Night%E2%80%99)
 
 ![Princess Diana, Freddie and Kenny: ‘One Normal Night’](https://image.tmdb.org/t/p/original/921pV1nB8JzBEdXsYo2qqj62Qyg.jpg)
 
@@ -133,7 +133,7 @@ On a typical night out with friends, Princess Diana finds herself the unexpected
 <hr>
 
 
-## 4. [Truth Serum](https://serp.ly/@serpmedia/github/amazon/Truth+Serum)
+## 4. [Truth Serum](https://serp.ly/amazon/Truth+Serum)
 
 ![Truth Serum](https://image.tmdb.org/t/p/original/9S0syVyht2ajKDR3MqbbecxLSVx.jpg)
 
@@ -164,7 +164,7 @@ When a group of friends gathers for a housewarming party, their evening takes an
 <hr>
 
 
-## 5. [The Great Xmas Rant](https://serp.ly/@serpmedia/github/amazon/The+Great+Xmas+Rant)
+## 5. [The Great Xmas Rant](https://serp.ly/amazon/The+Great+Xmas+Rant)
 
 <br>
 
@@ -190,7 +190,7 @@ When a group of friends gathers for a housewarming party, their evening takes an
 <hr>
 
 
-## 6. [A Bear Named Wojtek](https://serp.ly/@serpmedia/github/amazon/A+Bear+Named+Wojtek)
+## 6. [A Bear Named Wojtek](https://serp.ly/amazon/A+Bear+Named+Wojtek)
 
 ![A Bear Named Wojtek](https://image.tmdb.org/t/p/original/1foJ7QUECAnL29MMtSCr7vy9mdW.jpg)
 
@@ -218,7 +218,7 @@ When a group of friends gathers for a housewarming party, their evening takes an
 <hr>
 
 
-## 7. [Amazonia](https://serp.ly/@serpmedia/github/amazon/Amazonia)
+## 7. [Amazonia](https://serp.ly/amazon/Amazonia)
 
 ![Amazonia](https://image.tmdb.org/t/p/original/75uWCo5oGCoX2ZKD6teZpyuizOF.jpg)
 
@@ -251,7 +251,7 @@ When a group of friends gathers for a housewarming party, their evening takes an
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -297,7 +297,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [Outlander](https://serp.ly/@serpmedia/github/amazon/Outlander)
+## 2. [Outlander](https://serp.ly/amazon/Outlander)
 
 ![Outlander](https://image.tmdb.org/t/p/original/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg)
 
@@ -343,7 +343,7 @@ When a married combat nurse from 1945 is mysteriously swept back to 1743, she fi
 <hr>
 
 
-## 3. [Baby Reindeer](https://serp.ly/@serpmedia/github/amazon/Baby+Reindeer)
+## 3. [Baby Reindeer](https://serp.ly/amazon/Baby+Reindeer)
 
 ![Baby Reindeer](https://image.tmdb.org/t/p/original/e5MUdXRjl90Up5dAEdvsGs4zAAS.jpg)
 
@@ -385,7 +385,7 @@ When a struggling comedian performs one generous act for a vulnerable woman, it 
 <hr>
 
 
-## 4. [Humans](https://serp.ly/@serpmedia/github/amazon/Humans)
+## 4. [Humans](https://serp.ly/amazon/Humans)
 
 ![Humans](https://image.tmdb.org/t/p/original/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg)
 
@@ -429,7 +429,7 @@ Made in our image. Out of our control.
 <hr>
 
 
-## 5. [Vicious](https://serp.ly/@serpmedia/github/amazon/Vicious)
+## 5. [Vicious](https://serp.ly/amazon/Vicious)
 
 ![Vicious](https://image.tmdb.org/t/p/original/2adbnZazIjxykkBjTAVdebo5cYb.jpg)
 
@@ -471,7 +471,7 @@ When two grumpy old neighbors, Freddie and Stuart, get a new upstairs neighbor n
 <hr>
 
 
-## 6. [Clique](https://serp.ly/@serpmedia/github/amazon/Clique)
+## 6. [Clique](https://serp.ly/amazon/Clique)
 
 ![Clique](https://image.tmdb.org/t/p/original/4xvuHbroZNZlp2QHvGpmc6gI8dv.jpg)
 
@@ -513,7 +513,7 @@ When childhood best friends Holly and Georgia start university, they're drawn in
 <hr>
 
 
-## 7. [Scot Squad](https://serp.ly/@serpmedia/github/amazon/Scot+Squad)
+## 7. [Scot Squad](https://serp.ly/amazon/Scot+Squad)
 
 ![Scot Squad](https://image.tmdb.org/t/p/original/kRNozMYTnwe36Tp8JVrgq9y2EqD.jpg)
 
@@ -555,7 +555,7 @@ Join Scottish police officers from various departments as theyNavigate their eve
 <hr>
 
 
-## 8. [Tripped](https://serp.ly/@serpmedia/github/amazon/Tripped)
+## 8. [Tripped](https://serp.ly/amazon/Tripped)
 
 ![Tripped](https://image.tmdb.org/t/p/original/HnKrsCeW4m43b4zVzCJzQwRa53.jpg)
 
@@ -597,7 +597,7 @@ When average 24-year-old Danny decides it's time to grow up, settle down, and ma
 <hr>
 
 
-## 9. [Wedding Season](https://serp.ly/@serpmedia/github/amazon/Wedding+Season)
+## 9. [Wedding Season](https://serp.ly/amazon/Wedding+Season)
 
 ![Wedding Season](https://image.tmdb.org/t/p/original/AmsnRCpvQEl3jooG2om9wTOFrmk.jpg)
 

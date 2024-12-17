@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Kemps: All True](https://serp.ly/@serpmedia/github/amazon/The+Kemps%3A+All+True)
+## 1. [The Kemps: All True](https://serp.ly/amazon/The+Kemps%3A+All+True)
 
 ![The Kemps: All True](https://image.tmdb.org/t/p/original/koPADemZROMhX4V4OaNJSc3sCBY.jpg)
 
@@ -71,7 +71,7 @@ Join Gary and Martin Kemp as they share the highs and lows of their musical jour
 <hr>
 
 
-## 2. [Bill Turnbull: Staying Alive](https://serp.ly/@serpmedia/github/amazon/Bill+Turnbull%3A+Staying+Alive)
+## 2. [Bill Turnbull: Staying Alive](https://serp.ly/amazon/Bill+Turnbull%3A+Staying+Alive)
 
 ![Bill Turnbull: Staying Alive](https://image.tmdb.org/t/p/original/irw6uateZ7kLzxNqUEzuznzpDU6.jpg)
 
@@ -102,7 +102,7 @@ Bill Turnbull: Staying Alive offers an intimate look at the journalist's battle 
 <hr>
 
 
-## 1. [Would I Lie to You?](https://serp.ly/@serpmedia/github/amazon/Would+I+Lie+to+You%3F)
+## 1. [Would I Lie to You?](https://serp.ly/amazon/Would+I+Lie+to+You%3F)
 
 ![Would I Lie to You?](https://image.tmdb.org/t/p/original/gpOHybs5mDoEEbskTtfZ1mKsPyD.jpg)
 
@@ -146,7 +146,7 @@ Bill Turnbull: Staying Alive offers an intimate look at the journalist's battle 
 <hr>
 
 
-## 2. [Top Gear](https://serp.ly/@serpmedia/github/amazon/Top+Gear)
+## 2. [Top Gear](https://serp.ly/amazon/Top+Gear)
 
 ![Top Gear](https://image.tmdb.org/t/p/original/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg)
 
@@ -196,7 +196,7 @@ Join Paddy McGuinness, Chris Harris, and Andrew "Freddie" Flintoff as they put c
 <hr>
 
 
-## 3. [Have I Got a Bit More News for You](https://serp.ly/@serpmedia/github/amazon/Have+I+Got+a+Bit+More+News+for+You)
+## 3. [Have I Got a Bit More News for You](https://serp.ly/amazon/Have+I+Got+a+Bit+More+News+for+You)
 
 ![Have I Got a Bit More News for You](https://image.tmdb.org/t/p/original/aOZuKQ2uWRfZPzn61bnzQT5LhMR.jpg)
 
@@ -238,7 +238,7 @@ Every Sunday, join us for a hilarious look at the week's news with "Have I Got a
 <hr>
 
 
-## 4. [Question Time](https://serp.ly/@serpmedia/github/amazon/Question+Time)
+## 4. [Question Time](https://serp.ly/amazon/Question+Time)
 
 ![Question Time](https://image.tmdb.org/t/p/original/nLGgjwQNnCKuDdJMDmp02pxB0u9.jpg)
 
@@ -282,7 +282,7 @@ Question Time is a topical debate series that brings together politicians and pu
 <hr>
 
 
-## 5. [Newscast](https://serp.ly/@serpmedia/github/amazon/Newscast)
+## 5. [Newscast](https://serp.ly/amazon/Newscast)
 
 ![Newscast](https://image.tmdb.org/t/p/original/amqSeiSsVitgY8uVIOwu3eKSs3H.jpg)
 
@@ -326,7 +326,7 @@ Question Time is a topical debate series that brings together politicians and pu
 <hr>
 
 
-## 6. [Ros Atkins On The Week](https://serp.ly/@serpmedia/github/amazon/Ros+Atkins+On+The+Week)
+## 6. [Ros Atkins On The Week](https://serp.ly/amazon/Ros+Atkins+On+The+Week)
 
 ![Ros Atkins On The Week](https://image.tmdb.org/t/p/original/owrmwwNSusPJFNt66NPjuGK6tw9.jpg)
 
@@ -370,7 +370,7 @@ Question Time is a topical debate series that brings together politicians and pu
 <hr>
 
 
-## 7. [Europe: Them or Us](https://serp.ly/@serpmedia/github/amazon/Europe%3A+Them+or+Us)
+## 7. [Europe: Them or Us](https://serp.ly/amazon/Europe%3A+Them+or+Us)
 
 <br>
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Dungeons & Dragons: Honor Among Thieves](https://serp.ly/@serpmedia/github/amazon/Dungeons+%26+Dragons%3A+Honor+Among+Thieves)
+## 1. [Dungeons & Dragons: Honor Among Thieves](https://serp.ly/amazon/Dungeons+%26+Dragons%3A+Honor+Among+Thieves)
 
 ![Dungeons & Dragons: Honor Among Thieves](https://image.tmdb.org/t/p/original/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg)
 
@@ -80,7 +80,7 @@ In a world where dragons soars through the sky and magic rewires reality, a mast
 <hr>
 
 
-## 2. [Underworld: Blood Wars](https://serp.ly/@serpmedia/github/amazon/Underworld%3A+Blood+Wars)
+## 2. [Underworld: Blood Wars](https://serp.ly/amazon/Underworld%3A+Blood+Wars)
 
 ![Underworld: Blood Wars](https://image.tmdb.org/t/p/original/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg)
 
@@ -123,7 +123,7 @@ In "Underworld: Blood Wars", vampire hunter Selene battles against both the Lyca
 <hr>
 
 
-## 3. [Fallen](https://serp.ly/@serpmedia/github/amazon/Fallen)
+## 3. [Fallen](https://serp.ly/amazon/Fallen)
 
 ![Fallen](https://image.tmdb.org/t/p/original/k0na2JR3mIgl5m64tW5uxB5Fa4m.jpg)
 
@@ -159,7 +159,7 @@ When Lucinda Price is sent to a reform academy, she uncovers a web of secrets th
 <hr>
 
 
-## 4. [Wrong Turn](https://serp.ly/@serpmedia/github/amazon/Wrong+Turn)
+## 4. [Wrong Turn](https://serp.ly/amazon/Wrong+Turn)
 
 ![Wrong Turn](https://image.tmdb.org/t/p/original/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg)
 
@@ -197,7 +197,7 @@ Jen and her friends hike the Appalachian Trail, straying off course into the dan
 <hr>
 
 
-## 5. [Ophelia](https://serp.ly/@serpmedia/github/amazon/Ophelia)
+## 5. [Ophelia](https://serp.ly/amazon/Ophelia)
 
 ![Ophelia](https://image.tmdb.org/t/p/original/we449l0ZIgjJHDVFSrpnuYfp0i3.jpg)
 
@@ -237,7 +237,7 @@ Hamlet through her eyes.
 <hr>
 
 
-## 6. [The Ninth](https://serp.ly/@serpmedia/github/amazon/The+Ninth)
+## 6. [The Ninth](https://serp.ly/amazon/The+Ninth)
 
 ![The Ninth](https://image.tmdb.org/t/p/original/o2Q9kkzkI5LGqP9K7ymmOc9CNRE.jpg)
 
@@ -275,7 +275,7 @@ At the turn of the 20th century, Petersburg becomes the epicenter of a spiritual
 <hr>
 
 
-## 7. [When Calls the Heart](https://serp.ly/@serpmedia/github/amazon/When+Calls+the+Heart)
+## 7. [When Calls the Heart](https://serp.ly/amazon/When+Calls+the+Heart)
 
 ![When Calls the Heart](https://image.tmdb.org/t/p/original/jKQKlEwii03hzgsxHPpiG01vkiZ.jpg)
 
@@ -309,7 +309,7 @@ When a cultured young teacher accepts a position in a frontier town, she leaves 
 <hr>
 
 
-## 8. [The Last Seven](https://serp.ly/@serpmedia/github/amazon/The+Last+Seven)
+## 8. [The Last Seven](https://serp.ly/amazon/The+Last+Seven)
 
 ![The Last Seven](https://image.tmdb.org/t/p/original/llZqaMKMb7qqN4xcxv7Bs33viSl.jpg)
 
@@ -347,7 +347,7 @@ In a deserted London where seven million people once lived, seven strangers wake
 <hr>
 
 
-## 9. [Heart of Lightness](https://serp.ly/@serpmedia/github/amazon/Heart+of+Lightness)
+## 9. [Heart of Lightness](https://serp.ly/amazon/Heart+of+Lightness)
 
 ![Heart of Lightness](https://image.tmdb.org/t/p/original/dLA6lPkwjn8sAhS1fXjjQ7P8HOl.jpg)
 
@@ -381,7 +381,7 @@ When nine British actors travel to Norway's remote Lofoten islands to perform He
 <hr>
 
 
-## 10. [Endeavour](https://serp.ly/@serpmedia/github/amazon/Endeavour)
+## 10. [Endeavour](https://serp.ly/amazon/Endeavour)
 
 <br>
 
@@ -409,7 +409,7 @@ When an extraordinary claim threatens to rewrite human history, a team of expert
 <hr>
 
 
-## 11. [A Midsummer's Nightmare](https://serp.ly/@serpmedia/github/amazon/A+Midsummer%27s+Nightmare)
+## 11. [A Midsummer's Nightmare](https://serp.ly/amazon/A+Midsummer%27s+Nightmare)
 
 ![A Midsummer's Nightmare](https://image.tmdb.org/t/p/original/org0T0cosAc8Je5gPqMHevjdjcE.jpg)
 
@@ -437,7 +437,7 @@ In this delightful twist on a summer romance, four young lovers venture into the
 <hr>
 
 
-## 12. [Rules of Love](https://serp.ly/@serpmedia/github/amazon/Rules+of+Love)
+## 12. [Rules of Love](https://serp.ly/amazon/Rules+of+Love)
 
 ![Rules of Love](https://image.tmdb.org/t/p/original/u87tCIQUjAVYbAByQkLbXW5LmUo.jpg)
 
@@ -471,7 +471,7 @@ In a contemporary London setting, this musical follows Matt, a lowly postboy at 
 <hr>
 
 
-## 1. [The Sandman](https://serp.ly/@serpmedia/github/amazon/The+Sandman)
+## 1. [The Sandman](https://serp.ly/amazon/The+Sandman)
 
 ![The Sandman](https://image.tmdb.org/t/p/original/q54qEgagGOYCq5D1903eBVMNkbo.jpg)
 
@@ -517,7 +517,7 @@ After years of imprisonment, Morpheus - the King of Dreams - is free. But his re
 <hr>
 
 
-## 2. [Shadow and Bone](https://serp.ly/@serpmedia/github/amazon/Shadow+and+Bone)
+## 2. [Shadow and Bone](https://serp.ly/amazon/Shadow+and+Bone)
 
 ![Shadow and Bone](https://image.tmdb.org/t/p/original/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg)
 
@@ -561,7 +561,7 @@ In a world split by an endless darkness, a young soldier discovers a power that 
 <hr>
 
 
-## 3. [Guilt](https://serp.ly/@serpmedia/github/amazon/Guilt)
+## 3. [Guilt](https://serp.ly/amazon/Guilt)
 
 ![Guilt](https://image.tmdb.org/t/p/original/gRm3WojWDTXhmviAfWx8b6y8YVv.jpg)
 
@@ -605,7 +605,7 @@ When Natalie's sister Grace becomes the prime suspect in her roommate Molly's mu
 <hr>
 
 
-## 4. [The Gray House](https://serp.ly/@serpmedia/github/amazon/The+Gray+House)
+## 4. [The Gray House](https://serp.ly/amazon/The+Gray+House)
 
 <br>
 
@@ -640,7 +640,7 @@ Before becoming a military legend, Ulysses S. Grant was just a young officer in 
 <hr>
 
 
-## 5. [The Proxy](https://serp.ly/@serpmedia/github/amazon/The+Proxy)
+## 5. [The Proxy](https://serp.ly/amazon/The+Proxy)
 
 ![The Proxy](https://image.tmdb.org/t/p/original/luH05Cm7Rvv83g5Eziey4HuBl4F.jpg)
 

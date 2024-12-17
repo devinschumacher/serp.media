@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Hunger Games: Catching Fire](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+Catching+Fire)
+## 1. [The Hunger Games: Catching Fire](https://serp.ly/amazon/The+Hunger+Games%3A+Catching+Fire)
 
 ![The Hunger Games: Catching Fire](https://image.tmdb.org/t/p/original/v9qVkyS58WHdfrcEq0dxUJFKS9n.jpg)
 
@@ -80,7 +80,7 @@ After winning the 74th Hunger Games, Katniss Everdeen returns home to a simmerin
 <hr>
 
 
-## 2. [The Hunger Games: Mockingjay - Part 1](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+1)
+## 2. [The Hunger Games: Mockingjay - Part 1](https://serp.ly/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+1)
 
 ![The Hunger Games: Mockingjay - Part 1](https://image.tmdb.org/t/p/original/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg)
 
@@ -120,7 +120,7 @@ In "The Hunger Games: Mockingjay - Part 1", Katniss Everdeen reluctantly becomes
 <hr>
 
 
-## 3. [Me Before You](https://serp.ly/@serpmedia/github/amazon/Me+Before+You)
+## 3. [Me Before You](https://serp.ly/amazon/Me+Before+You)
 
 ![Me Before You](https://image.tmdb.org/t/p/original/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg)
 
@@ -160,7 +160,7 @@ When a successful businessman becomes wheelchair-bound following an accident, he
 <hr>
 
 
-## 4. [Pirates of the Caribbean: On Stranger Tides](https://serp.ly/@serpmedia/github/amazon/Pirates+of+the+Caribbean%3A+On+Stranger+Tides)
+## 4. [Pirates of the Caribbean: On Stranger Tides](https://serp.ly/amazon/Pirates+of+the+Caribbean%3A+On+Stranger+Tides)
 
 ![Pirates of the Caribbean: On Stranger Tides](https://image.tmdb.org/t/p/original/keGfSvCmYj7CvdRx36OdVrAEibE.jpg)
 
@@ -203,7 +203,7 @@ When Captain Jack Sparrow boards the legendary Queen Anne's Revenge with a myste
 <hr>
 
 
-## 5. [The Hunger Games: Mockingjay - Part 2](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+2)
+## 5. [The Hunger Games: Mockingjay - Part 2](https://serp.ly/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+2)
 
 ![The Hunger Games: Mockingjay - Part 2](https://image.tmdb.org/t/p/original/lImKHDfExAulp16grYm8zD5eONE.jpg)
 
@@ -246,7 +246,7 @@ In the final chapter of The Hunger Games saga, Katniss Everdeen faces her darkes
 <hr>
 
 
-## 6. [Love, Rosie](https://serp.ly/@serpmedia/github/amazon/Love%2C+Rosie)
+## 6. [Love, Rosie](https://serp.ly/amazon/Love%2C+Rosie)
 
 ![Love, Rosie](https://image.tmdb.org/t/p/original/rpD0t7DhzJVadnzgxSYrqljQTL2.jpg)
 
@@ -287,7 +287,7 @@ Since the moment they met at age 5, Rosie and Alex have been inseparable, facing
 <hr>
 
 
-## 7. [Snow White and the Huntsman](https://serp.ly/@serpmedia/github/amazon/Snow+White+and+the+Huntsman)
+## 7. [Snow White and the Huntsman](https://serp.ly/amazon/Snow+White+and+the+Huntsman)
 
 ![Snow White and the Huntsman](https://image.tmdb.org/t/p/original/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg)
 
@@ -330,7 +330,7 @@ When the Evil Queen seizes power by murdering the King, she thrusts his young da
 <hr>
 
 
-## 8. [Enola Holmes](https://serp.ly/@serpmedia/github/amazon/Enola+Holmes)
+## 8. [Enola Holmes](https://serp.ly/amazon/Enola+Holmes)
 
 ![Enola Holmes](https://image.tmdb.org/t/p/original/riYInlsq2kf1AWoGm80JQW5dLKp.jpg)
 
@@ -371,7 +371,7 @@ When her mother disappears, intrepid teen Enola Holmes channels her detective sk
 <hr>
 
 
-## 9. [The Huntsman: Winter's War](https://serp.ly/@serpmedia/github/amazon/The+Huntsman%3A+Winter%27s+War)
+## 9. [The Huntsman: Winter's War](https://serp.ly/amazon/The+Huntsman%3A+Winter%27s+War)
 
 ![The Huntsman: Winter's War](https://image.tmdb.org/t/p/original/cjAGYsTPmmhZOwzrgon0Drpu43K.jpg)
 
@@ -411,7 +411,7 @@ The story before Snow White
 <hr>
 
 
-## 10. [Last Night in Soho](https://serp.ly/@serpmedia/github/amazon/Last+Night+in+Soho)
+## 10. [Last Night in Soho](https://serp.ly/amazon/Last+Night+in+Soho)
 
 ![Last Night in Soho](https://image.tmdb.org/t/p/original/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg)
 
@@ -456,7 +456,7 @@ When a young fashion design enthusiast discovers she can enter the 1960s, she en
 <hr>
 
 
-## 11. [Charlie's Angels](https://serp.ly/@serpmedia/github/amazon/Charlie%27s+Angels)
+## 11. [Charlie's Angels](https://serp.ly/amazon/Charlie%27s+Angels)
 
 ![Charlie's Angels](https://image.tmdb.org/t/p/original/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg)
 
@@ -499,7 +499,7 @@ When Elena Houghlin's groundbreaking Calisto energy source falls into the wrong 
 <hr>
 
 
-## 12. [Adrift](https://serp.ly/@serpmedia/github/amazon/Adrift)
+## 12. [Adrift](https://serp.ly/amazon/Adrift)
 
 ![Adrift](https://image.tmdb.org/t/p/original/5gLDeADaETvwQlQow5szlyuhLbj.jpg)
 
@@ -540,7 +540,7 @@ When Tami Oldham and Richard Sharp set sail, they have no idea they're heading i
 <hr>
 
 
-## 13. [The Riot Club](https://serp.ly/@serpmedia/github/amazon/The+Riot+Club)
+## 13. [The Riot Club](https://serp.ly/amazon/The+Riot+Club)
 
 ![The Riot Club](https://image.tmdb.org/t/p/original/8H0bfcxbxGGvZTqDjvXQ89lJxCo.jpg)
 
@@ -581,7 +581,7 @@ Filthy Rich, Spoilt Rotten
 <hr>
 
 
-## 14. [Love Wedding Repeat](https://serp.ly/@serpmedia/github/amazon/Love+Wedding+Repeat)
+## 14. [Love Wedding Repeat](https://serp.ly/amazon/Love+Wedding+Repeat)
 
 ![Love Wedding Repeat](https://image.tmdb.org/t/p/original/u0MV99rB1hv8tkjtBJHfwIGCVKD.jpg)
 
@@ -617,7 +617,7 @@ Jack's plan to make his sister's wedding day perfect turns into a hilarious adve
 <hr>
 
 
-## 15. [The Nightingale](https://serp.ly/@serpmedia/github/amazon/The+Nightingale)
+## 15. [The Nightingale](https://serp.ly/amazon/The+Nightingale)
 
 ![The Nightingale](https://image.tmdb.org/t/p/original/9nRpZmvdEgq8hMu1rNyc90XQtH6.jpg)
 
@@ -658,7 +658,7 @@ In 1825, Clare, a 21-year-old Irish convict, chases a British soldier through th
 <hr>
 
 
-## 16. [My Cousin Rachel](https://serp.ly/@serpmedia/github/amazon/My+Cousin+Rachel)
+## 16. [My Cousin Rachel](https://serp.ly/amazon/My+Cousin+Rachel)
 
 ![My Cousin Rachel](https://image.tmdb.org/t/p/original/yz9Pnx5tbpZOHWsCD0LtoTCgmLi.jpg)
 
@@ -696,7 +696,7 @@ When his beloved guardian dies, a young Englishman suspects his beautiful cousin
 <hr>
 
 
-## 17. [The Quiet Ones](https://serp.ly/@serpmedia/github/amazon/The+Quiet+Ones)
+## 17. [The Quiet Ones](https://serp.ly/amazon/The+Quiet+Ones)
 
 ![The Quiet Ones](https://image.tmdb.org/t/p/original/icMhj5NKKm5Uw0RcMzR9NYSROE.jpg)
 
@@ -736,7 +736,7 @@ A shocking experiment. An unspeakable evil.
 <hr>
 
 
-## 18. [Their Finest](https://serp.ly/@serpmedia/github/amazon/Their+Finest)
+## 18. [Their Finest](https://serp.ly/amazon/Their+Finest)
 
 ![Their Finest](https://image.tmdb.org/t/p/original/tF0dhJfxzOjvkybJVfNPuuj5ClH.jpg)
 
@@ -776,7 +776,7 @@ In the midst of World War II's Blitz, a female screenwriter fights to bring a st
 <hr>
 
 
-## 19. [Journey's End](https://serp.ly/@serpmedia/github/amazon/Journey%27s+End)
+## 19. [Journey's End](https://serp.ly/amazon/Journey%27s+End)
 
 ![Journey's End](https://image.tmdb.org/t/p/original/5gGkt84bCPt7XRo35FcsrOeer78.jpg)
 
@@ -815,7 +815,7 @@ In a dugout in Aisne, 1918, a group of British officers awaits their fate under 
 <hr>
 
 
-## 20. [Every Breath You Take](https://serp.ly/@serpmedia/github/amazon/Every+Breath+You+Take)
+## 20. [Every Breath You Take](https://serp.ly/amazon/Every+Breath+You+Take)
 
 ![Every Breath You Take](https://image.tmdb.org/t/p/original/nrgNXpH4x9NAkqOKhxEs3TspkHc.jpg)
 
@@ -856,7 +856,7 @@ When a psychiatrist's client takes her own life, he introduces her surviving bro
 <hr>
 
 
-## 21. [United](https://serp.ly/@serpmedia/github/amazon/United)
+## 21. [United](https://serp.ly/amazon/United)
 
 ![United](https://image.tmdb.org/t/p/original/kWWa20kIjk4B6OtRHqWj41HHmiN.jpg)
 
@@ -892,7 +892,7 @@ Manchester United's "Busby Babes" rose to fame as the youngest team ever to win 
 <hr>
 
 
-## 22. [The Lost Future](https://serp.ly/@serpmedia/github/amazon/The+Lost+Future)
+## 22. [The Lost Future](https://serp.ly/amazon/The+Lost+Future)
 
 ![The Lost Future](https://image.tmdb.org/t/p/original/rwP3xGH78aaNbGVFisFxx4LLuay.jpg)
 
@@ -928,7 +928,7 @@ In a world where civilization has crumbled, a group of survivors battles to rebu
 <hr>
 
 
-## 23. [Book of Love](https://serp.ly/@serpmedia/github/amazon/Book+of+Love)
+## 23. [Book of Love](https://serp.ly/amazon/Book+of+Love)
 
 ![Book of Love](https://image.tmdb.org/t/p/original/aU4cUkmn8CqnBYlYgE2sHlZ2AGy.jpg)
 
@@ -969,7 +969,7 @@ Some things can get lust in translation!
 <hr>
 
 
-## 24. [The Corrupted](https://serp.ly/@serpmedia/github/amazon/The+Corrupted)
+## 24. [The Corrupted](https://serp.ly/amazon/The+Corrupted)
 
 ![The Corrupted](https://image.tmdb.org/t/p/original/elf6HOIOAwMlxc4ZBsprEc5VQHc.jpg)
 
@@ -1005,7 +1005,7 @@ Set ahead of the 2012 London Olympics, "The Corrupted" follows Liam, an ex-con d
 <hr>
 
 
-## 25. [Mary and Martha](https://serp.ly/@serpmedia/github/amazon/Mary+and+Martha)
+## 25. [Mary and Martha](https://serp.ly/amazon/Mary+and+Martha)
 
 ![Mary and Martha](https://image.tmdb.org/t/p/original/smDcAghsfl6mdMzRhy41MPikp0S.jpg)
 
@@ -1041,7 +1041,7 @@ Mary and Martha Morgan are two American mothers who lose their sons to malaria i
 <hr>
 
 
-## 26. [Charlotte](https://serp.ly/@serpmedia/github/amazon/Charlotte)
+## 26. [Charlotte](https://serp.ly/amazon/Charlotte)
 
 ![Charlotte](https://image.tmdb.org/t/p/original/goUoo1DiQen9TT6sBT6o4LW5cQs.jpg)
 
@@ -1080,7 +1080,7 @@ An account of German-Jewish artist Charlotte Salomon living in the south of Fran
 <hr>
 
 
-## 27. [The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1](https://serp.ly/@serpmedia/github/amazon/The+Mockingjay+Lives%3A+The+Making+of+the+Hunger+Games%3A+Mockingjay+Part+1)
+## 27. [The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1](https://serp.ly/amazon/The+Mockingjay+Lives%3A+The+Making+of+the+Hunger+Games%3A+Mockingjay+Part+1)
 
 ![The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1](https://image.tmdb.org/t/p/original/5Rjd0jPCDgNvaARNPk8jTTvVfPB.jpg)
 
@@ -1114,7 +1114,7 @@ The Hunger Games: Mockingjay Part 1 marks the penultimate chapter in the beloved
 <hr>
 
 
-## 28. [Pawns No More: The Making of The Hunger Games: Mockingjay Part 2](https://serp.ly/@serpmedia/github/amazon/Pawns+No+More%3A+The+Making+of+The+Hunger+Games%3A+Mockingjay+Part+2)
+## 28. [Pawns No More: The Making of The Hunger Games: Mockingjay Part 2](https://serp.ly/amazon/Pawns+No+More%3A+The+Making+of+The+Hunger+Games%3A+Mockingjay+Part+2)
 
 ![Pawns No More: The Making of The Hunger Games: Mockingjay Part 2](https://image.tmdb.org/t/p/original/b43ueF4PDjKdDQ0xcKZ0lVvM6bJ.jpg)
 
@@ -1148,7 +1148,7 @@ The Hunger Games: Mockingjay Part 1 marks the penultimate chapter in the beloved
 <hr>
 
 
-## 29. [Surviving the Game: Making The Hunger Games: Catching Fire](https://serp.ly/@serpmedia/github/amazon/Surviving+the+Game%3A+Making+The+Hunger+Games%3A+Catching+Fire)
+## 29. [Surviving the Game: Making The Hunger Games: Catching Fire](https://serp.ly/amazon/Surviving+the+Game%3A+Making+The+Hunger+Games%3A+Catching+Fire)
 
 ![Surviving the Game: Making The Hunger Games: Catching Fire](https://image.tmdb.org/t/p/original/zvO1D3axkIaJvUjfq7FPvahwLv6.jpg)
 
@@ -1182,7 +1182,7 @@ The Hunger Games: Mockingjay Part 1 marks the penultimate chapter in the beloved
 <hr>
 
 
-## 30. [Watch the Skies](https://serp.ly/@serpmedia/github/amazon/Watch+the+Skies)
+## 30. [Watch the Skies](https://serp.ly/amazon/Watch+the+Skies)
 
 ![Watch the Skies](https://image.tmdb.org/t/p/original/w2UE7W1Gw4r6KpBDAGlIJDiEX6o.jpg)
 
@@ -1207,7 +1207,7 @@ When a small starship crashes to Earth, a teenage boy emerges not as a monster o
 <hr>
 
 
-## 31. [Bagman](https://serp.ly/@serpmedia/github/amazon/Bagman)
+## 31. [Bagman](https://serp.ly/amazon/Bagman)
 
 <br>
 
@@ -1230,7 +1230,7 @@ In "Bagman", a father's worst nightmare resurfaces when the monster he thought h
 <hr>
 
 
-## 32. [Perdition](https://serp.ly/@serpmedia/github/amazon/Perdition)
+## 32. [Perdition](https://serp.ly/amazon/Perdition)
 
 <br>
 
@@ -1251,7 +1251,7 @@ In December 1944, as World War II rages on the Western Front, an American soldie
 <hr>
 
 
-## 33. [Friday](https://serp.ly/@serpmedia/github/amazon/Friday)
+## 33. [Friday](https://serp.ly/amazon/Friday)
 
 <br>
 
@@ -1275,7 +1275,7 @@ Robin Friday played life the same way he played soccer - with raw talent and reb
 <hr>
 
 
-## 1. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 1. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1319,7 +1319,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 2. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 2. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -1361,7 +1361,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 3. [Peaky Blinders](https://serp.ly/@serpmedia/github/amazon/Peaky+Blinders)
+## 3. [Peaky Blinders](https://serp.ly/amazon/Peaky+Blinders)
 
 ![Peaky Blinders](https://image.tmdb.org/t/p/original/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg)
 
@@ -1405,7 +1405,7 @@ In 1919 Birmingham, a fierce gangster family runs a criminal empire centered on 
 <hr>
 
 
-## 4. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 4. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -1451,7 +1451,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 5. [The Pillars of the Earth](https://serp.ly/@serpmedia/github/amazon/The+Pillars+of+the+Earth)
+## 5. [The Pillars of the Earth](https://serp.ly/amazon/The+Pillars+of+the+Earth)
 
 ![The Pillars of the Earth](https://image.tmdb.org/t/p/original/952uUaNc6zJbb0rXSwFPskp2SKY.jpg)
 
@@ -1493,7 +1493,7 @@ In 12th century England, a miniseries unfolds against a backdrop of war, religio
 <hr>
 
 
-## 6. [Daisy Jones & the Six](https://serp.ly/@serpmedia/github/amazon/Daisy+Jones+%26+the+Six)
+## 6. [Daisy Jones & the Six](https://serp.ly/amazon/Daisy+Jones+%26+the+Six)
 
 ![Daisy Jones & the Six](https://image.tmdb.org/t/p/original/ltfscPUljehY7IwGG85vij2TEbQ.jpg)
 
@@ -1537,7 +1537,7 @@ Meteoric rise. Infamous breakup.
 <hr>
 
 
-## 7. [White Heat](https://serp.ly/@serpmedia/github/amazon/White+Heat)
+## 7. [White Heat](https://serp.ly/amazon/White+Heat)
 
 ![White Heat](https://image.tmdb.org/t/p/original/heXcHl2sl8LNe7sz4sEgbDXNAql.jpg)
 
@@ -1581,7 +1581,7 @@ Travel back to 1965 London where seven diverse students forge unexpected friends
 <hr>
 
 
-## 8. [Any Human Heart](https://serp.ly/@serpmedia/github/amazon/Any+Human+Heart)
+## 8. [Any Human Heart](https://serp.ly/amazon/Any+Human+Heart)
 
 ![Any Human Heart](https://image.tmdb.org/t/p/original/fHvkvAEaB33dRdQTt3VYRrv1scR.jpg)
 
@@ -1623,7 +1623,7 @@ Logan Mountstuart, a writer and adventurer, takes you on a literary journey thro
 <hr>
 
 
-## 9. [The Count of Monte Cristo](https://serp.ly/@serpmedia/github/amazon/The+Count+of+Monte+Cristo)
+## 9. [The Count of Monte Cristo](https://serp.ly/amazon/The+Count+of+Monte+Cristo)
 
 <br>
 
@@ -1658,7 +1658,7 @@ Logan Mountstuart, a writer and adventurer, takes you on a literary journey thro
 <hr>
 
 
-## 10. [Lazarus](https://serp.ly/@serpmedia/github/amazon/Lazarus)
+## 10. [Lazarus](https://serp.ly/amazon/Lazarus)
 
 <br>
 

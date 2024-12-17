@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Wreck-It Ralph](https://serp.ly/@serpmedia/github/amazon/Wreck-It+Ralph)
+## 1. [Wreck-It Ralph](https://serp.ly/amazon/Wreck-It+Ralph)
 
 ![Wreck-It Ralph](https://image.tmdb.org/t/p/original/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg)
 
@@ -80,7 +80,7 @@ Join the 9-foot-tall, 643-pound Wreck-It Ralph on his epic journey through the a
 <hr>
 
 
-## 2. [Pitch Perfect](https://serp.ly/@serpmedia/github/amazon/Pitch+Perfect)
+## 2. [Pitch Perfect](https://serp.ly/amazon/Pitch+Perfect)
 
 ![Pitch Perfect](https://image.tmdb.org/t/p/original/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg)
 
@@ -123,7 +123,7 @@ When college student Beca joins an a cappella group, she transforms a bunch of i
 <hr>
 
 
-## 3. [Pitch Perfect 2](https://serp.ly/@serpmedia/github/amazon/Pitch+Perfect+2)
+## 3. [Pitch Perfect 2](https://serp.ly/amazon/Pitch+Perfect+2)
 
 ![Pitch Perfect 2](https://image.tmdb.org/t/p/original/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg)
 
@@ -166,7 +166,7 @@ When the Bellas are kicked out of the Aca-Circuit after a presidential humiliati
 <hr>
 
 
-## 4. [21 & Over](https://serp.ly/@serpmedia/github/amazon/21+%26+Over)
+## 4. [21 & Over](https://serp.ly/amazon/21+%26+Over)
 
 ![21 & Over](https://image.tmdb.org/t/p/original/noB71pnF8jz2IIP1LeilfnaaO2F.jpg)
 
@@ -206,7 +206,7 @@ Jeff Chang is a brilliant student with the most important interview of his life 
 <hr>
 
 
-## 5. [Secret Society of Second Born Royals](https://serp.ly/@serpmedia/github/amazon/Secret+Society+of+Second+Born+Royals)
+## 5. [Secret Society of Second Born Royals](https://serp.ly/amazon/Secret+Society+of+Second+Born+Royals)
 
 ![Secret Society of Second Born Royals](https://image.tmdb.org/t/p/original/xOmGTJtBgRVSAF4S5dZEUqHqyy5.jpg)
 
@@ -245,7 +245,7 @@ In the royal kingdom of Illyria, second-born Sam discovers she has extraordinary
 <hr>
 
 
-## 6. [Ghosts of War](https://serp.ly/@serpmedia/github/amazon/Ghosts+of+War)
+## 6. [Ghosts of War](https://serp.ly/amazon/Ghosts+of+War)
 
 ![Ghosts of War](https://image.tmdb.org/t/p/original/jR2SSICqmyaVV4lcR3PfNldJBPc.jpg)
 
@@ -283,7 +283,7 @@ When a group of World War II American soldiers occupies a French castle previous
 <hr>
 
 
-## 7. [Taking Woodstock](https://serp.ly/@serpmedia/github/amazon/Taking+Woodstock)
+## 7. [Taking Woodstock](https://serp.ly/amazon/Taking+Woodstock)
 
 ![Taking Woodstock](https://image.tmdb.org/t/p/original/nfvmClvZE7KhIqB74OAgLQ2L6KW.jpg)
 
@@ -323,7 +323,7 @@ A generation began in his backyard.
 <hr>
 
 
-## 8. [Hamlet 2](https://serp.ly/@serpmedia/github/amazon/Hamlet+2)
+## 8. [Hamlet 2](https://serp.ly/amazon/Hamlet+2)
 
 ![Hamlet 2](https://image.tmdb.org/t/p/original/ljdmxGNwhuWZBsCgANlZrruFkJj.jpg)
 
@@ -363,7 +363,7 @@ When a failed actor becomes a high school drama teacher in Tucson, he transforms
 <hr>
 
 
-## 9. [Speech & Debate](https://serp.ly/@serpmedia/github/amazon/Speech+%26+Debate)
+## 9. [Speech & Debate](https://serp.ly/amazon/Speech+%26+Debate)
 
 ![Speech & Debate](https://image.tmdb.org/t/p/original/566T3mHSAxCgWiUmH88Mv7P1tcb.jpg)
 
@@ -402,7 +402,7 @@ When three high school friends grow tired of the hypocrisy surrounding them, the
 <hr>
 
 
-## 10. [Zoey's Extraordinary Christmas](https://serp.ly/@serpmedia/github/amazon/Zoey%27s+Extraordinary+Christmas)
+## 10. [Zoey's Extraordinary Christmas](https://serp.ly/amazon/Zoey%27s+Extraordinary+Christmas)
 
 ![Zoey's Extraordinary Christmas](https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg)
 
@@ -440,7 +440,7 @@ When Zoey's father Mitch passes away, she takes it upon herself to create magica
 <hr>
 
 
-## 11. [Cavemen](https://serp.ly/@serpmedia/github/amazon/Cavemen)
+## 11. [Cavemen](https://serp.ly/amazon/Cavemen)
 
 ![Cavemen](https://image.tmdb.org/t/p/original/zjHzJuERChMzXUvc05WmHkf0PKK.jpg)
 
@@ -476,7 +476,7 @@ Downtown L.A. is their playground.
 <hr>
 
 
-## 12. [Flock of Dudes](https://serp.ly/@serpmedia/github/amazon/Flock+of+Dudes)
+## 12. [Flock of Dudes](https://serp.ly/amazon/Flock+of+Dudes)
 
 ![Flock of Dudes](https://image.tmdb.org/t/p/original/7IX57TQHx4aD0fSw81ECYK4WZ0I.jpg)
 
@@ -517,7 +517,7 @@ When a 30-something guy decides to grow up, he finds himself at odds with his cl
 <hr>
 
 
-## 13. [Spring Awakening: Those You've Known](https://serp.ly/@serpmedia/github/amazon/Spring+Awakening%3A+Those+You%27ve+Known)
+## 13. [Spring Awakening: Those You've Known](https://serp.ly/amazon/Spring+Awakening%3A+Those+You%27ve+Known)
 
 ![Spring Awakening: Those You've Known](https://image.tmdb.org/t/p/original/fkPM2qx2zB1yZpvQJ59riWfvDPp.jpg)
 
@@ -553,7 +553,7 @@ Fifteen years after "Spring Awakening's" Tony-winning Broadway run, the original
 <hr>
 
 
-## 14. [Monkey Up](https://serp.ly/@serpmedia/github/amazon/Monkey+Up)
+## 14. [Monkey Up](https://serp.ly/amazon/Monkey+Up)
 
 ![Monkey Up](https://image.tmdb.org/t/p/original/cdue0TfCUwvtc6b7g0jaHRkMlc4.jpg)
 
@@ -589,7 +589,7 @@ When a clever talking monkey sets out to become a movie star, his plans go awry,
 <hr>
 
 
-## 15. [Hot Air](https://serp.ly/@serpmedia/github/amazon/Hot+Air)
+## 15. [Hot Air](https://serp.ly/amazon/Hot+Air)
 
 ![Hot Air](https://image.tmdb.org/t/p/original/x301l8Ium9lDuEh2DCkkDB60zPj.jpg)
 
@@ -625,7 +625,7 @@ When a right-wing talk show host's 16-year-old niece visits, their personalities
 <hr>
 
 
-## 16. [Mickey’s 90th Spectacular](https://serp.ly/@serpmedia/github/amazon/Mickey%E2%80%99s+90th+Spectacular)
+## 16. [Mickey’s 90th Spectacular](https://serp.ly/amazon/Mickey%E2%80%99s+90th+Spectacular)
 
 ![Mickey’s 90th Spectacular](https://image.tmdb.org/t/p/original/5Hqd4nvm7rPyFkUpFP1NLMO92X1.jpg)
 
@@ -659,7 +659,7 @@ This two-hour TV special celebrates Mickey Mouse's 90th birthday with an impress
 <hr>
 
 
-## 17. [Dick Van Dyke: 98 Years of Magic](https://serp.ly/@serpmedia/github/amazon/Dick+Van+Dyke%3A+98+Years+of+Magic)
+## 17. [Dick Van Dyke: 98 Years of Magic](https://serp.ly/amazon/Dick+Van+Dyke%3A+98+Years+of+Magic)
 
 ![Dick Van Dyke: 98 Years of Magic](https://image.tmdb.org/t/p/original/ys7MMH98GxDoQWPP8VKwnOsaJye.jpg)
 
@@ -693,7 +693,7 @@ This two-hour TV special celebrates Mickey Mouse's 90th birthday with an impress
 <hr>
 
 
-## 18. [Stagedoor](https://serp.ly/@serpmedia/github/amazon/Stagedoor)
+## 18. [Stagedoor](https://serp.ly/amazon/Stagedoor)
 
 ![Stagedoor](https://image.tmdb.org/t/p/original/1A3CPMwRmIAlMtNkNsK9zg22R1n.jpg)
 
@@ -732,7 +732,7 @@ Before they can dazzle Broadway, they have to survive summer camp
 <hr>
 
 
-## 19. [Crazy Ex-Girlfriend: Oh My God I Think It's Over](https://serp.ly/@serpmedia/github/amazon/Crazy+Ex-Girlfriend%3A+Oh+My+God+I+Think+It%27s+Over)
+## 19. [Crazy Ex-Girlfriend: Oh My God I Think It's Over](https://serp.ly/amazon/Crazy+Ex-Girlfriend%3A+Oh+My+God+I+Think+It%27s+Over)
 
 ![Crazy Ex-Girlfriend: Oh My God I Think It's Over](https://image.tmdb.org/t/p/original/6dUACjTdSDr0AiWlY3rjDgOGW15.jpg)
 
@@ -766,7 +766,7 @@ Join the creative team behind "Crazy Ex-Girlfriend" as they tackle the "impossib
 <hr>
 
 
-## 20. [God Bless You, Mr Rosewater](https://serp.ly/@serpmedia/github/amazon/God+Bless+You%2C+Mr+Rosewater)
+## 20. [God Bless You, Mr Rosewater](https://serp.ly/amazon/God+Bless+You%2C+Mr+Rosewater)
 
 ![God Bless You, Mr Rosewater](https://image.tmdb.org/t/p/original/eJLZ5IwhfQvkNw3GSN7yAPGSAbE.jpg)
 
@@ -801,7 +801,7 @@ When Elliot Rosewater inherits a massive fortune from the Rosewater Foundation, 
 <hr>
 
 
-## 21. [The Oven](https://serp.ly/@serpmedia/github/amazon/The+Oven)
+## 21. [The Oven](https://serp.ly/amazon/The+Oven)
 
 <br>
 
@@ -833,7 +833,7 @@ The Oven is a short film about a young couple who get into a heated argument bef
 <hr>
 
 
-## 22. [Luna Goes Cruising](https://serp.ly/@serpmedia/github/amazon/Luna+Goes+Cruising)
+## 22. [Luna Goes Cruising](https://serp.ly/amazon/Luna+Goes+Cruising)
 
 ![Luna Goes Cruising](https://image.tmdb.org/t/p/original/yFlxHyJ0kgx4BNwRWYGHO56OoHS.jpg)
 
@@ -870,7 +870,7 @@ When Luna, a lovable dog, goes cruising with her owner, their mission is clear: 
 <hr>
 
 
-## 1. [Grey's Anatomy](https://serp.ly/@serpmedia/github/amazon/Grey%27s+Anatomy)
+## 1. [Grey's Anatomy](https://serp.ly/amazon/Grey%27s+Anatomy)
 
 ![Grey's Anatomy](https://image.tmdb.org/t/p/original/jcEl8SISNfGdlQFwLzeEtsjDvpw.jpg)
 
@@ -916,7 +916,7 @@ Begin again.
 <hr>
 
 
-## 2. [House](https://serp.ly/@serpmedia/github/amazon/House)
+## 2. [House](https://serp.ly/amazon/House)
 
 ![House](https://image.tmdb.org/t/p/original/wfxsizfb7NV9uwy9QCqqvfR20F2.jpg)
 
@@ -960,7 +960,7 @@ When it comes to medical mysteries, Dr. Gregory House is the master detective. T
 <hr>
 
 
-## 3. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 3. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1004,7 +1004,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 4. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 4. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1048,7 +1048,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 5. [Stars in the House](https://serp.ly/@serpmedia/github/amazon/Stars+in+the+House)
+## 5. [Stars in the House](https://serp.ly/amazon/Stars+in+the+House)
 
 ![Stars in the House](https://image.tmdb.org/t/p/original/2Cp64eLIOErysYDX2K9gHNsDVD3.jpg)
 
@@ -1089,7 +1089,7 @@ When the Coronavirus pandemic forced theatres worldwide to close, SiriusXM host 
 <hr>
 
 
-## 6. [Comedy Bang! Bang!](https://serp.ly/@serpmedia/github/amazon/Comedy+Bang%21+Bang%21)
+## 6. [Comedy Bang! Bang!](https://serp.ly/amazon/Comedy+Bang%21+Bang%21)
 
 ![Comedy Bang! Bang!](https://image.tmdb.org/t/p/original/5undCFoglpvKYFmu404ve9mh6on.jpg)
 
@@ -1131,7 +1131,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 7. [So Help Me Todd](https://serp.ly/@serpmedia/github/amazon/So+Help+Me+Todd)
+## 7. [So Help Me Todd](https://serp.ly/amazon/So+Help+Me+Todd)
 
 ![So Help Me Todd](https://image.tmdb.org/t/p/original/pL7iPzx1PQSOoR7y6ZQ5Bl6c9rV.jpg)
 
@@ -1173,7 +1173,7 @@ When a struggling private investigator runs a background check on his overbearin
 <hr>
 
 
-## 8. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 8. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -1215,7 +1215,7 @@ When a struggling private investigator runs a background check on his overbearin
 <hr>
 
 
-## 9. [Glee](https://serp.ly/@serpmedia/github/amazon/Glee)
+## 9. [Glee](https://serp.ly/amazon/Glee)
 
 ![Glee](https://image.tmdb.org/t/p/original/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg)
 
@@ -1259,7 +1259,7 @@ When optimistic high school teacher Will Schuester takes over McKinley High's st
 <hr>
 
 
-## 10. [Crazy Ex-Girlfriend](https://serp.ly/@serpmedia/github/amazon/Crazy+Ex-Girlfriend)
+## 10. [Crazy Ex-Girlfriend](https://serp.ly/amazon/Crazy+Ex-Girlfriend)
 
 ![Crazy Ex-Girlfriend](https://image.tmdb.org/t/p/original/pvYh3fdrRvreWmqw4onWJJmRXf5.jpg)
 
@@ -1305,7 +1305,7 @@ When the ambitious Rebecca Bunch trades her Manhattan law career for love in the
 <hr>
 
 
-## 11. [Tony Awards](https://serp.ly/@serpmedia/github/amazon/Tony+Awards)
+## 11. [Tony Awards](https://serp.ly/amazon/Tony+Awards)
 
 ![Tony Awards](https://image.tmdb.org/t/p/original/6pxoHfywO6bFDOQa9bmWZ1hyKBt.jpg)
 
@@ -1349,7 +1349,7 @@ The Tony Awards, presented annually by the American Theatre Wing and The Broadwa
 <hr>
 
 
-## 12. [Trolls: The Beat Goes On!](https://serp.ly/@serpmedia/github/amazon/Trolls%3A+The+Beat+Goes+On%21)
+## 12. [Trolls: The Beat Goes On!](https://serp.ly/amazon/Trolls%3A+The+Beat+Goes+On%21)
 
 ![Trolls: The Beat Goes On!](https://image.tmdb.org/t/p/original/16w36qKiM6R6nyEuIhqhKqT7fbv.jpg)
 
@@ -1391,7 +1391,7 @@ Join Queen Poppy as she transforms Troll Village into a hub of activity, hosting
 <hr>
 
 
-## 13. [Zoey's Extraordinary Playlist](https://serp.ly/@serpmedia/github/amazon/Zoey%27s+Extraordinary+Playlist)
+## 13. [Zoey's Extraordinary Playlist](https://serp.ly/amazon/Zoey%27s+Extraordinary+Playlist)
 
 ![Zoey's Extraordinary Playlist](https://image.tmdb.org/t/p/original/xhF6IXlq4HjEqoAqoPTq4YkgHB1.jpg)
 
@@ -1435,7 +1435,7 @@ When Zoey Clarke, a tech-savvy coder in San Francisco, experiences an extraordin
 <hr>
 
 
-## 14. [Girls](https://serp.ly/@serpmedia/github/amazon/Girls)
+## 14. [Girls](https://serp.ly/amazon/Girls)
 
 ![Girls](https://image.tmdb.org/t/p/original/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg)
 
@@ -1479,7 +1479,7 @@ Follow four twenty-something girls - Hannah, Marnie, and cousins Jessa and Shosh
 <hr>
 
 
-## 15. [Graves](https://serp.ly/@serpmedia/github/amazon/Graves)
+## 15. [Graves](https://serp.ly/amazon/Graves)
 
 ![Graves](https://image.tmdb.org/t/p/original/pfWl1kOR6Y0CC7o1RDOaTYVAVoP.jpg)
 
@@ -1521,7 +1521,7 @@ Former two-term President Richard Graves returns to Washington D. C. 25 years af
 <hr>
 
 
-## 16. [Match Game](https://serp.ly/@serpmedia/github/amazon/Match+Game)
+## 16. [Match Game](https://serp.ly/amazon/Match+Game)
 
 ![Match Game](https://image.tmdb.org/t/p/original/f4GmtNrtIzpqFNAxk3DFzk4zMmR.jpg)
 
@@ -1563,7 +1563,7 @@ Match Game revives the iconic 1970s program with a dynamic competition between t
 <hr>
 
 
-## 17. [Trolls: TrollsTopia](https://serp.ly/@serpmedia/github/amazon/Trolls%3A+TrollsTopia)
+## 17. [Trolls: TrollsTopia](https://serp.ly/amazon/Trolls%3A+TrollsTopia)
 
 ![Trolls: TrollsTopia](https://image.tmdb.org/t/p/original/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg)
 
@@ -1605,7 +1605,7 @@ Join Poppy on an epic musical journey through the forest as she discovers other 
 <hr>
 
 
-## 18. [Acting for a Cause](https://serp.ly/@serpmedia/github/amazon/Acting+for+a+Cause)
+## 18. [Acting for a Cause](https://serp.ly/amazon/Acting+for+a+Cause)
 
 ![Acting for a Cause](https://image.tmdb.org/t/p/original/1s82xEuPydA2A5CbhPmGCPBVKaG.jpg)
 
@@ -1649,7 +1649,7 @@ When the pandemic hit in 2020, Brando Crawford turned to theater - not the kind 
 <hr>
 
 
-## 19. [Love Bites](https://serp.ly/@serpmedia/github/amazon/Love+Bites)
+## 19. [Love Bites](https://serp.ly/amazon/Love+Bites)
 
 ![Love Bites](https://image.tmdb.org/t/p/original/HFIutOGJgr5LtUn89ltq3iZbTi.jpg)
 
@@ -1691,7 +1691,7 @@ Love Bites was a summer television series that aired on NBC in 2011. The show ra
 <hr>
 
 
-## 20. [Ground Floor](https://serp.ly/@serpmedia/github/amazon/Ground+Floor)
+## 20. [Ground Floor](https://serp.ly/amazon/Ground+Floor)
 
 ![Ground Floor](https://image.tmdb.org/t/p/original/uQ95bGk8da1xbD6f6p7AyBI9Rng.jpg)
 
@@ -1735,7 +1735,7 @@ When a young banker at Whitestone Trust meets a beautiful woman at a bar, he thi
 <hr>
 
 
-## 21. [Teen Choice Awards](https://serp.ly/@serpmedia/github/amazon/Teen+Choice+Awards)
+## 21. [Teen Choice Awards](https://serp.ly/amazon/Teen+Choice+Awards)
 
 ![Teen Choice Awards](https://image.tmdb.org/t/p/original/3q900BNcKbe3GHga4RVxSnoiqP4.jpg)
 

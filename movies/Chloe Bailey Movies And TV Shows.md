@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Last Holiday](https://serp.ly/@serpmedia/github/amazon/Last+Holiday)
+## 1. [Last Holiday](https://serp.ly/amazon/Last+Holiday)
 
 ![Last Holiday](https://image.tmdb.org/t/p/original/khcU8msd2NooJwmcvwbWguvkCzU.jpg)
 
@@ -77,7 +77,7 @@ When Georgia Byrd receives a terminal diagnosis, she transforms from a careful d
 <hr>
 
 
-## 2. [Homecoming: A Film by Beyoncé](https://serp.ly/@serpmedia/github/amazon/Homecoming%3A+A+Film+by+Beyonc%C3%A9)
+## 2. [Homecoming: A Film by Beyoncé](https://serp.ly/amazon/Homecoming%3A+A+Film+by+Beyonc%C3%A9)
 
 ![Homecoming: A Film by Beyoncé](https://image.tmdb.org/t/p/original/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg)
 
@@ -114,7 +114,7 @@ When Georgia Byrd receives a terminal diagnosis, she transforms from a careful d
 <hr>
 
 
-## 3. [Let It Shine](https://serp.ly/@serpmedia/github/amazon/Let+It+Shine)
+## 3. [Let It Shine](https://serp.ly/amazon/Let+It+Shine)
 
 ![Let It Shine](https://image.tmdb.org/t/p/original/kuVKuMxyDLBYKsqMgOCf0zNtzV6.jpg)
 
@@ -148,7 +148,7 @@ When a young rapper's friend needs help, he uses his musical talent to win both 
 <hr>
 
 
-## 4. [Lemonade](https://serp.ly/@serpmedia/github/amazon/Lemonade)
+## 4. [Lemonade](https://serp.ly/amazon/Lemonade)
 
 ![Lemonade](https://image.tmdb.org/t/p/original/1eZNaro6rXlh1ao5jqMg6TgVyMO.jpg)
 
@@ -182,7 +182,7 @@ When a young rapper's friend needs help, he uses his musical talent to win both 
 <hr>
 
 
-## 5. [Joyful Noise](https://serp.ly/@serpmedia/github/amazon/Joyful+Noise)
+## 5. [Joyful Noise](https://serp.ly/amazon/Joyful+Noise)
 
 ![Joyful Noise](https://image.tmdb.org/t/p/original/pIgrIGFMZ7CslGPCWI7JHV3R96H.jpg)
 
@@ -221,7 +221,7 @@ G. G. Sparrow's world changes when a new director, Vi Rose Hill, joins their cho
 <hr>
 
 
-## 6. [Quincy](https://serp.ly/@serpmedia/github/amazon/Quincy)
+## 6. [Quincy](https://serp.ly/amazon/Quincy)
 
 ![Quincy](https://image.tmdb.org/t/p/original/yYtY9CRLyz4dXqTOiimdMF7Nt4e.jpg)
 
@@ -260,7 +260,7 @@ A Life Beyond Measure
 <hr>
 
 
-## 7. [The Fighting Temptations](https://serp.ly/@serpmedia/github/amazon/The+Fighting+Temptations)
+## 7. [The Fighting Temptations](https://serp.ly/amazon/The+Fighting+Temptations)
 
 ![The Fighting Temptations](https://image.tmdb.org/t/p/original/1Dd8TBA6G0n1x2N8KpJvIefy2sB.jpg)
 
@@ -303,7 +303,7 @@ When Darrin Hill returns to his hometown in Georgia to claim his aunt's inherita
 <hr>
 
 
-## 8. [Meet the Browns](https://serp.ly/@serpmedia/github/amazon/Meet+the+Browns)
+## 8. [Meet the Browns](https://serp.ly/amazon/Meet+the+Browns)
 
 ![Meet the Browns](https://image.tmdb.org/t/p/original/61qE0TunNdJiPELBdywMlpvZXDB.jpg)
 
@@ -343,7 +343,7 @@ When single mom Brenda loses her job in Chicago, a letter changes everything. Tr
 <hr>
 
 
-## 9. [Praise This](https://serp.ly/@serpmedia/github/amazon/Praise+This)
+## 9. [Praise This](https://serp.ly/amazon/Praise+This)
 
 ![Praise This](https://image.tmdb.org/t/p/original/twdgFrp9Sd8rb3TdbWFQXAvslrH.jpg)
 
@@ -382,7 +382,7 @@ When aspiring musical superstar Sam is forced to join her cousin's struggling pr
 <hr>
 
 
-## 10. [The Exorcism](https://serp.ly/@serpmedia/github/amazon/The+Exorcism)
+## 10. [The Exorcism](https://serp.ly/amazon/The+Exorcism)
 
 ![The Exorcism](https://image.tmdb.org/t/p/original/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg)
 
@@ -424,7 +424,7 @@ When a successful actor returns to filmming after years of sobriety, he brings h
 <hr>
 
 
-## 11. [Jane](https://serp.ly/@serpmedia/github/amazon/Jane)
+## 11. [Jane](https://serp.ly/amazon/Jane)
 
 ![Jane](https://image.tmdb.org/t/p/original/4IRtmYsaEP9W7QlpCh3ASUomsrj.jpg)
 
@@ -460,7 +460,7 @@ When Olivia gets deferred from her dream college, she spirals into a social medi
 <hr>
 
 
-## 12. [Gospel Hill](https://serp.ly/@serpmedia/github/amazon/Gospel+Hill)
+## 12. [Gospel Hill](https://serp.ly/amazon/Gospel+Hill)
 
 ![Gospel Hill](https://image.tmdb.org/t/p/original/xOt8cn4EFvwAxNRElJHFRnqC1WT.jpg)
 
@@ -494,7 +494,7 @@ In the fictional town of Julia, SC, two men's lives intersect amidst their share
 <hr>
 
 
-## 13. [The Disney Family Singalong - Volume II](https://serp.ly/@serpmedia/github/amazon/The+Disney+Family+Singalong+-+Volume+II)
+## 13. [The Disney Family Singalong - Volume II](https://serp.ly/amazon/The+Disney+Family+Singalong+-+Volume+II)
 
 ![The Disney Family Singalong - Volume II](https://image.tmdb.org/t/p/original/uOYIKG0RfK6iWGQQXXY2vEHA7gI.jpg)
 
@@ -528,7 +528,7 @@ Ryan Seacrest hosts the second Disney Family Singalong, featuring celebrity perf
 <hr>
 
 
-## 14. [The Disney Holiday Singalong](https://serp.ly/@serpmedia/github/amazon/The+Disney+Holiday+Singalong)
+## 14. [The Disney Holiday Singalong](https://serp.ly/amazon/The+Disney+Holiday+Singalong)
 
 ![The Disney Holiday Singalong](https://image.tmdb.org/t/p/original/ajWfaNxgu1z7aenyt3UyMnF9sfy.jpg)
 
@@ -562,7 +562,7 @@ Get into the holiday spirit with "The Disney Holiday Singalong, " a magical musi
 <hr>
 
 
-## 15. [Sneaks](https://serp.ly/@serpmedia/github/amazon/Sneaks)
+## 15. [Sneaks](https://serp.ly/amazon/Sneaks)
 
 ![Sneaks](https://image.tmdb.org/t/p/original/ycPR7x3ZBb1XZp2Vm6SjrMVqCji.jpg)
 
@@ -587,7 +587,7 @@ Join Ty, a distinctive designer sneaker, on his thrilling NYC adventure to rescu
 <hr>
 
 
-## 16. [Girl from the North Country](https://serp.ly/@serpmedia/github/amazon/Girl+from+the+North+Country)
+## 16. [Girl from the North Country](https://serp.ly/amazon/Girl+from+the+North+Country)
 
 <br>
 
@@ -608,7 +608,7 @@ When Nick Laine's wife falls victim to dementia, their world turns upside down. 
 <hr>
 
 
-## 17. [Midas Touch](https://serp.ly/@serpmedia/github/amazon/Midas+Touch)
+## 17. [Midas Touch](https://serp.ly/amazon/Midas+Touch)
 
 <br>
 
@@ -629,7 +629,7 @@ Lauren Simmons is making history on the floor of the New York Stock Exchange, wh
 <hr>
 
 
-## 18. [The Kids Are Alright](https://serp.ly/@serpmedia/github/amazon/The+Kids+Are+Alright)
+## 18. [The Kids Are Alright](https://serp.ly/amazon/The+Kids+Are+Alright)
 
 ![The Kids Are Alright](https://image.tmdb.org/t/p/original/1mo498yNtnTZYQzWH7dqOcl2gzn.jpg)
 
@@ -655,7 +655,7 @@ Lauren Simmons is making history on the floor of the New York Stock Exchange, wh
 <hr>
 
 
-## 19. [Verizon Up Presents Chloe x Halle](https://serp.ly/@serpmedia/github/amazon/Verizon+Up+Presents+Chloe+x+Halle)
+## 19. [Verizon Up Presents Chloe x Halle](https://serp.ly/amazon/Verizon+Up+Presents+Chloe+x+Halle)
 
 ![Verizon Up Presents Chloe x Halle](https://image.tmdb.org/t/p/original/g4PvHtyysdxWY7GV4s8dWBgmQXJ.jpg)
 
@@ -681,7 +681,7 @@ When Verizon brings Chloe x Halle to The Wiltern, it kicks off a night of live p
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -727,7 +727,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [grown-ish](https://serp.ly/@serpmedia/github/amazon/grown-ish)
+## 2. [grown-ish](https://serp.ly/amazon/grown-ish)
 
 ![grown-ish](https://image.tmdb.org/t/p/original/euyAekZHpSlFRKIcdNaKaKNoYbQ.jpg)
 
@@ -771,7 +771,7 @@ Zoey Johnson trades high school for college, where she tackles the comedic chall
 <hr>
 
 
-## 3. [MTV Video Music Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Video+Music+Awards)
+## 3. [MTV Video Music Awards](https://serp.ly/amazon/MTV+Video+Music+Awards)
 
 ![MTV Video Music Awards](https://image.tmdb.org/t/p/original/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg)
 
@@ -815,7 +815,7 @@ Since 1984, MTV's Video Music Awards have celebrated the year's most innovative 
 <hr>
 
 
-## 4. [Celebrity Family Feud](https://serp.ly/@serpmedia/github/amazon/Celebrity+Family+Feud)
+## 4. [Celebrity Family Feud](https://serp.ly/amazon/Celebrity+Family+Feud)
 
 ![Celebrity Family Feud](https://image.tmdb.org/t/p/original/ylt6w9U9JVD4Ma5HMUeY9Z6csw5.jpg)
 
@@ -859,7 +859,7 @@ Since 1984, MTV's Video Music Awards have celebrated the year's most innovative 
 <hr>
 
 
-## 5. [NPR Tiny Desk Concerts](https://serp.ly/@serpmedia/github/amazon/NPR+Tiny+Desk+Concerts)
+## 5. [NPR Tiny Desk Concerts](https://serp.ly/amazon/NPR+Tiny+Desk+Concerts)
 
 ![NPR Tiny Desk Concerts](https://image.tmdb.org/t/p/original/sJ6HdzajIVkC5G2kRROhNu8at43.jpg)
 
@@ -903,7 +903,7 @@ Since 1984, MTV's Video Music Awards have celebrated the year's most innovative 
 <hr>
 
 
-## 6. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 6. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -949,7 +949,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 7. [black-ish](https://serp.ly/@serpmedia/github/amazon/black-ish)
+## 7. [black-ish](https://serp.ly/amazon/black-ish)
 
 ![black-ish](https://image.tmdb.org/t/p/original/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg)
 
@@ -991,7 +991,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 8. [Snacked](https://serp.ly/@serpmedia/github/amazon/Snacked)
+## 8. [Snacked](https://serp.ly/amazon/Snacked)
 
 ![Snacked](https://image.tmdb.org/t/p/original/t09ccPbAuTOZ8vHu6MBuphad5hm.jpg)
 
@@ -1032,7 +1032,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 9. [American Music Awards](https://serp.ly/@serpmedia/github/amazon/American+Music+Awards)
+## 9. [American Music Awards](https://serp.ly/amazon/American+Music+Awards)
 
 ![American Music Awards](https://image.tmdb.org/t/p/original/lMfGSoq6otbyu7orszqAH4s9TQU.jpg)
 
@@ -1076,7 +1076,7 @@ The American Music Awards (AMAs) is a documentary series that showcases the most
 <hr>
 
 
-## 10. [Miley's New Year's Eve Party](https://serp.ly/@serpmedia/github/amazon/Miley%27s+New+Year%27s+Eve+Party)
+## 10. [Miley's New Year's Eve Party](https://serp.ly/amazon/Miley%27s+New+Year%27s+Eve+Party)
 
 ![Miley's New Year's Eve Party](https://image.tmdb.org/t/p/original/iSYmO6CHVmMUTOmnaJlu17tQGsz.jpg)
 
@@ -1122,7 +1122,7 @@ The American Music Awards (AMAs) is a documentary series that showcases the most
 <hr>
 
 
-## 11. [Austin & Ally](https://serp.ly/@serpmedia/github/amazon/Austin+%26+Ally)
+## 11. [Austin & Ally](https://serp.ly/amazon/Austin+%26+Ally)
 
 ![Austin & Ally](https://image.tmdb.org/t/p/original/g4oZ5AU1ZXVnVf4hXqbRARwRJwq.jpg)
 
@@ -1166,7 +1166,7 @@ When a young songwriter named Ally Dawson pens a song that launches Austin Moon 
 <hr>
 
 
-## 12. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 12. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -1210,7 +1210,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 13. [Swarm](https://serp.ly/@serpmedia/github/amazon/Swarm)
+## 13. [Swarm](https://serp.ly/amazon/Swarm)
 
 ![Swarm](https://image.tmdb.org/t/p/original/5Byf0mciDQU8sMtw0pjsV3veKaq.jpg)
 
@@ -1254,7 +1254,7 @@ When a young woman's admiration for a pop star evolves into an obsessive quest f
 <hr>
 
 
-## 14. [The Hair Tales](https://serp.ly/@serpmedia/github/amazon/The+Hair+Tales)
+## 14. [The Hair Tales](https://serp.ly/amazon/The+Hair+Tales)
 
 ![The Hair Tales](https://image.tmdb.org/t/p/original/ntkIkO4EJwWw1GOjYXy7La7JoMj.jpg)
 
@@ -1298,7 +1298,7 @@ The Hair Tales presents six extraordinary Black women whose intimate stories abo
 <hr>
 
 
-## 15. [Fight Night: The Million Dollar Heist](https://serp.ly/@serpmedia/github/amazon/Fight+Night%3A+The+Million+Dollar+Heist)
+## 15. [Fight Night: The Million Dollar Heist](https://serp.ly/amazon/Fight+Night%3A+The+Million+Dollar+Heist)
 
 ![Fight Night: The Million Dollar Heist](https://image.tmdb.org/t/p/original/lUvaK5gymSG9IC6fVkBKbNLSXIl.jpg)
 
@@ -1337,7 +1337,7 @@ When Ali defeated Jerry Quarry in 1967, it kicked off one of the craziest nights
 <hr>
 
 
-## 16. [The Grammy Awards](https://serp.ly/@serpmedia/github/amazon/The+Grammy+Awards)
+## 16. [The Grammy Awards](https://serp.ly/amazon/The+Grammy+Awards)
 
 ![The Grammy Awards](https://image.tmdb.org/t/p/original/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Oliver & Company](https://serp.ly/@serpmedia/github/amazon/Oliver+%26+Company)
+## 1. [Oliver & Company](https://serp.ly/amazon/Oliver+%26+Company)
 
 ![Oliver & Company](https://image.tmdb.org/t/p/original/x8XqdiZ0Oxu5iXF9SiFub9Lae8J.jpg)
 
@@ -77,7 +77,7 @@ When an orphaned kitten named Oliver lands in New York City, he forms unlikely a
 <hr>
 
 
-## 2. [Hart's War](https://serp.ly/@serpmedia/github/amazon/Hart%27s+War)
+## 2. [Hart's War](https://serp.ly/amazon/Hart%27s+War)
 
 ![Hart's War](https://image.tmdb.org/t/p/original/yRUhSU7vzs5ePa72LNPcKKCCMZ5.jpg)
 
@@ -120,7 +120,7 @@ When a U. S. Colonel is captured by German forces, he channels his military expe
 <hr>
 
 
-## 3. [The NeverEnding Story II: The Next Chapter](https://serp.ly/@serpmedia/github/amazon/The+NeverEnding+Story+II%3A+The+Next+Chapter)
+## 3. [The NeverEnding Story II: The Next Chapter](https://serp.ly/amazon/The+NeverEnding+Story+II%3A+The+Next+Chapter)
 
 ![The NeverEnding Story II: The Next Chapter](https://image.tmdb.org/t/p/original/bRSLCuO2B6owYBtUwGYGqWZCVo6.jpg)
 
@@ -163,7 +163,7 @@ Join Bastian on an incredible journey through Fantasia, the magical world he sav
 <hr>
 
 
-## 4. [Ride with the Devil](https://serp.ly/@serpmedia/github/amazon/Ride+with+the+Devil)
+## 4. [Ride with the Devil](https://serp.ly/amazon/Ride+with+the+Devil)
 
 ![Ride with the Devil](https://image.tmdb.org/t/p/original/nJ0CjIhq1aKAFB76MBpDoBqwuLt.jpg)
 
@@ -206,7 +206,7 @@ In the lawless borderlands between Missouri and Kansas, four remarkable individu
 <hr>
 
 
-## 5. [Ghost Dad](https://serp.ly/@serpmedia/github/amazon/Ghost+Dad)
+## 5. [Ghost Dad](https://serp.ly/amazon/Ghost+Dad)
 
 ![Ghost Dad](https://image.tmdb.org/t/p/original/vYNIUUkJSZixxrfpMLFgVlagbaf.jpg)
 
@@ -246,7 +246,7 @@ After Elliot Hopper dies in a tragic taxi accident, his three children face fina
 <hr>
 
 
-## 6. [Ladybugs](https://serp.ly/@serpmedia/github/amazon/Ladybugs)
+## 6. [Ladybugs](https://serp.ly/amazon/Ladybugs)
 
 ![Ladybugs](https://image.tmdb.org/t/p/original/gC0DmdJu7rHaqYjyXeo8GLLJ2Oa.jpg)
 
@@ -289,7 +289,7 @@ When a high-flying businessman agrees to coach his company's all-girl soccer tea
 <hr>
 
 
-## 7. [Sidekicks](https://serp.ly/@serpmedia/github/amazon/Sidekicks)
+## 7. [Sidekicks](https://serp.ly/amazon/Sidekicks)
 
 ![Sidekicks](https://image.tmdb.org/t/p/original/g22ZVQlFwUNfiYFagzEXDbuds6R.jpg)
 
@@ -329,7 +329,7 @@ When an imaginative boy creates a fantasy pal from his martial arts movie hero, 
 <hr>
 
 
-## 8. [Outside Providence](https://serp.ly/@serpmedia/github/amazon/Outside+Providence)
+## 8. [Outside Providence](https://serp.ly/amazon/Outside+Providence)
 
 ![Outside Providence](https://image.tmdb.org/t/p/original/r7dZzM5lQt2O68k1y6VtcRHFYXV.jpg)
 
@@ -372,7 +372,7 @@ Tim Dunphy's laid-back life of smoking pot and hanging out with his best friend,
 <hr>
 
 
-## 9. [Stepfather 2](https://serp.ly/@serpmedia/github/amazon/Stepfather+2)
+## 9. [Stepfather 2](https://serp.ly/amazon/Stepfather+2)
 
 ![Stepfather 2](https://image.tmdb.org/t/p/original/STSt97FOcXjaUEHtVBPRZCA7eK.jpg)
 
@@ -412,7 +412,7 @@ When a dangerous killer escapes from an insane asylum, he plots his most elabora
 <hr>
 
 
-## 10. [kid 90](https://serp.ly/@serpmedia/github/amazon/kid+90)
+## 10. [kid 90](https://serp.ly/amazon/kid+90)
 
 ![kid 90](https://image.tmdb.org/t/p/original/5yK7ySo3E3w1JDjqq9WNk9oIwsw.jpg)
 
@@ -453,7 +453,7 @@ Soleil Moon Frye was a teenage videographer in the '90s, capturing hundreds of h
 <hr>
 
 
-## 11. [Puerto Vallarta Squeeze](https://serp.ly/@serpmedia/github/amazon/Puerto+Vallarta+Squeeze)
+## 11. [Puerto Vallarta Squeeze](https://serp.ly/amazon/Puerto+Vallarta+Squeeze)
 
 ![Puerto Vallarta Squeeze](https://image.tmdb.org/t/p/original/c3u4uYQRksPpmvj1P1fdSqlY2Ez.jpg)
 
@@ -487,7 +487,7 @@ In this 2004 thriller, an American government hit man on the run makes a despera
 <hr>
 
 
-## 12. [Bad Girls from Valley High](https://serp.ly/@serpmedia/github/amazon/Bad+Girls+from+Valley+High)
+## 12. [Bad Girls from Valley High](https://serp.ly/amazon/Bad+Girls+from+Valley+High)
 
 ![Bad Girls from Valley High](https://image.tmdb.org/t/p/original/mECjS3CKireNp8rzsq3cqcEFwFq.jpg)
 
@@ -523,7 +523,7 @@ High School can be hell, but popularity can be murder!
 <hr>
 
 
-## 13. [The Wrong Guys](https://serp.ly/@serpmedia/github/amazon/The+Wrong+Guys)
+## 13. [The Wrong Guys](https://serp.ly/amazon/The+Wrong+Guys)
 
 ![The Wrong Guys](https://image.tmdb.org/t/p/original/obmLtYUh2NIqdBmybb7x7zusPzx.jpg)
 
@@ -559,7 +559,7 @@ Five former cub scouts reunite for a camping trip on the mountain they never con
 <hr>
 
 
-## 14. [Born Free: A New Adventure](https://serp.ly/@serpmedia/github/amazon/Born+Free%3A+A+New+Adventure)
+## 14. [Born Free: A New Adventure](https://serp.ly/amazon/Born+Free%3A+A+New+Adventure)
 
 ![Born Free: A New Adventure](https://image.tmdb.org/t/p/original/g4jfuAHysfHnwx8SisALymlkWA7.jpg)
 
@@ -593,7 +593,7 @@ Join Elsa the lioness for another thrilling adventure that will leave you roarin
 <hr>
 
 
-## 15. [The Earth Day Special](https://serp.ly/@serpmedia/github/amazon/The+Earth+Day+Special)
+## 15. [The Earth Day Special](https://serp.ly/amazon/The+Earth+Day+Special)
 
 ![The Earth Day Special](https://image.tmdb.org/t/p/original/vNaVkULweHjOKqu4uxJAvoy1XC8.jpg)
 
@@ -627,7 +627,7 @@ Travel back to a time when Earth Day meant something special on TV with this 199
 <hr>
 
 
-## 16. [Two Came Back](https://serp.ly/@serpmedia/github/amazon/Two+Came+Back)
+## 16. [Two Came Back](https://serp.ly/amazon/Two+Came+Back)
 
 ![Two Came Back](https://image.tmdb.org/t/p/original/e7PYmAwrBj6pgmZo76fr8ot64XM.jpg)
 
@@ -661,7 +661,7 @@ In a dramatic tale of survival at sea, a young woman aboard a delivery vessel fa
 <hr>
 
 
-## 17. [The Year That Trembled](https://serp.ly/@serpmedia/github/amazon/The+Year+That+Trembled)
+## 17. [The Year That Trembled](https://serp.ly/amazon/The+Year+That+Trembled)
 
 ![The Year That Trembled](https://image.tmdb.org/t/p/original/62WyFHoknXbeoXr5xvRJ1885QwK.jpg)
 
@@ -697,7 +697,7 @@ The Year That Trembled plunges viewers into the heart of 1970 America, where the
 <hr>
 
 
-## 18. [Fall Into Darkness](https://serp.ly/@serpmedia/github/amazon/Fall+Into+Darkness)
+## 18. [Fall Into Darkness](https://serp.ly/amazon/Fall+Into+Darkness)
 
 ![Fall Into Darkness](https://image.tmdb.org/t/p/original/vA6OYLFi9uYOE5qGjEBN8zpycjb.jpg)
 
@@ -733,7 +733,7 @@ When teenage Ann's brother Jerry develops a crush on the new girl Sharon, Ann re
 <hr>
 
 
-## 19. [Her Last Chance](https://serp.ly/@serpmedia/github/amazon/Her+Last+Chance)
+## 19. [Her Last Chance](https://serp.ly/amazon/Her+Last+Chance)
 
 ![Her Last Chance](https://image.tmdb.org/t/p/original/8Gz9n4qbHbCES9AXAe9zV0I8cze.jpg)
 
@@ -769,7 +769,7 @@ After completing rehab, a teenage drug addict returns home to face unexpected ac
 <hr>
 
 
-## 20. [Good King Wenceslas](https://serp.ly/@serpmedia/github/amazon/Good+King+Wenceslas)
+## 20. [Good King Wenceslas](https://serp.ly/amazon/Good+King+Wenceslas)
 
 ![Good King Wenceslas](https://image.tmdb.org/t/p/original/qfQkbnuuLD1hIo80LUka4rt11pV.jpg)
 
@@ -805,7 +805,7 @@ After completing rehab, a teenage drug addict returns home to face unexpected ac
 <hr>
 
 
-## 21. [Mystery Magical Special](https://serp.ly/@serpmedia/github/amazon/Mystery+Magical+Special)
+## 21. [Mystery Magical Special](https://serp.ly/amazon/Mystery+Magical+Special)
 
 ![Mystery Magical Special](https://image.tmdb.org/t/p/original/h0IKI81llK1h1RO5dKE2GdA4LZJ.jpg)
 
@@ -839,7 +839,7 @@ After completing rehab, a teenage drug addict returns home to face unexpected ac
 <hr>
 
 
-## 22. [Home Free](https://serp.ly/@serpmedia/github/amazon/Home+Free)
+## 22. [Home Free](https://serp.ly/amazon/Home+Free)
 
 <br>
 
@@ -868,7 +868,7 @@ When a second grader with serious behavioral issues takes control of the lunchli
 <hr>
 
 
-## 23. [Between The Sheets](https://serp.ly/@serpmedia/github/amazon/Between+The+Sheets)
+## 23. [Between The Sheets](https://serp.ly/amazon/Between+The+Sheets)
 
 ![Between The Sheets](https://image.tmdb.org/t/p/original/mKY2gAjy0NMvvgJDrVBHiy9Ua3q.jpg)
 
@@ -899,7 +899,7 @@ When two actors fake a real-life relationship for publicity, their personal live
 <hr>
 
 
-## 24. [111 Gramercy Park](https://serp.ly/@serpmedia/github/amazon/111+Gramercy+Park)
+## 24. [111 Gramercy Park](https://serp.ly/amazon/111+Gramercy+Park)
 
 ![111 Gramercy Park](https://image.tmdb.org/t/p/original/w9TYG9TH6ubR3nz039x4xVhlujk.jpg)
 
@@ -930,7 +930,7 @@ When two actors fake a real-life relationship for publicity, their personal live
 <hr>
 
 
-## 1. [The Wonder Years](https://serp.ly/@serpmedia/github/amazon/The+Wonder+Years)
+## 1. [The Wonder Years](https://serp.ly/amazon/The+Wonder+Years)
 
 ![The Wonder Years](https://image.tmdb.org/t/p/original/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg)
 
@@ -974,7 +974,7 @@ Travel back to the 1960s and 70s with Kevin Arnold, a young boy navigating the c
 <hr>
 
 
-## 2. [Aladdin](https://serp.ly/@serpmedia/github/amazon/Aladdin)
+## 2. [Aladdin](https://serp.ly/amazon/Aladdin)
 
 ![Aladdin](https://image.tmdb.org/t/p/original/nlaiczW81kY46GBdfIcTrBIqr8I.jpg)
 
@@ -1016,7 +1016,7 @@ Join Aladdin and Princess Jasmine as they navigate a world of magic and adventur
 <hr>
 
 
-## 3. [Full House](https://serp.ly/@serpmedia/github/amazon/Full+House)
+## 3. [Full House](https://serp.ly/amazon/Full+House)
 
 ![Full House](https://image.tmdb.org/t/p/original/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg)
 
@@ -1058,7 +1058,7 @@ When Danny's wife passes away, he turns to his best friend and brother-in-law fo
 <hr>
 
 
-## 4. [L.A. Law](https://serp.ly/@serpmedia/github/amazon/L.A.+Law)
+## 4. [L.A. Law](https://serp.ly/amazon/L.A.+Law)
 
 ![L.A. Law](https://image.tmdb.org/t/p/original/hs1TBk6KlPBlnb7ybpqgK6IzcCx.jpg)
 
@@ -1102,7 +1102,7 @@ The professionals who will take you into the jungles of American justice
 <hr>
 
 
-## 5. [Murder, She Wrote](https://serp.ly/@serpmedia/github/amazon/Murder%2C+She+Wrote)
+## 5. [Murder, She Wrote](https://serp.ly/amazon/Murder%2C+She+Wrote)
 
 ![Murder, She Wrote](https://image.tmdb.org/t/p/original/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg)
 
@@ -1144,7 +1144,7 @@ Murder, She Wrote aired from 1984 to 1996 as a compelling mystery series. It cen
 <hr>
 
 
-## 6. [It](https://serp.ly/@serpmedia/github/amazon/It)
+## 6. [It](https://serp.ly/amazon/It)
 
 ![It](https://image.tmdb.org/t/p/original/4ybQ6gopB3H3cu0seVZLznDnIKo.jpg)
 
@@ -1188,7 +1188,7 @@ Based on Stephen King's iconic novel, this miniseries follows seven outcast kids
 <hr>
 
 
-## 7. [Kate & Allie](https://serp.ly/@serpmedia/github/amazon/Kate+%26+Allie)
+## 7. [Kate & Allie](https://serp.ly/amazon/Kate+%26+Allie)
 
 ![Kate & Allie](https://image.tmdb.org/t/p/original/dZX5pGw0BZ9woVQqtmC6DlaP5e5.jpg)
 
@@ -1232,7 +1232,7 @@ When two single mothers move in together, their personalities and parenting styl
 <hr>
 
 
-## 8. [Blossom](https://serp.ly/@serpmedia/github/amazon/Blossom)
+## 8. [Blossom](https://serp.ly/amazon/Blossom)
 
 ![Blossom](https://image.tmdb.org/t/p/original/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg)
 
@@ -1274,7 +1274,7 @@ Blossom Russo, a spirited teenager, navigates the complexities of family life wi
 <hr>
 
 
-## 9. [seaQuest DSV](https://serp.ly/@serpmedia/github/amazon/seaQuest+DSV)
+## 9. [seaQuest DSV](https://serp.ly/amazon/seaQuest+DSV)
 
 ![seaQuest DSV](https://image.tmdb.org/t/p/original/kOMhrTlSUkhv8EGn4LBioAQuAwM.jpg)
 
@@ -1316,7 +1316,7 @@ In the early 21st century, mankind has colonized the oceans, and the United Eart
 <hr>
 
 
-## 10. [The Flash](https://serp.ly/@serpmedia/github/amazon/The+Flash)
+## 10. [The Flash](https://serp.ly/amazon/The+Flash)
 
 ![The Flash](https://image.tmdb.org/t/p/original/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg)
 
@@ -1360,7 +1360,7 @@ When a bolt of lightning strikes a police crime lab, it transforms chemist Barry
 <hr>
 
 
-## 11. [Saved by the Bell: The College Years](https://serp.ly/@serpmedia/github/amazon/Saved+by+the+Bell%3A+The+College+Years)
+## 11. [Saved by the Bell: The College Years](https://serp.ly/amazon/Saved+by+the+Bell%3A+The+College+Years)
 
 ![Saved by the Bell: The College Years](https://image.tmdb.org/t/p/original/z9lJhvymyzCWqZStaXmTNfd9ygp.jpg)
 
@@ -1402,7 +1402,7 @@ The gang from Bayside High is leaving home and heading to the campus of Californ
 <hr>
 
 
-## 12. [Poor Little Rich Girl: The Barbara Hutton Story](https://serp.ly/@serpmedia/github/amazon/Poor+Little+Rich+Girl%3A+The+Barbara+Hutton+Story)
+## 12. [Poor Little Rich Girl: The Barbara Hutton Story](https://serp.ly/amazon/Poor+Little+Rich+Girl%3A+The+Barbara+Hutton+Story)
 
 ![Poor Little Rich Girl: The Barbara Hutton Story](https://image.tmdb.org/t/p/original/grQXcu6sZllSkFrsJw1peFgLWfb.jpg)
 
@@ -1446,7 +1446,7 @@ When a young girl inherits $40 million at age 6, her life transforms overnight f
 <hr>
 
 
-## 13. [Sledge Hammer!](https://serp.ly/@serpmedia/github/amazon/Sledge+Hammer%21)
+## 13. [Sledge Hammer!](https://serp.ly/amazon/Sledge+Hammer%21)
 
 ![Sledge Hammer!](https://image.tmdb.org/t/p/original/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg)
 
@@ -1490,7 +1490,7 @@ When a new inspector joins the police force, his unconventional methods and rele
 <hr>
 
 
-## 14. [The Munsters Today](https://serp.ly/@serpmedia/github/amazon/The+Munsters+Today)
+## 14. [The Munsters Today](https://serp.ly/amazon/The+Munsters+Today)
 
 ![The Munsters Today](https://image.tmdb.org/t/p/original/u1rQAFFmRDRgWOdqxv6VRXL5P0b.jpg)
 
@@ -1532,7 +1532,7 @@ Join the Munsters in this 1980s sequel to their classic 1960s sitcom! Three seas
 <hr>
 
 
-## 15. [Gabriel's Fire](https://serp.ly/@serpmedia/github/amazon/Gabriel%27s+Fire)
+## 15. [Gabriel's Fire](https://serp.ly/amazon/Gabriel%27s+Fire)
 
 ![Gabriel's Fire](https://image.tmdb.org/t/p/original/6HZEkhJTZrXQaAiMVq8krPiEgsq.jpg)
 
@@ -1574,7 +1574,7 @@ Join the Munsters in this 1980s sequel to their classic 1960s sitcom! Three seas
 <hr>
 
 
-## 16. [Boulevard of Broken Dreams](https://serp.ly/@serpmedia/github/amazon/Boulevard+of+Broken+Dreams)
+## 16. [Boulevard of Broken Dreams](https://serp.ly/amazon/Boulevard+of+Broken+Dreams)
 
 <br>
 
@@ -1614,7 +1614,7 @@ Join the Munsters in this 1980s sequel to their classic 1960s sitcom! Three seas
 <hr>
 
 
-## 17. [Pros and Cons](https://serp.ly/@serpmedia/github/amazon/Pros+and+Cons)
+## 17. [Pros and Cons](https://serp.ly/amazon/Pros+and+Cons)
 
 ![Pros and Cons](https://image.tmdb.org/t/p/original/2C5eMMfYEp8AfAd5RQXHGTmCpAF.jpg)
 
@@ -1656,7 +1656,7 @@ When ABC decided to give Gabriel's Fire a second chance, they kicked things up a
 <hr>
 
 
-## 18. [Crossroads](https://serp.ly/@serpmedia/github/amazon/Crossroads)
+## 18. [Crossroads](https://serp.ly/amazon/Crossroads)
 
 ![Crossroads](https://image.tmdb.org/t/p/original/vYoCMJJ3XFYg2yKS5xrPt19btW2.jpg)
 

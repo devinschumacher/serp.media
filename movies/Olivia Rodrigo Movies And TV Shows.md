@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [OLIVIA RODRIGO: driving home 2 u (a SOUR film)](https://serp.ly/@serpmedia/github/amazon/OLIVIA+RODRIGO%3A+driving+home+2+u+%28a+SOUR+film%29)
+## 1. [OLIVIA RODRIGO: driving home 2 u (a SOUR film)](https://serp.ly/amazon/OLIVIA+RODRIGO%3A+driving+home+2+u+%28a+SOUR+film%29)
 
 ![OLIVIA RODRIGO: driving home 2 u (a SOUR film)](https://image.tmdb.org/t/p/original/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg)
 
@@ -76,7 +76,7 @@ Grammy® winner Olivia Rodrigo embarks on a cinematic odyssey from Salt Lake Cit
 <hr>
 
 
-## 2. [High School Musical: The Musical: The Holiday Special](https://serp.ly/@serpmedia/github/amazon/High+School+Musical%3A+The+Musical%3A+The+Holiday+Special)
+## 2. [High School Musical: The Musical: The Holiday Special](https://serp.ly/amazon/High+School+Musical%3A+The+Musical%3A+The+Holiday+Special)
 
 ![High School Musical: The Musical: The Holiday Special](https://image.tmdb.org/t/p/original/1nXol8rMx3j5uWcFRLwfUlwxWs2.jpg)
 
@@ -110,7 +110,7 @@ Join the cast of "High School Musical: The Musical: The Series" as they spread h
 <hr>
 
 
-## 3. [High School Musical: The Musical: The Series: The Special](https://serp.ly/@serpmedia/github/amazon/High+School+Musical%3A+The+Musical%3A+The+Series%3A+The+Special)
+## 3. [High School Musical: The Musical: The Series: The Special](https://serp.ly/amazon/High+School+Musical%3A+The+Musical%3A+The+Series%3A+The+Special)
 
 ![High School Musical: The Musical: The Series: The Special](https://image.tmdb.org/t/p/original/lzt3HVZmEvcOXOmXtO64QL3Blib.jpg)
 
@@ -144,7 +144,7 @@ Join the cast and crew of High School Musical: The Musical: The Series for an in
 <hr>
 
 
-## 4. [SOUR Prom](https://serp.ly/@serpmedia/github/amazon/SOUR+Prom)
+## 4. [SOUR Prom](https://serp.ly/amazon/SOUR+Prom)
 
 ![SOUR Prom](https://image.tmdb.org/t/p/original/hzou30lKM7G6IHAJ30SceYUGAHi.jpg)
 
@@ -175,7 +175,7 @@ Join the cast and crew of High School Musical: The Musical: The Series for an in
 <hr>
 
 
-## 5. [An American Girl: Grace Stirs Up Success](https://serp.ly/@serpmedia/github/amazon/An+American+Girl%3A+Grace+Stirs+Up+Success)
+## 5. [An American Girl: Grace Stirs Up Success](https://serp.ly/amazon/An+American+Girl%3A+Grace+Stirs+Up+Success)
 
 ![An American Girl: Grace Stirs Up Success](https://image.tmdb.org/t/p/original/AdTFs2YElsxfuWIBdkv1Vjo2jhW.jpg)
 
@@ -209,7 +209,7 @@ Grace's summer plans to start a business with her friends take an unexpected tur
 <hr>
 
 
-## 6. [The Disney Family Singalong](https://serp.ly/@serpmedia/github/amazon/The+Disney+Family+Singalong)
+## 6. [The Disney Family Singalong](https://serp.ly/amazon/The+Disney+Family+Singalong)
 
 ![The Disney Family Singalong](https://image.tmdb.org/t/p/original/CNQF4cQVVSFixkERbh3rLJGqQr.jpg)
 
@@ -245,7 +245,7 @@ Grace's summer plans to start a business with her friends take an unexpected tur
 <hr>
 
 
-## 7. [2022 Rock & Roll Hall of Fame Induction Ceremony](https://serp.ly/@serpmedia/github/amazon/2022+Rock+%26+Roll+Hall+of+Fame+Induction+Ceremony)
+## 7. [2022 Rock & Roll Hall of Fame Induction Ceremony](https://serp.ly/amazon/2022+Rock+%26+Roll+Hall+of+Fame+Induction+Ceremony)
 
 ![2022 Rock & Roll Hall of Fame Induction Ceremony](https://image.tmdb.org/t/p/original/omsEPwJixRBICroNXhqQWOKxS73.jpg)
 
@@ -279,7 +279,7 @@ The Rock & Roll Hall of Fame induction ceremony is a celebration of music's most
 <hr>
 
 
-## 8. [Disney Channel Summer Sing-Along](https://serp.ly/@serpmedia/github/amazon/Disney+Channel+Summer+Sing-Along)
+## 8. [Disney Channel Summer Sing-Along](https://serp.ly/amazon/Disney+Channel+Summer+Sing-Along)
 
 ![Disney Channel Summer Sing-Along](https://image.tmdb.org/t/p/original/er2sbtjYpXUZP2CYbTIOERT7ukA.jpg)
 
@@ -313,7 +313,7 @@ Disney Channel is bringing together its most beloved stars in a summer sing-alon
 <hr>
 
 
-## 9. [Olivia Rodrigo – Live from the Ace Theatre](https://serp.ly/@serpmedia/github/amazon/Olivia+Rodrigo+%E2%80%93+Live+from+the+Ace+Theatre)
+## 9. [Olivia Rodrigo – Live from the Ace Theatre](https://serp.ly/amazon/Olivia+Rodrigo+%E2%80%93+Live+from+the+Ace+Theatre)
 
 ![Olivia Rodrigo – Live from the Ace Theatre](https://image.tmdb.org/t/p/original/zzKV8Gs8XfHA9gU21LxqLrO8s8e.jpg)
 
@@ -347,7 +347,7 @@ Olivia Rodrigo took her "GUTS" album on a surprise run at the Ace Theatre in Dow
 <hr>
 
 
-## 10. [2023 Rock & Roll Hall of Fame Induction Ceremony](https://serp.ly/@serpmedia/github/amazon/2023+Rock+%26+Roll+Hall+of+Fame+Induction+Ceremony)
+## 10. [2023 Rock & Roll Hall of Fame Induction Ceremony](https://serp.ly/amazon/2023+Rock+%26+Roll+Hall+of+Fame+Induction+Ceremony)
 
 ![2023 Rock & Roll Hall of Fame Induction Ceremony](https://image.tmdb.org/t/p/original/o93puXuRxMRJoeVED4pTTIJWo8h.jpg)
 
@@ -383,7 +383,7 @@ The 2023 Rock & Roll Hall of Fame induction ceremony brings together an impressi
 <hr>
 
 
-## 11. [Olivia Rodrigo: A Short Film](https://serp.ly/@serpmedia/github/amazon/Olivia+Rodrigo%3A+A+Short+Film)
+## 11. [Olivia Rodrigo: A Short Film](https://serp.ly/amazon/Olivia+Rodrigo%3A+A+Short+Film)
 
 ![Olivia Rodrigo: A Short Film](https://image.tmdb.org/t/p/original/tjWSmptNDuGHy6yuEKOZDVYPtyG.jpg)
 
@@ -417,7 +417,7 @@ The 2023 Rock & Roll Hall of Fame induction ceremony brings together an impressi
 <hr>
 
 
-## 12. [iHeartRadio Jingle Ball 2023](https://serp.ly/@serpmedia/github/amazon/iHeartRadio+Jingle+Ball+2023)
+## 12. [iHeartRadio Jingle Ball 2023](https://serp.ly/amazon/iHeartRadio+Jingle+Ball+2023)
 
 ![iHeartRadio Jingle Ball 2023](https://image.tmdb.org/t/p/original/5NnDOI9TYAMFqsqcMepzd8Zhlp8.jpg)
 
@@ -453,7 +453,7 @@ ABC brings the biggest holiday music event in America to television for the firs
 <hr>
 
 
-## 13. [Olivia Rodrigo Live at Glastonbury 2022](https://serp.ly/@serpmedia/github/amazon/Olivia+Rodrigo+Live+at+Glastonbury+2022)
+## 13. [Olivia Rodrigo Live at Glastonbury 2022](https://serp.ly/amazon/Olivia+Rodrigo+Live+at+Glastonbury+2022)
 
 ![Olivia Rodrigo Live at Glastonbury 2022](https://image.tmdb.org/t/p/original/c1WOWrdrCO45qbFteL3CvHxxU3l.jpg)
 
@@ -484,7 +484,7 @@ When Olivia Rodrigo took the Glastonbury stage in 2022, she brought with her a s
 <hr>
 
 
-## 14. [Lilith Fair](https://serp.ly/@serpmedia/github/amazon/Lilith+Fair)
+## 14. [Lilith Fair](https://serp.ly/amazon/Lilith+Fair)
 
 <br>
 
@@ -505,7 +505,7 @@ Lilith Fair explores the legendary music festival through intimate interviews an
 <hr>
 
 
-## 15. [Olivia Rodrigo Live at iHeartRadio Music Festival 2021](https://serp.ly/@serpmedia/github/amazon/Olivia+Rodrigo+Live+at+iHeartRadio+Music+Festival+2021)
+## 15. [Olivia Rodrigo Live at iHeartRadio Music Festival 2021](https://serp.ly/amazon/Olivia+Rodrigo+Live+at+iHeartRadio+Music+Festival+2021)
 
 <br>
 
@@ -534,7 +534,7 @@ Olivia Rodrigo made her festival debut at the iHeartRadio Music Festival, closin
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -578,7 +578,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -624,7 +624,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 3. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -668,7 +668,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 4. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 4. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -710,7 +710,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 5. [MTV Video Music Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Video+Music+Awards)
+## 5. [MTV Video Music Awards](https://serp.ly/amazon/MTV+Video+Music+Awards)
 
 ![MTV Video Music Awards](https://image.tmdb.org/t/p/original/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg)
 
@@ -754,7 +754,7 @@ Since 1984, MTV's Video Music Awards have celebrated the year's most innovative 
 <hr>
 
 
-## 6. [New Girl](https://serp.ly/@serpmedia/github/amazon/New+Girl)
+## 6. [New Girl](https://serp.ly/amazon/New+Girl)
 
 ![New Girl](https://image.tmdb.org/t/p/original/lktCmXmoeR3ikhqE9SLN2IumwUx.jpg)
 
@@ -798,7 +798,7 @@ When Jessica Day moves in with three single guys after a bad breakup, she brings
 <hr>
 
 
-## 7. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 7. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -844,7 +844,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 8. [The Drew Barrymore Show](https://serp.ly/@serpmedia/github/amazon/The+Drew+Barrymore+Show)
+## 8. [The Drew Barrymore Show](https://serp.ly/amazon/The+Drew+Barrymore+Show)
 
 ![The Drew Barrymore Show](https://image.tmdb.org/t/p/original/7X3BkHmyPUp2pbYeN1qITgKfrOz.jpg)
 
@@ -888,7 +888,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 9. [NPR Tiny Desk Concerts](https://serp.ly/@serpmedia/github/amazon/NPR+Tiny+Desk+Concerts)
+## 9. [NPR Tiny Desk Concerts](https://serp.ly/amazon/NPR+Tiny+Desk+Concerts)
 
 ![NPR Tiny Desk Concerts](https://image.tmdb.org/t/p/original/sJ6HdzajIVkC5G2kRROhNu8at43.jpg)
 
@@ -932,7 +932,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 10. [High School Musical: The Musical: The Series](https://serp.ly/@serpmedia/github/amazon/High+School+Musical%3A+The+Musical%3A+The+Series)
+## 10. [High School Musical: The Musical: The Series](https://serp.ly/amazon/High+School+Musical%3A+The+Musical%3A+The+Series)
 
 ![High School Musical: The Musical: The Series](https://image.tmdb.org/t/p/original/2KmbFkZD42I8Q7IZy4WxmZm9W6O.jpg)
 
@@ -978,7 +978,7 @@ When East High School decides to stage its first-ever production of "High School
 <hr>
 
 
-## 11. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 11. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1022,7 +1022,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 12. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 12. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -1066,7 +1066,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 13. [American Music Awards](https://serp.ly/@serpmedia/github/amazon/American+Music+Awards)
+## 13. [American Music Awards](https://serp.ly/amazon/American+Music+Awards)
 
 ![American Music Awards](https://image.tmdb.org/t/p/original/lMfGSoq6otbyu7orszqAH4s9TQU.jpg)
 
@@ -1110,7 +1110,7 @@ The American Music Awards (AMAs) is a documentary series that showcases the most
 <hr>
 
 
-## 14. [Austin City Limits](https://serp.ly/@serpmedia/github/amazon/Austin+City+Limits)
+## 14. [Austin City Limits](https://serp.ly/amazon/Austin+City+Limits)
 
 ![Austin City Limits](https://image.tmdb.org/t/p/original/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg)
 
@@ -1156,7 +1156,7 @@ Great music. No limits.
 <hr>
 
 
-## 15. [Off Script with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Off+Script+with+The+Hollywood+Reporter)
+## 15. [Off Script with The Hollywood Reporter](https://serp.ly/amazon/Off+Script+with+The+Hollywood+Reporter)
 
 ![Off Script with The Hollywood Reporter](https://image.tmdb.org/t/p/original/iM11nrgp0kcl3k68JZjV796T1T6.jpg)
 
@@ -1197,7 +1197,7 @@ The Hollywood Reporter's iconic Roundtables take their wit and wisdom from page 
 <hr>
 
 
-## 16. [Radio Disney Music Awards](https://serp.ly/@serpmedia/github/amazon/Radio+Disney+Music+Awards)
+## 16. [Radio Disney Music Awards](https://serp.ly/amazon/Radio+Disney+Music+Awards)
 
 ![Radio Disney Music Awards](https://image.tmdb.org/t/p/original/nq7jAkkF5j6YO3Zer590ivQlF0e.jpg)
 
@@ -1239,7 +1239,7 @@ The Radio Disney Music Awards evolved from a radio-only event to become a televi
 <hr>
 
 
-## 17. [Bizaardvark](https://serp.ly/@serpmedia/github/amazon/Bizaardvark)
+## 17. [Bizaardvark](https://serp.ly/amazon/Bizaardvark)
 
 ![Bizaardvark](https://image.tmdb.org/t/p/original/r3zf9m6nvK55KhMukTqAg5rVEW7.jpg)
 
@@ -1281,7 +1281,7 @@ When two quirky teens turn everyday situations into comedy gold, their online ch
 <hr>
 
 
-## 18. [73 Questions](https://serp.ly/@serpmedia/github/amazon/73+Questions)
+## 18. [73 Questions](https://serp.ly/amazon/73+Questions)
 
 ![73 Questions](https://image.tmdb.org/t/p/original/6kxjUczylN29tmikUuet08uODQ2.jpg)
 
@@ -1325,7 +1325,7 @@ When it comes to getting to know your favorite personalities, sometimes the simp
 <hr>
 
 
-## 19. [The Grammy Awards](https://serp.ly/@serpmedia/github/amazon/The+Grammy+Awards)
+## 19. [The Grammy Awards](https://serp.ly/amazon/The+Grammy+Awards)
 
 ![The Grammy Awards](https://image.tmdb.org/t/p/original/2itSpL4aBPoJXQ4QVtBFxQyz0j0.jpg)
 

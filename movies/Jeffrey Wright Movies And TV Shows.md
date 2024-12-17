@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Hunger Games: Catching Fire](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+Catching+Fire)
+## 1. [The Hunger Games: Catching Fire](https://serp.ly/amazon/The+Hunger+Games%3A+Catching+Fire)
 
 ![The Hunger Games: Catching Fire](https://image.tmdb.org/t/p/original/v9qVkyS58WHdfrcEq0dxUJFKS9n.jpg)
 
@@ -80,7 +80,7 @@ After triumphing in the 74th Hunger Games, Katniss Everdeen joins Peeta Mellark 
 <hr>
 
 
-## 2. [The Hunger Games: Mockingjay - Part 1](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+1)
+## 2. [The Hunger Games: Mockingjay - Part 1](https://serp.ly/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+1)
 
 ![The Hunger Games: Mockingjay - Part 1](https://image.tmdb.org/t/p/original/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg)
 
@@ -120,7 +120,7 @@ In "The Hunger Games: Mockingjay - Part 1", Katniss Everdeen reluctantly becomes
 <hr>
 
 
-## 3. [The Hunger Games: Mockingjay - Part 2](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+2)
+## 3. [The Hunger Games: Mockingjay - Part 2](https://serp.ly/amazon/The+Hunger+Games%3A+Mockingjay+-+Part+2)
 
 ![The Hunger Games: Mockingjay - Part 2](https://image.tmdb.org/t/p/original/lImKHDfExAulp16grYm8zD5eONE.jpg)
 
@@ -163,7 +163,7 @@ In the final chapter of The Hunger Games saga, Katniss Everdeen faces her darkes
 <hr>
 
 
-## 4. [Casino Royale](https://serp.ly/@serpmedia/github/amazon/Casino+Royale)
+## 4. [Casino Royale](https://serp.ly/amazon/Casino+Royale)
 
 ![Casino Royale](https://image.tmdb.org/t/p/original/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg)
 
@@ -206,7 +206,7 @@ In this polished adaptation of Ian Fleming's Casino Royale, a young James Bond i
 <hr>
 
 
-## 5. [The Batman](https://serp.ly/@serpmedia/github/amazon/The+Batman)
+## 5. [The Batman](https://serp.ly/amazon/The+Batman)
 
 ![The Batman](https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg)
 
@@ -246,7 +246,7 @@ When Batman returns for his second year of fighting crime in Gotham City, he dis
 <hr>
 
 
-## 6. [Source Code](https://serp.ly/@serpmedia/github/amazon/Source+Code)
+## 6. [Source Code](https://serp.ly/amazon/Source+Code)
 
 ![Source Code](https://image.tmdb.org/t/p/original/zXJe3nXCp7ggE3rLbhDx8jWZ4qn.jpg)
 
@@ -289,7 +289,7 @@ In this 2011 Canadian-American thriller, a decorated soldier wakes up in an unkn
 <hr>
 
 
-## 7. [Quantum of Solace](https://serp.ly/@serpmedia/github/amazon/Quantum+of+Solace)
+## 7. [Quantum of Solace](https://serp.ly/amazon/Quantum+of+Solace)
 
 ![Quantum of Solace](https://image.tmdb.org/t/p/original/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg)
 
@@ -330,7 +330,7 @@ In "Quantum of Solace", James Bond faces his most personal mission yet. Betrayed
 <hr>
 
 
-## 8. [No Time to Die](https://serp.ly/@serpmedia/github/amazon/No+Time+to+Die)
+## 8. [No Time to Die](https://serp.ly/amazon/No+Time+to+Die)
 
 ![No Time to Die](https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg)
 
@@ -373,7 +373,7 @@ When James Bond leaves active service, he finds himself enjoying a peaceful life
 <hr>
 
 
-## 9. [Game Night](https://serp.ly/@serpmedia/github/amazon/Game+Night)
+## 9. [Game Night](https://serp.ly/amazon/Game+Night)
 
 ![Game Night](https://image.tmdb.org/t/p/original/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg)
 
@@ -413,7 +413,7 @@ Max and Annie's laid-back game night takes an unexpected turn when Max's brother
 <hr>
 
 
-## 10. [The Good Dinosaur](https://serp.ly/@serpmedia/github/amazon/The+Good+Dinosaur)
+## 10. [The Good Dinosaur](https://serp.ly/amazon/The+Good+Dinosaur)
 
 ![The Good Dinosaur](https://image.tmdb.org/t/p/original/uFGLkizYHzAE5cEtWtyL6FBcBdJ.jpg)
 
@@ -458,7 +458,7 @@ In a world where dinosaurs roam free, an Apatosaurus named Arlo embarks on an ep
 <hr>
 
 
-## 11. [The French Dispatch](https://serp.ly/@serpmedia/github/amazon/The+French+Dispatch)
+## 11. [The French Dispatch](https://serp.ly/amazon/The+French+Dispatch)
 
 ![The French Dispatch](https://image.tmdb.org/t/p/original/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg)
 
@@ -499,7 +499,7 @@ The French Dispatch chronicles the final issue of an American magazine set in Fr
 <hr>
 
 
-## 12. [The Ides of March](https://serp.ly/@serpmedia/github/amazon/The+Ides+of+March)
+## 12. [The Ides of March](https://serp.ly/amazon/The+Ides+of+March)
 
 ![The Ides of March](https://image.tmdb.org/t/p/original/w8t4UnJnC24S9ygoaFgmMzRbErd.jpg)
 
@@ -542,7 +542,7 @@ In a ruthless presidential campaign, an ambitious young press spokesman's ideali
 <hr>
 
 
-## 13. [Only Lovers Left Alive](https://serp.ly/@serpmedia/github/amazon/Only+Lovers+Left+Alive)
+## 13. [Only Lovers Left Alive](https://serp.ly/amazon/Only+Lovers+Left+Alive)
 
 ![Only Lovers Left Alive](https://image.tmdb.org/t/p/original/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg)
 
@@ -583,7 +583,7 @@ In the heart of Detroit, a talented musician's world changes when his long-lost 
 <hr>
 
 
-## 14. [Extremely Loud & Incredibly Close](https://serp.ly/@serpmedia/github/amazon/Extremely+Loud+%26+Incredibly+Close)
+## 14. [Extremely Loud & Incredibly Close](https://serp.ly/amazon/Extremely+Loud+%26+Incredibly+Close)
 
 ![Extremely Loud & Incredibly Close](https://image.tmdb.org/t/p/original/6pszViNvKr1r31pP7gJNYDHEx5P.jpg)
 
@@ -623,7 +623,7 @@ When his father dies, Oskar, a young boy struggling to cope, discovers a mysteri
 <hr>
 
 
-## 15. [Ali](https://serp.ly/@serpmedia/github/amazon/Ali)
+## 15. [Ali](https://serp.ly/amazon/Ali)
 
 ![Ali](https://image.tmdb.org/t/p/original/egzfj0JpgrVfpMXF4tfHpzEYM70.jpg)
 
@@ -666,7 +666,7 @@ In 1964, a young Cassius Clay transforms himself from Olympic champion to the au
 <hr>
 
 
-## 16. [Asteroid City](https://serp.ly/@serpmedia/github/amazon/Asteroid+City)
+## 16. [Asteroid City](https://serp.ly/amazon/Asteroid+City)
 
 ![Asteroid City](https://image.tmdb.org/t/p/original/qdq40gRS8xKnpFt5V75t6lUHgpx.jpg)
 
@@ -707,7 +707,7 @@ In 1964, a young Cassius Clay transforms himself from Olympic champion to the au
 <hr>
 
 
-## 17. [The Manchurian Candidate](https://serp.ly/@serpmedia/github/amazon/The+Manchurian+Candidate)
+## 17. [The Manchurian Candidate](https://serp.ly/amazon/The+Manchurian+Candidate)
 
 ![The Manchurian Candidate](https://image.tmdb.org/t/p/original/rg39o4KFL0BpOJ0FQXFeJkivFbS.jpg)
 
@@ -750,7 +750,7 @@ When Major Ben Marco's Gulf War squad was ambushed, it marked the beginning of h
 <hr>
 
 
-## 18. [Broken Flowers](https://serp.ly/@serpmedia/github/amazon/Broken+Flowers)
+## 18. [Broken Flowers](https://serp.ly/amazon/Broken+Flowers)
 
 ![Broken Flowers](https://image.tmdb.org/t/p/original/gd8JNjwgiM6ZgGm6NFAkovQWoYn.jpg)
 
@@ -790,7 +790,7 @@ When his latest relationship ends, Don Johnston receives an anonymous letter tha
 <hr>
 
 
-## 19. [The Invasion](https://serp.ly/@serpmedia/github/amazon/The+Invasion)
+## 19. [The Invasion](https://serp.ly/amazon/The+Invasion)
 
 ![The Invasion](https://image.tmdb.org/t/p/original/oS5rMuJXwNZZPx0ojhvjgduglD2.jpg)
 
@@ -833,7 +833,7 @@ In Washington, D. C. , psychologist Carol Bennell wakes up to find an alien viru
 <hr>
 
 
-## 20. [Broken City](https://serp.ly/@serpmedia/github/amazon/Broken+City)
+## 20. [Broken City](https://serp.ly/amazon/Broken+City)
 
 ![Broken City](https://image.tmdb.org/t/p/original/hqa5FwNZC55zqSpdeGFtBDqw55y.jpg)
 
@@ -878,7 +878,7 @@ In a city shattered by corruption, ex-cop Billy Taggart hunts for redemption and
 <hr>
 
 
-## 21. [Syriana](https://serp.ly/@serpmedia/github/amazon/Syriana)
+## 21. [Syriana](https://serp.ly/amazon/Syriana)
 
 ![Syriana](https://image.tmdb.org/t/p/original/2Ze0aBysu7uGK10cDIwTyyJwaoR.jpg)
 
@@ -921,7 +921,7 @@ In the intricate realm of Middle Eastern oil, an American attorney masterminds a
 <hr>
 
 
-## 22. [Shaft](https://serp.ly/@serpmedia/github/amazon/Shaft)
+## 22. [Shaft](https://serp.ly/amazon/Shaft)
 
 ![Shaft](https://image.tmdb.org/t/p/original/5ncvnNPaN73cOqD4muE413sSOyY.jpg)
 
@@ -964,7 +964,7 @@ When New York detective John Shaft arrests Walter Wade Jr. for a racially motiva
 <hr>
 
 
-## 23. [Lady in the Water](https://serp.ly/@serpmedia/github/amazon/Lady+in+the+Water)
+## 23. [Lady in the Water](https://serp.ly/amazon/Lady+in+the+Water)
 
 ![Lady in the Water](https://image.tmdb.org/t/p/original/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg)
 
@@ -1007,7 +1007,7 @@ When apartment building superintendent Cleveland Heep pulls what he thinks is a 
 <hr>
 
 
-## 24. [The Laundromat](https://serp.ly/@serpmedia/github/amazon/The+Laundromat)
+## 24. [The Laundromat](https://serp.ly/amazon/The+Laundromat)
 
 ![The Laundromat](https://image.tmdb.org/t/p/original/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg)
 
@@ -1043,7 +1043,7 @@ When Ellen Martin's perfect vacation takes an unexpected turn, she uncovers a we
 <hr>
 
 
-## 25. [American Fiction](https://serp.ly/@serpmedia/github/amazon/American+Fiction)
+## 25. [American Fiction](https://serp.ly/amazon/American+Fiction)
 
 ![American Fiction](https://image.tmdb.org/t/p/original/57MFWGHarg9jid7yfDTka4RmcMU.jpg)
 
@@ -1084,7 +1084,7 @@ In "American Fiction", a successful novelist tired of seeing others profit from 
 <hr>
 
 
-## 26. [The Goldfinch](https://serp.ly/@serpmedia/github/amazon/The+Goldfinch)
+## 26. [The Goldfinch](https://serp.ly/amazon/The+Goldfinch)
 
 ![The Goldfinch](https://image.tmdb.org/t/p/original/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg)
 
@@ -1125,7 +1125,7 @@ In the shadow of New York's Metropolitan Museum of Art, a young boy's life chang
 <hr>
 
 
-## 27. [Hold the Dark](https://serp.ly/@serpmedia/github/amazon/Hold+the+Dark)
+## 27. [Hold the Dark](https://serp.ly/amazon/Hold+the+Dark)
 
 ![Hold the Dark](https://image.tmdb.org/t/p/original/1etEySwZQnBJpzgplgadPi5y4PL.jpg)
 
@@ -1159,7 +1159,7 @@ In the heart of Alaska's frozen wilderness, a grieving father searches for answe
 <hr>
 
 
-## 28. [Presumed Innocent](https://serp.ly/@serpmedia/github/amazon/Presumed+Innocent)
+## 28. [Presumed Innocent](https://serp.ly/amazon/Presumed+Innocent)
 
 ![Presumed Innocent](https://image.tmdb.org/t/p/original/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg)
 
@@ -1202,7 +1202,7 @@ When deputy prosecutor Rusty Sabich's steamy affair with a coworker ends in murd
 <hr>
 
 
-## 29. [W.](https://serp.ly/@serpmedia/github/amazon/W.)
+## 29. [W.](https://serp.ly/amazon/W.)
 
 ![W.](https://image.tmdb.org/t/p/original/nJm8UF4zbUYEoku9seEtz1PTJGS.jpg)
 
@@ -1245,7 +1245,7 @@ This authorized biography chronicles George W. Bush's life, from his early strug
 <hr>
 
 
-## 30. [D-Tox](https://serp.ly/@serpmedia/github/amazon/D-Tox)
+## 30. [D-Tox](https://serp.ly/amazon/D-Tox)
 
 ![D-Tox](https://image.tmdb.org/t/p/original/AdLg3zOxCcyWQYKSK86q20dibq.jpg)
 
@@ -1287,7 +1287,7 @@ When a disgraced FBI agent with a drinking problem checks into a remote Wyoming 
 <hr>
 
 
-## 31. [Cadillac Records](https://serp.ly/@serpmedia/github/amazon/Cadillac+Records)
+## 31. [Cadillac Records](https://serp.ly/amazon/Cadillac+Records)
 
 ![Cadillac Records](https://image.tmdb.org/t/p/original/u2GtllItFwaXMLj4uCeKYt9wf4l.jpg)
 
@@ -1328,7 +1328,7 @@ When a disgraced FBI agent with a drinking problem checks into a remote Wyoming 
 <hr>
 
 
-## 32. [Celebrity](https://serp.ly/@serpmedia/github/amazon/Celebrity)
+## 32. [Celebrity](https://serp.ly/amazon/Celebrity)
 
 ![Celebrity](https://image.tmdb.org/t/p/original/3pbcMORRjqYgfx87CXexLw32gk.jpg)
 
@@ -1371,7 +1371,7 @@ In this 1998 comedy, writer Lee trades his stable life for the glitz of entertai
 <hr>
 
 
-## 33. [Basquiat](https://serp.ly/@serpmedia/github/amazon/Basquiat)
+## 33. [Basquiat](https://serp.ly/amazon/Basquiat)
 
 ![Basquiat](https://image.tmdb.org/t/p/original/gFfVhN8BbgHhMb3ZNQRAH5xc7kq.jpg)
 
@@ -1414,7 +1414,7 @@ In 1981, a nineteen-year-old unknown graffiti writer took the New York art world
 <hr>
 
 
-## 34. [A Single Shot](https://serp.ly/@serpmedia/github/amazon/A+Single+Shot)
+## 34. [A Single Shot](https://serp.ly/amazon/A+Single+Shot)
 
 ![A Single Shot](https://image.tmdb.org/t/p/original/zRGBGjdeGf12Pmalr1adT9IpoId.jpg)
 
@@ -1455,7 +1455,7 @@ In a beautiful young girl's tragic passing, hunter John Moon finds himself at th
 <hr>
 
 
-## 35. [Ride with the Devil](https://serp.ly/@serpmedia/github/amazon/Ride+with+the+Devil)
+## 35. [Ride with the Devil](https://serp.ly/amazon/Ride+with+the+Devil)
 
 ![Ride with the Devil](https://image.tmdb.org/t/p/original/nJ0CjIhq1aKAFB76MBpDoBqwuLt.jpg)
 
@@ -1498,7 +1498,7 @@ In the lawless borderlands between Missouri and Kansas, four remarkable individu
 <hr>
 
 
-## 36. [Rustin](https://serp.ly/@serpmedia/github/amazon/Rustin)
+## 36. [Rustin](https://serp.ly/amazon/Rustin)
 
 ![Rustin](https://image.tmdb.org/t/p/original/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg)
 
@@ -1537,7 +1537,7 @@ Bayard Rustin, a strategic master of the Civil Rights Movement, applies his tact
 <hr>
 
 
-## 37. [All Day and a Night](https://serp.ly/@serpmedia/github/amazon/All+Day+and+a+Night)
+## 37. [All Day and a Night](https://serp.ly/amazon/All+Day+and+a+Night)
 
 ![All Day and a Night](https://image.tmdb.org/t/p/original/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg)
 
@@ -1576,7 +1576,7 @@ While serving life in prison, a young man reflects on the people, circumstances,
 <hr>
 
 
-## 38. [Confirmation](https://serp.ly/@serpmedia/github/amazon/Confirmation)
+## 38. [Confirmation](https://serp.ly/amazon/Confirmation)
 
 ![Confirmation](https://image.tmdb.org/t/p/original/9lxg4KidKhRAMupBYvgdHxAnxKE.jpg)
 
@@ -1612,7 +1612,7 @@ When Judge Clarence Thomas is nominated for the Supreme Court, his former collea
 <hr>
 
 
-## 39. [Hamlet](https://serp.ly/@serpmedia/github/amazon/Hamlet)
+## 39. [Hamlet](https://serp.ly/amazon/Hamlet)
 
 ![Hamlet](https://image.tmdb.org/t/p/original/yL1rYMHlqZtZVESxEWLsaneXq86.jpg)
 
@@ -1655,7 +1655,7 @@ In this modern New York City adaptation, Hamlet's classic tale of revenge unfold
 <hr>
 
 
-## 40. [Monster](https://serp.ly/@serpmedia/github/amazon/Monster)
+## 40. [Monster](https://serp.ly/amazon/Monster)
 
 ![Monster](https://image.tmdb.org/t/p/original/jds6n8dUaixg0diKYlCta5nS6BV.jpg)
 
@@ -1693,7 +1693,7 @@ When 17-year-old honor student Steve Harmon is charged with felony murder, his e
 <hr>
 
 
-## 41. [O.G.](https://serp.ly/@serpmedia/github/amazon/O.G.)
+## 41. [O.G.](https://serp.ly/amazon/O.G.)
 
 ![O.G.](https://image.tmdb.org/t/p/original/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg)
 
@@ -1729,7 +1729,7 @@ The Journey Outside Starts Inside
 <hr>
 
 
-## 42. [Being James Bond](https://serp.ly/@serpmedia/github/amazon/Being+James+Bond)
+## 42. [Being James Bond](https://serp.ly/amazon/Being+James+Bond)
 
 ![Being James Bond](https://image.tmdb.org/t/p/original/jLaAbwPDzHNbJfZ0Xj0CkeM56CO.jpg)
 
@@ -1765,7 +1765,7 @@ The Daniel Craig story.
 <hr>
 
 
-## 43. [The Inevitable Defeat of Mister & Pete](https://serp.ly/@serpmedia/github/amazon/The+Inevitable+Defeat+of+Mister+%26+Pete)
+## 43. [The Inevitable Defeat of Mister & Pete](https://serp.ly/amazon/The+Inevitable+Defeat+of+Mister+%26+Pete)
 
 ![The Inevitable Defeat of Mister & Pete](https://image.tmdb.org/t/p/original/nh6xU7IKEPdrBPYKezf6iKi1Jgc.jpg)
 
@@ -1804,7 +1804,7 @@ When two inner-city youths are left to fend for themselves over the summer, they
 <hr>
 
 
-## 44. [The Public](https://serp.ly/@serpmedia/github/amazon/The+Public)
+## 44. [The Public](https://serp.ly/amazon/The+Public)
 
 ![The Public](https://image.tmdb.org/t/p/original/uJeNI0jc2VKd3L2JswUhijNvs0.jpg)
 
@@ -1840,7 +1840,7 @@ When the homeless take over the public library to escape the cold, their act of 
 <hr>
 
 
-## 45. [Crime + Punishment in Suburbia](https://serp.ly/@serpmedia/github/amazon/Crime+%2B+Punishment+in+Suburbia)
+## 45. [Crime + Punishment in Suburbia](https://serp.ly/amazon/Crime+%2B+Punishment+in+Suburbia)
 
 ![Crime + Punishment in Suburbia](https://image.tmdb.org/t/p/original/gA6FiAOm8De8v0RFOrdUPn9mgXX.jpg)
 
@@ -1878,7 +1878,7 @@ In this modern retelling of Dostoyevsky's "Crime and Punishment, " Roseanne navi
 <hr>
 
 
-## 46. [Critical Care](https://serp.ly/@serpmedia/github/amazon/Critical+Care)
+## 46. [Critical Care](https://serp.ly/amazon/Critical+Care)
 
 ![Critical Care](https://image.tmdb.org/t/p/original/p4UPT3vvdKHsv6PbhvvtFm8w5Zx.jpg)
 
@@ -1912,7 +1912,7 @@ When young hospital resident Werner Ernst becomes involved in the care of a coma
 <hr>
 
 
-## 47. [Age Out](https://serp.ly/@serpmedia/github/amazon/Age+Out)
+## 47. [Age Out](https://serp.ly/amazon/Age+Out)
 
 ![Age Out](https://image.tmdb.org/t/p/original/ld29B0n18Pn9tVXZNxXkwxnA1fo.jpg)
 
@@ -1949,7 +1949,7 @@ Fresh out of foster care at 18, a young drifter turns to petty crime to survive.
 <hr>
 
 
-## 48. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
+## 48. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
 
 ![Marvel Studios' 2021 Disney+ Day Special](https://image.tmdb.org/t/p/original/zh0B5DDP93e3zokktb5aHHfIh01.jpg)
 
@@ -1980,7 +1980,7 @@ Fresh out of foster care at 18, a young drifter turns to petty crime to survive.
 <hr>
 
 
-## 49. [Unforgivable Blackness: The Rise and Fall of Jack Johnson](https://serp.ly/@serpmedia/github/amazon/Unforgivable+Blackness%3A+The+Rise+and+Fall+of+Jack+Johnson)
+## 49. [Unforgivable Blackness: The Rise and Fall of Jack Johnson](https://serp.ly/amazon/Unforgivable+Blackness%3A+The+Rise+and+Fall+of+Jack+Johnson)
 
 ![Unforgivable Blackness: The Rise and Fall of Jack Johnson](https://image.tmdb.org/t/p/original/9A3hG4XsV49t1Cc3QAnBk6bTW5a.jpg)
 
@@ -2014,7 +2014,7 @@ Jack Johnson rose to become the first African American Heavyweight boxing champi
 <hr>
 
 
-## 50. [Marvel Studios: Expanding the Universe](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%3A+Expanding+the+Universe)
+## 50. [Marvel Studios: Expanding the Universe](https://serp.ly/amazon/Marvel+Studios%3A+Expanding+the+Universe)
 
 ![Marvel Studios: Expanding the Universe](https://image.tmdb.org/t/p/original/dU7qXzttvOUvSlwwpEFQDsLnThK.jpg)
 
@@ -2047,7 +2047,7 @@ Jack Johnson rose to become the first African American Heavyweight boxing champi
 <hr>
 
 
-## 51. [Lackawanna Blues](https://serp.ly/@serpmedia/github/amazon/Lackawanna+Blues)
+## 51. [Lackawanna Blues](https://serp.ly/amazon/Lackawanna+Blues)
 
 ![Lackawanna Blues](https://image.tmdb.org/t/p/original/r96EgKcTtNUzwH5mZp7I6yYlppW.jpg)
 
@@ -2083,7 +2083,7 @@ In 1960s Lackawanna, New York, a young boy's life unfolds amidst the rhythm and 
 <hr>
 
 
-## 52. [The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1](https://serp.ly/@serpmedia/github/amazon/The+Mockingjay+Lives%3A+The+Making+of+the+Hunger+Games%3A+Mockingjay+Part+1)
+## 52. [The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1](https://serp.ly/amazon/The+Mockingjay+Lives%3A+The+Making+of+the+Hunger+Games%3A+Mockingjay+Part+1)
 
 ![The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1](https://image.tmdb.org/t/p/original/5Rjd0jPCDgNvaARNPk8jTTvVfPB.jpg)
 
@@ -2117,7 +2117,7 @@ The Hunger Games: Mockingjay Part 1 marks the penultimate chapter in the beloved
 <hr>
 
 
-## 53. [Faithful](https://serp.ly/@serpmedia/github/amazon/Faithful)
+## 53. [Faithful](https://serp.ly/amazon/Faithful)
 
 ![Faithful](https://image.tmdb.org/t/p/original/bnC3m8J6nN30GE9GKo2lkSWU0yD.jpg)
 
@@ -2157,7 +2157,7 @@ When a depressed housewife considers suicide, her plans take an unexpected turn.
 <hr>
 
 
-## 54. [The Adventures of Young Indiana Jones: Mystery of the Blues](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Young+Indiana+Jones%3A+Mystery+of+the+Blues)
+## 54. [The Adventures of Young Indiana Jones: Mystery of the Blues](https://serp.ly/amazon/The+Adventures+of+Young+Indiana+Jones%3A+Mystery+of+the+Blues)
 
 ![The Adventures of Young Indiana Jones: Mystery of the Blues](https://image.tmdb.org/t/p/original/sROF3C9GTgmvgc54MHrp6wsWrn8.jpg)
 
@@ -2188,7 +2188,7 @@ In 1950s Wyoming, middle-aged Indiana Jones discovers a soprano saxophone that t
 <hr>
 
 
-## 55. [Chicago 10](https://serp.ly/@serpmedia/github/amazon/Chicago+10)
+## 55. [Chicago 10](https://serp.ly/amazon/Chicago+10)
 
 ![Chicago 10](https://image.tmdb.org/t/p/original/5Do5BUtU3VNMJ5eKi3RXgortMLO.jpg)
 
@@ -2226,7 +2226,7 @@ The convention was drama. The trial was comedy.
 <hr>
 
 
-## 56. [Julian Schnabel: A Private Portrait](https://serp.ly/@serpmedia/github/amazon/Julian+Schnabel%3A+A+Private+Portrait)
+## 56. [Julian Schnabel: A Private Portrait](https://serp.ly/amazon/Julian+Schnabel%3A+A+Private+Portrait)
 
 ![Julian Schnabel: A Private Portrait](https://image.tmdb.org/t/p/original/qU1OmOBz2GzZh2BQ9k0A8RZP4Sz.jpg)
 
@@ -2263,7 +2263,7 @@ This documentary chronicles the personal life and public career of artist Julian
 <hr>
 
 
-## 57. [Boycott](https://serp.ly/@serpmedia/github/amazon/Boycott)
+## 57. [Boycott](https://serp.ly/amazon/Boycott)
 
 ![Boycott](https://image.tmdb.org/t/p/original/pk7u9Pvm5e8Zef2UiosM3aDi5Z6.jpg)
 
@@ -2299,7 +2299,7 @@ In the 1950s, a young Martin Luther King, Jr. leads a historic boycott of public
 <hr>
 
 
-## 58. [The Adventures of Young Indiana Jones: Scandal of 1920](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Young+Indiana+Jones%3A+Scandal+of+1920)
+## 58. [The Adventures of Young Indiana Jones: Scandal of 1920](https://serp.ly/amazon/The+Adventures+of+Young+Indiana+Jones%3A+Scandal+of+1920)
 
 ![The Adventures of Young Indiana Jones: Scandal of 1920](https://image.tmdb.org/t/p/original/bnW9JnDLlGPsQSwDS526q0MVW9F.jpg)
 
@@ -2330,7 +2330,7 @@ In 1920's New York, young Indiana Jones lands three dates in as many days - a si
 <hr>
 
 
-## 59. [Jumpin' at the Boneyard](https://serp.ly/@serpmedia/github/amazon/Jumpin%27+at+the+Boneyard)
+## 59. [Jumpin' at the Boneyard](https://serp.ly/amazon/Jumpin%27+at+the+Boneyard)
 
 ![Jumpin' at the Boneyard](https://image.tmdb.org/t/p/original/zsfmHzlblEOC9iU0oNB99YtIEpj.jpg)
 
@@ -2366,7 +2366,7 @@ Manny's got his hands full trying to get his crack addict brother, Danny, to tur
 <hr>
 
 
-## 60. [Separate But Equal](https://serp.ly/@serpmedia/github/amazon/Separate+But+Equal)
+## 60. [Separate But Equal](https://serp.ly/amazon/Separate+But+Equal)
 
 ![Separate But Equal](https://image.tmdb.org/t/p/original/kiHvZRE67kU1r6pCeaMh30vMq8n.jpg)
 
@@ -2401,7 +2401,7 @@ The true story behind the most important legal battle of our time.
 <hr>
 
 
-## 61. [Unseen Enemy](https://serp.ly/@serpmedia/github/amazon/Unseen+Enemy)
+## 61. [Unseen Enemy](https://serp.ly/amazon/Unseen+Enemy)
 
 ![Unseen Enemy](https://image.tmdb.org/t/p/original/osmlm6xLiEoZYbYlxw0gFKgV6WB.jpg)
 
@@ -2437,7 +2437,7 @@ Once it's here, it's too late.
 <hr>
 
 
-## 62. [Rigged: The Voter Suppression Playbook](https://serp.ly/@serpmedia/github/amazon/Rigged%3A+The+Voter+Suppression+Playbook)
+## 62. [Rigged: The Voter Suppression Playbook](https://serp.ly/amazon/Rigged%3A+The+Voter+Suppression+Playbook)
 
 ![Rigged: The Voter Suppression Playbook](https://image.tmdb.org/t/p/original/3c1d3lU1Pe8a1XYZ6DCjSq9RmSL.jpg)
 
@@ -2471,7 +2471,7 @@ Once it's here, it's too late.
 <hr>
 
 
-## 63. [Blackout](https://serp.ly/@serpmedia/github/amazon/Blackout)
+## 63. [Blackout](https://serp.ly/amazon/Blackout)
 
 ![Blackout](https://image.tmdb.org/t/p/original/3ZsV2fjYCNhnmGlJTlfIUwjRixI.jpg)
 
@@ -2505,7 +2505,7 @@ BLACKOUT explores the human tendency to exploit vulnerability, set against the b
 <hr>
 
 
-## 64. [Too Tired to Die](https://serp.ly/@serpmedia/github/amazon/Too+Tired+to+Die)
+## 64. [Too Tired to Die](https://serp.ly/amazon/Too+Tired+to+Die)
 
 ![Too Tired to Die](https://image.tmdb.org/t/p/original/fOHA4PTLRiufytTO5SW1PlwUNvj.jpg)
 
@@ -2539,7 +2539,7 @@ Kenji, a young Japanese man, discovers that Death has been following him in vari
 <hr>
 
 
-## 65. [Blood Diamonds](https://serp.ly/@serpmedia/github/amazon/Blood+Diamonds)
+## 65. [Blood Diamonds](https://serp.ly/amazon/Blood+Diamonds)
 
 ![Blood Diamonds](https://image.tmdb.org/t/p/original/2UYx054erj1c3JMQhE4ldqtJas8.jpg)
 
@@ -2573,7 +2573,7 @@ Blood Diamonds delves into the dark heart of Africa's diamond trade, showcasing 
 <hr>
 
 
-## 66. [We Are Not Done Yet](https://serp.ly/@serpmedia/github/amazon/We+Are+Not+Done+Yet)
+## 66. [We Are Not Done Yet](https://serp.ly/amazon/We+Are+Not+Done+Yet)
 
 ![We Are Not Done Yet](https://image.tmdb.org/t/p/original/8qG0vbWAQokbApBW7xAZShnR7Wr.jpg)
 
@@ -2611,7 +2611,7 @@ Veterans. Artists. Survivors.
 <hr>
 
 
-## 67. [Cement](https://serp.ly/@serpmedia/github/amazon/Cement)
+## 67. [Cement](https://serp.ly/amazon/Cement)
 
 ![Cement](https://image.tmdb.org/t/p/original/tEOWxb4o2EicUue41oUHqNZnKrl.jpg)
 
@@ -2649,7 +2649,7 @@ In a gritty crime thriller, a corrupt detective named Bob Holt runs a dangerous 
 <hr>
 
 
-## 68. [The True Story of Hannibal](https://serp.ly/@serpmedia/github/amazon/The+True+Story+of+Hannibal)
+## 68. [The True Story of Hannibal](https://serp.ly/amazon/The+True+Story+of+Hannibal)
 
 <br>
 
@@ -2681,7 +2681,7 @@ Join young Hannibal as he swears eternal hatred for Rome alongside his father, t
 <hr>
 
 
-## 69. [Sam Cooke: Legend](https://serp.ly/@serpmedia/github/amazon/Sam+Cooke%3A+Legend)
+## 69. [Sam Cooke: Legend](https://serp.ly/amazon/Sam+Cooke%3A+Legend)
 
 ![Sam Cooke: Legend](https://image.tmdb.org/t/p/original/ys3annfiMFgMTwWA9gOg6AdJwfd.jpg)
 
@@ -2712,7 +2712,7 @@ From gospel singer to R&B legend, this biography follows Sam Cooke's extraordina
 <hr>
 
 
-## 70. [Frederick Douglass: In Five Speeches](https://serp.ly/@serpmedia/github/amazon/Frederick+Douglass%3A+In+Five+Speeches)
+## 70. [Frederick Douglass: In Five Speeches](https://serp.ly/amazon/Frederick+Douglass%3A+In+Five+Speeches)
 
 ![Frederick Douglass: In Five Speeches](https://image.tmdb.org/t/p/original/2mi0TQcdtIWGlwAGU5kwXNJq09k.jpg)
 
@@ -2750,7 +2750,7 @@ This compelling anthology features five of Frederick Douglass' most significant 
 <hr>
 
 
-## 71. [Mass Extinction: Life at the Brink](https://serp.ly/@serpmedia/github/amazon/Mass+Extinction%3A+Life+at+the+Brink)
+## 71. [Mass Extinction: Life at the Brink](https://serp.ly/amazon/Mass+Extinction%3A+Life+at+the+Brink)
 
 ![Mass Extinction: Life at the Brink](https://image.tmdb.org/t/p/original/se4j1QQfPTXg38UPFBnhX4M0dDP.jpg)
 
@@ -2783,7 +2783,7 @@ The clues to the future lie in the past
 <hr>
 
 
-## 72. [The Oedipus Project](https://serp.ly/@serpmedia/github/amazon/The+Oedipus+Project)
+## 72. [The Oedipus Project](https://serp.ly/amazon/The+Oedipus+Project)
 
 ![The Oedipus Project](https://image.tmdb.org/t/p/original/xAvwzv2xkE2IKXrEOX3mmhSzoHo.jpg)
 
@@ -2814,7 +2814,7 @@ The Oedipus Project brings together acclaimed actors to perform scenes from Soph
 <hr>
 
 
-## 73. [Atrabilious](https://serp.ly/@serpmedia/github/amazon/Atrabilious)
+## 73. [Atrabilious](https://serp.ly/amazon/Atrabilious)
 
 ![Atrabilious](https://image.tmdb.org/t/p/original/nebKlAXgGT5s10HMcn18Ddy0gsq.jpg)
 
@@ -2847,7 +2847,7 @@ When Steven Joyner's son dies under mysterious circumstances, he turns to the ba
 <hr>
 
 
-## 74. [Moynihan](https://serp.ly/@serpmedia/github/amazon/Moynihan)
+## 74. [Moynihan](https://serp.ly/amazon/Moynihan)
 
 ![Moynihan](https://image.tmdb.org/t/p/original/7yQmhrIcS1YygDl8OmExCCbry0c.jpg)
 
@@ -2883,7 +2883,7 @@ The first feature length film about Daniel Patrick Moynihan.
 <hr>
 
 
-## 75. [Becoming Bond](https://serp.ly/@serpmedia/github/amazon/Becoming+Bond)
+## 75. [Becoming Bond](https://serp.ly/amazon/Becoming+Bond)
 
 ![Becoming Bond](https://image.tmdb.org/t/p/original/hJsiNIn1YWQsSW88tNhJwgeDXJn.jpg)
 
@@ -2919,7 +2919,7 @@ Daniel Craig becomes the new Bond
 <hr>
 
 
-## 76. [Bond on Location](https://serp.ly/@serpmedia/github/amazon/Bond+on+Location)
+## 76. [Bond on Location](https://serp.ly/amazon/Bond+on+Location)
 
 ![Bond on Location](https://image.tmdb.org/t/p/original/nE1JETGWiR9gNvkx8XpOct20Zv8.jpg)
 
@@ -2953,7 +2953,7 @@ Daniel Craig becomes the new Bond
 <hr>
 
 
-## 77. [With All Deliberate Speed](https://serp.ly/@serpmedia/github/amazon/With+All+Deliberate+Speed)
+## 77. [With All Deliberate Speed](https://serp.ly/amazon/With+All+Deliberate+Speed)
 
 ![With All Deliberate Speed](https://image.tmdb.org/t/p/original/h23WmG3M2VkfAMP7mLCfYbUDTLi.jpg)
 
@@ -2992,7 +2992,7 @@ History ignored is history repeated.
 <hr>
 
 
-## 78. [A Child's Garden of Poetry](https://serp.ly/@serpmedia/github/amazon/A+Child%27s+Garden+of+Poetry)
+## 78. [A Child's Garden of Poetry](https://serp.ly/amazon/A+Child%27s+Garden+of+Poetry)
 
 ![A Child's Garden of Poetry](https://image.tmdb.org/t/p/original/gKTfUSDFmicmeyPxh8MY41VNSOB.jpg)
 
@@ -3028,7 +3028,7 @@ History ignored is history repeated.
 <hr>
 
 
-## 79. [Wrestling with Angels: Playwright Tony Kushner](https://serp.ly/@serpmedia/github/amazon/Wrestling+with+Angels%3A+Playwright+Tony+Kushner)
+## 79. [Wrestling with Angels: Playwright Tony Kushner](https://serp.ly/amazon/Wrestling+with+Angels%3A+Playwright+Tony+Kushner)
 
 ![Wrestling with Angels: Playwright Tony Kushner](https://image.tmdb.org/t/p/original/lWRI4wtJEQG4PWVXGujk7LKV2vx.jpg)
 
@@ -3065,7 +3065,7 @@ History ignored is history repeated.
 <hr>
 
 
-## 80. [Sin's Kitchen](https://serp.ly/@serpmedia/github/amazon/Sin%27s+Kitchen)
+## 80. [Sin's Kitchen](https://serp.ly/amazon/Sin%27s+Kitchen)
 
 Where the dark heart of man comes to burn.
 
@@ -3101,7 +3101,7 @@ In the scorching Mojave Desert, a diverse group of individuals - mobsters, ex-co
 <hr>
 
 
-## 81. [The Final Shot: A Farewell to Boardwalk Empire](https://serp.ly/@serpmedia/github/amazon/The+Final+Shot%3A+A+Farewell+to+Boardwalk+Empire)
+## 81. [The Final Shot: A Farewell to Boardwalk Empire](https://serp.ly/amazon/The+Final+Shot%3A+A+Farewell+to+Boardwalk+Empire)
 
 ![The Final Shot: A Farewell to Boardwalk Empire](https://image.tmdb.org/t/p/original/mEg4LAURbDKE9MRQUXB5DIRML3K.jpg)
 
@@ -3129,7 +3129,7 @@ Boardwalk Empire: The Final Shot offers an intimate behind-the-scenes look at th
 <hr>
 
 
-## 82. [American Pathogen](https://serp.ly/@serpmedia/github/amazon/American+Pathogen)
+## 82. [American Pathogen](https://serp.ly/amazon/American+Pathogen)
 
 ![American Pathogen](https://image.tmdb.org/t/p/original/gUlBnsbfEelfqKGQgu6sHtIcXPj.jpg)
 
@@ -3157,7 +3157,7 @@ Boardwalk Empire: The Final Shot offers an intimate behind-the-scenes look at th
 <hr>
 
 
-## 83. [The Batman - Part II](https://serp.ly/@serpmedia/github/amazon/The+Batman+-+Part+II)
+## 83. [The Batman - Part II](https://serp.ly/amazon/The+Batman+-+Part+II)
 
 ![The Batman - Part II](https://image.tmdb.org/t/p/original/qwDWC2OzPw9zGc2lVCbjDrdaL6A.jpg)
 
@@ -3182,7 +3182,7 @@ Join Batman on his darkest journey yet in "The Batman - Part II", the highly ant
 <hr>
 
 
-## 84. [The Topdog Diaries](https://serp.ly/@serpmedia/github/amazon/The+Topdog+Diaries)
+## 84. [The Topdog Diaries](https://serp.ly/amazon/The+Topdog+Diaries)
 
 ![The Topdog Diaries](https://image.tmdb.org/t/p/original/fbMLA0vcBO16Mz7SkpKnYV7SvhF.jpg)
 
@@ -3210,7 +3210,7 @@ Join Batman on his darkest journey yet in "The Batman - Part II", the highly ant
 <hr>
 
 
-## 85. [Vengeance in the Making](https://serp.ly/@serpmedia/github/amazon/Vengeance+in+the+Making)
+## 85. [Vengeance in the Making](https://serp.ly/amazon/Vengeance+in+the+Making)
 
 ![Vengeance in the Making](https://image.tmdb.org/t/p/original/s9bI6CrIPYT9kqdx6WuSuhc9tQb.jpg)
 
@@ -3241,7 +3241,7 @@ Join Batman on his darkest journey yet in "The Batman - Part II", the highly ant
 <hr>
 
 
-## 86. [In the Wings: Angels in America On Broadway](https://serp.ly/@serpmedia/github/amazon/In+the+Wings%3A+Angels+in+America+On+Broadway)
+## 86. [In the Wings: Angels in America On Broadway](https://serp.ly/amazon/In+the+Wings%3A+Angels+in+America+On+Broadway)
 
 ![In the Wings: Angels in America On Broadway](https://image.tmdb.org/t/p/original/hC7DYMzlObRYQFkloV3zOWBe6JO.jpg)
 
@@ -3269,7 +3269,7 @@ Join Batman on his darkest journey yet in "The Batman - Part II", the highly ant
 <hr>
 
 
-## 87. [New Orleans](https://serp.ly/@serpmedia/github/amazon/New+Orleans)
+## 87. [New Orleans](https://serp.ly/amazon/New+Orleans)
 
 ![New Orleans](https://image.tmdb.org/t/p/original/Adrbl9s6K2HzjkyGA9WGu9kksSQ.jpg)
 
@@ -3297,7 +3297,7 @@ At the mouth of the mighty Mississippi, where water surrounds almost every stree
 <hr>
 
 
-## 88. [The Gospel According to Mac](https://serp.ly/@serpmedia/github/amazon/The+Gospel+According+to+Mac)
+## 88. [The Gospel According to Mac](https://serp.ly/amazon/The+Gospel+According+to+Mac)
 
 ![The Gospel According to Mac](https://image.tmdb.org/t/p/original/6EpppBVqYSDwv9vDmzFOjU7oPj5.jpg)
 
@@ -3327,7 +3327,7 @@ When Bill McCartney takes his controversial beliefs from the pulpit to the footb
 <hr>
 
 
-## 89. [High and Low](https://serp.ly/@serpmedia/github/amazon/High+and+Low)
+## 89. [High and Low](https://serp.ly/amazon/High+and+Low)
 
 ![High and Low](https://image.tmdb.org/t/p/original/95UCrw3Q8HkdAwNYFeQ9ubD5s6O.jpg)
 
@@ -3353,7 +3353,7 @@ When Bill McCartney takes his controversial beliefs from the pulpit to the footb
 <hr>
 
 
-## 1. [House](https://serp.ly/@serpmedia/github/amazon/House)
+## 1. [House](https://serp.ly/amazon/House)
 
 ![House](https://image.tmdb.org/t/p/original/wfxsizfb7NV9uwy9QCqqvfR20F2.jpg)
 
@@ -3397,7 +3397,7 @@ When it comes to medical mysteries, Dr. Gregory House is the master detective. T
 <hr>
 
 
-## 2. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 2. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -3441,7 +3441,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 3. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 3. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -3487,7 +3487,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 4. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 4. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -3531,7 +3531,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 5. [American Experience](https://serp.ly/@serpmedia/github/amazon/American+Experience)
+## 5. [American Experience](https://serp.ly/amazon/American+Experience)
 
 ![American Experience](https://image.tmdb.org/t/p/original/iABtkX1IZXijc4VIbkgOLMDjmCT.jpg)
 
@@ -3575,7 +3575,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 6. [Homicide: Life on the Street](https://serp.ly/@serpmedia/github/amazon/Homicide%3A+Life+on+the+Street)
+## 6. [Homicide: Life on the Street](https://serp.ly/amazon/Homicide%3A+Life+on+the+Street)
 
 ![Homicide: Life on the Street](https://image.tmdb.org/t/p/original/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg)
 
@@ -3619,7 +3619,7 @@ Homicide: our day begins when yours ends.
 <hr>
 
 
-## 7. [Rick and Morty](https://serp.ly/@serpmedia/github/amazon/Rick+and+Morty)
+## 7. [Rick and Morty](https://serp.ly/amazon/Rick+and+Morty)
 
 ![Rick and Morty](https://image.tmdb.org/t/p/original/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg)
 
@@ -3665,7 +3665,7 @@ When a scientifically gifted but mentally unbalanced old man reconnects with his
 <hr>
 
 
-## 8. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 8. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -3709,7 +3709,7 @@ When a scientifically gifted but mentally unbalanced old man reconnects with his
 <hr>
 
 
-## 9. [Close Up with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Close+Up+with+The+Hollywood+Reporter)
+## 9. [Close Up with The Hollywood Reporter](https://serp.ly/amazon/Close+Up+with+The+Hollywood+Reporter)
 
 ![Close Up with The Hollywood Reporter](https://image.tmdb.org/t/p/original/h7X59O3T4VWVAUzZ00LEpbwA3GP.jpg)
 
@@ -3751,7 +3751,7 @@ When a scientifically gifted but mentally unbalanced old man reconnects with his
 <hr>
 
 
-## 10. [The Young Indiana Jones Chronicles](https://serp.ly/@serpmedia/github/amazon/The+Young+Indiana+Jones+Chronicles)
+## 10. [The Young Indiana Jones Chronicles](https://serp.ly/amazon/The+Young+Indiana+Jones+Chronicles)
 
 ![The Young Indiana Jones Chronicles](https://image.tmdb.org/t/p/original/a0LIkSfhqSNtWKOH4aTRGuEJB7C.jpg)
 
@@ -3795,7 +3795,7 @@ At the dawn of the 20th century, Indiana Jones discovered the world. From globet
 <hr>
 
 
-## 11. [Westworld](https://serp.ly/@serpmedia/github/amazon/Westworld)
+## 11. [Westworld](https://serp.ly/amazon/Westworld)
 
 ![Westworld](https://image.tmdb.org/t/p/original/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg)
 
@@ -3839,7 +3839,7 @@ These violent delights have violent ends.
 <hr>
 
 
-## 12. [Boardwalk Empire](https://serp.ly/@serpmedia/github/amazon/Boardwalk+Empire)
+## 12. [Boardwalk Empire](https://serp.ly/amazon/Boardwalk+Empire)
 
 ![Boardwalk Empire](https://image.tmdb.org/t/p/original/3IKbPI1uQFcT7gNHi3la7uwOnsN.jpg)
 
@@ -3883,7 +3883,7 @@ No one goes quietly.
 <hr>
 
 
-## 13. [What If...?](https://serp.ly/@serpmedia/github/amazon/What+If...%3F)
+## 13. [What If...?](https://serp.ly/amazon/What+If...%3F)
 
 ![What If...?](https://image.tmdb.org/t/p/original/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg)
 
@@ -3929,7 +3929,7 @@ What if classic Marvel moments unfolded differently? This animated anthology ser
 <hr>
 
 
-## 14. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 14. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -3975,7 +3975,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 15. [BoJack Horseman](https://serp.ly/@serpmedia/github/amazon/BoJack+Horseman)
+## 15. [BoJack Horseman](https://serp.ly/amazon/BoJack+Horseman)
 
 ![BoJack Horseman](https://image.tmdb.org/t/p/original/pB9L0jAnEQLMKgexqCEocEW8TA.jpg)
 
@@ -4019,7 +4019,7 @@ BoJack Horseman was once the shining star of the 1990s TV show "Horsin' Around,"
 <hr>
 
 
-## 16. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 16. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -4063,7 +4063,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 17. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 17. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -4107,7 +4107,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 18. [Finding Your Roots](https://serp.ly/@serpmedia/github/amazon/Finding+Your+Roots)
+## 18. [Finding Your Roots](https://serp.ly/amazon/Finding+Your+Roots)
 
 ![Finding Your Roots](https://image.tmdb.org/t/p/original/d4CSYByEefe43AXMlMyKEihEPGU.jpg)
 
@@ -4151,7 +4151,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 19. [Green Eggs and Ham](https://serp.ly/@serpmedia/github/amazon/Green+Eggs+and+Ham)
+## 19. [Green Eggs and Ham](https://serp.ly/amazon/Green+Eggs+and+Ham)
 
 ![Green Eggs and Ham](https://image.tmdb.org/t/p/original/sPbNUuCOD2ilcVWf5yjjkMqyoxs.jpg)
 
@@ -4195,7 +4195,7 @@ Join Guy-Am-I, an inventor, and his friend Sam-I-Am as they embark on a whimsica
 <hr>
 
 
-## 20. [America's Game: The Super Bowl Champions](https://serp.ly/@serpmedia/github/amazon/America%27s+Game%3A+The+Super+Bowl+Champions)
+## 20. [America's Game: The Super Bowl Champions](https://serp.ly/amazon/America%27s+Game%3A+The+Super+Bowl+Champions)
 
 ![America's Game: The Super Bowl Champions](https://image.tmdb.org/t/p/original/73StQRlVU2yXgeTYdOV5WcyWWZg.jpg)
 
@@ -4241,7 +4241,7 @@ Travel back in time with NFL Films to meet the heroes who've lifted the Super Bo
 <hr>
 
 
-## 21. [ARK: The Animated Series](https://serp.ly/@serpmedia/github/amazon/ARK%3A+The+Animated+Series)
+## 21. [ARK: The Animated Series](https://serp.ly/amazon/ARK%3A+The+Animated+Series)
 
 ![ARK: The Animated Series](https://image.tmdb.org/t/p/original/3qzBCXJLifxund1QMa8BiXmH3xp.jpg)
 
@@ -4287,7 +4287,7 @@ When Australian paleontologist Helena Walker stumbles into a mysterious primeval
 <hr>
 
 
-## 22. [Marvel Studios Assembled](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled)
+## 22. [Marvel Studios Assembled](https://serp.ly/amazon/Marvel+Studios+Assembled)
 
 ![Marvel Studios Assembled](https://image.tmdb.org/t/p/original/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg)
 
@@ -4329,7 +4329,7 @@ When Australian paleontologist Helena Walker stumbles into a mysterious primeval
 <hr>
 
 
-## 23. [Off Script with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Off+Script+with+The+Hollywood+Reporter)
+## 23. [Off Script with The Hollywood Reporter](https://serp.ly/amazon/Off+Script+with+The+Hollywood+Reporter)
 
 ![Off Script with The Hollywood Reporter](https://image.tmdb.org/t/p/original/iM11nrgp0kcl3k68JZjV796T1T6.jpg)
 
@@ -4370,7 +4370,7 @@ The Hollywood Reporter's iconic Roundtables take their wit and wisdom from page 
 <hr>
 
 
-## 24. [The Adventures of Young Indiana Jones](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Young+Indiana+Jones)
+## 24. [The Adventures of Young Indiana Jones](https://serp.ly/amazon/The+Adventures+of+Young+Indiana+Jones)
 
 ![The Adventures of Young Indiana Jones](https://image.tmdb.org/t/p/original/r1UunKYcMfLjxhSGMl1XLTpl4sY.jpg)
 
@@ -4412,7 +4412,7 @@ Join young Indiana Jones on his thrilling adventures around the world. In this 2
 <hr>
 
 
-## 25. [I Am Groot](https://serp.ly/@serpmedia/github/amazon/I+Am+Groot)
+## 25. [I Am Groot](https://serp.ly/amazon/I+Am+Groot)
 
 ![I Am Groot](https://image.tmdb.org/t/p/original/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg)
 
@@ -4458,7 +4458,7 @@ Baby Groot is ready to steal the spotlight in this charming series following his
 <hr>
 
 
-## 26. [New York Undercover](https://serp.ly/@serpmedia/github/amazon/New+York+Undercover)
+## 26. [New York Undercover](https://serp.ly/amazon/New+York+Undercover)
 
 ![New York Undercover](https://image.tmdb.org/t/p/original/70Nd63gqoCLxNrdSY72FYAWOXhj.jpg)
 
@@ -4502,7 +4502,7 @@ When two childhood friends become undercover detectives in New York City's Fourt
 <hr>
 
 
-## 27. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 27. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -4546,7 +4546,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 28. [Angels in America](https://serp.ly/@serpmedia/github/amazon/Angels+in+America)
+## 28. [Angels in America](https://serp.ly/amazon/Angels+in+America)
 
 ![Angels in America](https://image.tmdb.org/t/p/original/rrV0kCmzcP8oB00gemSZDns90rb.jpg)
 
@@ -4590,7 +4590,7 @@ When an angel visits Prior Walter, a gay man living with AIDS in 1985 New York, 
 <hr>
 
 
-## 29. [Lincoln's Dilemma](https://serp.ly/@serpmedia/github/amazon/Lincoln%27s+Dilemma)
+## 29. [Lincoln's Dilemma](https://serp.ly/amazon/Lincoln%27s+Dilemma)
 
 ![Lincoln's Dilemma](https://image.tmdb.org/t/p/original/d2SlpNduCz8Kxh6Z84Ws899KTlZ.jpg)
 
@@ -4634,7 +4634,7 @@ History is never made by just one.
 <hr>
 
 
-## 30. [Bill Russell: Legend](https://serp.ly/@serpmedia/github/amazon/Bill+Russell%3A+Legend)
+## 30. [Bill Russell: Legend](https://serp.ly/amazon/Bill+Russell%3A+Legend)
 
 ![Bill Russell: Legend](https://image.tmdb.org/t/p/original/nNQs0sJOZfJoKCOi2HsgcdUHcar.jpg)
 
@@ -4680,7 +4680,7 @@ He changed more than the game.
 <hr>
 
 
-## 31. [Digman!](https://serp.ly/@serpmedia/github/amazon/Digman%21)
+## 31. [Digman!](https://serp.ly/amazon/Digman%21)
 
 ![Digman!](https://image.tmdb.org/t/p/original/yt6yvFBpeWVaqowRqmeXmvU3IsT.jpg)
 
@@ -4724,7 +4724,7 @@ He changed more than the game.
 <hr>
 
 
-## 32. [The Agency](https://serp.ly/@serpmedia/github/amazon/The+Agency)
+## 32. [The Agency](https://serp.ly/amazon/The+Agency)
 
 <br>
 

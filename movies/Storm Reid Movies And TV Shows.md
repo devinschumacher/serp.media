@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [12 Years a Slave](https://serp.ly/@serpmedia/github/amazon/12+Years+a+Slave)
+## 1. [12 Years a Slave](https://serp.ly/amazon/12+Years+a+Slave)
 
 ![12 Years a Slave](https://image.tmdb.org/t/p/original/xdANQijuNrJaw1HA61rDccME4Tm.jpg)
 
@@ -80,7 +80,7 @@ Solomon Northup's incredible true story unfolds as a free African American from 
 <hr>
 
 
-## 2. [The Suicide Squad](https://serp.ly/@serpmedia/github/amazon/The+Suicide+Squad)
+## 2. [The Suicide Squad](https://serp.ly/amazon/The+Suicide+Squad)
 
 ![The Suicide Squad](https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg)
 
@@ -123,7 +123,7 @@ When a team of supervillains from Belle Reve prison is recruited for a top-secre
 <hr>
 
 
-## 3. [The Invisible Man](https://serp.ly/@serpmedia/github/amazon/The+Invisible+Man)
+## 3. [The Invisible Man](https://serp.ly/amazon/The+Invisible+Man)
 
 ![The Invisible Man](https://image.tmdb.org/t/p/original/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg)
 
@@ -166,7 +166,7 @@ The Invisible Man rises from the pages of H. G. Wells' classic novel to haunt Ce
 <hr>
 
 
-## 4. [The Nun II](https://serp.ly/@serpmedia/github/amazon/The+Nun+II)
+## 4. [The Nun II](https://serp.ly/amazon/The+Nun+II)
 
 ![The Nun II](https://image.tmdb.org/t/p/original/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg)
 
@@ -206,7 +206,7 @@ In 1956 France, a young priest is found murdered, and Sister Irene returns to in
 <hr>
 
 
-## 5. [A Wrinkle in Time](https://serp.ly/@serpmedia/github/amazon/A+Wrinkle+in+Time)
+## 5. [A Wrinkle in Time](https://serp.ly/amazon/A+Wrinkle+in+Time)
 
 ![A Wrinkle in Time](https://image.tmdb.org/t/p/original/yAcb58vipewa1BfNit2RjE6boXA.jpg)
 
@@ -246,7 +246,7 @@ Be a warrior
 <hr>
 
 
-## 6. [Missing](https://serp.ly/@serpmedia/github/amazon/Missing)
+## 6. [Missing](https://serp.ly/amazon/Missing)
 
 ![Missing](https://image.tmdb.org/t/p/original/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg)
 
@@ -286,7 +286,7 @@ When June's mother disappears during a vacation in Colombia, June's search for a
 <hr>
 
 
-## 7. [Sleight](https://serp.ly/@serpmedia/github/amazon/Sleight)
+## 7. [Sleight](https://serp.ly/amazon/Sleight)
 
 ![Sleight](https://image.tmdb.org/t/p/original/eLk7yoWxK4S0xkV24YWoPKbIsbf.jpg)
 
@@ -326,7 +326,7 @@ In this 2016 Los Angeles drama, a young magician must balance his street perform
 <hr>
 
 
-## 8. [Don't Let Go](https://serp.ly/@serpmedia/github/amazon/Don%27t+Let+Go)
+## 8. [Don't Let Go](https://serp.ly/amazon/Don%27t+Let+Go)
 
 ![Don't Let Go](https://image.tmdb.org/t/p/original/uNHueGo5TYCTLzoGULse65GC32Q.jpg)
 
@@ -369,7 +369,7 @@ When a detective grappling with personal loss receives a mysterious call from hi
 <hr>
 
 
-## 9. [One Way](https://serp.ly/@serpmedia/github/amazon/One+Way)
+## 9. [One Way](https://serp.ly/amazon/One+Way)
 
 ![One Way](https://image.tmdb.org/t/p/original/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg)
 
@@ -412,7 +412,7 @@ When a former crime boss turns informant, Freddy's world changes in an instant. 
 <hr>
 
 
-## 10. [An American Girl: Lea to the Rescue](https://serp.ly/@serpmedia/github/amazon/An+American+Girl%3A+Lea+to+the+Rescue)
+## 10. [An American Girl: Lea to the Rescue](https://serp.ly/amazon/An+American+Girl%3A+Lea+to+the+Rescue)
 
 ![An American Girl: Lea to the Rescue](https://image.tmdb.org/t/p/original/nZUMI8Y63UT0niYxfjZQznsAzzw.jpg)
 
@@ -448,7 +448,7 @@ When Lea Clark receives an invitation to explore the Brazilian rainforest, she l
 <hr>
 
 
-## 11. [A Happening of Monumental Proportions](https://serp.ly/@serpmedia/github/amazon/A+Happening+of+Monumental+Proportions)
+## 11. [A Happening of Monumental Proportions](https://serp.ly/amazon/A+Happening+of+Monumental+Proportions)
 
 ![A Happening of Monumental Proportions](https://image.tmdb.org/t/p/original/pEpxxeWWdp4G2hz1DicObq98KhF.jpg)
 
@@ -485,7 +485,7 @@ When a group of students at a school in Los Angeles stumble upon a dark secret, 
 <hr>
 
 
-## 12. [Dear Class of 2020](https://serp.ly/@serpmedia/github/amazon/Dear+Class+of+2020)
+## 12. [Dear Class of 2020](https://serp.ly/amazon/Dear+Class+of+2020)
 
 ![Dear Class of 2020](https://image.tmdb.org/t/p/original/t67VPjhtfjIawqPFlSaot1KrwVp.jpg)
 
@@ -516,7 +516,7 @@ Virtual graduation celebrations can sometimes feel a bit disappointing, but this
 <hr>
 
 
-## 13. [Grounded II: Making The Last of Us Part II](https://serp.ly/@serpmedia/github/amazon/Grounded+II%3A+Making+The+Last+of+Us+Part+II)
+## 13. [Grounded II: Making The Last of Us Part II](https://serp.ly/amazon/Grounded+II%3A+Making+The+Last+of+Us+Part+II)
 
 ![Grounded II: Making The Last of Us Part II](https://image.tmdb.org/t/p/original/z7tS2jinX8pLCgSY7uqosh1tCn1.jpg)
 
@@ -550,7 +550,7 @@ Join Naughty Dog's development team as they reveal the creative process behind T
 <hr>
 
 
-## 14. [Santa's Boot Camp](https://serp.ly/@serpmedia/github/amazon/Santa%27s+Boot+Camp)
+## 14. [Santa's Boot Camp](https://serp.ly/amazon/Santa%27s+Boot+Camp)
 
 ![Santa's Boot Camp](https://image.tmdb.org/t/p/original/y7kzO8w6e3IL27qXV9eeznxzL5q.jpg)
 
@@ -584,7 +584,7 @@ When Christmas spirit goes missing and Santa's elves go on strike, six self-cent
 <hr>
 
 
-## 15. [A Cross to Bear](https://serp.ly/@serpmedia/github/amazon/A+Cross+to+Bear)
+## 15. [A Cross to Bear](https://serp.ly/amazon/A+Cross+to+Bear)
 
 ![A Cross to Bear](https://image.tmdb.org/t/p/original/uHkhFhwCTgPD20PO3FEW3vFCzPX.jpg)
 
@@ -618,7 +618,7 @@ Mother of a 15-month old daughter and a former dancer, this woman fights alcohol
 <hr>
 
 
-## 16. [School Girls; Or, The African Mean Girls Play](https://serp.ly/@serpmedia/github/amazon/School+Girls%3B+Or%2C+The+African+Mean+Girls+Play)
+## 16. [School Girls; Or, The African Mean Girls Play](https://serp.ly/amazon/School+Girls%3B+Or%2C+The+African+Mean+Girls+Play)
 
 ![School Girls; Or, The African Mean Girls Play](https://image.tmdb.org/t/p/original/k6rf2Kr2MDR5PgSis5ogN7Sss3.jpg)
 
@@ -649,7 +649,7 @@ At Ghana's most selective boarding school, Paulina reigns as the undisputed lead
 <hr>
 
 
-## 17. [White Water](https://serp.ly/@serpmedia/github/amazon/White+Water)
+## 17. [White Water](https://serp.ly/amazon/White+Water)
 
 ![White Water](https://image.tmdb.org/t/p/original/erRUKwPXS18GQBnZXGPwQatH7qp.jpg)
 
@@ -683,7 +683,7 @@ In 1963 Opelika, Alabama, a young black boy becomes obsessed with tasting the wa
 <hr>
 
 
-## 18. [The Spirit Game](https://serp.ly/@serpmedia/github/amazon/The+Spirit+Game)
+## 18. [The Spirit Game](https://serp.ly/amazon/The+Spirit+Game)
 
 ![The Spirit Game](https://image.tmdb.org/t/p/original/bBLhTkA6ipzC7rZlK6bb3QUWf6B.jpg)
 
@@ -719,7 +719,7 @@ In the mid-1800s, three sisters shock the world by claiming to communicate with 
 <hr>
 
 
-## 19. [Becoming Noble](https://serp.ly/@serpmedia/github/amazon/Becoming+Noble)
+## 19. [Becoming Noble](https://serp.ly/amazon/Becoming+Noble)
 
 <br>
 
@@ -740,7 +740,7 @@ When a high school senior discovers she's a princess of an African nation, she t
 <hr>
 
 
-## 20. [Sergeant X](https://serp.ly/@serpmedia/github/amazon/Sergeant+X)
+## 20. [Sergeant X](https://serp.ly/amazon/Sergeant+X)
 
 <br>
 
@@ -765,7 +765,7 @@ In a gritty tale of survival, a lone mercenary known only as Sergeant X saves a 
 <hr>
 
 
-## 21. [Get Lite](https://serp.ly/@serpmedia/github/amazon/Get+Lite)
+## 21. [Get Lite](https://serp.ly/amazon/Get+Lite)
 
 <br>
 
@@ -789,7 +789,7 @@ When a studious New York City teenager falls for a charismatic beatmaker, their 
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -835,7 +835,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [Chicago P.D.](https://serp.ly/@serpmedia/github/amazon/Chicago+P.D.)
+## 2. [Chicago P.D.](https://serp.ly/amazon/Chicago+P.D.)
 
 ![Chicago P.D.](https://image.tmdb.org/t/p/original/mZObarMPF76PGVmwywQ7Ks4UFpR.jpg)
 
@@ -881,7 +881,7 @@ Welcome home.
 <hr>
 
 
-## 3. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 3. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -925,7 +925,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 4. [NCIS: Los Angeles](https://serp.ly/@serpmedia/github/amazon/NCIS%3A+Los+Angeles)
+## 4. [NCIS: Los Angeles](https://serp.ly/amazon/NCIS%3A+Los+Angeles)
 
 ![NCIS: Los Angeles](https://image.tmdb.org/t/p/original/TIIgcznwNfNr3KOZvxn26eKV99.jpg)
 
@@ -969,7 +969,7 @@ When the Naval Criminal Investigative Service establishes a new office in Los An
 <hr>
 
 
-## 5. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 5. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -1011,7 +1011,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 6. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 6. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -1055,7 +1055,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 7. [Euphoria](https://serp.ly/@serpmedia/github/amazon/Euphoria)
+## 7. [Euphoria](https://serp.ly/amazon/Euphoria)
 
 ![Euphoria](https://image.tmdb.org/t/p/original/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg)
 
@@ -1101,7 +1101,7 @@ Remember this feeling.
 <hr>
 
 
-## 8. [The Last of Us](https://serp.ly/@serpmedia/github/amazon/The+Last+of+Us)
+## 8. [The Last of Us](https://serp.ly/amazon/The+Last+of+Us)
 
 ![The Last of Us](https://image.tmdb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg)
 
@@ -1147,7 +1147,7 @@ In a world where civilization has crumbled, hardened survivor Joel is given a sm
 <hr>
 
 
-## 9. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 9. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -1193,7 +1193,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 10. [MTV Movie & TV Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Movie+%26+TV+Awards)
+## 10. [MTV Movie & TV Awards](https://serp.ly/amazon/MTV+Movie+%26+TV+Awards)
 
 ![MTV Movie & TV Awards](https://image.tmdb.org/t/p/original/77FuUQrJVO8GcyCpfHBZOICINwm.jpg)
 
@@ -1239,7 +1239,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 11. [The Thundermans](https://serp.ly/@serpmedia/github/amazon/The+Thundermans)
+## 11. [The Thundermans](https://serp.ly/amazon/The+Thundermans)
 
 ![The Thundermans](https://image.tmdb.org/t/p/original/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg)
 
@@ -1281,7 +1281,7 @@ When ordinary family life intersects with extraordinary superpowers, the Thunder
 <hr>
 
 
-## 12. [When They See Us](https://serp.ly/@serpmedia/github/amazon/When+They+See+Us)
+## 12. [When They See Us](https://serp.ly/amazon/When+They+See+Us)
 
 ![When They See Us](https://image.tmdb.org/t/p/original/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg)
 
@@ -1325,7 +1325,7 @@ Five teens from Harlem find themselves trapped in a nightmare when they're false
 <hr>
 
 
-## 13. [Kids' Choice Awards](https://serp.ly/@serpmedia/github/amazon/Kids%27+Choice+Awards)
+## 13. [Kids' Choice Awards](https://serp.ly/amazon/Kids%27+Choice+Awards)
 
 ![Kids' Choice Awards](https://image.tmdb.org/t/p/original/7P0uk5BmadKP878JhPrK6KbZDh.jpg)
 
@@ -1371,7 +1371,7 @@ The Kids' Choice Awards have been bringing home the blimps since 1987, making it
 <hr>
 
 
-## 14. [Amend: The Fight for America](https://serp.ly/@serpmedia/github/amazon/Amend%3A+The+Fight+for+America)
+## 14. [Amend: The Fight for America](https://serp.ly/amazon/Amend%3A+The+Fight+for+America)
 
 ![Amend: The Fight for America](https://image.tmdb.org/t/p/original/a7i3jJe9rI7RSvlGoMB7aYI7XVt.jpg)
 
@@ -1413,7 +1413,7 @@ When the United States was founded, freedom and equality were luxuries reserved 
 <hr>
 
 
-## 15. [Adam Devine's House Party](https://serp.ly/@serpmedia/github/amazon/Adam+Devine%27s+House+Party)
+## 15. [Adam Devine's House Party](https://serp.ly/amazon/Adam+Devine%27s+House+Party)
 
 ![Adam Devine's House Party](https://image.tmdb.org/t/p/original/dx95fgWaWyCjyg5asvTYUzG0GxG.jpg)
 
@@ -1455,7 +1455,7 @@ When the United States was founded, freedom and equality were luxuries reserved 
 <hr>
 
 
-## 16. [People's Choice Awards](https://serp.ly/@serpmedia/github/amazon/People%27s+Choice+Awards)
+## 16. [People's Choice Awards](https://serp.ly/amazon/People%27s+Choice+Awards)
 
 ![People's Choice Awards](https://image.tmdb.org/t/p/original/yLGYNJ7kXaBjFoNvGrXru6SwTAc.jpg)
 
@@ -1499,7 +1499,7 @@ The People's Choice Awards is an American television series that celebrates ente
 <hr>
 
 
-## 17. [The Bravest Knight](https://serp.ly/@serpmedia/github/amazon/The+Bravest+Knight)
+## 17. [The Bravest Knight](https://serp.ly/amazon/The+Bravest+Knight)
 
 ![The Bravest Knight](https://image.tmdb.org/t/p/original/shQOswlI6DQPmy0hmSBHh91jlhQ.jpg)
 
@@ -1543,7 +1543,7 @@ The Bravest Knight chronicles Cedric's remarkable journey from pumpkin farmer to
 <hr>
 
 
-## 18. [Black Girls Rock!](https://serp.ly/@serpmedia/github/amazon/Black+Girls+Rock%21)
+## 18. [Black Girls Rock!](https://serp.ly/amazon/Black+Girls+Rock%21)
 
 ![Black Girls Rock!](https://image.tmdb.org/t/p/original/yQLJY3fxS5QNpT9NjPc08rgEIh5.jpg)
 

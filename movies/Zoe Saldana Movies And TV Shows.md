@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Avengers: Infinity War](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Infinity+War)
+## 1. [Avengers: Infinity War](https://serp.ly/amazon/Avengers%3A+Infinity+War)
 
 ![Avengers: Infinity War](https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg)
 
@@ -80,7 +80,7 @@ As the Avengers and their allies defend the world from threats beyond any single
 <hr>
 
 
-## 2. [Avatar](https://serp.ly/@serpmedia/github/amazon/Avatar)
+## 2. [Avatar](https://serp.ly/amazon/Avatar)
 
 ![Avatar](https://image.tmdb.org/t/p/original/kyeqWdyUXW608qlYkRqosgbbJyK.jpg)
 
@@ -120,7 +120,7 @@ Enter the world of Pandora.
 <hr>
 
 
-## 3. [Guardians of the Galaxy](https://serp.ly/@serpmedia/github/amazon/Guardians+of+the+Galaxy)
+## 3. [Guardians of the Galaxy](https://serp.ly/amazon/Guardians+of+the+Galaxy)
 
 ![Guardians of the Galaxy](https://image.tmdb.org/t/p/original/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg)
 
@@ -160,7 +160,7 @@ Light years from Earth, Peter Quill is back for his most daring adventure yet. A
 <hr>
 
 
-## 4. [Avengers: Endgame](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Endgame)
+## 4. [Avengers: Endgame](https://serp.ly/amazon/Avengers%3A+Endgame)
 
 ![Avengers: Endgame](https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg)
 
@@ -200,7 +200,7 @@ After the catastrophic events of Avengers: Infinity War, the universe lies in ru
 <hr>
 
 
-## 5. [Guardians of the Galaxy Vol. 2](https://serp.ly/@serpmedia/github/amazon/Guardians+of+the+Galaxy+Vol.+2)
+## 5. [Guardians of the Galaxy Vol. 2](https://serp.ly/amazon/Guardians+of+the+Galaxy+Vol.+2)
 
 ![Guardians of the Galaxy Vol. 2](https://image.tmdb.org/t/p/original/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg)
 
@@ -243,7 +243,7 @@ Join the Guardians of the Galaxy as they blast off for their most thrilling adve
 <hr>
 
 
-## 6. [Pirates of the Caribbean: The Curse of the Black Pearl](https://serp.ly/@serpmedia/github/amazon/Pirates+of+the+Caribbean%3A+The+Curse+of+the+Black+Pearl)
+## 6. [Pirates of the Caribbean: The Curse of the Black Pearl](https://serp.ly/amazon/Pirates+of+the+Caribbean%3A+The+Curse+of+the+Black+Pearl)
 
 ![Pirates of the Caribbean: The Curse of the Black Pearl](https://image.tmdb.org/t/p/original/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg)
 
@@ -286,7 +286,7 @@ Jack Sparrow, a charismatic 18th-century pirate, roams the high seas with his tr
 <hr>
 
 
-## 7. [Avatar: The Way of Water](https://serp.ly/@serpmedia/github/amazon/Avatar%3A+The+Way+of+Water)
+## 7. [Avatar: The Way of Water](https://serp.ly/amazon/Avatar%3A+The+Way+of+Water)
 
 ![Avatar: The Way of Water](https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg)
 
@@ -329,7 +329,7 @@ Return to Pandora in "Avatar: The Way of Water", a sweeping adventure following 
 <hr>
 
 
-## 8. [Star Trek](https://serp.ly/@serpmedia/github/amazon/Star+Trek)
+## 8. [Star Trek](https://serp.ly/amazon/Star+Trek)
 
 ![Star Trek](https://image.tmdb.org/t/p/original/lV5OpzAss1z06YNagOVap1I35mH.jpg)
 
@@ -372,7 +372,7 @@ When the galaxy faces its greatest threat, an unlikely alliance forms between Ja
 <hr>
 
 
-## 9. [Star Trek Into Darkness](https://serp.ly/@serpmedia/github/amazon/Star+Trek+Into+Darkness)
+## 9. [Star Trek Into Darkness](https://serp.ly/amazon/Star+Trek+Into+Darkness)
 
 ![Star Trek Into Darkness](https://image.tmdb.org/t/p/original/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg)
 
@@ -415,7 +415,7 @@ When the crew of the Enterprise is called back home, they find an unstoppable fo
 <hr>
 
 
-## 10. [The Terminal](https://serp.ly/@serpmedia/github/amazon/The+Terminal)
+## 10. [The Terminal](https://serp.ly/amazon/The+Terminal)
 
 ![The Terminal](https://image.tmdb.org/t/p/original/pXNomqKcKXAQbuWxehb2N3XFKfn.jpg)
 
@@ -460,7 +460,7 @@ Viktor Navorski boards a plane hoping to start a new life, but his journey takes
 <hr>
 
 
-## 11. [Guardians of the Galaxy Vol. 3](https://serp.ly/@serpmedia/github/amazon/Guardians+of+the+Galaxy+Vol.+3)
+## 11. [Guardians of the Galaxy Vol. 3](https://serp.ly/amazon/Guardians+of+the+Galaxy+Vol.+3)
 
 ![Guardians of the Galaxy Vol. 3](https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg)
 
@@ -501,7 +501,7 @@ On the heels of Gamora's tragic passing, Peter Quill channels his grief into a d
 <hr>
 
 
-## 12. [Star Trek Beyond](https://serp.ly/@serpmedia/github/amazon/Star+Trek+Beyond)
+## 12. [Star Trek Beyond](https://serp.ly/amazon/Star+Trek+Beyond)
 
 ![Star Trek Beyond](https://image.tmdb.org/t/p/original/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg)
 
@@ -541,7 +541,7 @@ Travel beyond the final frontier with the USS Enterprise crew as they explore un
 <hr>
 
 
-## 13. [The Adam Project](https://serp.ly/@serpmedia/github/amazon/The+Adam+Project)
+## 13. [The Adam Project](https://serp.ly/amazon/The+Adam+Project)
 
 ![The Adam Project](https://image.tmdb.org/t/p/original/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg)
 
@@ -582,7 +582,7 @@ When time-bending pilot Adam Reed crashes into 2022, he teams up with his 12-yea
 <hr>
 
 
-## 14. [The Book of Life](https://serp.ly/@serpmedia/github/amazon/The+Book+of+Life)
+## 14. [The Book of Life](https://serp.ly/amazon/The+Book+of+Life)
 
 ![The Book of Life](https://image.tmdb.org/t/p/original/aotTZos5KswgCryEzx2rlOjFsm1.jpg)
 
@@ -622,7 +622,7 @@ Join Manolo on an extraordinary journey through three fantastical worlds as he f
 <hr>
 
 
-## 15. [Colombiana](https://serp.ly/@serpmedia/github/amazon/Colombiana)
+## 15. [Colombiana](https://serp.ly/amazon/Colombiana)
 
 ![Colombiana](https://image.tmdb.org/t/p/original/rEdGDgRB3gducezNSIyx2lbKQy4.jpg)
 
@@ -665,7 +665,7 @@ In "Colombiana", a young Cataleya Restrepo witnesses her parents' murder in Bogo
 <hr>
 
 
-## 16. [Vantage Point](https://serp.ly/@serpmedia/github/amazon/Vantage+Point)
+## 16. [Vantage Point](https://serp.ly/amazon/Vantage+Point)
 
 ![Vantage Point](https://image.tmdb.org/t/p/original/4mSh7NZiW36rUbpIgcKeGVcbSSx.jpg)
 
@@ -708,7 +708,7 @@ When the President of the United States becomes the target of an assassination a
 <hr>
 
 
-## 17. [Out of the Furnace](https://serp.ly/@serpmedia/github/amazon/Out+of+the+Furnace)
+## 17. [Out of the Furnace](https://serp.ly/amazon/Out+of+the+Furnace)
 
 ![Out of the Furnace](https://image.tmdb.org/t/p/original/cOuQQ4eRpSBxb0G9OXzWE1pHPeq.jpg)
 
@@ -748,7 +748,7 @@ In a tale of brotherly bonds tested by fate, "Out of the Furnace" plunges viewer
 <hr>
 
 
-## 18. [The Losers](https://serp.ly/@serpmedia/github/amazon/The+Losers)
+## 18. [The Losers](https://serp.ly/amazon/The+Losers)
 
 ![The Losers](https://image.tmdb.org/t/p/original/e5oD3fuQpjZ8Po6WNW0VkUJmW52.jpg)
 
@@ -791,7 +791,7 @@ Deep in the Bolivian jungle, an elite commando team battles their deadliest enem
 <hr>
 
 
-## 19. [Amsterdam](https://serp.ly/@serpmedia/github/amazon/Amsterdam)
+## 19. [Amsterdam](https://serp.ly/amazon/Amsterdam)
 
 ![Amsterdam](https://image.tmdb.org/t/p/original/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg)
 
@@ -832,7 +832,7 @@ In 1930s Amsterdam, three young friends witness a murder that changes their live
 <hr>
 
 
-## 20. [Live by Night](https://serp.ly/@serpmedia/github/amazon/Live+by+Night)
+## 20. [Live by Night](https://serp.ly/amazon/Live+by+Night)
 
 ![Live by Night](https://image.tmdb.org/t/p/original/bkd46T4RplawnDjpHoI8mhzTLks.jpg)
 
@@ -877,7 +877,7 @@ When a group of Boston gangsters moves to Florida during Prohibition, their new 
 <hr>
 
 
-## 21. [Takers](https://serp.ly/@serpmedia/github/amazon/Takers)
+## 21. [Takers](https://serp.ly/amazon/Takers)
 
 ![Takers](https://image.tmdb.org/t/p/original/2It3pUKN9EdG1bIzfvKJccd0gW8.jpg)
 
@@ -917,7 +917,7 @@ When a skilled team of bank robbers plans their most ambitious heist yet, their 
 <hr>
 
 
-## 22. [The Words](https://serp.ly/@serpmedia/github/amazon/The+Words)
+## 22. [The Words](https://serp.ly/amazon/The+Words)
 
 ![The Words](https://image.tmdb.org/t/p/original/aJtPLZS7tlpiQl6pEr8H42K565x.jpg)
 
@@ -960,7 +960,7 @@ When young writer Rory Jansen finally achieves literary success, his triumph is 
 <hr>
 
 
-## 23. [I Kill Giants](https://serp.ly/@serpmedia/github/amazon/I+Kill+Giants)
+## 23. [I Kill Giants](https://serp.ly/amazon/I+Kill+Giants)
 
 ![I Kill Giants](https://image.tmdb.org/t/p/original/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg)
 
@@ -1001,7 +1001,7 @@ Sophia's freshman year at a new high school leads her to an extraordinary friend
 <hr>
 
 
-## 24. [Missing Link](https://serp.ly/@serpmedia/github/amazon/Missing+Link)
+## 24. [Missing Link](https://serp.ly/amazon/Missing+Link)
 
 ![Missing Link](https://image.tmdb.org/t/p/original/gEkKHiiQRVUSX15Iwo8VFydXrtu.jpg)
 
@@ -1041,7 +1041,7 @@ Sir Lionel Frost, a charismatic detective of myths and monsters, journeys to the
 <hr>
 
 
-## 25. [Death at a Funeral](https://serp.ly/@serpmedia/github/amazon/Death+at+a+Funeral)
+## 25. [Death at a Funeral](https://serp.ly/amazon/Death+at+a+Funeral)
 
 ![Death at a Funeral](https://image.tmdb.org/t/p/original/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg)
 
@@ -1081,7 +1081,7 @@ Aaron's father's funeral turns into the weirdest day of his life. At their famil
 <hr>
 
 
-## 26. [Guess Who](https://serp.ly/@serpmedia/github/amazon/Guess+Who)
+## 26. [Guess Who](https://serp.ly/amazon/Guess+Who)
 
 ![Guess Who](https://image.tmdb.org/t/p/original/lTMxu2Ceu3L3p0uBqYLWG00vu11.jpg)
 
@@ -1124,7 +1124,7 @@ Guess Who is a 2005 romantic comedy about a young African-American woman who bri
 <hr>
 
 
-## 27. [Vivo](https://serp.ly/@serpmedia/github/amazon/Vivo)
+## 27. [Vivo](https://serp.ly/amazon/Vivo)
 
 ![Vivo](https://image.tmdb.org/t/p/original/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg)
 
@@ -1163,7 +1163,7 @@ Vivo, a music-loving kinkajou, embarks on a remarkable journey to deliver a love
 <hr>
 
 
-## 28. [Drumline](https://serp.ly/@serpmedia/github/amazon/Drumline)
+## 28. [Drumline](https://serp.ly/amazon/Drumline)
 
 ![Drumline](https://image.tmdb.org/t/p/original/zl7gdxYqKdFCioPT3DAkZR5DDUP.jpg)
 
@@ -1203,7 +1203,7 @@ When a talented Harlem drummer joins a Southern university's marching band, he e
 <hr>
 
 
-## 29. [Crossroads](https://serp.ly/@serpmedia/github/amazon/Crossroads)
+## 29. [Crossroads](https://serp.ly/amazon/Crossroads)
 
 ![Crossroads](https://image.tmdb.org/t/p/original/cxSZZJBbREsWaRREBIY0DRH08B5.jpg)
 
@@ -1246,7 +1246,7 @@ Three childhood friends - Lucy, Kit, and Mimi - reconnect after eight years apar
 <hr>
 
 
-## 30. [Blood Ties](https://serp.ly/@serpmedia/github/amazon/Blood+Ties)
+## 30. [Blood Ties](https://serp.ly/amazon/Blood+Ties)
 
 ![Blood Ties](https://image.tmdb.org/t/p/original/7tMuywiZUoaAihEIkCu3BAL1xPC.jpg)
 
@@ -1288,7 +1288,7 @@ In 1970s Brooklyn, two brothers find themselves on opposite sides of organized c
 <hr>
 
 
-## 31. [My Little Pony: The Movie](https://serp.ly/@serpmedia/github/amazon/My+Little+Pony%3A+The+Movie)
+## 31. [My Little Pony: The Movie](https://serp.ly/amazon/My+Little+Pony%3A+The+Movie)
 
 ![My Little Pony: The Movie](https://image.tmdb.org/t/p/original/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg)
 
@@ -1328,7 +1328,7 @@ A shadowy menace looms over Ponyville, threatening to eradicate its magical esse
 <hr>
 
 
-## 32. [Infinitely Polar Bear](https://serp.ly/@serpmedia/github/amazon/Infinitely+Polar+Bear)
+## 32. [Infinitely Polar Bear](https://serp.ly/amazon/Infinitely+Polar+Bear)
 
 ![Infinitely Polar Bear](https://image.tmdb.org/t/p/original/knQuQkoqNLXKvdwcjgGpY1gzmJa.jpg)
 
@@ -1371,7 +1371,7 @@ When a father's mental health spirals out of control, he makes an impulsive deci
 <hr>
 
 
-## 33. [Center Stage](https://serp.ly/@serpmedia/github/amazon/Center+Stage)
+## 33. [Center Stage](https://serp.ly/amazon/Center+Stage)
 
 ![Center Stage](https://image.tmdb.org/t/p/original/95Et0t08Nv6S8FD593HpXyvcRt8.jpg)
 
@@ -1411,7 +1411,7 @@ When 12 diverse teenagers enroll at the American Ballet Academy in New York, the
 <hr>
 
 
-## 34. [Vampires vs. the Bronx](https://serp.ly/@serpmedia/github/amazon/Vampires+vs.+the+Bronx)
+## 34. [Vampires vs. the Bronx](https://serp.ly/amazon/Vampires+vs.+the+Bronx)
 
 ![Vampires vs. the Bronx](https://image.tmdb.org/t/p/original/rcdBUbbYNccz8q9LOuBEKC1avMA.jpg)
 
@@ -1447,7 +1447,7 @@ In a rapidly gentrifying Bronx neighborhood, three gutsy kids uncover a sinister
 <hr>
 
 
-## 35. [Get Over It](https://serp.ly/@serpmedia/github/amazon/Get+Over+It)
+## 35. [Get Over It](https://serp.ly/amazon/Get+Over+It)
 
 ![Get Over It](https://image.tmdb.org/t/p/original/saVWvLE0haJTrH1c1YS68VTDKyC.jpg)
 
@@ -1487,7 +1487,7 @@ When high school basketball star Berke Landers gets dumped by his longtime girlf
 <hr>
 
 
-## 36. [For the Love of Spock](https://serp.ly/@serpmedia/github/amazon/For+the+Love+of+Spock)
+## 36. [For the Love of Spock](https://serp.ly/amazon/For+the+Love+of+Spock)
 
 ![For the Love of Spock](https://image.tmdb.org/t/p/original/1pDgqNx9GdW82QJU4Rc6egT3YAG.jpg)
 
@@ -1526,7 +1526,7 @@ Live long...
 <hr>
 
 
-## 37. [After Sex](https://serp.ly/@serpmedia/github/amazon/After+Sex)
+## 37. [After Sex](https://serp.ly/amazon/After+Sex)
 
 ![After Sex](https://image.tmdb.org/t/p/original/4n41P5CKHFFkQ3s8VJieNmqUkn7.jpg)
 
@@ -1564,7 +1564,7 @@ Sex is just the beginning of the conversation in this intimate look at modern re
 <hr>
 
 
-## 38. [Avatar: Creating the World of Pandora](https://serp.ly/@serpmedia/github/amazon/Avatar%3A+Creating+the+World+of+Pandora)
+## 38. [Avatar: Creating the World of Pandora](https://serp.ly/amazon/Avatar%3A+Creating+the+World+of+Pandora)
 
 ![Avatar: Creating the World of Pandora](https://image.tmdb.org/t/p/original/d9oqcfeCyc3zmMal6eJbfj3gatc.jpg)
 
@@ -1598,7 +1598,7 @@ Sex is just the beginning of the conversation in this intimate look at modern re
 <hr>
 
 
-## 39. [Dirty Deeds](https://serp.ly/@serpmedia/github/amazon/Dirty+Deeds)
+## 39. [Dirty Deeds](https://serp.ly/amazon/Dirty+Deeds)
 
 ![Dirty Deeds](https://image.tmdb.org/t/p/original/fw9FRxhBftqehUVBCvsXwNQnPsw.jpg)
 
@@ -1634,7 +1634,7 @@ According to high school legend, the "Dirty Deeds" are a notorious list of chall
 <hr>
 
 
-## 40. [Capturing Avatar](https://serp.ly/@serpmedia/github/amazon/Capturing+Avatar)
+## 40. [Capturing Avatar](https://serp.ly/amazon/Capturing+Avatar)
 
 ![Capturing Avatar](https://image.tmdb.org/t/p/original/26SMEXJl3978dn2svWBSqHbLl5U.jpg)
 
@@ -1670,7 +1670,7 @@ According to high school legend, the "Dirty Deeds" are a notorious list of chall
 <hr>
 
 
-## 41. [Good Burger 2](https://serp.ly/@serpmedia/github/amazon/Good+Burger+2)
+## 41. [Good Burger 2](https://serp.ly/amazon/Good+Burger+2)
 
 ![Good Burger 2](https://image.tmdb.org/t/p/original/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg)
 
@@ -1709,7 +1709,7 @@ Join Dexter Reed as he returns to Good Burger, the only place that understands h
 <hr>
 
 
-## 42. [Avatar: The Deep Dive - A Special Edition of 20/20](https://serp.ly/@serpmedia/github/amazon/Avatar%3A+The+Deep+Dive+-+A+Special+Edition+of+20%2F20)
+## 42. [Avatar: The Deep Dive - A Special Edition of 20/20](https://serp.ly/amazon/Avatar%3A+The+Deep+Dive+-+A+Special+Edition+of+20%2F20)
 
 ![Avatar: The Deep Dive - A Special Edition of 20/20](https://image.tmdb.org/t/p/original/i367eMUXwj9LtNqrVlw1NXGRLx7.jpg)
 
@@ -1740,7 +1740,7 @@ Join Dexter Reed as he returns to Good Burger, the only place that understands h
 <hr>
 
 
-## 43. [Haven](https://serp.ly/@serpmedia/github/amazon/Haven)
+## 43. [Haven](https://serp.ly/amazon/Haven)
 
 ![Haven](https://image.tmdb.org/t/p/original/cV6rQ2wPN5I58d34DHyFAmO36BF.jpg)
 
@@ -1779,7 +1779,7 @@ In the Cayman Islands, two British businessmen on the run from federal prosecuti
 <hr>
 
 
-## 44. [The Skeptic](https://serp.ly/@serpmedia/github/amazon/The+Skeptic)
+## 44. [The Skeptic](https://serp.ly/amazon/The+Skeptic)
 
 ![The Skeptic](https://image.tmdb.org/t/p/original/x7K5DIDhCwqDD9VIMVCMdDld9pK.jpg)
 
@@ -1815,7 +1815,7 @@ When a successful lawyer inherits his aunt's house, he brings his rational mind 
 <hr>
 
 
-## 45. [Nina](https://serp.ly/@serpmedia/github/amazon/Nina)
+## 45. [Nina](https://serp.ly/amazon/Nina)
 
 ![Nina](https://image.tmdb.org/t/p/original/2nU3l3NYaVVIaglkAvBtsXjdvmI.jpg)
 
@@ -1854,7 +1854,7 @@ Nina Simone was a musical force, equally at home with jazz and classical piano. 
 <hr>
 
 
-## 46. [Love, Antosha](https://serp.ly/@serpmedia/github/amazon/Love%2C+Antosha)
+## 46. [Love, Antosha](https://serp.ly/amazon/Love%2C+Antosha)
 
 ![Love, Antosha](https://image.tmdb.org/t/p/original/AntNP1sX7qKBT7hSYM4248RKMaL.jpg)
 
@@ -1890,7 +1890,7 @@ The extraordinary and unfinished life of Anton Yelchin
 <hr>
 
 
-## 47. [Burning Palms](https://serp.ly/@serpmedia/github/amazon/Burning+Palms)
+## 47. [Burning Palms](https://serp.ly/amazon/Burning+Palms)
 
 ![Burning Palms](https://image.tmdb.org/t/p/original/6uNS6wOGGUgaUNtXMz32usyAmhH.jpg)
 
@@ -1931,7 +1931,7 @@ Five Tales That Will F#%! You Up For Life
 <hr>
 
 
-## 48. [Unity](https://serp.ly/@serpmedia/github/amazon/Unity)
+## 48. [Unity](https://serp.ly/amazon/Unity)
 
 ![Unity](https://image.tmdb.org/t/p/original/pXskMoxwrtGdPXqB9AJgWzjWaIR.jpg)
 
@@ -1970,7 +1970,7 @@ UNITY explores why, despite countless years of scientific, literary, and technol
 <hr>
 
 
-## 49. [This Changes Everything](https://serp.ly/@serpmedia/github/amazon/This+Changes+Everything)
+## 49. [This Changes Everything](https://serp.ly/amazon/This+Changes+Everything)
 
 ![This Changes Everything](https://image.tmdb.org/t/p/original/gfKlmduljimRyNMgWDCBQSxbW7d.jpg)
 
@@ -2013,7 +2013,7 @@ Voices can't be silenced forever
 <hr>
 
 
-## 50. [Guide to the Galaxy with James Gunn](https://serp.ly/@serpmedia/github/amazon/Guide+to+the+Galaxy+with+James+Gunn)
+## 50. [Guide to the Galaxy with James Gunn](https://serp.ly/amazon/Guide+to+the+Galaxy+with+James+Gunn)
 
 ![Guide to the Galaxy with James Gunn](https://image.tmdb.org/t/p/original/6Npw2utmyIdfqYlXgSZnEeN1eBR.jpg)
 
@@ -2049,7 +2049,7 @@ Director James Gunn teams up with his 8-bit avatar for an exclusive look behind 
 <hr>
 
 
-## 51. [Always at The Carlyle](https://serp.ly/@serpmedia/github/amazon/Always+at+The+Carlyle)
+## 51. [Always at The Carlyle](https://serp.ly/amazon/Always+at+The+Carlyle)
 
 ![Always at The Carlyle](https://image.tmdb.org/t/p/original/ywkkKF4abwARo9WBk6WrwcGNn6B.jpg)
 
@@ -2086,7 +2086,7 @@ The Carlyle hotel has long been a favorite among both international travelers an
 <hr>
 
 
-## 52. [I Ain't Scared of You: A Tribute to Bernie Mac](https://serp.ly/@serpmedia/github/amazon/I+Ain%27t+Scared+of+You%3A+A+Tribute+to+Bernie+Mac)
+## 52. [I Ain't Scared of You: A Tribute to Bernie Mac](https://serp.ly/amazon/I+Ain%27t+Scared+of+You%3A+A+Tribute+to+Bernie+Mac)
 
 ![I Ain't Scared of You: A Tribute to Bernie Mac](https://image.tmdb.org/t/p/original/ot9npbxeqPdo1IKkxmEPBpC7kDh.jpg)
 
@@ -2120,7 +2120,7 @@ The Carlyle hotel has long been a favorite among both international travelers an
 <hr>
 
 
-## 53. [Snipes](https://serp.ly/@serpmedia/github/amazon/Snipes)
+## 53. [Snipes](https://serp.ly/amazon/Snipes)
 
 ![Snipes](https://image.tmdb.org/t/p/original/rkBTfdMulRHcT3fg6Vd0o2623Kc.jpg)
 
@@ -2156,7 +2156,7 @@ The Carlyle hotel has long been a favorite among both international travelers an
 <hr>
 
 
-## 54. [Quantum Is Calling](https://serp.ly/@serpmedia/github/amazon/Quantum+Is+Calling)
+## 54. [Quantum Is Calling](https://serp.ly/amazon/Quantum+Is+Calling)
 
 ![Quantum Is Calling](https://image.tmdb.org/t/p/original/29UoBZkxFlIE4XbkxOZz7jnXk73.jpg)
 
@@ -2190,7 +2190,7 @@ When Zoe Saldana's character enlists the help of Stephen Hawking to solve a quan
 <hr>
 
 
-## 55. [Premium](https://serp.ly/@serpmedia/github/amazon/Premium)
+## 55. [Premium](https://serp.ly/amazon/Premium)
 
 ![Premium](https://image.tmdb.org/t/p/original/46OYS82E5RMH06680JuKapHPWQX.jpg)
 
@@ -2224,7 +2224,7 @@ When struggling actor Reginald "Cool" Coolidge runs into his ex-fiancé at his m
 <hr>
 
 
-## 56. [Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled%3A+The+Making+of+the+Guardians+of+the+Galaxy+Vol.+3)
+## 56. [Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3](https://serp.ly/amazon/Marvel+Studios+Assembled%3A+The+Making+of+the+Guardians+of+the+Galaxy+Vol.+3)
 
 ![Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3](https://image.tmdb.org/t/p/original/w9rY9CT7pI3pl6ATcAS7bXrIDc5.jpg)
 
@@ -2255,7 +2255,7 @@ Join visionary director James Gunn alongside superstars Chris Pratt and Zoe Sald
 <hr>
 
 
-## 57. [Blackout](https://serp.ly/@serpmedia/github/amazon/Blackout)
+## 57. [Blackout](https://serp.ly/amazon/Blackout)
 
 ![Blackout](https://image.tmdb.org/t/p/original/3ZsV2fjYCNhnmGlJTlfIUwjRixI.jpg)
 
@@ -2289,7 +2289,7 @@ BLACKOUT explores the human tendency to exploit vulnerability, set against the b
 <hr>
 
 
-## 58. [Britney: The Videos](https://serp.ly/@serpmedia/github/amazon/Britney%3A+The+Videos)
+## 58. [Britney: The Videos](https://serp.ly/amazon/Britney%3A+The+Videos)
 
 ![Britney: The Videos](https://image.tmdb.org/t/p/original/pcuNz9Js8Rp7wLJj7Uym8WHjWdy.jpg)
 
@@ -2323,7 +2323,7 @@ BLACKOUT explores the human tendency to exploit vulnerability, set against the b
 <hr>
 
 
-## 59. [The Curse of Father Cardona](https://serp.ly/@serpmedia/github/amazon/The+Curse+of+Father+Cardona)
+## 59. [The Curse of Father Cardona](https://serp.ly/amazon/The+Curse+of+Father+Cardona)
 
 ![The Curse of Father Cardona](https://image.tmdb.org/t/p/original/22g7bdO5VLVa12W7e91lWbOzvOi.jpg)
 
@@ -2357,7 +2357,7 @@ When a Catholic priest arrives in a small Spanish town to investigate mysterious
 <hr>
 
 
-## 60. [Constellation](https://serp.ly/@serpmedia/github/amazon/Constellation)
+## 60. [Constellation](https://serp.ly/amazon/Constellation)
 
 ![Constellation](https://image.tmdb.org/t/p/original/kaNT4PrMej0WkTwN6G7vM8zplxN.jpg)
 
@@ -2397,7 +2397,7 @@ Constellation delves into the complexities of an African-American family in the 
 <hr>
 
 
-## 61. [Inside Pandora's Box](https://serp.ly/@serpmedia/github/amazon/Inside+Pandora%27s+Box)
+## 61. [Inside Pandora's Box](https://serp.ly/amazon/Inside+Pandora%27s+Box)
 
 ![Inside Pandora's Box](https://image.tmdb.org/t/p/original/AfgknOHKvnVF0jbOrvu2n8g2m4n.jpg)
 
@@ -2428,7 +2428,7 @@ Constellation delves into the complexities of an African-American family in the 
 <hr>
 
 
-## 62. [The Heart Specialist](https://serp.ly/@serpmedia/github/amazon/The+Heart+Specialist)
+## 62. [The Heart Specialist](https://serp.ly/amazon/The+Heart+Specialist)
 
 ![The Heart Specialist](https://image.tmdb.org/t/p/original/63MJXHs9xSYrFoVcNNQgekQ6zG1.jpg)
 
@@ -2462,7 +2462,7 @@ When Harvard Medical School graduate Ray Howard trades his East Coast life for a
 <hr>
 
 
-## 63. [The Absence of Eden](https://serp.ly/@serpmedia/github/amazon/The+Absence+of+Eden)
+## 63. [The Absence of Eden](https://serp.ly/amazon/The+Absence+of+Eden)
 
 ![The Absence of Eden](https://image.tmdb.org/t/p/original/vbkxza3vqw1KG010Q8b009quJxK.jpg)
 
@@ -2496,7 +2496,7 @@ When Harvard Medical School graduate Ray Howard trades his East Coast life for a
 <hr>
 
 
-## 64. [The Legend of Red Hand](https://serp.ly/@serpmedia/github/amazon/The+Legend+of+Red+Hand)
+## 64. [The Legend of Red Hand](https://serp.ly/amazon/The+Legend+of+Red+Hand)
 
 ![The Legend of Red Hand](https://image.tmdb.org/t/p/original/p4ddsfSTxPcWyogBmc3z2cJYPoT.jpg)
 
@@ -2530,7 +2530,7 @@ In this 2018 Italian short film, reporter Mia Parc chases the lead of a lifetime
 <hr>
 
 
-## 65. [Hummingbird](https://serp.ly/@serpmedia/github/amazon/Hummingbird)
+## 65. [Hummingbird](https://serp.ly/amazon/Hummingbird)
 
 <br>
 
@@ -2554,7 +2554,7 @@ When a skilled assassin takes on her latest target, she stumbles into a web of s
 <hr>
 
 
-## 66. [2nd Unit: Invisible Action Stars](https://serp.ly/@serpmedia/github/amazon/2nd+Unit%3A+Invisible+Action+Stars)
+## 66. [2nd Unit: Invisible Action Stars](https://serp.ly/amazon/2nd+Unit%3A+Invisible+Action+Stars)
 
 ![2nd Unit: Invisible Action Stars](https://image.tmdb.org/t/p/original/yzAM7UpaTplyfLmNIGmG3s68iGf.jpg)
 
@@ -2580,7 +2580,7 @@ Join us as we peel back the curtain on a vital yet often overlooked aspect of ac
 <hr>
 
 
-## 67. [Hollywood's Hard Hitters: Women in Action](https://serp.ly/@serpmedia/github/amazon/Hollywood%27s+Hard+Hitters%3A+Women+in+Action)
+## 67. [Hollywood's Hard Hitters: Women in Action](https://serp.ly/amazon/Hollywood%27s+Hard+Hitters%3A+Women+in+Action)
 
 ![Hollywood's Hard Hitters: Women in Action](https://image.tmdb.org/t/p/original/yOdeX38fj7vHmiHnma5XrJYCywu.jpg)
 
@@ -2608,7 +2608,7 @@ Part two of this all-female documentary follows Hollywood's leading stunt perfor
 <hr>
 
 
-## 68. [Emilia Pérez](https://serp.ly/@serpmedia/github/amazon/Emilia+P%C3%A9rez)
+## 68. [Emilia Pérez](https://serp.ly/amazon/Emilia+P%C3%A9rez)
 
 ![Emilia Pérez](https://image.tmdb.org/t/p/original/r5sYdlJFys6YETQb63lvRR4fKEL.jpg)
 
@@ -2638,7 +2638,7 @@ When the leader of a criminal organization hires Rita, an unconventional lawyer 
 <hr>
 
 
-## 69. [Avatar 3](https://serp.ly/@serpmedia/github/amazon/Avatar+3)
+## 69. [Avatar 3](https://serp.ly/amazon/Avatar+3)
 
 ![Avatar 3](https://image.tmdb.org/t/p/original/eZXoA5BjUxm1fdAKb3lPvbDY2L8.jpg)
 
@@ -2665,7 +2665,7 @@ When the leader of a criminal organization hires Rita, an unconventional lawyer 
 <hr>
 
 
-## 70. [Avatar 4](https://serp.ly/@serpmedia/github/amazon/Avatar+4)
+## 70. [Avatar 4](https://serp.ly/amazon/Avatar+4)
 
 ![Avatar 4](https://image.tmdb.org/t/p/original/xGcd3ob2DWC3TmlVhnJg1RLyTGi.jpg)
 
@@ -2694,7 +2694,7 @@ When the leader of a criminal organization hires Rita, an unconventional lawyer 
 <hr>
 
 
-## 71. [Sesame Street: Play All Day with Elmo!](https://serp.ly/@serpmedia/github/amazon/Sesame+Street%3A+Play+All+Day+with+Elmo%21)
+## 71. [Sesame Street: Play All Day with Elmo!](https://serp.ly/amazon/Sesame+Street%3A+Play+All+Day+with+Elmo%21)
 
 ![Sesame Street: Play All Day with Elmo!](https://image.tmdb.org/t/p/original/pyMLdJMHC9C8fbBF5c7LkywRgwS.jpg)
 
@@ -2719,7 +2719,7 @@ Join Elmo and his friends for a day of fun games and activities! They'll be play
 <hr>
 
 
-## 72. [Avatar 5](https://serp.ly/@serpmedia/github/amazon/Avatar+5)
+## 72. [Avatar 5](https://serp.ly/amazon/Avatar+5)
 
 ![Avatar 5](https://image.tmdb.org/t/p/original/vAvLQOyFoire5x8AmRNfvgkvrMZ.jpg)
 
@@ -2746,7 +2746,7 @@ Avatar 5 continues the groundbreaking franchise that forever changed sci-fi cine
 <hr>
 
 
-## 73. [Sabaya](https://serp.ly/@serpmedia/github/amazon/Sabaya)
+## 73. [Sabaya](https://serp.ly/amazon/Sabaya)
 
 <br>
 
@@ -2770,7 +2770,7 @@ When a female CIA officer encounters a 15-year-old Yazidi girl who has escaped I
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -2816,7 +2816,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -2862,7 +2862,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [Tamron Hall](https://serp.ly/@serpmedia/github/amazon/Tamron+Hall)
+## 3. [Tamron Hall](https://serp.ly/amazon/Tamron+Hall)
 
 ![Tamron Hall](https://image.tmdb.org/t/p/original/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg)
 
@@ -2906,7 +2906,7 @@ Tamron Hall brings her extensive experience as a news host and journalist to thi
 <hr>
 
 
-## 4. [Law & Order](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order)
+## 4. [Law & Order](https://serp.ly/amazon/Law+%26+Order)
 
 ![Law & Order](https://image.tmdb.org/t/p/original/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg)
 
@@ -2952,7 +2952,7 @@ Truth leads the way.
 <hr>
 
 
-## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -2996,7 +2996,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+Craig+Ferguson)
+## 6. [The Late Late Show with Craig Ferguson](https://serp.ly/amazon/The+Late+Late+Show+with+Craig+Ferguson)
 
 ![The Late Late Show with Craig Ferguson](https://image.tmdb.org/t/p/original/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg)
 
@@ -3038,7 +3038,7 @@ The Late Late Show with Craig Ferguson invites you into a unique late-night conv
 <hr>
 
 
-## 7. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 7. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -3080,7 +3080,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 8. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 8. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -3122,7 +3122,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 9. [Honest Trailers](https://serp.ly/@serpmedia/github/amazon/Honest+Trailers)
+## 9. [Honest Trailers](https://serp.ly/amazon/Honest+Trailers)
 
 ![Honest Trailers](https://image.tmdb.org/t/p/original/5wZDu7JVXqmzJLthh1ngIfLmKIS.jpg)
 
@@ -3166,7 +3166,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 10. [Comedy Bang! Bang!](https://serp.ly/@serpmedia/github/amazon/Comedy+Bang%21+Bang%21)
+## 10. [Comedy Bang! Bang!](https://serp.ly/amazon/Comedy+Bang%21+Bang%21)
 
 ![Comedy Bang! Bang!](https://image.tmdb.org/t/p/original/5undCFoglpvKYFmu404ve9mh6on.jpg)
 
@@ -3210,7 +3210,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 11. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 11. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -3252,7 +3252,7 @@ COMEDY BANG! BANG! brings Scott Aukerman's popular podcast to life on television
 <hr>
 
 
-## 12. [Marvel Studios Legends](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Legends)
+## 12. [Marvel Studios Legends](https://serp.ly/amazon/Marvel+Studios+Legends)
 
 ![Marvel Studios Legends](https://image.tmdb.org/t/p/original/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg)
 
@@ -3298,7 +3298,7 @@ As the universe expands, explore the stories of those destined to become legends
 <hr>
 
 
-## 13. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 13. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -3342,7 +3342,7 @@ As the universe expands, explore the stories of those destined to become legends
 <hr>
 
 
-## 14. [Project Runway](https://serp.ly/@serpmedia/github/amazon/Project+Runway)
+## 14. [Project Runway](https://serp.ly/amazon/Project+Runway)
 
 ![Project Runway](https://image.tmdb.org/t/p/original/3JKvoVulQXwibxdGQYqBQyZBlBj.jpg)
 
@@ -3388,7 +3388,7 @@ Project Runway invites you to witness the relentless passion and raw talent of a
 <hr>
 
 
-## 15. [Lioness](https://serp.ly/@serpmedia/github/amazon/Lioness)
+## 15. [Lioness](https://serp.ly/amazon/Lioness)
 
 ![Lioness](https://image.tmdb.org/t/p/original/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg)
 
@@ -3432,7 +3432,7 @@ When a young Marine named Cruz Manuelos is recruited into the CIA's Lioness Enga
 <hr>
 
 
-## 16. [Punk'd](https://serp.ly/@serpmedia/github/amazon/Punk%27d)
+## 16. [Punk'd](https://serp.ly/amazon/Punk%27d)
 
 ![Punk'd](https://image.tmdb.org/t/p/original/sqcaFHnnJU1nIbUikN3cpm9Mjn9.jpg)
 
@@ -3474,7 +3474,7 @@ When the biggest stars in the world get too high on the Hollywood hog, Master pr
 <hr>
 
 
-## 17. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 17. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -3518,7 +3518,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 18. [James Cameron's Story of Science Fiction](https://serp.ly/@serpmedia/github/amazon/James+Cameron%27s+Story+of+Science+Fiction)
+## 18. [James Cameron's Story of Science Fiction](https://serp.ly/amazon/James+Cameron%27s+Story+of+Science+Fiction)
 
 ![James Cameron's Story of Science Fiction](https://image.tmdb.org/t/p/original/qhanotOZnOdgmCZonug5anT0mFo.jpg)
 
@@ -3560,7 +3560,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 19. [Rosemary's Baby](https://serp.ly/@serpmedia/github/amazon/Rosemary%27s+Baby)
+## 19. [Rosemary's Baby](https://serp.ly/amazon/Rosemary%27s+Baby)
 
 ![Rosemary's Baby](https://image.tmdb.org/t/p/original/rJ9lgdZd8qGabCy4HJXSy5nJjYP.jpg)
 
@@ -3604,7 +3604,7 @@ When young Rosemary Woodhouse and her husband Guy move in with a wealthy couple,
 <hr>
 
 
-## 20. [The Real History of Science Fiction](https://serp.ly/@serpmedia/github/amazon/The+Real+History+of+Science+Fiction)
+## 20. [The Real History of Science Fiction](https://serp.ly/amazon/The+Real+History+of+Science+Fiction)
 
 ![The Real History of Science Fiction](https://image.tmdb.org/t/p/original/xCPZ8trSwZPG3mf9kGViYNMW0BS.jpg)
 
@@ -3648,7 +3648,7 @@ When young Rosemary Woodhouse and her husband Guy move in with a wealthy couple,
 <hr>
 
 
-## 21. [Home Movie: The Princess Bride](https://serp.ly/@serpmedia/github/amazon/Home+Movie%3A+The+Princess+Bride)
+## 21. [Home Movie: The Princess Bride](https://serp.ly/amazon/Home+Movie%3A+The+Princess+Bride)
 
 ![Home Movie: The Princess Bride](https://image.tmdb.org/t/p/original/v2cyF2PZB2GQBP4fzGG57Xg0r3w.jpg)
 
@@ -3690,7 +3690,7 @@ When a magical storybook comes to life, it whisks you into a world where princes
 <hr>
 
 
-## 22. [Maya and the Three](https://serp.ly/@serpmedia/github/amazon/Maya+and+the+Three)
+## 22. [Maya and the Three](https://serp.ly/amazon/Maya+and+the+Three)
 
 ![Maya and the Three](https://image.tmdb.org/t/p/original/zUBixNeHU0cbSUH7JMktl9OMEMV.jpg)
 
@@ -3734,7 +3734,7 @@ When a bold prophecy threatens to unleash divine fury upon humanity, a young pri
 <hr>
 
 
-## 23. [Ask the Storybots](https://serp.ly/@serpmedia/github/amazon/Ask+the+Storybots)
+## 23. [Ask the Storybots](https://serp.ly/amazon/Ask+the+Storybots)
 
 ![Ask the Storybots](https://image.tmdb.org/t/p/original/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg)
 
@@ -3778,7 +3778,7 @@ Join the StoryBots on a whimsical journey beneath our screens to uncover the ans
 <hr>
 
 
-## 24. [From Scratch](https://serp.ly/@serpmedia/github/amazon/From+Scratch)
+## 24. [From Scratch](https://serp.ly/amazon/From+Scratch)
 
 ![From Scratch](https://image.tmdb.org/t/p/original/s8D32MA8NlNgixnAIxVbmt9cazX.jpg)
 
@@ -3822,7 +3822,7 @@ When an American artist falls in love with an Italian chef, their relationship u
 <hr>
 
 
-## 25. [Last Call with Carson Daly](https://serp.ly/@serpmedia/github/amazon/Last+Call+with+Carson+Daly)
+## 25. [Last Call with Carson Daly](https://serp.ly/amazon/Last+Call+with+Carson+Daly)
 
 ![Last Call with Carson Daly](https://image.tmdb.org/t/p/original/8Zw7Bqx0QcncLOiyO0D4kliljPw.jpg)
 
@@ -3866,7 +3866,7 @@ Revisit a golden age of late-night television with "Last Call with Carson Daly, 
 <hr>
 
 
-## 26. [Six Degrees](https://serp.ly/@serpmedia/github/amazon/Six+Degrees)
+## 26. [Six Degrees](https://serp.ly/amazon/Six+Degrees)
 
 ![Six Degrees](https://image.tmdb.org/t/p/original/dAx7Ox4CXrmKXpzTyqoiowfJgPr.jpg)
 
@@ -3910,7 +3910,7 @@ Six Degrees examines how six distinctive New Yorkers' lives interconnect through
 <hr>
 
 
-## 27. [MPower](https://serp.ly/@serpmedia/github/amazon/MPower)
+## 27. [MPower](https://serp.ly/amazon/MPower)
 
 ![MPower](https://image.tmdb.org/t/p/original/gscHqNHaRYp4GiqOgbe6R2EQOoW.jpg)
 

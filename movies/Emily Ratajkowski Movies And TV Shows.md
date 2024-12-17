@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Gone Girl](https://serp.ly/@serpmedia/github/amazon/Gone+Girl)
+## 1. [Gone Girl](https://serp.ly/amazon/Gone+Girl)
 
 ![Gone Girl](https://image.tmdb.org/t/p/original/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg)
 
@@ -77,7 +77,7 @@ You don't know what you've got 'til it's...
 <hr>
 
 
-## 2. [We Are Your Friends](https://serp.ly/@serpmedia/github/amazon/We+Are+Your+Friends)
+## 2. [We Are Your Friends](https://serp.ly/amazon/We+Are+Your+Friends)
 
 ![We Are Your Friends](https://image.tmdb.org/t/p/original/7RzpN4aLjM5FUc7Q3WsvNn2MuaR.jpg)
 
@@ -120,7 +120,7 @@ Young Cole Carter dreams of becoming a Hollywood disc jockey, and his big break 
 <hr>
 
 
-## 3. [I Feel Pretty](https://serp.ly/@serpmedia/github/amazon/I+Feel+Pretty)
+## 3. [I Feel Pretty](https://serp.ly/amazon/I+Feel+Pretty)
 
 ![I Feel Pretty](https://image.tmdb.org/t/p/original/rmP8b6vxbpK1sPinnUqXHKq0VkT.jpg)
 
@@ -163,7 +163,7 @@ When a woman suffers a head injury, she wakes up with an extraordinary amount of
 <hr>
 
 
-## 4. [Fyre](https://serp.ly/@serpmedia/github/amazon/Fyre)
+## 4. [Fyre](https://serp.ly/amazon/Fyre)
 
 ![Fyre](https://image.tmdb.org/t/p/original/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg)
 
@@ -202,7 +202,7 @@ When a charismatic promoter promises a music festival featuring supermodels and 
 <hr>
 
 
-## 5. [Entourage](https://serp.ly/@serpmedia/github/amazon/Entourage)
+## 5. [Entourage](https://serp.ly/amazon/Entourage)
 
 ![Entourage](https://image.tmdb.org/t/p/original/6Vl5t0d6g37Se20VjQ8EFdbb7dG.jpg)
 
@@ -245,7 +245,7 @@ Vincent Chase returns to Hollywood with his closest friends, Eric, Turtle, and J
 <hr>
 
 
-## 6. [In Darkness](https://serp.ly/@serpmedia/github/amazon/In+Darkness)
+## 6. [In Darkness](https://serp.ly/amazon/In+Darkness)
 
 ![In Darkness](https://image.tmdb.org/t/p/original/A4gJEE1zpImXE8MYkeq4sB69mfZ.jpg)
 
@@ -283,7 +283,7 @@ In this 2018 British-American thriller, a blind musician's world changes when sh
 <hr>
 
 
-## 7. [Lying and Stealing](https://serp.ly/@serpmedia/github/amazon/Lying+and+Stealing)
+## 7. [Lying and Stealing](https://serp.ly/amazon/Lying+and+Stealing)
 
 ![Lying and Stealing](https://image.tmdb.org/t/p/original/4YrVrPfMEqtFsLmN4HdzERjbveo.jpg)
 
@@ -324,7 +324,7 @@ When a successful art thief runs one last cons with a sexy partner, their plan t
 <hr>
 
 
-## 8. [Welcome Home](https://serp.ly/@serpmedia/github/amazon/Welcome+Home)
+## 8. [Welcome Home](https://serp.ly/amazon/Welcome+Home)
 
 ![Welcome Home](https://image.tmdb.org/t/p/original/fMhJQoMitAh0pN0fLlD7iUGcBp0.jpg)
 
@@ -360,7 +360,7 @@ When an American couple travels to Italy for a romantic getaway, their troubled 
 <hr>
 
 
-## 9. [The American Meme](https://serp.ly/@serpmedia/github/amazon/The+American+Meme)
+## 9. [The American Meme](https://serp.ly/amazon/The+American+Meme)
 
 ![The American Meme](https://image.tmdb.org/t/p/original/yyf9nUHCHyhhkR6UmWETnYAzqVZ.jpg)
 
@@ -397,7 +397,7 @@ When an American couple travels to Italy for a romantic getaway, their troubled 
 <hr>
 
 
-## 10. [Cruise](https://serp.ly/@serpmedia/github/amazon/Cruise)
+## 10. [Cruise](https://serp.ly/amazon/Cruise)
 
 ![Cruise](https://image.tmdb.org/t/p/original/cwE2QWiwiuHg1vKHG3EZn3WDIXo.jpg)
 
@@ -438,7 +438,7 @@ When a young Italian-American from the wrong side of the tracks meets a Jewish g
 <hr>
 
 
-## 11. [Savage X Fenty Show Vol. 3](https://serp.ly/@serpmedia/github/amazon/Savage+X+Fenty+Show+Vol.+3)
+## 11. [Savage X Fenty Show Vol. 3](https://serp.ly/amazon/Savage+X+Fenty+Show+Vol.+3)
 
 ![Savage X Fenty Show Vol. 3](https://image.tmdb.org/t/p/original/nHK11s0Q8B7asWvT7KZN0yWl4n.jpg)
 
@@ -472,7 +472,7 @@ Rihanna's 2021 Savage X Fenty collection launches with a show celebrating togeth
 <hr>
 
 
-## 12. [Victoria's Secret: The Tour '23](https://serp.ly/@serpmedia/github/amazon/Victoria%27s+Secret%3A+The+Tour+%2723)
+## 12. [Victoria's Secret: The Tour '23](https://serp.ly/amazon/Victoria%27s+Secret%3A+The+Tour+%2723)
 
 ![Victoria's Secret: The Tour '23](https://image.tmdb.org/t/p/original/qIG6tsN3aBKzfkRIuUAhD2Vh1SL.jpg)
 
@@ -508,7 +508,7 @@ Four designers - four cities. The world is their stage.
 <hr>
 
 
-## 13. [The Ben Cobb Show](https://serp.ly/@serpmedia/github/amazon/The+Ben+Cobb+Show)
+## 13. [The Ben Cobb Show](https://serp.ly/amazon/The+Ben+Cobb+Show)
 
 ![The Ben Cobb Show](https://image.tmdb.org/t/p/original/2YD7nk8t9I3KL7AVWWwWnMb1MmF.jpg)
 
@@ -539,7 +539,7 @@ When movie director Harry Bardo sits down with host Ben Cobb for a fictional cha
 <hr>
 
 
-## 14. [A Year and a Day](https://serp.ly/@serpmedia/github/amazon/A+Year+and+a+Day)
+## 14. [A Year and a Day](https://serp.ly/amazon/A+Year+and+a+Day)
 
 <br>
 
@@ -568,7 +568,7 @@ When a successful businessman is forced to confront the reality of his mother's 
 <hr>
 
 
-## 15. [Andrew's Alteration](https://serp.ly/@serpmedia/github/amazon/Andrew%27s+Alteration)
+## 15. [Andrew's Alteration](https://serp.ly/amazon/Andrew%27s+Alteration)
 
 <br>
 
@@ -597,7 +597,7 @@ When Andrew spots Leslie across the room, he knows she's the one he wants to ask
 <hr>
 
 
-## 16. [Who Will You Be?](https://serp.ly/@serpmedia/github/amazon/Who+Will+You+Be%3F)
+## 16. [Who Will You Be?](https://serp.ly/amazon/Who+Will+You+Be%3F)
 
 ![Who Will You Be?](https://image.tmdb.org/t/p/original/r8h6L5jP1L6tMImQHBufQgJqjYG.jpg)
 
@@ -628,7 +628,7 @@ When Andrew spots Leslie across the room, he knows she's the one he wants to ask
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -674,7 +674,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Daily Show](https://serp.ly/@serpmedia/github/amazon/The+Daily+Show)
+## 2. [The Daily Show](https://serp.ly/amazon/The+Daily+Show)
 
 ![The Daily Show](https://image.tmdb.org/t/p/original/ixcfyK7it6FjRM36Te4OdblAq4X.jpg)
 
@@ -720,7 +720,7 @@ When news breaks, The Daily Show's fake news team is the first to fix it. Join t
 <hr>
 
 
-## 3. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 3. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -764,7 +764,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 4. [MTV Video Music Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Video+Music+Awards)
+## 4. [MTV Video Music Awards](https://serp.ly/amazon/MTV+Video+Music+Awards)
 
 ![MTV Video Music Awards](https://image.tmdb.org/t/p/original/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg)
 
@@ -808,7 +808,7 @@ Since 1984, MTV's Video Music Awards have celebrated the year's most innovative 
 <hr>
 
 
-## 5. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 5. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -852,7 +852,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 6. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 6. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -898,7 +898,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 7. [iCarly](https://serp.ly/@serpmedia/github/amazon/iCarly)
+## 7. [iCarly](https://serp.ly/amazon/iCarly)
 
 ![iCarly](https://image.tmdb.org/t/p/original/vprJasrLRtEqjyHCHzlOzChNo2o.jpg)
 
@@ -940,7 +940,7 @@ When three 8th-grade friends, Carly, Sam, and Freddie, turn their everyday life 
 <hr>
 
 
-## 8. [Project Runway](https://serp.ly/@serpmedia/github/amazon/Project+Runway)
+## 8. [Project Runway](https://serp.ly/amazon/Project+Runway)
 
 ![Project Runway](https://image.tmdb.org/t/p/original/3JKvoVulQXwibxdGQYqBQyZBlBj.jpg)
 
@@ -986,7 +986,7 @@ Project Runway invites you to witness the relentless passion and raw talent of a
 <hr>
 
 
-## 9. [History of the World: Part II](https://serp.ly/@serpmedia/github/amazon/History+of+the+World%3A+Part+II)
+## 9. [History of the World: Part II](https://serp.ly/amazon/History+of+the+World%3A+Part+II)
 
 ![History of the World: Part II](https://image.tmdb.org/t/p/original/6PlHUsScubMx3VADGRh1kIylML2.jpg)
 
@@ -1030,7 +1030,7 @@ Hysterically accurate.
 <hr>
 
 
-## 10. [Easy](https://serp.ly/@serpmedia/github/amazon/Easy)
+## 10. [Easy](https://serp.ly/amazon/Easy)
 
 ![Easy](https://image.tmdb.org/t/p/original/uh0pHb6JV0m6Vjmz1tGhohr9B7y.jpg)
 
@@ -1074,7 +1074,7 @@ Hysterically accurate.
 <hr>
 
 
-## 11. [Busy Tonight](https://serp.ly/@serpmedia/github/amazon/Busy+Tonight)
+## 11. [Busy Tonight](https://serp.ly/amazon/Busy+Tonight)
 
 ![Busy Tonight](https://image.tmdb.org/t/p/original/wpvzO2q1t3VCLIlsc3omhjv2DQT.jpg)
 
@@ -1118,7 +1118,7 @@ Hysterically accurate.
 <hr>
 
 
-## 12. [73 Questions](https://serp.ly/@serpmedia/github/amazon/73+Questions)
+## 12. [73 Questions](https://serp.ly/amazon/73+Questions)
 
 ![73 Questions](https://image.tmdb.org/t/p/original/6kxjUczylN29tmikUuet08uODQ2.jpg)
 
@@ -1162,7 +1162,7 @@ When it comes to getting to know your favorite personalities, sometimes the simp
 <hr>
 
 
-## 13. [The Spoils Before Dying](https://serp.ly/@serpmedia/github/amazon/The+Spoils+Before+Dying)
+## 13. [The Spoils Before Dying](https://serp.ly/amazon/The+Spoils+Before+Dying)
 
 ![The Spoils Before Dying](https://image.tmdb.org/t/p/original/AhIFPJBUge7H8gAO1JMyZZLg3tt.jpg)
 
@@ -1206,7 +1206,7 @@ In this 1950s underground jazz scene, a pianist-turned-detective investigates a 
 <hr>
 
 
-## 14. [Ziwe](https://serp.ly/@serpmedia/github/amazon/Ziwe)
+## 14. [Ziwe](https://serp.ly/amazon/Ziwe)
 
 ![Ziwe](https://image.tmdb.org/t/p/original/w38InL3XBKIOU7x6KRo5q8xYWlD.jpg)
 
@@ -1250,7 +1250,7 @@ America, you'd be an iconic guest.
 <hr>
 
 
-## 15. [Too Much](https://serp.ly/@serpmedia/github/amazon/Too+Much)
+## 15. [Too Much](https://serp.ly/amazon/Too+Much)
 
 <br>
 

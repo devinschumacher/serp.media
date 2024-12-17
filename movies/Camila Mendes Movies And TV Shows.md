@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Palm Springs](https://serp.ly/@serpmedia/github/amazon/Palm+Springs)
+## 1. [Palm Springs](https://serp.ly/amazon/Palm+Springs)
 
 ![Palm Springs](https://image.tmdb.org/t/p/original/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg)
 
@@ -80,7 +80,7 @@ When carefree Nyles runs into Sarah, the reluctant maid of honor, at a Palm Spri
 <hr>
 
 
-## 2. [The Perfect Date](https://serp.ly/@serpmedia/github/amazon/The+Perfect+Date)
+## 2. [The Perfect Date](https://serp.ly/amazon/The+Perfect+Date)
 
 ![The Perfect Date](https://image.tmdb.org/t/p/original/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg)
 
@@ -116,7 +116,7 @@ High school senior Max discovers an ingenious way to earn money for college by c
 <hr>
 
 
-## 3. [Do Revenge](https://serp.ly/@serpmedia/github/amazon/Do+Revenge)
+## 3. [Do Revenge](https://serp.ly/amazon/Do+Revenge)
 
 ![Do Revenge](https://image.tmdb.org/t/p/original/akIjKJDHcVN4bzifcEarKVPNpoa.jpg)
 
@@ -155,7 +155,7 @@ When a reigning queen bee at an elite private high school loses her throne, she 
 <hr>
 
 
-## 4. [Dangerous Lies](https://serp.ly/@serpmedia/github/amazon/Dangerous+Lies)
+## 4. [Dangerous Lies](https://serp.ly/amazon/Dangerous+Lies)
 
 ![Dangerous Lies](https://image.tmdb.org/t/p/original/m85QIC42laGfLDxW7DzIFDrWogP.jpg)
 
@@ -189,7 +189,7 @@ When waitress Katie Franklin becomes the unexpected heir to a wealthy elderly ma
 <hr>
 
 
-## 5. [Upgraded](https://serp.ly/@serpmedia/github/amazon/Upgraded)
+## 5. [Upgraded](https://serp.ly/amazon/Upgraded)
 
 ![Upgraded](https://image.tmdb.org/t/p/original/4fKjh7zJrlAcZfIfNQCDvvrT5vN.jpg)
 
@@ -226,7 +226,7 @@ When ambitious intern Ana is upgraded to first class on a work trip, she meets t
 <hr>
 
 
-## 6. [The New Romantic](https://serp.ly/@serpmedia/github/amazon/The+New+Romantic)
+## 6. [The New Romantic](https://serp.ly/amazon/The+New+Romantic)
 
 ![The New Romantic](https://image.tmdb.org/t/p/original/qh6oz3RoKwTIqvcFLQ1dEqNWCCB.jpg)
 
@@ -263,7 +263,7 @@ Blake Conway's post-graduation life looks bleak - student debt and no romantic p
 <hr>
 
 
-## 7. [Música](https://serp.ly/@serpmedia/github/amazon/M%C3%BAsica)
+## 7. [Música](https://serp.ly/amazon/M%C3%BAsica)
 
 ![Música](https://image.tmdb.org/t/p/original/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg)
 
@@ -296,7 +296,7 @@ Face the music.
 <hr>
 
 
-## 8. [Coyote Lake](https://serp.ly/@serpmedia/github/amazon/Coyote+Lake)
+## 8. [Coyote Lake](https://serp.ly/amazon/Coyote+Lake)
 
 ![Coyote Lake](https://image.tmdb.org/t/p/original/4pgBw9pS1QXqR9rPzUsSUJZHN9e.jpg)
 
@@ -335,7 +335,7 @@ In a small bed-and-breakfast near the U. S. -Mexico border, two dangerous guests
 <hr>
 
 
-## 9. [American Sole](https://serp.ly/@serpmedia/github/amazon/American+Sole)
+## 9. [American Sole](https://serp.ly/amazon/American+Sole)
 
 <br>
 
@@ -356,7 +356,7 @@ Two twenty-year-old men burdened with college debt discover an unconventional pa
 <hr>
 
 
-## 10. [Alba](https://serp.ly/@serpmedia/github/amazon/Alba)
+## 10. [Alba](https://serp.ly/amazon/Alba)
 
 ![Alba](https://image.tmdb.org/t/p/original/pnVIiWR6HYqEO3LVsaIAYZqzvnu.jpg)
 
@@ -384,7 +384,7 @@ When Bernarda Alba's husband passes away, she brings her daughters to a house on
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -430,7 +430,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -476,7 +476,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [Tamron Hall](https://serp.ly/@serpmedia/github/amazon/Tamron+Hall)
+## 3. [Tamron Hall](https://serp.ly/amazon/Tamron+Hall)
 
 ![Tamron Hall](https://image.tmdb.org/t/p/original/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg)
 
@@ -520,7 +520,7 @@ Tamron Hall brings her extensive experience as a news host and journalist to thi
 <hr>
 
 
-## 4. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 4. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -564,7 +564,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 5. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 5. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -606,7 +606,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 6. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 6. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -652,7 +652,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 7. [Riverdale](https://serp.ly/@serpmedia/github/amazon/Riverdale)
+## 7. [Riverdale](https://serp.ly/amazon/Riverdale)
 
 ![Riverdale](https://image.tmdb.org/t/p/original/c1ROxK1Afo6YuGi3j6ClXmrNcHi.jpg)
 
@@ -696,7 +696,7 @@ Riverdale presents a daring reimagining of Archie, Betty, Veronica, and their fr
 <hr>
 
 
-## 8. [Kids' Choice Awards](https://serp.ly/@serpmedia/github/amazon/Kids%27+Choice+Awards)
+## 8. [Kids' Choice Awards](https://serp.ly/amazon/Kids%27+Choice+Awards)
 
 ![Kids' Choice Awards](https://image.tmdb.org/t/p/original/7P0uk5BmadKP878JhPrK6KbZDh.jpg)
 
@@ -742,7 +742,7 @@ The Kids' Choice Awards have been bringing home the blimps since 1987, making it
 <hr>
 
 
-## 9. [Busy Tonight](https://serp.ly/@serpmedia/github/amazon/Busy+Tonight)
+## 9. [Busy Tonight](https://serp.ly/amazon/Busy+Tonight)
 
 ![Busy Tonight](https://image.tmdb.org/t/p/original/wpvzO2q1t3VCLIlsc3omhjv2DQT.jpg)
 
@@ -786,7 +786,7 @@ The Kids' Choice Awards have been bringing home the blimps since 1987, making it
 <hr>
 
 
-## 10. [Fairfax](https://serp.ly/@serpmedia/github/amazon/Fairfax)
+## 10. [Fairfax](https://serp.ly/amazon/Fairfax)
 
 ![Fairfax](https://image.tmdb.org/t/p/original/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg)
 

@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Curious Case of Benjamin Button](https://serp.ly/@serpmedia/github/amazon/The+Curious+Case+of+Benjamin+Button)
+## 1. [The Curious Case of Benjamin Button](https://serp.ly/amazon/The+Curious+Case+of+Benjamin+Button)
 
 ![The Curious Case of Benjamin Button](https://image.tmdb.org/t/p/original/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg)
 
@@ -78,7 +78,7 @@ When Benjamin Button is born in 1918, he begins aging backwards - a unique twist
 <hr>
 
 
-## 2. [Maleficent](https://serp.ly/@serpmedia/github/amazon/Maleficent)
+## 2. [Maleficent](https://serp.ly/amazon/Maleficent)
 
 ![Maleficent](https://image.tmdb.org/t/p/original/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg)
 
@@ -121,7 +121,7 @@ In a world where magic meets reality, a young woman named Maleficent soars throu
 <hr>
 
 
-## 3. [Super 8](https://serp.ly/@serpmedia/github/amazon/Super+8)
+## 3. [Super 8](https://serp.ly/amazon/Super+8)
 
 ![Super 8](https://image.tmdb.org/t/p/original/sytFL6ALMAesKZoarlp7bIDKnns.jpg)
 
@@ -164,7 +164,7 @@ Travel back to 1979 Ohio where a group of friends is filming a zombie movie with
 <hr>
 
 
-## 4. [Maleficent: Mistress of Evil](https://serp.ly/@serpmedia/github/amazon/Maleficent%3A+Mistress+of+Evil)
+## 4. [Maleficent: Mistress of Evil](https://serp.ly/amazon/Maleficent%3A+Mistress+of+Evil)
 
 ![Maleficent: Mistress of Evil](https://image.tmdb.org/t/p/original/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg)
 
@@ -207,7 +207,7 @@ In "Maleficent: Mistress of Evil", the iconic sorceress and her goddaughter Auro
 <hr>
 
 
-## 5. [Déjà Vu](https://serp.ly/@serpmedia/github/amazon/D%C3%A9j%C3%A0+Vu)
+## 5. [Déjà Vu](https://serp.ly/amazon/D%C3%A9j%C3%A0+Vu)
 
 ![Déjà Vu](https://image.tmdb.org/t/p/original/wJAz3m9kTbdTWfQ2ZJEFojWKeoj.jpg)
 
@@ -247,7 +247,7 @@ Federal agent Doug Carlin is called to investigate a devastating explosion on a 
 <hr>
 
 
-## 6. [Babel](https://serp.ly/@serpmedia/github/amazon/Babel)
+## 6. [Babel](https://serp.ly/amazon/Babel)
 
 ![Babel](https://image.tmdb.org/t/p/original/cDy5iZL2C01jiT5wDSE4jOvoT52.jpg)
 
@@ -287,7 +287,7 @@ If You Want to be Understood... Listen.
 <hr>
 
 
-## 7. [The Neon Demon](https://serp.ly/@serpmedia/github/amazon/The+Neon+Demon)
+## 7. [The Neon Demon](https://serp.ly/amazon/The+Neon+Demon)
 
 ![The Neon Demon](https://image.tmdb.org/t/p/original/d93h9dHIez9zRg4ooG6o1ZiQ776.jpg)
 
@@ -327,7 +327,7 @@ Beauty is vicious.
 <hr>
 
 
-## 8. [All the Bright Places](https://serp.ly/@serpmedia/github/amazon/All+the+Bright+Places)
+## 8. [All the Bright Places](https://serp.ly/amazon/All+the+Bright+Places)
 
 ![All the Bright Places](https://image.tmdb.org/t/p/original/4SafxuMKQiw4reBiWKVZJpJn80I.jpg)
 
@@ -363,7 +363,7 @@ When two teenagers struggling with their own personal challenges meet, they forg
 <hr>
 
 
-## 9. [We Bought a Zoo](https://serp.ly/@serpmedia/github/amazon/We+Bought+a+Zoo)
+## 9. [We Bought a Zoo](https://serp.ly/amazon/We+Bought+a+Zoo)
 
 ![We Bought a Zoo](https://image.tmdb.org/t/p/original/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg)
 
@@ -406,7 +406,7 @@ Benjamin's acquisition of a spacious home complete with a zoo sets the stage for
 <hr>
 
 
-## 10. [I Am Sam](https://serp.ly/@serpmedia/github/amazon/I+Am+Sam)
+## 10. [I Am Sam](https://serp.ly/amazon/I+Am+Sam)
 
 ![I Am Sam](https://image.tmdb.org/t/p/original/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg)
 
@@ -451,7 +451,7 @@ When a neurodivergent man named Sam is left to raise his daughter Lucy after her
 <hr>
 
 
-## 11. [A Rainy Day in New York](https://serp.ly/@serpmedia/github/amazon/A+Rainy+Day+in+New+York)
+## 11. [A Rainy Day in New York](https://serp.ly/amazon/A+Rainy+Day+in+New+York)
 
 ![A Rainy Day in New York](https://image.tmdb.org/t/p/original/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg)
 
@@ -492,7 +492,7 @@ When two young people travel to New York for a weekend getaway, their plans chan
 <hr>
 
 
-## 12. [Ballerina](https://serp.ly/@serpmedia/github/amazon/Ballerina)
+## 12. [Ballerina](https://serp.ly/amazon/Ballerina)
 
 ![Ballerina](https://image.tmdb.org/t/p/original/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg)
 
@@ -535,7 +535,7 @@ In 1879 Paris, an orphaned Brittany girl arrives at the Grand Opera house with n
 <hr>
 
 
-## 13. [The Beguiled](https://serp.ly/@serpmedia/github/amazon/The+Beguiled)
+## 13. [The Beguiled](https://serp.ly/amazon/The+Beguiled)
 
 ![The Beguiled](https://image.tmdb.org/t/p/original/uQxfqFAqAvNK5b1wD11b2ycDAVg.jpg)
 
@@ -578,7 +578,7 @@ In a Southern girls' boarding school during the Civil War, young women take in a
 <hr>
 
 
-## 14. [Daddy Day Care](https://serp.ly/@serpmedia/github/amazon/Daddy+Day+Care)
+## 14. [Daddy Day Care](https://serp.ly/amazon/Daddy+Day+Care)
 
 ![Daddy Day Care](https://image.tmdb.org/t/p/original/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg)
 
@@ -618,7 +618,7 @@ When two friends lose their jobs, they discover an unexpected opportunity that t
 <hr>
 
 
-## 15. [Trumbo](https://serp.ly/@serpmedia/github/amazon/Trumbo)
+## 15. [Trumbo](https://serp.ly/amazon/Trumbo)
 
 ![Trumbo](https://image.tmdb.org/t/p/original/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg)
 
@@ -661,7 +661,7 @@ In the late 1940s, screenwriter Dalton Trumbo faces a witch hunt that threatens 
 <hr>
 
 
-## 16. [The Boxtrolls](https://serp.ly/@serpmedia/github/amazon/The+Boxtrolls)
+## 16. [The Boxtrolls](https://serp.ly/amazon/The+Boxtrolls)
 
 ![The Boxtrolls](https://image.tmdb.org/t/p/original/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg)
 
@@ -701,7 +701,7 @@ When an orphaned boy raised by underground creatures known as Boxtrolls emerges 
 <hr>
 
 
-## 17. [Astro Boy](https://serp.ly/@serpmedia/github/amazon/Astro+Boy)
+## 17. [Astro Boy](https://serp.ly/amazon/Astro+Boy)
 
 ![Astro Boy](https://image.tmdb.org/t/p/original/nKiEA8Z81i2sWxhjs0pcNbs2Rmr.jpg)
 
@@ -744,7 +744,7 @@ In the futuristic Metro City, a young robot named Astro Boy (Atom) begins an exc
 <hr>
 
 
-## 18. [20th Century Women](https://serp.ly/@serpmedia/github/amazon/20th+Century+Women)
+## 18. [20th Century Women](https://serp.ly/amazon/20th+Century+Women)
 
 ![20th Century Women](https://image.tmdb.org/t/p/original/mso2rEr9i0MilRIOao5HaWFipS9.jpg)
 
@@ -782,7 +782,7 @@ In 1979 Santa Barbara, single mother Dorothea Fields navigates the complexities 
 <hr>
 
 
-## 19. [Live by Night](https://serp.ly/@serpmedia/github/amazon/Live+by+Night)
+## 19. [Live by Night](https://serp.ly/amazon/Live+by+Night)
 
 ![Live by Night](https://image.tmdb.org/t/p/original/bkd46T4RplawnDjpHoI8mhzTLks.jpg)
 
@@ -825,7 +825,7 @@ When a group of Boston gangsters moves to Florida during Prohibition, their new 
 <hr>
 
 
-## 20. [Mary Shelley](https://serp.ly/@serpmedia/github/amazon/Mary+Shelley)
+## 20. [Mary Shelley](https://serp.ly/amazon/Mary+Shelley)
 
 ![Mary Shelley](https://image.tmdb.org/t/p/original/gKHJTsrfxJtfFNPQJn2hDNEMtFf.jpg)
 
@@ -866,7 +866,7 @@ Mary Shelley explores the profound connection between love and creativity throug
 <hr>
 
 
-## 21. [Somewhere](https://serp.ly/@serpmedia/github/amazon/Somewhere)
+## 21. [Somewhere](https://serp.ly/amazon/Somewhere)
 
 ![Somewhere](https://image.tmdb.org/t/p/original/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg)
 
@@ -907,7 +907,7 @@ After withdrawing to the Chateau Marmont, a passionless Hollywood actor reexamin
 <hr>
 
 
-## 22. [Galveston](https://serp.ly/@serpmedia/github/amazon/Galveston)
+## 22. [Galveston](https://serp.ly/amazon/Galveston)
 
 ![Galveston](https://image.tmdb.org/t/p/original/q4oJPtd6ilux9NU9wXomTWBI90B.jpg)
 
@@ -946,7 +946,7 @@ In "Galveston", Roy makes a split-second decision that transforms a desperate es
 <hr>
 
 
-## 23. [3 Generations](https://serp.ly/@serpmedia/github/amazon/3+Generations)
+## 23. [3 Generations](https://serp.ly/amazon/3+Generations)
 
 ![3 Generations](https://image.tmdb.org/t/p/original/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg)
 
@@ -986,7 +986,7 @@ When a teenager decides to transition from female to male, it kicks off a journe
 <hr>
 
 
-## 24. [The Nines](https://serp.ly/@serpmedia/github/amazon/The+Nines)
+## 24. [The Nines](https://serp.ly/amazon/The+Nines)
 
 ![The Nines](https://image.tmdb.org/t/p/original/AkIyPzbxBnR815XNCKH5D9T4RaE.jpg)
 
@@ -1025,7 +1025,7 @@ When a troubled actor, a television show runner, and a renowned videogame design
 <hr>
 
 
-## 25. [Reservation Road](https://serp.ly/@serpmedia/github/amazon/Reservation+Road)
+## 25. [Reservation Road](https://serp.ly/amazon/Reservation+Road)
 
 ![Reservation Road](https://image.tmdb.org/t/p/original/pZaYofgshgEkeW4Huo3o6tEX89C.jpg)
 
@@ -1063,7 +1063,7 @@ When a tragic hit-and-run accident claims the life of one father's son, it sets 
 <hr>
 
 
-## 26. [How to Talk to Girls at Parties](https://serp.ly/@serpmedia/github/amazon/How+to+Talk+to+Girls+at+Parties)
+## 26. [How to Talk to Girls at Parties](https://serp.ly/amazon/How+to+Talk+to+Girls+at+Parties)
 
 ![How to Talk to Girls at Parties](https://image.tmdb.org/t/p/original/v6mPfyGshwXd1R6kQlMEyZ8Zu2s.jpg)
 
@@ -1099,7 +1099,7 @@ In 1970s London, a young outsider named Enn connects with a rebellious alien vis
 <hr>
 
 
-## 27. [I Think We're Alone Now](https://serp.ly/@serpmedia/github/amazon/I+Think+We%27re+Alone+Now)
+## 27. [I Think We're Alone Now](https://serp.ly/amazon/I+Think+We%27re+Alone+Now)
 
 ![I Think We're Alone Now](https://image.tmdb.org/t/p/original/9sNsmC8FKgr4hTfnGCS49WY20k4.jpg)
 
@@ -1138,7 +1138,7 @@ In a world where chaos reigns, Del has built his own perfect utopia in an empty 
 <hr>
 
 
-## 28. [Teen Spirit](https://serp.ly/@serpmedia/github/amazon/Teen+Spirit)
+## 28. [Teen Spirit](https://serp.ly/amazon/Teen+Spirit)
 
 ![Teen Spirit](https://image.tmdb.org/t/p/original/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg)
 
@@ -1174,7 +1174,7 @@ On the picturesque Isle of Wight, a reserved teenager's passion for pop music ig
 <hr>
 
 
-## 29. [Young Ones](https://serp.ly/@serpmedia/github/amazon/Young+Ones)
+## 29. [Young Ones](https://serp.ly/amazon/Young+Ones)
 
 ![Young Ones](https://image.tmdb.org/t/p/original/6Vbhvo9d4Bv65rEzqFJR7TUD2ve.jpg)
 
@@ -1213,7 +1213,7 @@ In a future where water is scarce, a farmer protects his land against those who 
 <hr>
 
 
-## 30. [The Vanishing of Sidney Hall](https://serp.ly/@serpmedia/github/amazon/The+Vanishing+of+Sidney+Hall)
+## 30. [The Vanishing of Sidney Hall](https://serp.ly/amazon/The+Vanishing+of+Sidney+Hall)
 
 ![The Vanishing of Sidney Hall](https://image.tmdb.org/t/p/original/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg)
 
@@ -1254,7 +1254,7 @@ Sidney Hall's remarkable journey unfolds over 12 years, encompassing love, liter
 <hr>
 
 
-## 31. [Twixt](https://serp.ly/@serpmedia/github/amazon/Twixt)
+## 31. [Twixt](https://serp.ly/amazon/Twixt)
 
 ![Twixt](https://image.tmdb.org/t/p/original/jSn7DVovIFeTSiwwoziSYpJFaaS.jpg)
 
@@ -1294,7 +1294,7 @@ When a successful writer visits a small town, he becomes entangled in a dark mys
 <hr>
 
 
-## 32. [Because of Winn-Dixie](https://serp.ly/@serpmedia/github/amazon/Because+of+Winn-Dixie)
+## 32. [Because of Winn-Dixie](https://serp.ly/amazon/Because+of+Winn-Dixie)
 
 ![Because of Winn-Dixie](https://image.tmdb.org/t/p/original/oMUFS7HmIyTeui5xuoIEkPYTWC8.jpg)
 
@@ -1337,7 +1337,7 @@ In a small Florida town, a girl named India learns what it means to truly belong
 <hr>
 
 
-## 33. [Ginger & Rosa](https://serp.ly/@serpmedia/github/amazon/Ginger+%26+Rosa)
+## 33. [Ginger & Rosa](https://serp.ly/amazon/Ginger+%26+Rosa)
 
 ![Ginger & Rosa](https://image.tmdb.org/t/p/original/5EmQri2RwjN5zELdAtUY52k71pN.jpg)
 
@@ -1378,7 +1378,7 @@ In 1960s London, two teenage girls named Ginger and Rosa forge an unbreakable fr
 <hr>
 
 
-## 34. [The Door in the Floor](https://serp.ly/@serpmedia/github/amazon/The+Door+in+the+Floor)
+## 34. [The Door in the Floor](https://serp.ly/amazon/The+Door+in+the+Floor)
 
 ![The Door in the Floor](https://image.tmdb.org/t/p/original/2elMSIcQ9wDuFz1uzLU72AAKFOF.jpg)
 
@@ -1418,7 +1418,7 @@ The Coles' world changes forever when their two sons die in a tragic car acciden
 <hr>
 
 
-## 35. [Phoebe in Wonderland](https://serp.ly/@serpmedia/github/amazon/Phoebe+in+Wonderland)
+## 35. [Phoebe in Wonderland](https://serp.ly/amazon/Phoebe+in+Wonderland)
 
 ![Phoebe in Wonderland](https://image.tmdb.org/t/p/original/iiLMczPwwJE9sKjkg4Khdh3oFFn.jpg)
 
@@ -1459,7 +1459,7 @@ When a young girl's imaginative mind collides with the rule-bound world around h
 <hr>
 
 
-## 36. [The Nutcracker: The Untold Story](https://serp.ly/@serpmedia/github/amazon/The+Nutcracker%3A+The+Untold+Story)
+## 36. [The Nutcracker: The Untold Story](https://serp.ly/amazon/The+Nutcracker%3A+The+Untold+Story)
 
 ![The Nutcracker: The Untold Story](https://image.tmdb.org/t/p/original/8qpovUSOZiqFOpsHoByfKojI8iC.jpg)
 
@@ -1502,7 +1502,7 @@ The Nutcracker: The Untold Story whisks you back to 1920s Vienna for a magical r
 <hr>
 
 
-## 37. [The Roads Not Taken](https://serp.ly/@serpmedia/github/amazon/The+Roads+Not+Taken)
+## 37. [The Roads Not Taken](https://serp.ly/amazon/The+Roads+Not+Taken)
 
 ![The Roads Not Taken](https://image.tmdb.org/t/p/original/7GtX3NDh8S8ImqtTp4Ww02SXh4B.jpg)
 
@@ -1539,7 +1539,7 @@ When father and daughter Leo and Molly spend a day weaving through New York City
 <hr>
 
 
-## 38. [Low Down](https://serp.ly/@serpmedia/github/amazon/Low+Down)
+## 38. [Low Down](https://serp.ly/amazon/Low+Down)
 
 ![Low Down](https://image.tmdb.org/t/p/original/tCZ2ROr17jDwnMHUe0tjGpXLzkV.jpg)
 
@@ -1578,7 +1578,7 @@ When Joe Albany's struggling jazz career takes a dark turn, his young daughter w
 <hr>
 
 
-## 39. [I Want Someone to Eat Cheese With](https://serp.ly/@serpmedia/github/amazon/I+Want+Someone+to+Eat+Cheese+With)
+## 39. [I Want Someone to Eat Cheese With](https://serp.ly/amazon/I+Want+Someone+to+Eat+Cheese+With)
 
 ![I Want Someone to Eat Cheese With](https://image.tmdb.org/t/p/original/gLHtrzQtk3ZnheTOn5EUOlS7hl7.jpg)
 
@@ -1614,7 +1614,7 @@ James, a 39-year-old performer at Chicago's Second City, is struggling with weig
 <hr>
 
 
-## 40. [Likeness](https://serp.ly/@serpmedia/github/amazon/Likeness)
+## 40. [Likeness](https://serp.ly/amazon/Likeness)
 
 ![Likeness](https://image.tmdb.org/t/p/original/fRaQsX4jNxJb8N2cQs1pgBPHVFw.jpg)
 
@@ -1647,7 +1647,7 @@ Mia's world revolves around beauty - but what she desires most remains just out 
 <hr>
 
 
-## 41. [Always at The Carlyle](https://serp.ly/@serpmedia/github/amazon/Always+at+The+Carlyle)
+## 41. [Always at The Carlyle](https://serp.ly/amazon/Always+at+The+Carlyle)
 
 ![Always at The Carlyle](https://image.tmdb.org/t/p/original/ywkkKF4abwARo9WBk6WrwcGNn6B.jpg)
 
@@ -1684,7 +1684,7 @@ The Carlyle hotel has long been a favorite among both international travelers an
 <hr>
 
 
-## 42. [The Curve of Forgotten Things](https://serp.ly/@serpmedia/github/amazon/The+Curve+of+Forgotten+Things)
+## 42. [The Curve of Forgotten Things](https://serp.ly/amazon/The+Curve+of+Forgotten+Things)
 
 ![The Curve of Forgotten Things](https://image.tmdb.org/t/p/original/ghLbKtv73tCSrnzZIe0ZE7lWLEe.jpg)
 
@@ -1715,7 +1715,7 @@ In a world that defies the laws of physics, a mysterious girl wanders through an
 <hr>
 
 
-## 43. [Day 73 with Sarah](https://serp.ly/@serpmedia/github/amazon/Day+73+with+Sarah)
+## 43. [Day 73 with Sarah](https://serp.ly/amazon/Day+73+with+Sarah)
 
 ![Day 73 with Sarah](https://image.tmdb.org/t/p/original/6mWAsG2ty2fhhpI3okxPyde0mtR.jpg)
 
@@ -1749,7 +1749,7 @@ When a young girl's stepfather turns everyday life into a nightmare, she forms a
 <hr>
 
 
-## 44. [Sigur Rós: Valtari Film Experiment](https://serp.ly/@serpmedia/github/amazon/Sigur+R%C3%B3s%3A+Valtari+Film+Experiment)
+## 44. [Sigur Rós: Valtari Film Experiment](https://serp.ly/amazon/Sigur+R%C3%B3s%3A+Valtari+Film+Experiment)
 
 ![Sigur Rós: Valtari Film Experiment](https://image.tmdb.org/t/p/original/xXK2lTH5lXwfGkrfNPPxxo3dLKu.jpg)
 
@@ -1780,7 +1780,7 @@ When the Icelandic band Sigur Rós released their album Valtari, they invited tw
 <hr>
 
 
-## 45. [Wide-Awake](https://serp.ly/@serpmedia/github/amazon/Wide-Awake)
+## 45. [Wide-Awake](https://serp.ly/amazon/Wide-Awake)
 
 ![Wide-Awake](https://image.tmdb.org/t/p/original/fuzOmKjYWEWvw0n064lUwlhKcan.jpg)
 
@@ -1811,7 +1811,7 @@ Ingénues, icons, action heroes, divas, and the world's next great comedy star: 
 <hr>
 
 
-## 46. [Camp! The Movie](https://serp.ly/@serpmedia/github/amazon/Camp%21+The+Movie)
+## 46. [Camp! The Movie](https://serp.ly/amazon/Camp%21+The+Movie)
 
 ![Camp! The Movie](https://image.tmdb.org/t/p/original/2X5cxfFaBNXUUK7GN3NVS0nXo0U.jpg)
 
@@ -1844,7 +1844,7 @@ Audiences are literally dead!
 <hr>
 
 
-## 47. [That Click](https://serp.ly/@serpmedia/github/amazon/That+Click)
+## 47. [That Click](https://serp.ly/amazon/That+Click)
 
 ![That Click](https://image.tmdb.org/t/p/original/qP0tngP2EyPqKVqZKwhM3QhVCFI.jpg)
 
@@ -1880,7 +1880,7 @@ Douglas Kirkland has been capturing the essence of pop culture for over sixty ye
 <hr>
 
 
-## 48. [Elle Fanning's Fan Fantasy](https://serp.ly/@serpmedia/github/amazon/Elle+Fanning%27s+Fan+Fantasy)
+## 48. [Elle Fanning's Fan Fantasy](https://serp.ly/amazon/Elle+Fanning%27s+Fan+Fantasy)
 
 ![Elle Fanning's Fan Fantasy](https://image.tmdb.org/t/p/original/rLL5by1VE6crYFEGrXtLzENz1Nu.jpg)
 
@@ -1914,7 +1914,7 @@ When fashion meets fantasy, Prada transforms everyday scenarios into runway-wort
 <hr>
 
 
-## 49. [Penn & Teller: Try This at Home](https://serp.ly/@serpmedia/github/amazon/Penn+%26+Teller%3A+Try+This+at+Home)
+## 49. [Penn & Teller: Try This at Home](https://serp.ly/amazon/Penn+%26+Teller%3A+Try+This+at+Home)
 
 ![Penn & Teller: Try This at Home](https://image.tmdb.org/t/p/original/4CV1Ez7yHwg48k3TJI2shLW3z5e.jpg)
 
@@ -1948,7 +1948,7 @@ When fashion meets fantasy, Prada transforms everyday scenarios into runway-wort
 <hr>
 
 
-## 50. [First Stars I See Tonight](https://serp.ly/@serpmedia/github/amazon/First+Stars+I+See+Tonight)
+## 50. [First Stars I See Tonight](https://serp.ly/amazon/First+Stars+I+See+Tonight)
 
 <br>
 
@@ -1979,7 +1979,7 @@ When a young girl with vision defects puts on night vision goggles for the first
 <hr>
 
 
-## 51. [First the Egg](https://serp.ly/@serpmedia/github/amazon/First+the+Egg)
+## 51. [First the Egg](https://serp.ly/amazon/First+the+Egg)
 
 ![First the Egg](https://image.tmdb.org/t/p/original/9Cn5urGaSsCEbA7cxGjyWiD7lGy.jpg)
 
@@ -2007,7 +2007,7 @@ When a young girl with vision defects puts on night vision goggles for the first
 <hr>
 
 
-## 52. [A Very Brave Witch](https://serp.ly/@serpmedia/github/amazon/A+Very+Brave+Witch)
+## 52. [A Very Brave Witch](https://serp.ly/amazon/A+Very+Brave+Witch)
 
 ![A Very Brave Witch](https://image.tmdb.org/t/p/original/zK1fjArpL73KBttYZXiwI6IHPsd.jpg)
 
@@ -2035,7 +2035,7 @@ In this charming 2007 Halloween tale, a young witch who's never experienced tric
 <hr>
 
 
-## 53. [Chippendales](https://serp.ly/@serpmedia/github/amazon/Chippendales)
+## 53. [Chippendales](https://serp.ly/amazon/Chippendales)
 
 ![Chippendales](https://image.tmdb.org/t/p/original/qUBATB3l3iqpqncyf33AeJHae4d.jpg)
 
@@ -2058,7 +2058,7 @@ When a group of friends turn their unconventional idea for a male strip revue in
 <hr>
 
 
-## 54. [Making Somewhere](https://serp.ly/@serpmedia/github/amazon/Making+Somewhere)
+## 54. [Making Somewhere](https://serp.ly/amazon/Making+Somewhere)
 
 <br>
 
@@ -2084,7 +2084,7 @@ When a group of friends turn their unconventional idea for a male strip revue in
 <hr>
 
 
-## 55. [Grubbo's Landing](https://serp.ly/@serpmedia/github/amazon/Grubbo%27s+Landing)
+## 55. [Grubbo's Landing](https://serp.ly/amazon/Grubbo%27s+Landing)
 
 Sometimes when you shoot for the stars, the stars shoot back!
 
@@ -2112,7 +2112,7 @@ When a young disabled boy rescues an alien in his youth, he forms an unlikely al
 <hr>
 
 
-## 56. [P.N.O.K.](https://serp.ly/@serpmedia/github/amazon/P.N.O.K.)
+## 56. [P.N.O.K.](https://serp.ly/amazon/P.N.O.K.)
 
 <br>
 
@@ -2141,7 +2141,7 @@ When two soldiers are tasked with Casualty Notification Duty, their mission beco
 <hr>
 
 
-## 57. [Badlands](https://serp.ly/@serpmedia/github/amazon/Badlands)
+## 57. [Badlands](https://serp.ly/amazon/Badlands)
 
 ![Badlands](https://image.tmdb.org/t/p/original/7KNqhQFkguTReeobqzTkMocxRsJ.jpg)
 
@@ -2164,7 +2164,7 @@ The eighth chapter of the "Predator" saga, titled "Badlands," marks a bold expan
 <hr>
 
 
-## 58. [I Am Sybil](https://serp.ly/@serpmedia/github/amazon/I+Am+Sybil)
+## 58. [I Am Sybil](https://serp.ly/amazon/I+Am+Sybil)
 
 ![I Am Sybil](https://image.tmdb.org/t/p/original/88t7kC8DK4jWqWB6oTJp5ObEXXW.jpg)
 
@@ -2187,7 +2187,7 @@ The eighth chapter of the "Predator" saga, titled "Badlands," marks a bold expan
 <hr>
 
 
-## 59. [The Nightingale](https://serp.ly/@serpmedia/github/amazon/The+Nightingale)
+## 59. [The Nightingale](https://serp.ly/amazon/The+Nightingale)
 
 ![The Nightingale](https://image.tmdb.org/t/p/original/er8gV0VgOzkayILHnl5lQkV0Dgt.jpg)
 
@@ -2210,7 +2210,7 @@ Set against the backdrop of World War II, "The Nightingale" tells the story of t
 <hr>
 
 
-## 60. [Rosebushpruning](https://serp.ly/@serpmedia/github/amazon/Rosebushpruning)
+## 60. [Rosebushpruning](https://serp.ly/amazon/Rosebushpruning)
 
 ![Rosebushpruning](https://image.tmdb.org/t/p/original/fZyUHYrEiK3eXuONzVBzc0T7mEP.jpg)
 
@@ -2235,7 +2235,7 @@ In a rural estate, a family's darkest secrets unfold as they grapple with heredi
 <hr>
 
 
-## 61. [A Complete Unknown](https://serp.ly/@serpmedia/github/amazon/A+Complete+Unknown)
+## 61. [A Complete Unknown](https://serp.ly/amazon/A+Complete+Unknown)
 
 ![A Complete Unknown](https://image.tmdb.org/t/p/original/fqBdHFQb1hZtjewfCFy8mMbwHLy.jpg)
 
@@ -2258,7 +2258,7 @@ Travel back to 1965 with this pivotal chapter in Bob Dylan's musical journey. Wh
 <hr>
 
 
-## 62. [Twixt: A Documentary](https://serp.ly/@serpmedia/github/amazon/Twixt%3A+A+Documentary)
+## 62. [Twixt: A Documentary](https://serp.ly/amazon/Twixt%3A+A+Documentary)
 
 ![Twixt: A Documentary](https://image.tmdb.org/t/p/original/f5llU3rlt4XFfWI9shgmw8YIkvY.jpg)
 
@@ -2286,7 +2286,7 @@ Travel back to 1965 with this pivotal chapter in Bob Dylan's musical journey. Wh
 <hr>
 
 
-## 63. [The Maid of Orleans](https://serp.ly/@serpmedia/github/amazon/The+Maid+of+Orleans)
+## 63. [The Maid of Orleans](https://serp.ly/amazon/The+Maid+of+Orleans)
 
 <br>
 
@@ -2310,7 +2310,7 @@ Upon graduating from film school, Rebecca Spielman travels to Paris to join dire
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -2356,7 +2356,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [House](https://serp.ly/@serpmedia/github/amazon/House)
+## 2. [House](https://serp.ly/amazon/House)
 
 ![House](https://image.tmdb.org/t/p/original/wfxsizfb7NV9uwy9QCqqvfR20F2.jpg)
 
@@ -2400,7 +2400,7 @@ When it comes to medical mysteries, Dr. Gregory House is the master detective. T
 <hr>
 
 
-## 3. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 3. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -2444,7 +2444,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 4. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 4. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -2490,7 +2490,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 5. [CSI: Miami](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Miami)
+## 5. [CSI: Miami](https://serp.ly/amazon/CSI%3A+Miami)
 
 ![CSI: Miami](https://image.tmdb.org/t/p/original/pNW64pjaHvf6purNaFhq4SHYRfl.jpg)
 
@@ -2532,7 +2532,7 @@ Join the Miami-Dade Police Department's top Crime Scene Investigators as they tr
 <hr>
 
 
-## 6. [Criminal Minds](https://serp.ly/@serpmedia/github/amazon/Criminal+Minds)
+## 6. [Criminal Minds](https://serp.ly/amazon/Criminal+Minds)
 
 ![Criminal Minds](https://image.tmdb.org/t/p/original/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg)
 
@@ -2578,7 +2578,7 @@ To catch a criminal, you have to think like one.
 <hr>
 
 
-## 7. [Conan](https://serp.ly/@serpmedia/github/amazon/Conan)
+## 7. [Conan](https://serp.ly/amazon/Conan)
 
 ![Conan](https://image.tmdb.org/t/p/original/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg)
 
@@ -2620,7 +2620,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 8. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 8. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -2664,7 +2664,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 9. [Close Up with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Close+Up+with+The+Hollywood+Reporter)
+## 9. [Close Up with The Hollywood Reporter](https://serp.ly/amazon/Close+Up+with+The+Hollywood+Reporter)
 
 ![Close Up with The Hollywood Reporter](https://image.tmdb.org/t/p/original/h7X59O3T4VWVAUzZ00LEpbwA3GP.jpg)
 
@@ -2706,7 +2706,7 @@ Conan O'Brien's late-night television talk show has been a staple of the small s
 <hr>
 
 
-## 10. [CSI: NY](https://serp.ly/@serpmedia/github/amazon/CSI%3A+NY)
+## 10. [CSI: NY](https://serp.ly/amazon/CSI%3A+NY)
 
 ![CSI: NY](https://image.tmdb.org/t/p/original/xqiTpKqKhBwcBWh9jUm7anyatzD.jpg)
 
@@ -2752,7 +2752,7 @@ When a crime hits New York City, the detectives at the scene have backup from an
 <hr>
 
 
-## 11. [Judging Amy](https://serp.ly/@serpmedia/github/amazon/Judging+Amy)
+## 11. [Judging Amy](https://serp.ly/amazon/Judging+Amy)
 
 ![Judging Amy](https://image.tmdb.org/t/p/original/xwCYDipqGC5lWirdARXrDGIX22i.jpg)
 
@@ -2794,7 +2794,7 @@ Judging Amy invites you into the personal and professional life of a family cour
 <hr>
 
 
-## 12. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 12. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -2838,7 +2838,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 13. [MTV Movie & TV Awards](https://serp.ly/@serpmedia/github/amazon/MTV+Movie+%26+TV+Awards)
+## 13. [MTV Movie & TV Awards](https://serp.ly/amazon/MTV+Movie+%26+TV+Awards)
 
 ![MTV Movie & TV Awards](https://image.tmdb.org/t/p/original/77FuUQrJVO8GcyCpfHBZOICINwm.jpg)
 
@@ -2882,7 +2882,7 @@ For three decades, MTV's Movie & TV Awards have celebrated the best in entertain
 <hr>
 
 
-## 14. [The Great](https://serp.ly/@serpmedia/github/amazon/The+Great)
+## 14. [The Great](https://serp.ly/amazon/The+Great)
 
 ![The Great](https://image.tmdb.org/t/p/original/hmmFST2bPU8EyqEb6IMALKajFAl.jpg)
 
@@ -2926,7 +2926,7 @@ Chaos reigns.
 <hr>
 
 
-## 15. [The Lost Room](https://serp.ly/@serpmedia/github/amazon/The+Lost+Room)
+## 15. [The Lost Room](https://serp.ly/amazon/The+Lost+Room)
 
 ![The Lost Room](https://image.tmdb.org/t/p/original/ixfo1ysvboBxYehdDDC9D0T3Q33.jpg)
 
@@ -2970,7 +2970,7 @@ The Lost Room invites you to join a detective as he unravels the mystery behind 
 <hr>
 
 
-## 16. [No Activity](https://serp.ly/@serpmedia/github/amazon/No+Activity)
+## 16. [No Activity](https://serp.ly/amazon/No+Activity)
 
 ![No Activity](https://image.tmdb.org/t/p/original/qQTmlqa0jlaMxQ2FZXkKAcMP547.jpg)
 
@@ -3014,7 +3014,7 @@ When a major drug cartel operation goes down, it kicks off one wild ride through
 <hr>
 
 
-## 17. [Dirty Sexy Money](https://serp.ly/@serpmedia/github/amazon/Dirty+Sexy+Money)
+## 17. [Dirty Sexy Money](https://serp.ly/amazon/Dirty+Sexy+Money)
 
 ![Dirty Sexy Money](https://image.tmdb.org/t/p/original/qZHn3otXV4y7AELII800Gpv3TbW.jpg)
 
@@ -3058,7 +3058,7 @@ When the ultra-wealthy Darling family runs into legal trouble, newly appointed l
 <hr>
 
 
-## 18. [Taken](https://serp.ly/@serpmedia/github/amazon/Taken)
+## 18. [Taken](https://serp.ly/amazon/Taken)
 
 ![Taken](https://image.tmdb.org/t/p/original/dFMBPZvgbvhnpCW8YfYakNB2xrT.jpg)
 
@@ -3100,7 +3100,7 @@ When an alien spacecraft crashes near Roswell in 1944, it kicks off one of the b
 <hr>
 
 
-## 19. [The Girl from Plainville](https://serp.ly/@serpmedia/github/amazon/The+Girl+from+Plainville)
+## 19. [The Girl from Plainville](https://serp.ly/amazon/The+Girl+from+Plainville)
 
 ![The Girl from Plainville](https://image.tmdb.org/t/p/original/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg)
 
@@ -3144,7 +3144,7 @@ In this gripping miniseries, Michelle Carter's disturbing story unfolds as the p
 <hr>
 
 
-## 20. [The Rosie Show](https://serp.ly/@serpmedia/github/amazon/The+Rosie+Show)
+## 20. [The Rosie Show](https://serp.ly/amazon/The+Rosie+Show)
 
 ![The Rosie Show](https://image.tmdb.org/t/p/original/9OR3nitwNbaTg9LHJDZbacvr2T5.jpg)
 
@@ -3188,7 +3188,7 @@ The Rosie Show brings viewers 48 episodes of laughter and entertainment, starrin
 <hr>
 
 
-## 21. [Margo's Got Money Troubles](https://serp.ly/@serpmedia/github/amazon/Margo%27s+Got+Money+Troubles)
+## 21. [Margo's Got Money Troubles](https://serp.ly/amazon/Margo%27s+Got+Money+Troubles)
 
 <br>
 

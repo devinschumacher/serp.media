@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Wayne's World](https://serp.ly/@serpmedia/github/amazon/Wayne%27s+World)
+## 1. [Wayne's World](https://serp.ly/amazon/Wayne%27s+World)
 
 ![Wayne's World](https://image.tmdb.org/t/p/original/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg)
 
@@ -77,7 +77,7 @@ When two metal-head friends broadcast "Wayne's World" from Wayne's basement, the
 <hr>
 
 
-## 2. [Billy Madison](https://serp.ly/@serpmedia/github/amazon/Billy+Madison)
+## 2. [Billy Madison](https://serp.ly/amazon/Billy+Madison)
 
 ![Billy Madison](https://image.tmdb.org/t/p/original/iwk9pWR6MwTInEQc8Vw5vGHjeQ0.jpg)
 
@@ -117,7 +117,7 @@ When the 27-year-old Billy Madison learns he must complete all 12 grades of scho
 <hr>
 
 
-## 3. [Tommy Boy](https://serp.ly/@serpmedia/github/amazon/Tommy+Boy)
+## 3. [Tommy Boy](https://serp.ly/amazon/Tommy+Boy)
 
 ![Tommy Boy](https://image.tmdb.org/t/p/original/6m1xJqfViDkmNmKUKvTSJ5fo0k4.jpg)
 
@@ -155,7 +155,7 @@ When two unscrupulous salesmen hit the road to save their family business, their
 <hr>
 
 
-## 4. [Wayne's World 2](https://serp.ly/@serpmedia/github/amazon/Wayne%27s+World+2)
+## 4. [Wayne's World 2](https://serp.ly/amazon/Wayne%27s+World+2)
 
 ![Wayne's World 2](https://image.tmdb.org/t/p/original/xRzMaHvSJEBdqEVrscOnfyyCj2Y.jpg)
 
@@ -198,7 +198,7 @@ Wayne and Garth are back for another cable access TV adventure! When a dream pro
 <hr>
 
 
-## 5. [Coneheads](https://serp.ly/@serpmedia/github/amazon/Coneheads)
+## 5. [Coneheads](https://serp.ly/amazon/Coneheads)
 
 ![Coneheads](https://image.tmdb.org/t/p/original/4eHnstayi28SCHv8ATcISFEv1Rl.jpg)
 
@@ -241,7 +241,7 @@ When two cone-headed aliens crash land in Paramus, New Jersey, their bizarre app
 <hr>
 
 
-## 6. [Airheads](https://serp.ly/@serpmedia/github/amazon/Airheads)
+## 6. [Airheads](https://serp.ly/amazon/Airheads)
 
 ![Airheads](https://image.tmdb.org/t/p/original/4xPG8pPMyeoec48gKWbbC85EC8j.jpg)
 
@@ -279,7 +279,7 @@ When a fledgling rock band's demo tape fails to impress, they hatch a bold plan 
 <hr>
 
 
-## 7. [Beverly Hills Ninja](https://serp.ly/@serpmedia/github/amazon/Beverly+Hills+Ninja)
+## 7. [Beverly Hills Ninja](https://serp.ly/amazon/Beverly+Hills+Ninja)
 
 ![Beverly Hills Ninja](https://image.tmdb.org/t/p/original/kAUtHecWe0KS54jNggapnbHBGTI.jpg)
 
@@ -317,7 +317,7 @@ When an American orphan washes ashore in Japan, he's mistaken for the legendary 
 <hr>
 
 
-## 8. [Black Sheep](https://serp.ly/@serpmedia/github/amazon/Black+Sheep)
+## 8. [Black Sheep](https://serp.ly/amazon/Black+Sheep)
 
 ![Black Sheep](https://image.tmdb.org/t/p/original/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg)
 
@@ -358,7 +358,7 @@ When dignified Albert Donnelly runs for Governor, his slow-witted and klutzy you
 <hr>
 
 
-## 9. [Dirty Work](https://serp.ly/@serpmedia/github/amazon/Dirty+Work)
+## 9. [Dirty Work](https://serp.ly/amazon/Dirty+Work)
 
 ![Dirty Work](https://image.tmdb.org/t/p/original/btYKWL9SP12nhkcw8EkMG3aFtga.jpg)
 
@@ -399,7 +399,7 @@ When Mitch and Sam find themselves out of work and out of options, they turn the
 <hr>
 
 
-## 10. [Almost Heroes](https://serp.ly/@serpmedia/github/amazon/Almost+Heroes)
+## 10. [Almost Heroes](https://serp.ly/amazon/Almost+Heroes)
 
 ![Almost Heroes](https://image.tmdb.org/t/p/original/qO1cfr4UxcwQ858Nxp470QNS3v8.jpg)
 
@@ -441,7 +441,7 @@ In 1804, two amateur explorers embark on a misguided journey through the Pacific
 <hr>
 
 
-## 11. [I Am Chris Farley](https://serp.ly/@serpmedia/github/amazon/I+Am+Chris+Farley)
+## 11. [I Am Chris Farley](https://serp.ly/amazon/I+Am+Chris+Farley)
 
 ![I Am Chris Farley](https://image.tmdb.org/t/p/original/kljSSGgT4bHsL3Ivou5akIcWSrr.jpg)
 
@@ -475,7 +475,7 @@ Join Chris Farley as he recounts his hilarious journey from Madison, Wisconsin, 
 <hr>
 
 
-## 12. [Saturday Night Live: The Best of Chris Farley](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+The+Best+of+Chris+Farley)
+## 12. [Saturday Night Live: The Best of Chris Farley](https://serp.ly/amazon/Saturday+Night+Live%3A+The+Best+of+Chris+Farley)
 
 ![Saturday Night Live: The Best of Chris Farley](https://image.tmdb.org/t/p/original/t2WsuYsiN7uRalBJtd7PvwHbPp9.jpg)
 
@@ -509,7 +509,7 @@ Chris Farley's most memorable Saturday Night Live moments come together in this 
 <hr>
 
 
-## 13. [Saturday Night Live: The Best of Adam Sandler](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+The+Best+of+Adam+Sandler)
+## 13. [Saturday Night Live: The Best of Adam Sandler](https://serp.ly/amazon/Saturday+Night+Live%3A+The+Best+of+Adam+Sandler)
 
 ![Saturday Night Live: The Best of Adam Sandler](https://image.tmdb.org/t/p/original/uSm0wO7vHQLoUXxCTlUDFGWUpIx.jpg)
 
@@ -543,7 +543,7 @@ Before Adam Sandler became a household name with blockbusters like Happy Gilmore
 <hr>
 
 
-## 14. [Saturday Night Live: 25th Anniversary Special](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+25th+Anniversary+Special)
+## 14. [Saturday Night Live: 25th Anniversary Special](https://serp.ly/amazon/Saturday+Night+Live%3A+25th+Anniversary+Special)
 
 ![Saturday Night Live: 25th Anniversary Special](https://image.tmdb.org/t/p/original/iloU9d27LBYLH5AaWtkSsSoqFtC.jpg)
 
@@ -579,7 +579,7 @@ Before Adam Sandler became a household name with blockbusters like Happy Gilmore
 <hr>
 
 
-## 15. [Tom Hanks: The Nomad](https://serp.ly/@serpmedia/github/amazon/Tom+Hanks%3A+The+Nomad)
+## 15. [Tom Hanks: The Nomad](https://serp.ly/amazon/Tom+Hanks%3A+The+Nomad)
 
 ![Tom Hanks: The Nomad](https://image.tmdb.org/t/p/original/dacx3E91IFXQ66fJLIhTVGSSxDw.jpg)
 
@@ -612,7 +612,7 @@ Travel back in time with Tom Hanks to relive the moments that shaped him from a 
 <hr>
 
 
-## 16. [Saturday Night Live: 40th Anniversary Special](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+40th+Anniversary+Special)
+## 16. [Saturday Night Live: 40th Anniversary Special](https://serp.ly/amazon/Saturday+Night+Live%3A+40th+Anniversary+Special)
 
 ![Saturday Night Live: 40th Anniversary Special](https://image.tmdb.org/t/p/original/cda1A0SQ0C9511GSCVnEQ0821bh.jpg)
 
@@ -646,7 +646,7 @@ Travel back in time with Tom Hanks to relive the moments that shaped him from a 
 <hr>
 
 
-## 17. [The Women of SNL](https://serp.ly/@serpmedia/github/amazon/The+Women+of+SNL)
+## 17. [The Women of SNL](https://serp.ly/amazon/The+Women+of+SNL)
 
 ![The Women of SNL](https://image.tmdb.org/t/p/original/nMmt57scmrvzRciU9KWFUsYhuDI.jpg)
 
@@ -680,7 +680,7 @@ Travel back in time with Tom Hanks to relive the moments that shaped him from a 
 <hr>
 
 
-## 18. [Chris Farley: Anything for a Laugh](https://serp.ly/@serpmedia/github/amazon/Chris+Farley%3A+Anything+for+a+Laugh)
+## 18. [Chris Farley: Anything for a Laugh](https://serp.ly/amazon/Chris+Farley%3A+Anything+for+a+Laugh)
 
 ![Chris Farley: Anything for a Laugh](https://image.tmdb.org/t/p/original/5Fbm3yHele2nEwR0gjE88pvDtvz.jpg)
 
@@ -714,7 +714,7 @@ Join Chris Farley as he transforms from an insecure kid to a wildly popular come
 <hr>
 
 
-## 19. [Bad Boys of Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Bad+Boys+of+Saturday+Night+Live)
+## 19. [Bad Boys of Saturday Night Live](https://serp.ly/amazon/Bad+Boys+of+Saturday+Night+Live)
 
 ![Bad Boys of Saturday Night Live](https://image.tmdb.org/t/p/original/qDE84neUrPmjH0oO8KfrQIY2zbB.jpg)
 
@@ -748,7 +748,7 @@ Join Adam Sandler, David Spade, Chris Rock, Rob Schneider, and Chris Farley for 
 <hr>
 
 
-## 20. [Adam Sandler: What the Hell Happened to Me?](https://serp.ly/@serpmedia/github/amazon/Adam+Sandler%3A+What+the+Hell+Happened+to+Me%3F)
+## 20. [Adam Sandler: What the Hell Happened to Me?](https://serp.ly/amazon/Adam+Sandler%3A+What+the+Hell+Happened+to+Me%3F)
 
 ![Adam Sandler: What the Hell Happened to Me?](https://image.tmdb.org/t/p/original/u9IOCJOaXo6M8kVmvnRxnN3HJb7.jpg)
 
@@ -784,7 +784,7 @@ Join Adam Sandler for an unforgettable night of stand-up comedy, as he performs 
 <hr>
 
 
-## 21. [Saturday Night Live: A Tribute to Chris Farley](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+A+Tribute+to+Chris+Farley)
+## 21. [Saturday Night Live: A Tribute to Chris Farley](https://serp.ly/amazon/Saturday+Night+Live%3A+A+Tribute+to+Chris+Farley)
 
 ![Saturday Night Live: A Tribute to Chris Farley](https://image.tmdb.org/t/p/original/78EYMrbJhql1q7LGsXIUEK0pVfE.jpg)
 
@@ -815,7 +815,7 @@ Chris Farley skyrocketed to fame in the 1990s with his unforgettable skits on "S
 <hr>
 
 
-## 22. [Shrek: I Feel Good](https://serp.ly/@serpmedia/github/amazon/Shrek%3A+I+Feel+Good)
+## 22. [Shrek: I Feel Good](https://serp.ly/amazon/Shrek%3A+I+Feel+Good)
 
 ![Shrek: I Feel Good](https://image.tmdb.org/t/p/original/djQVZtfQxVxJQskKb7VAcYjzjQ7.jpg)
 
@@ -846,7 +846,7 @@ Chris Farley skyrocketed to fame in the 1990s with his unforgettable skits on "S
 <hr>
 
 
-## 23. [Chunk Bunkman : Top Bunk](https://serp.ly/@serpmedia/github/amazon/Chunk+Bunkman+%3A+Top+Bunk)
+## 23. [Chunk Bunkman : Top Bunk](https://serp.ly/amazon/Chunk+Bunkman+%3A+Top+Bunk)
 
 In Chunk's Bunk, he's always On Top
 
@@ -879,7 +879,7 @@ In Chunk's Bunk, he's always On Top
 <hr>
 
 
-## 1. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 1. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -925,7 +925,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 2. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 2. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -967,7 +967,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 3. [The Larry Sanders Show](https://serp.ly/@serpmedia/github/amazon/The+Larry+Sanders+Show)
+## 3. [The Larry Sanders Show](https://serp.ly/amazon/The+Larry+Sanders+Show)
 
 ![The Larry Sanders Show](https://image.tmdb.org/t/p/original/qMRVylcs6y2naOp7s6RIawELTAL.jpg)
 
@@ -1011,7 +1011,7 @@ Join Garry Shandling as he transforms his real-life talk show experiences into s
 <hr>
 
 
-## 4. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 4. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -1055,7 +1055,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 5. [Road Rules](https://serp.ly/@serpmedia/github/amazon/Road+Rules)
+## 5. [Road Rules](https://serp.ly/amazon/Road+Rules)
 
 ![Road Rules](https://image.tmdb.org/t/p/original/zJkKmeGNQLxOpvrm8ZZbDqCpWjc.jpg)
 
@@ -1097,7 +1097,7 @@ When five strangers receive an invitation to participate in an extraordinary adv
 <hr>
 
 
-## 6. [Dark Side of Comedy](https://serp.ly/@serpmedia/github/amazon/Dark+Side+of+Comedy)
+## 6. [Dark Side of Comedy](https://serp.ly/amazon/Dark+Side+of+Comedy)
 
 ![Dark Side of Comedy](https://image.tmdb.org/t/p/original/kVDf6WA25MRIiEsYMdgziptcut2.jpg)
 
@@ -1141,7 +1141,7 @@ While comedy brings joy to millions, its practitioners often battle darkness beh
 <hr>
 
 
-## 7. [The Holiday Movies That Made Us](https://serp.ly/@serpmedia/github/amazon/The+Holiday+Movies+That+Made+Us)
+## 7. [The Holiday Movies That Made Us](https://serp.ly/amazon/The+Holiday+Movies+That+Made+Us)
 
 ![The Holiday Movies That Made Us](https://image.tmdb.org/t/p/original/iA2DIddggmq1UCoWqAxZCxy3Q7c.jpg)
 
@@ -1183,7 +1183,7 @@ While comedy brings joy to millions, its practitioners often battle darkness beh
 <hr>
 
 
-## 8. [Biography: Comedy Icons](https://serp.ly/@serpmedia/github/amazon/Biography%3A+Comedy+Icons)
+## 8. [Biography: Comedy Icons](https://serp.ly/amazon/Biography%3A+Comedy+Icons)
 
 ![Biography: Comedy Icons](https://image.tmdb.org/t/p/original/5FYqz6d9bvsOokit1YUyvngpCnX.jpg)
 
@@ -1222,7 +1222,7 @@ Part of the award-winning Biography series, this three-episode collection from A
 <hr>
 
 
-## 9. [Celebrities Uncensored](https://serp.ly/@serpmedia/github/amazon/Celebrities+Uncensored)
+## 9. [Celebrities Uncensored](https://serp.ly/amazon/Celebrities+Uncensored)
 
 ![Celebrities Uncensored](https://image.tmdb.org/t/p/original/cwZ6ZXREDPOtsAiAUcA4uKBhy1e.jpg)
 

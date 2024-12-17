@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Good Boys](https://serp.ly/@serpmedia/github/amazon/Good+Boys)
+## 1. [Good Boys](https://serp.ly/amazon/Good+Boys)
 
 ![Good Boys](https://image.tmdb.org/t/p/original/tximyCXMEnWIIyOy9STkOduUprG.jpg)
 
@@ -80,7 +80,7 @@ When a group of young boys on the cusp of becoming teenagers accidentally breaks
 <hr>
 
 
-## 2. [Teenage Mutant Ninja Turtles: Mutant Mayhem](https://serp.ly/@serpmedia/github/amazon/Teenage+Mutant+Ninja+Turtles%3A+Mutant+Mayhem)
+## 2. [Teenage Mutant Ninja Turtles: Mutant Mayhem](https://serp.ly/amazon/Teenage+Mutant+Ninja+Turtles%3A+Mutant+Mayhem)
 
 ![Teenage Mutant Ninja Turtles: Mutant Mayhem](https://image.tmdb.org/t/p/original/4oLd3iipWYgX4HatkJ8Bi65Ck3P.jpg)
 
@@ -120,7 +120,7 @@ After years of being sheltered from the human world, the Turtle brothers set out
 <hr>
 
 
-## 3. [Marry Me](https://serp.ly/@serpmedia/github/amazon/Marry+Me)
+## 3. [Marry Me](https://serp.ly/amazon/Marry+Me)
 
 ![Marry Me](https://image.tmdb.org/t/p/original/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg)
 
@@ -163,7 +163,7 @@ Pop superstar Kat Valdez's world changes when she catches her fiancé cheating r
 <hr>
 
 
-## 4. [Family Switch](https://serp.ly/@serpmedia/github/amazon/Family+Switch)
+## 4. [Family Switch](https://serp.ly/amazon/Family+Switch)
 
 ![Family Switch](https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg)
 
@@ -202,7 +202,7 @@ The Walker family is about to change lives. Literally. When planetary alignment 
 <hr>
 
 
-## 5. [Diary of a Wimpy Kid](https://serp.ly/@serpmedia/github/amazon/Diary+of+a+Wimpy+Kid)
+## 5. [Diary of a Wimpy Kid](https://serp.ly/amazon/Diary+of+a+Wimpy+Kid)
 
 ![Diary of a Wimpy Kid](https://image.tmdb.org/t/p/original/9ygyYYbBtBRaAnFIC2Hm0ziuSZy.jpg)
 
@@ -238,7 +238,7 @@ When scrawny kid Greg Heffley starts middle school, he kicks off a hilarious jou
 <hr>
 
 
-## 6. [Diary of a Wimpy Kid: Rodrick Rules](https://serp.ly/@serpmedia/github/amazon/Diary+of+a+Wimpy+Kid%3A+Rodrick+Rules)
+## 6. [Diary of a Wimpy Kid: Rodrick Rules](https://serp.ly/amazon/Diary+of+a+Wimpy+Kid%3A+Rodrick+Rules)
 
 ![Diary of a Wimpy Kid: Rodrick Rules](https://image.tmdb.org/t/p/original/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg)
 
@@ -277,7 +277,7 @@ When Greg starts a new school year, he faces the SAME old challenge: dealing wit
 <hr>
 
 
-## 7. [Teenage Mutant Ninja Turtles: Mutant Mayhem 2](https://serp.ly/@serpmedia/github/amazon/Teenage+Mutant+Ninja+Turtles%3A+Mutant+Mayhem+2)
+## 7. [Teenage Mutant Ninja Turtles: Mutant Mayhem 2](https://serp.ly/amazon/Teenage+Mutant+Ninja+Turtles%3A+Mutant+Mayhem+2)
 
 ![Teenage Mutant Ninja Turtles: Mutant Mayhem 2](https://image.tmdb.org/t/p/original/yukp9qq3JmgatfMSGnxdyn6jtRX.jpg)
 
@@ -305,7 +305,7 @@ Join the Teenage Mutant Ninja Turtles for another shell-smashing adventure in "M
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -349,7 +349,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Boardwalk Empire](https://serp.ly/@serpmedia/github/amazon/Boardwalk+Empire)
+## 2. [Boardwalk Empire](https://serp.ly/amazon/Boardwalk+Empire)
 
 ![Boardwalk Empire](https://image.tmdb.org/t/p/original/3IKbPI1uQFcT7gNHi3la7uwOnsN.jpg)
 
@@ -393,7 +393,7 @@ No one goes quietly.
 <hr>
 
 
-## 3. [Made in Hollywood](https://serp.ly/@serpmedia/github/amazon/Made+in+Hollywood)
+## 3. [Made in Hollywood](https://serp.ly/amazon/Made+in+Hollywood)
 
 ![Made in Hollywood](https://image.tmdb.org/t/p/original/6qmnydngb6MWvrTAe09x61SiXcC.jpg)
 
@@ -439,7 +439,7 @@ How everything on the screen is Made In Hollywood
 <hr>
 
 
-## 4. [The Mighty Ducks: Game Changers](https://serp.ly/@serpmedia/github/amazon/The+Mighty+Ducks%3A+Game+Changers)
+## 4. [The Mighty Ducks: Game Changers](https://serp.ly/amazon/The+Mighty+Ducks%3A+Game+Changers)
 
 ![The Mighty Ducks: Game Changers](https://image.tmdb.org/t/p/original/ohfKOxy4028jm2XQL7Wy6cVMKhm.jpg)
 
@@ -483,7 +483,7 @@ After 12-year-old Evan is cut from the Mighty Ducks, he and his mom Alex build a
 <hr>
 
 
-## 5. [Tales of the Teenage Mutant Ninja Turtles](https://serp.ly/@serpmedia/github/amazon/Tales+of+the+Teenage+Mutant+Ninja+Turtles)
+## 5. [Tales of the Teenage Mutant Ninja Turtles](https://serp.ly/amazon/Tales+of+the+Teenage+Mutant+Ninja+Turtles)
 
 ![Tales of the Teenage Mutant Ninja Turtles](https://image.tmdb.org/t/p/original/eCOoBMVFm5UgoKAZ35HdOC9cCwt.jpg)
 
@@ -522,7 +522,7 @@ When the Teenage Mutant Ninja Turtles face new threats without their brothers by
 <hr>
 
 
-## 6. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 6. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -566,7 +566,7 @@ When the Teenage Mutant Ninja Turtles face new threats without their brothers by
 <hr>
 
 
-## 7. [Dish Nation](https://serp.ly/@serpmedia/github/amazon/Dish+Nation)
+## 7. [Dish Nation](https://serp.ly/amazon/Dish+Nation)
 
 ![Dish Nation](https://image.tmdb.org/t/p/original/kbrKUFHKxxTzvxvxgKWMyeH7VKZ.jpg)
 
@@ -610,7 +610,7 @@ When the Teenage Mutant Ninja Turtles face new threats without their brothers by
 <hr>
 
 
-## 8. [ET Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/ET+Entertainment+Tonight)
+## 8. [ET Entertainment Tonight](https://serp.ly/amazon/ET+Entertainment+Tonight)
 
 <br>
 
@@ -652,7 +652,7 @@ When the Teenage Mutant Ninja Turtles face new threats without their brothers by
 <hr>
 
 
-## 9. [WGN Morning News](https://serp.ly/@serpmedia/github/amazon/WGN+Morning+News)
+## 9. [WGN Morning News](https://serp.ly/amazon/WGN+Morning+News)
 
 <br>
 

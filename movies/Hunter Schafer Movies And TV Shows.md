@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Hunger Games: The Ballad of Songbirds & Snakes](https://serp.ly/@serpmedia/github/amazon/The+Hunger+Games%3A+The+Ballad+of+Songbirds+%26+Snakes)
+## 1. [The Hunger Games: The Ballad of Songbirds & Snakes](https://serp.ly/amazon/The+Hunger+Games%3A+The+Ballad+of+Songbirds+%26+Snakes)
 
 ![The Hunger Games: The Ballad of Songbirds & Snakes](https://image.tmdb.org/t/p/original/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg)
 
@@ -80,7 +80,7 @@ In a world where survival is the ultimate game, young Coriolanus Snow sees an op
 <hr>
 
 
-## 2. [Kinds of Kindness](https://serp.ly/@serpmedia/github/amazon/Kinds+of+Kindness)
+## 2. [Kinds of Kindness](https://serp.ly/amazon/Kinds+of+Kindness)
 
 ![Kinds of Kindness](https://image.tmdb.org/t/p/original/8mmpltkcG9areafsQHXaURedno3.jpg)
 
@@ -115,7 +115,7 @@ In a world where survival is the ultimate game, young Coriolanus Snow sees an op
 <hr>
 
 
-## 3. [ANOHNI Live Experiencce](https://serp.ly/@serpmedia/github/amazon/ANOHNI+Live+Experiencce)
+## 3. [ANOHNI Live Experiencce](https://serp.ly/amazon/ANOHNI+Live+Experiencce)
 
 ![ANOHNI Live Experiencce](https://image.tmdb.org/t/p/original/3NthuMbcGZOqkyIBUMNSexeF8qm.jpg)
 
@@ -146,7 +146,7 @@ In a world where survival is the ultimate game, young Coriolanus Snow sees an op
 <hr>
 
 
-## 4. [Cuckoo](https://serp.ly/@serpmedia/github/amazon/Cuckoo)
+## 4. [Cuckoo](https://serp.ly/amazon/Cuckoo)
 
 ![Cuckoo](https://image.tmdb.org/t/p/original/4bGP5cnSZbfBJfIidZNSEIKnav7.jpg)
 
@@ -182,7 +182,7 @@ After moving to the German Alps with her father and his new family, Gretchen dis
 <hr>
 
 
-## 5. [Mother Mary](https://serp.ly/@serpmedia/github/amazon/Mother+Mary)
+## 5. [Mother Mary](https://serp.ly/amazon/Mother+Mary)
 
 ![Mother Mary](https://image.tmdb.org/t/p/original/oAByZ68RwF105YLW3M3Ex16DpTn.jpg)
 
@@ -205,7 +205,7 @@ Mother Mary intertwines a fictional musician's career with that of a renowned fa
 <hr>
 
 
-## 6. [Predator or Prey: Making The Ballad of Songbirds & Snakes](https://serp.ly/@serpmedia/github/amazon/Predator+or+Prey%3A+Making+The+Ballad+of+Songbirds+%26+Snakes)
+## 6. [Predator or Prey: Making The Ballad of Songbirds & Snakes](https://serp.ly/amazon/Predator+or+Prey%3A+Making+The+Ballad+of+Songbirds+%26+Snakes)
 
 ![Predator or Prey: Making The Ballad of Songbirds & Snakes](https://image.tmdb.org/t/p/original/h31cE8mLKSeijiIa2Vjm2IuoKSm.jpg)
 
@@ -233,7 +233,7 @@ Mother Mary intertwines a fictional musician's career with that of a renowned fa
 <hr>
 
 
-## 7. [Palette](https://serp.ly/@serpmedia/github/amazon/Palette)
+## 7. [Palette](https://serp.ly/amazon/Palette)
 
 <br>
 
@@ -257,7 +257,7 @@ Dolly is a woman who suffers from extreme synesthesia, a rare condition that all
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -303,7 +303,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -349,7 +349,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 3. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -393,7 +393,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 4. [Euphoria](https://serp.ly/@serpmedia/github/amazon/Euphoria)
+## 4. [Euphoria](https://serp.ly/amazon/Euphoria)
 
 ![Euphoria](https://image.tmdb.org/t/p/original/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg)
 
@@ -439,7 +439,7 @@ Remember this feeling.
 <hr>
 
 
-## 5. [Honest Trailers](https://serp.ly/@serpmedia/github/amazon/Honest+Trailers)
+## 5. [Honest Trailers](https://serp.ly/amazon/Honest+Trailers)
 
 ![Honest Trailers](https://image.tmdb.org/t/p/original/5wZDu7JVXqmzJLthh1ngIfLmKIS.jpg)
 
@@ -483,7 +483,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 6. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 6. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -527,7 +527,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 7. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 7. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -571,7 +571,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 8. [Golden Globe Awards](https://serp.ly/@serpmedia/github/amazon/Golden+Globe+Awards)
+## 8. [Golden Globe Awards](https://serp.ly/amazon/Golden+Globe+Awards)
 
 ![Golden Globe Awards](https://image.tmdb.org/t/p/original/kwPQHGHTTgJ8x5KTQDB8F2T4dzC.jpg)
 
@@ -615,7 +615,7 @@ The Golden Globe Awards, founded in 1944, showcase the Hollywood Foreign Press A
 <hr>
 
 
-## 9. [Blade Runner 2099](https://serp.ly/@serpmedia/github/amazon/Blade+Runner+2099)
+## 9. [Blade Runner 2099](https://serp.ly/amazon/Blade+Runner+2099)
 
 <br>
 

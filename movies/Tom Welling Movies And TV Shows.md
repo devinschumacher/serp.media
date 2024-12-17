@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Cheaper by the Dozen](https://serp.ly/@serpmedia/github/amazon/Cheaper+by+the+Dozen)
+## 1. [Cheaper by the Dozen](https://serp.ly/amazon/Cheaper+by+the+Dozen)
 
 ![Cheaper by the Dozen](https://image.tmdb.org/t/p/original/afclGGoQslTYFTnyW1LRMtJMiBp.jpg)
 
@@ -80,7 +80,7 @@ When the Baker family moves to Chicago, their 12 children adjust to city life wi
 <hr>
 
 
-## 2. [The Choice](https://serp.ly/@serpmedia/github/amazon/The+Choice)
+## 2. [The Choice](https://serp.ly/amazon/The+Choice)
 
 ![The Choice](https://image.tmdb.org/t/p/original/6MF3cdAasnF17SG9bmeamQ066iJ.jpg)
 
@@ -123,7 +123,7 @@ Travis and Gabby's story begins in a picturesque coastal town where their paths 
 <hr>
 
 
-## 3. [Cheaper by the Dozen 2](https://serp.ly/@serpmedia/github/amazon/Cheaper+by+the+Dozen+2)
+## 3. [Cheaper by the Dozen 2](https://serp.ly/amazon/Cheaper+by+the+Dozen+2)
 
 ![Cheaper by the Dozen 2](https://image.tmdb.org/t/p/original/wD68dEtcKuboxd8bhbqiTTxn6cX.jpg)
 
@@ -166,7 +166,7 @@ When the Baker family hits the road for a memorable vacation, their plans unfold
 <hr>
 
 
-## 4. [Draft Day](https://serp.ly/@serpmedia/github/amazon/Draft+Day)
+## 4. [Draft Day](https://serp.ly/amazon/Draft+Day)
 
 ![Draft Day](https://image.tmdb.org/t/p/original/xBmz9TGjPpeErYdOHkAkr8folEM.jpg)
 
@@ -204,7 +204,7 @@ When NFL General Manager Sonny Weaver trades for the number one pick, he gets th
 <hr>
 
 
-## 5. [The Fog](https://serp.ly/@serpmedia/github/amazon/The+Fog)
+## 5. [The Fog](https://serp.ly/amazon/The+Fog)
 
 ![The Fog](https://image.tmdb.org/t/p/original/v9vt49PUDJGkrMVjhb3yiYo7H4Y.jpg)
 
@@ -244,7 +244,7 @@ In the foggy coastal town of Antonio Bay, a dark secret from the past threatens 
 <hr>
 
 
-## 6. [Parkland](https://serp.ly/@serpmedia/github/amazon/Parkland)
+## 6. [Parkland](https://serp.ly/amazon/Parkland)
 
 ![Parkland](https://image.tmdb.org/t/p/original/3slcSL2i9oub4SUT8oF28npx9z5.jpg)
 
@@ -284,7 +284,7 @@ November 22, 1963, 12:38 pm - A trauma patient is rushed to Parkland Memorial Ho
 <hr>
 
 
-## 7. [Smallville](https://serp.ly/@serpmedia/github/amazon/Smallville)
+## 7. [Smallville](https://serp.ly/amazon/Smallville)
 
 ![Smallville](https://image.tmdb.org/t/p/original/Ab2GztrIkIvUvJWuxtpwAkN93Td.jpg)
 
@@ -317,7 +317,7 @@ In the picturesque town of Smallville, a high school prank goes terribly wrong, 
 <hr>
 
 
-## 8. [Clear Cut](https://serp.ly/@serpmedia/github/amazon/Clear+Cut)
+## 8. [Clear Cut](https://serp.ly/amazon/Clear+Cut)
 
 ![Clear Cut](https://image.tmdb.org/t/p/original/mrDB4ZpkPasdhDOaQbi7XMnT1cs.jpg)
 
@@ -345,7 +345,7 @@ In the Pacific Northwest timber industry, every day is a high-stakes adventure f
 <hr>
 
 
-## 9. [Deep Six](https://serp.ly/@serpmedia/github/amazon/Deep+Six)
+## 9. [Deep Six](https://serp.ly/amazon/Deep+Six)
 
 <br>
 
@@ -371,7 +371,7 @@ When an ex-con is released early from prison, he's recruited into an undercover 
 <hr>
 
 
-## 1. [Smallville](https://serp.ly/@serpmedia/github/amazon/Smallville)
+## 1. [Smallville](https://serp.ly/amazon/Smallville)
 
 ![Smallville](https://image.tmdb.org/t/p/original/aznhgiLDoxD3LWFY5USjJ4eewtL.jpg)
 
@@ -415,7 +415,7 @@ In "Smallville", we follow the incredible journey of Kal-el, a young refugee fro
 <hr>
 
 
-## 2. [Lucifer](https://serp.ly/@serpmedia/github/amazon/Lucifer)
+## 2. [Lucifer](https://serp.ly/amazon/Lucifer)
 
 ![Lucifer](https://image.tmdb.org/t/p/original/ekZobS8isE6mA53RAiGDG93hBxL.jpg)
 
@@ -459,7 +459,7 @@ Lucifer Morningstar, the former ruler of Hell, exchanges his throne for a detect
 <hr>
 
 
-## 3. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 3. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -503,7 +503,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 4. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 4. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -547,7 +547,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 5. [The Reichen Show](https://serp.ly/@serpmedia/github/amazon/The+Reichen+Show)
+## 5. [The Reichen Show](https://serp.ly/amazon/The+Reichen+Show)
 
 ![The Reichen Show](https://image.tmdb.org/t/p/original/x9fDBKqmmHHUvcaal1Tzw6iqTW.jpg)
 
@@ -589,7 +589,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 6. [Batwoman](https://serp.ly/@serpmedia/github/amazon/Batwoman)
+## 6. [Batwoman](https://serp.ly/amazon/Batwoman)
 
 ![Batwoman](https://image.tmdb.org/t/p/original/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg)
 
@@ -633,7 +633,7 @@ When Kate Kane soars onto the streets of Gotham as Batwoman, she brings with her
 <hr>
 
 
-## 7. [Judging Amy](https://serp.ly/@serpmedia/github/amazon/Judging+Amy)
+## 7. [Judging Amy](https://serp.ly/amazon/Judging+Amy)
 
 ![Judging Amy](https://image.tmdb.org/t/p/original/xwCYDipqGC5lWirdARXrDGIX22i.jpg)
 
@@ -675,7 +675,7 @@ Judging Amy invites you into the personal and professional life of a family cour
 <hr>
 
 
-## 8. [The Winchesters](https://serp.ly/@serpmedia/github/amazon/The+Winchesters)
+## 8. [The Winchesters](https://serp.ly/amazon/The+Winchesters)
 
 ![The Winchesters](https://image.tmdb.org/t/p/original/oyleYabGfn6c50bIo4M3c7ogrfL.jpg)
 
@@ -719,7 +719,7 @@ Before Sam and Dean, there was John and Mary. In this 13-episode series, narrato
 <hr>
 
 
-## 9. [Special Unit 2](https://serp.ly/@serpmedia/github/amazon/Special+Unit+2)
+## 9. [Special Unit 2](https://serp.ly/amazon/Special+Unit+2)
 
 ![Special Unit 2](https://image.tmdb.org/t/p/original/hGc06r4JZlGOZFDs5yqPtTDj1vE.jpg)
 
@@ -763,7 +763,7 @@ When darkness falls over Chicago, two detectives find themselves at the center o
 <hr>
 
 
-## 10. [Undeclared](https://serp.ly/@serpmedia/github/amazon/Undeclared)
+## 10. [Undeclared](https://serp.ly/amazon/Undeclared)
 
 ![Undeclared](https://image.tmdb.org/t/p/original/uP6XCJGjeV09Z2GfTY9qmEtLI4i.jpg)
 
@@ -807,7 +807,7 @@ When college freshman Steve Karp heads back to school with his girlfriend and th
 <hr>
 
 
-## 11. [Professionals](https://serp.ly/@serpmedia/github/amazon/Professionals)
+## 11. [Professionals](https://serp.ly/amazon/Professionals)
 
 ![Professionals](https://image.tmdb.org/t/p/original/fEnU5MLsorGStlyGsaqZXq8gCHf.jpg)
 

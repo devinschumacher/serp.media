@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Captain America: Civil War](https://serp.ly/@serpmedia/github/amazon/Captain+America%3A+Civil+War)
+## 1. [Captain America: Civil War](https://serp.ly/amazon/Captain+America%3A+Civil+War)
 
 ![Captain America: Civil War](https://image.tmdb.org/t/p/original/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg)
 
@@ -80,7 +80,7 @@ United we stand. Divided we fall.
 <hr>
 
 
-## 2. [Captain America: The Winter Soldier](https://serp.ly/@serpmedia/github/amazon/Captain+America%3A+The+Winter+Soldier)
+## 2. [Captain America: The Winter Soldier](https://serp.ly/amazon/Captain+America%3A+The+Winter+Soldier)
 
 ![Captain America: The Winter Soldier](https://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg)
 
@@ -123,7 +123,7 @@ After the events of The Avengers, Captain America trades his shield for a quiete
 <hr>
 
 
-## 3. [The Ring Two](https://serp.ly/@serpmedia/github/amazon/The+Ring+Two)
+## 3. [The Ring Two](https://serp.ly/amazon/The+Ring+Two)
 
 ![The Ring Two](https://image.tmdb.org/t/p/original/8Mnthy6ymdKHVwVw5gJB7RtaO1F.jpg)
 
@@ -163,7 +163,7 @@ After the terrifying events with Samara, Rachel and Aiden flee to a remote town 
 <hr>
 
 
-## 4. [Carriers](https://serp.ly/@serpmedia/github/amazon/Carriers)
+## 4. [Carriers](https://serp.ly/amazon/Carriers)
 
 ![Carriers](https://image.tmdb.org/t/p/original/jxjnjHtHXgvjdhkwpelE9ZwVMg6.jpg)
 
@@ -201,7 +201,7 @@ In a world devastated by a mysterious virus, four friends embark on a desperate 
 <hr>
 
 
-## 5. [Lost and Delirious](https://serp.ly/@serpmedia/github/amazon/Lost+and+Delirious)
+## 5. [Lost and Delirious](https://serp.ly/amazon/Lost+and+Delirious)
 
 ![Lost and Delirious](https://image.tmdb.org/t/p/original/3Cu95A09arsfTsOJfygVwhJe5qc.jpg)
 
@@ -240,7 +240,7 @@ After transferring to a prestigious boarding school, a teenage girl forms intima
 <hr>
 
 
-## 6. [Marvel Studios: Assembling a Universe](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%3A+Assembling+a+Universe)
+## 6. [Marvel Studios: Assembling a Universe](https://serp.ly/amazon/Marvel+Studios%3A+Assembling+a+Universe)
 
 ![Marvel Studios: Assembling a Universe](https://image.tmdb.org/t/p/original/41Ke02UzYoPsiTc3YbomPGiQKMl.jpg)
 
@@ -274,7 +274,7 @@ After transferring to a prestigious boarding school, a teenage girl forms intima
 <hr>
 
 
-## 7. [The Girl in the Book](https://serp.ly/@serpmedia/github/amazon/The+Girl+in+the+Book)
+## 7. [The Girl in the Book](https://serp.ly/amazon/The+Girl+in+the+Book)
 
 ![The Girl in the Book](https://image.tmdb.org/t/p/original/zVvOHOz5848dZ5x7mGqxBWzsPmS.jpg)
 
@@ -317,7 +317,7 @@ When a young writer's carefully constructed life changes overnight, she must con
 <hr>
 
 
-## 8. [Rings](https://serp.ly/@serpmedia/github/amazon/Rings)
+## 8. [Rings](https://serp.ly/amazon/Rings)
 
 ![Rings](https://image.tmdb.org/t/p/original/mjtAYGglfOO6T1jRov35jH46J6Z.jpg)
 
@@ -353,7 +353,7 @@ The\_ring has spawned a dark online phenomenon where brave souls dare to watch S
 <hr>
 
 
-## 9. [Marvel: 75 Years, from Pulp to Pop!](https://serp.ly/@serpmedia/github/amazon/Marvel%3A+75+Years%2C+from+Pulp+to+Pop%21)
+## 9. [Marvel: 75 Years, from Pulp to Pop!](https://serp.ly/amazon/Marvel%3A+75+Years%2C+from+Pulp+to+Pop%21)
 
 ![Marvel: 75 Years, from Pulp to Pop!](https://image.tmdb.org/t/p/original/biud0bsRfQryGBfcTXN2ep6ODwM.jpg)
 
@@ -387,7 +387,7 @@ The\_ring has spawned a dark online phenomenon where brave souls dare to watch S
 <hr>
 
 
-## 10. [Beyond the Blackboard](https://serp.ly/@serpmedia/github/amazon/Beyond+the+Blackboard)
+## 10. [Beyond the Blackboard](https://serp.ly/amazon/Beyond+the+Blackboard)
 
 ![Beyond the Blackboard](https://image.tmdb.org/t/p/original/alz6CH9i5EmQJhlT5qLKGOq8YdL.jpg)
 
@@ -428,7 +428,7 @@ When a young teacher takes her first job at a homeless shelter's makeshift class
 <hr>
 
 
-## 11. [Norman](https://serp.ly/@serpmedia/github/amazon/Norman)
+## 11. [Norman](https://serp.ly/amazon/Norman)
 
 ![Norman](https://image.tmdb.org/t/p/original/eBykU5EdH1A0hRNO22QlFD4okPB.jpg)
 
@@ -464,7 +464,7 @@ When a teenager's father is diagnosed with terminal cancer, he pretends to be dy
 <hr>
 
 
-## 12. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
+## 12. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
 
 ![Marvel Studios' 2021 Disney+ Day Special](https://image.tmdb.org/t/p/original/zh0B5DDP93e3zokktb5aHHfIh01.jpg)
 
@@ -495,7 +495,7 @@ When a teenager's father is diagnosed with terminal cancer, he pretends to be dy
 <hr>
 
 
-## 13. [Miranda's Victim](https://serp.ly/@serpmedia/github/amazon/Miranda%27s+Victim)
+## 13. [Miranda's Victim](https://serp.ly/amazon/Miranda%27s+Victim)
 
 ![Miranda's Victim](https://image.tmdb.org/t/p/original/82lu2Rb0MoBpfyUtoVwhLiVrDlF.jpg)
 
@@ -529,7 +529,7 @@ When Patricia "Trish" Weir is kidnapped and raped by Ernesto Miranda, she dedica
 <hr>
 
 
-## 14. [Black Irish](https://serp.ly/@serpmedia/github/amazon/Black+Irish)
+## 14. [Black Irish](https://serp.ly/amazon/Black+Irish)
 
 ![Black Irish](https://image.tmdb.org/t/p/original/5rh71Tj4Nnd85JjUrEd6BsaJJdJ.jpg)
 
@@ -565,7 +565,7 @@ In South Boston, where Irish roots run deep and Catholic tradition reigns, two b
 <hr>
 
 
-## 15. [Marvel Studios: Expanding the Universe](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%3A+Expanding+the+Universe)
+## 15. [Marvel Studios: Expanding the Universe](https://serp.ly/amazon/Marvel+Studios%3A+Expanding+the+Universe)
 
 ![Marvel Studios: Expanding the Universe](https://image.tmdb.org/t/p/original/dU7qXzttvOUvSlwwpEFQDsLnThK.jpg)
 
@@ -596,7 +596,7 @@ In South Boston, where Irish roots run deep and Catholic tradition reigns, two b
 <hr>
 
 
-## 16. [A Different Loyalty](https://serp.ly/@serpmedia/github/amazon/A+Different+Loyalty)
+## 16. [A Different Loyalty](https://serp.ly/amazon/A+Different+Loyalty)
 
 ![A Different Loyalty](https://image.tmdb.org/t/p/original/obu4OZkal5ba3qO4hhyGxwEojza.jpg)
 
@@ -634,7 +634,7 @@ When British journalist Leo Cauffield vanishes from his Beirut home in 1963, his
 <hr>
 
 
-## 17. [Boundaries](https://serp.ly/@serpmedia/github/amazon/Boundaries)
+## 17. [Boundaries](https://serp.ly/amazon/Boundaries)
 
 ![Boundaries](https://image.tmdb.org/t/p/original/al5RS0SwHYcudacSaWkkelGKKFB.jpg)
 
@@ -668,7 +668,7 @@ When Canadian politician Pierre Gagnon sits down with the president of a resourc
 <hr>
 
 
-## 18. [Redeemer](https://serp.ly/@serpmedia/github/amazon/Redeemer)
+## 18. [Redeemer](https://serp.ly/amazon/Redeemer)
 
 ![Redeemer](https://image.tmdb.org/t/p/original/5fTYcOKlfuIfy12kNJCclOM2CGs.jpg)
 
@@ -702,7 +702,7 @@ When a Black Panther raid on a drug dealer's house goes wrong, an innocent young
 <hr>
 
 
-## 19. [Jackie Bouvier Kennedy Onassis](https://serp.ly/@serpmedia/github/amazon/Jackie+Bouvier+Kennedy+Onassis)
+## 19. [Jackie Bouvier Kennedy Onassis](https://serp.ly/amazon/Jackie+Bouvier+Kennedy+Onassis)
 
 ![Jackie Bouvier Kennedy Onassis](https://image.tmdb.org/t/p/original/wgRzF6Gy2IIowsJsN5SUY2topfA.jpg)
 
@@ -736,7 +736,7 @@ When a Black Panther raid on a drug dealer's house goes wrong, an innocent young
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -782,7 +782,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -828,7 +828,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -874,7 +874,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [Brothers and Sisters](https://serp.ly/@serpmedia/github/amazon/Brothers+and+Sisters)
+## 4. [Brothers and Sisters](https://serp.ly/amazon/Brothers+and+Sisters)
 
 ![Brothers and Sisters](https://image.tmdb.org/t/p/original/oNlltZLabDv5lbiLz9dQ6VonECs.jpg)
 
@@ -918,7 +918,7 @@ When significant life changes affect the close-knit Walker family, their strong 
 <hr>
 
 
-## 5. [Are You Afraid of the Dark?](https://serp.ly/@serpmedia/github/amazon/Are+You+Afraid+of+the+Dark%3F)
+## 5. [Are You Afraid of the Dark?](https://serp.ly/amazon/Are+You+Afraid+of+the+Dark%3F)
 
 ![Are You Afraid of the Dark?](https://image.tmdb.org/t/p/original/hcVvglRh3l38IRhhtawlT2nUDY8.jpg)
 
@@ -960,7 +960,7 @@ When significant life changes affect the close-knit Walker family, their strong 
 <hr>
 
 
-## 6. [The Resident](https://serp.ly/@serpmedia/github/amazon/The+Resident)
+## 6. [The Resident](https://serp.ly/amazon/The+Resident)
 
 ![The Resident](https://image.tmdb.org/t/p/original/2IkYQJlT26yXef2iot7dhRtavSC.jpg)
 
@@ -1004,7 +1004,7 @@ The Resident pulls back the curtain on modern medicine through the eyes of a bri
 <hr>
 
 
-## 7. [Revenge](https://serp.ly/@serpmedia/github/amazon/Revenge)
+## 7. [Revenge](https://serp.ly/amazon/Revenge)
 
 ![Revenge](https://image.tmdb.org/t/p/original/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg)
 
@@ -1048,7 +1048,7 @@ When Emily Thorne arrives in the Hamptons, she's just another new face to the lo
 <hr>
 
 
-## 8. [What If...?](https://serp.ly/@serpmedia/github/amazon/What+If...%3F)
+## 8. [What If...?](https://serp.ly/amazon/What+If...%3F)
 
 ![What If...?](https://image.tmdb.org/t/p/original/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg)
 
@@ -1094,7 +1094,7 @@ What if classic Marvel moments unfolded differently? This animated anthology ser
 <hr>
 
 
-## 9. [Marvel Studios Legends](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Legends)
+## 9. [Marvel Studios Legends](https://serp.ly/amazon/Marvel+Studios+Legends)
 
 ![Marvel Studios Legends](https://image.tmdb.org/t/p/original/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg)
 
@@ -1140,7 +1140,7 @@ As the universe expands, explore the stories of those destined to become legends
 <hr>
 
 
-## 10. [The Falcon and the Winter Soldier](https://serp.ly/@serpmedia/github/amazon/The+Falcon+and+the+Winter+Soldier)
+## 10. [The Falcon and the Winter Soldier](https://serp.ly/amazon/The+Falcon+and+the+Winter+Soldier)
 
 ![The Falcon and the Winter Soldier](https://image.tmdb.org/t/p/original/6kbAMLteGO8yyewYau6bJ683sw7.jpg)
 
@@ -1186,7 +1186,7 @@ Following the events of "Avengers: Endgame", Sam Wilson and Bucky Barnes team up
 <hr>
 
 
-## 11. [Everwood](https://serp.ly/@serpmedia/github/amazon/Everwood)
+## 11. [Everwood](https://serp.ly/amazon/Everwood)
 
 ![Everwood](https://image.tmdb.org/t/p/original/4zmuA2Ql1QdUtw9OM6MdmtXnZEF.jpg)
 
@@ -1228,7 +1228,7 @@ When world-class neurosurgeon Dr. Andrew Brown loses his wife, he makes a bold m
 <hr>
 
 
-## 12. [Marvel Studios Assembled](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled)
+## 12. [Marvel Studios Assembled](https://serp.ly/amazon/Marvel+Studios+Assembled)
 
 ![Marvel Studios Assembled](https://image.tmdb.org/t/p/original/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg)
 
@@ -1270,7 +1270,7 @@ When world-class neurosurgeon Dr. Andrew Brown loses his wife, he makes a bold m
 <hr>
 
 
-## 13. [Glory Days](https://serp.ly/@serpmedia/github/amazon/Glory+Days)
+## 13. [Glory Days](https://serp.ly/amazon/Glory+Days)
 
 ![Glory Days](https://image.tmdb.org/t/p/original/wGm9KkjkjBUQE7e3NDURvBaEjlD.jpg)
 
@@ -1312,7 +1312,7 @@ When brilliant young author Mike Dolan returns to his idyllic Maine hometown aft
 <hr>
 
 
-## 14. [Ben Hur](https://serp.ly/@serpmedia/github/amazon/Ben+Hur)
+## 14. [Ben Hur](https://serp.ly/amazon/Ben+Hur)
 
 ![Ben Hur](https://image.tmdb.org/t/p/original/vdCOsvhnTMeaFcahrQCmG65KZXp.jpg)
 
@@ -1354,7 +1354,7 @@ When brilliant young author Mike Dolan returns to his idyllic Maine hometown aft
 <hr>
 
 
-## 15. [Radio Active](https://serp.ly/@serpmedia/github/amazon/Radio+Active)
+## 15. [Radio Active](https://serp.ly/amazon/Radio+Active)
 
 ![Radio Active](https://image.tmdb.org/t/p/original/z6lNTyuXwZQ8RkTMDs518Iy3QOM.jpg)
 
@@ -1396,7 +1396,7 @@ When a group of students at Upper Redwood High School takes control of their own
 <hr>
 
 
-## 16. [All Souls](https://serp.ly/@serpmedia/github/amazon/All+Souls)
+## 16. [All Souls](https://serp.ly/amazon/All+Souls)
 
 ![All Souls](https://image.tmdb.org/t/p/original/AwCdLynVp0qTpQV8EhWQKXuyEwA.jpg)
 

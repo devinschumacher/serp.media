@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Little Mermaid](https://serp.ly/@serpmedia/github/amazon/The+Little+Mermaid)
+## 1. [The Little Mermaid](https://serp.ly/amazon/The+Little+Mermaid)
 
 ![The Little Mermaid](https://image.tmdb.org/t/p/original/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg)
 
@@ -80,7 +80,7 @@ In "The Little Mermaid, " Ariel, the youngest and most adventurous of King Trito
 <hr>
 
 
-## 2. [A Dog's Way Home](https://serp.ly/@serpmedia/github/amazon/A+Dog%27s+Way+Home)
+## 2. [A Dog's Way Home](https://serp.ly/amazon/A+Dog%27s+Way+Home)
 
 ![A Dog's Way Home](https://image.tmdb.org/t/p/original/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg)
 
@@ -120,7 +120,7 @@ When a loyal dog named Bella is separated from her human family, she embarks on 
 <hr>
 
 
-## 3. [The Song of Names](https://serp.ly/@serpmedia/github/amazon/The+Song+of+Names)
+## 3. [The Song of Names](https://serp.ly/amazon/The+Song+of+Names)
 
 ![The Song of Names](https://image.tmdb.org/t/p/original/iIEZG0WD0sraPqo4al6oaU1vibJ.jpg)
 
@@ -161,7 +161,7 @@ In a captivating story that spans from the ashes of the Holocaust to the vibrant
 <hr>
 
 
-## 4. [Ashes in the Snow](https://serp.ly/@serpmedia/github/amazon/Ashes+in+the+Snow)
+## 4. [Ashes in the Snow](https://serp.ly/amazon/Ashes+in+the+Snow)
 
 ![Ashes in the Snow](https://image.tmdb.org/t/p/original/wRMgle7vPFvSMq5R76JhsH54W4S.jpg)
 
@@ -197,7 +197,7 @@ One girl's voice breaks the silence of history
 <hr>
 
 
-## 5. [Old Boys](https://serp.ly/@serpmedia/github/amazon/Old+Boys)
+## 5. [Old Boys](https://serp.ly/amazon/Old+Boys)
 
 ![Old Boys](https://image.tmdb.org/t/p/original/3CeLDFEGXfOQJeGyNafhC0jas5g.jpg)
 
@@ -231,7 +231,7 @@ When a visiting French teacher's daughter catches the eye of the school's most p
 <hr>
 
 
-## 6. [Agatha and the Curse of Ishtar](https://serp.ly/@serpmedia/github/amazon/Agatha+and+the+Curse+of+Ishtar)
+## 6. [Agatha and the Curse of Ishtar](https://serp.ly/amazon/Agatha+and+the+Curse+of+Ishtar)
 
 ![Agatha and the Curse of Ishtar](https://image.tmdb.org/t/p/original/vpKLc5LCxuI7VJ57ZYIpAEpF0bp.jpg)
 
@@ -267,7 +267,7 @@ Join Agatha Christie on an archaeological dig in Iraq where she stumbles upon a 
 <hr>
 
 
-## 7. [Postcards from London](https://serp.ly/@serpmedia/github/amazon/Postcards+from+London)
+## 7. [Postcards from London](https://serp.ly/amazon/Postcards+from+London)
 
 ![Postcards from London](https://image.tmdb.org/t/p/original/pLvWH7CGy4VyyYQTvAUkPVGyiXB.jpg)
 
@@ -306,7 +306,7 @@ Welcome to legendary Soho.
 <hr>
 
 
-## 8. [This Is the Night](https://serp.ly/@serpmedia/github/amazon/This+Is+the+Night)
+## 8. [This Is the Night](https://serp.ly/amazon/This+Is+the+Night)
 
 ![This Is the Night](https://image.tmdb.org/t/p/original/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg)
 
@@ -342,7 +342,7 @@ In the summer of 1982, as Staten Island buzzes with anticipation for an upcoming
 <hr>
 
 
-## 9. [The Last Photograph](https://serp.ly/@serpmedia/github/amazon/The+Last+Photograph)
+## 9. [The Last Photograph](https://serp.ly/amazon/The+Last+Photograph)
 
 ![The Last Photograph](https://image.tmdb.org/t/p/original/23TZEWKhdFbktkcacQraXEHgDFE.jpg)
 
@@ -378,7 +378,7 @@ In a dark night in 1988, Pan Am 103 was blown out of the sky over Lockerbie, mar
 <hr>
 
 
-## 10. [Regardez](https://serp.ly/@serpmedia/github/amazon/Regardez)
+## 10. [Regardez](https://serp.ly/amazon/Regardez)
 
 ![Regardez](https://image.tmdb.org/t/p/original/q7b1l2RLsBp9BKX6ARpsO2I3iqb.jpg)
 
@@ -414,7 +414,7 @@ In a dark night in 1988, Pan Am 103 was blown out of the sky over Lockerbie, mar
 <hr>
 
 
-## 11. [Branagh Theatre Live: The Entertainer](https://serp.ly/@serpmedia/github/amazon/Branagh+Theatre+Live%3A+The+Entertainer)
+## 11. [Branagh Theatre Live: The Entertainer](https://serp.ly/amazon/Branagh+Theatre+Live%3A+The+Entertainer)
 
 ![Branagh Theatre Live: The Entertainer](https://image.tmdb.org/t/p/original/xLDOoXcmFSQoCIc2BoMZ8Mrk1gm.jpg)
 
@@ -448,7 +448,7 @@ In this 1940sBritain-set drama, a charismatic performer takes his wit and wisdom
 <hr>
 
 
-## 12. [William Tell](https://serp.ly/@serpmedia/github/amazon/William+Tell)
+## 12. [William Tell](https://serp.ly/amazon/William+Tell)
 
 <br>
 
@@ -469,7 +469,7 @@ In the waning days of the Holy Roman Empire, a tranquil hunting expedition becom
 <hr>
 
 
-## 13. [Rich Flu](https://serp.ly/@serpmedia/github/amazon/Rich+Flu)
+## 13. [Rich Flu](https://serp.ly/amazon/Rich+Flu)
 
 ![Rich Flu](https://image.tmdb.org/t/p/original/fAO91vjNOkmP7110mjhZXQMMg0e.jpg)
 
@@ -492,7 +492,7 @@ When a mysterious illness begins targeting the world's wealthiest individuals, i
 <hr>
 
 
-## 14. [The Threesome](https://serp.ly/@serpmedia/github/amazon/The+Threesome)
+## 14. [The Threesome](https://serp.ly/amazon/The+Threesome)
 
 ![The Threesome](https://image.tmdb.org/t/p/original/drWz9SzWfhHJf0p830qf5DhtMeo.jpg)
 
@@ -515,7 +515,7 @@ When a young man's long-standing crush leads him into an unexpected threesome, h
 <hr>
 
 
-## 15. [A Beautiful Imperfection](https://serp.ly/@serpmedia/github/amazon/A+Beautiful+Imperfection)
+## 15. [A Beautiful Imperfection](https://serp.ly/amazon/A+Beautiful+Imperfection)
 
 ![A Beautiful Imperfection](https://image.tmdb.org/t/p/original/tTpYx2wJUz0DR7mVNWto2erFE08.jpg)
 
@@ -538,7 +538,7 @@ In a world where veiled courtesans are expected to maintain rigid norms, Lucia s
 <hr>
 
 
-## 16. [The Maiden](https://serp.ly/@serpmedia/github/amazon/The+Maiden)
+## 16. [The Maiden](https://serp.ly/amazon/The+Maiden)
 
 <br>
 
@@ -567,7 +567,7 @@ The Maiden is a modern retelling of Thomas Hardy's Tess of the D'Urbervilles. It
 <hr>
 
 
-## 1. [The Tattooist of Auschwitz](https://serp.ly/@serpmedia/github/amazon/The+Tattooist+of+Auschwitz)
+## 1. [The Tattooist of Auschwitz](https://serp.ly/amazon/The+Tattooist+of+Auschwitz)
 
 ![The Tattooist of Auschwitz](https://image.tmdb.org/t/p/original/nAdgX2CmkrNaRTJelFlBkpRQO0b.jpg)
 
@@ -611,7 +611,7 @@ In the Auschwitz-Birkenau concentration camp, a young Jewish prisoner is given a
 <hr>
 
 
-## 2. [Little Women](https://serp.ly/@serpmedia/github/amazon/Little+Women)
+## 2. [Little Women](https://serp.ly/amazon/Little+Women)
 
 ![Little Women](https://image.tmdb.org/t/p/original/6qzMhtTyNwpaAthrAbojojfHWrs.jpg)
 
@@ -653,7 +653,7 @@ When Mr. March goes off to war, he leaves his wife Marmee to raise their four da
 <hr>
 
 
-## 3. [World on Fire](https://serp.ly/@serpmedia/github/amazon/World+on+Fire)
+## 3. [World on Fire](https://serp.ly/amazon/World+on+Fire)
 
 ![World on Fire](https://image.tmdb.org/t/p/original/ecOAfSr6sWhX0rOLzNbb3lcMMhb.jpg)
 
@@ -695,7 +695,7 @@ Travel back in time to experience World War II through the eyes of ordinary peop
 <hr>
 
 
-## 4. [Howards End](https://serp.ly/@serpmedia/github/amazon/Howards+End)
+## 4. [Howards End](https://serp.ly/amazon/Howards+End)
 
 ![Howards End](https://image.tmdb.org/t/p/original/ixhPFHnwuYZT0D9UPcE9tyZ8uNU.jpg)
 
@@ -737,7 +737,7 @@ Travel back in time to experience World War II through the eyes of ordinary peop
 <hr>
 
 
-## 5. [The Flatshare](https://serp.ly/@serpmedia/github/amazon/The+Flatshare)
+## 5. [The Flatshare](https://serp.ly/amazon/The+Flatshare)
 
 ![The Flatshare](https://image.tmdb.org/t/p/original/pr6e4bmFVahfRt0Ue5LMeKSxk8d.jpg)
 

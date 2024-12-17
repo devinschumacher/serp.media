@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Avengers: Infinity War](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Infinity+War)
+## 1. [Avengers: Infinity War](https://serp.ly/amazon/Avengers%3A+Infinity+War)
 
 ![Avengers: Infinity War](https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg)
 
@@ -80,7 +80,7 @@ As the Avengers and their allies defend the world from threats beyond any single
 <hr>
 
 
-## 2. [Avengers: Endgame](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Endgame)
+## 2. [Avengers: Endgame](https://serp.ly/amazon/Avengers%3A+Endgame)
 
 ![Avengers: Endgame](https://image.tmdb.org/t/p/original/or06FN3Dka5tukK1e9sl16pB3iy.jpg)
 
@@ -120,7 +120,7 @@ After the catastrophic events of Avengers: Infinity War, the universe lies in ru
 <hr>
 
 
-## 3. [Captain America: Civil War](https://serp.ly/@serpmedia/github/amazon/Captain+America%3A+Civil+War)
+## 3. [Captain America: Civil War](https://serp.ly/amazon/Captain+America%3A+Civil+War)
 
 ![Captain America: Civil War](https://image.tmdb.org/t/p/original/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg)
 
@@ -163,7 +163,7 @@ United we stand. Divided we fall.
 <hr>
 
 
-## 4. [Avengers: Age of Ultron](https://serp.ly/@serpmedia/github/amazon/Avengers%3A+Age+of+Ultron)
+## 4. [Avengers: Age of Ultron](https://serp.ly/amazon/Avengers%3A+Age+of+Ultron)
 
 ![Avengers: Age of Ultron](https://image.tmdb.org/t/p/original/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg)
 
@@ -206,7 +206,7 @@ When Tony Stark reboots a peacekeeping program, his actions awaken the villainou
 <hr>
 
 
-## 5. [Captain America: The Winter Soldier](https://serp.ly/@serpmedia/github/amazon/Captain+America%3A+The+Winter+Soldier)
+## 5. [Captain America: The Winter Soldier](https://serp.ly/amazon/Captain+America%3A+The+Winter+Soldier)
 
 ![Captain America: The Winter Soldier](https://image.tmdb.org/t/p/original/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg)
 
@@ -249,7 +249,7 @@ After the events of The Avengers, Captain America trades his shield for a quiete
 <hr>
 
 
-## 6. [Doctor Strange in the Multiverse of Madness](https://serp.ly/@serpmedia/github/amazon/Doctor+Strange+in+the+Multiverse+of+Madness)
+## 6. [Doctor Strange in the Multiverse of Madness](https://serp.ly/amazon/Doctor+Strange+in+the+Multiverse+of+Madness)
 
 ![Doctor Strange in the Multiverse of Madness](https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg)
 
@@ -292,7 +292,7 @@ Doctor Strange delves into the heart of the Multiverse, where he teams up with b
 <hr>
 
 
-## 7. [Godzilla](https://serp.ly/@serpmedia/github/amazon/Godzilla)
+## 7. [Godzilla](https://serp.ly/amazon/Godzilla)
 
 ![Godzilla](https://image.tmdb.org/t/p/original/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg)
 
@@ -332,7 +332,7 @@ When Navy bomb expert Ford Brody returns to San Francisco to reunite with his fa
 <hr>
 
 
-## 8. [Wind River](https://serp.ly/@serpmedia/github/amazon/Wind+River)
+## 8. [Wind River](https://serp.ly/amazon/Wind+River)
 
 ![Wind River](https://image.tmdb.org/t/p/original/pySivdR845Hom4u4T2WNkJxe6Ad.jpg)
 
@@ -373,7 +373,7 @@ In the shadow of his painful past, a wildlife officer finds himself partnering w
 <hr>
 
 
-## 9. [Oldboy](https://serp.ly/@serpmedia/github/amazon/Oldboy)
+## 9. [Oldboy](https://serp.ly/amazon/Oldboy)
 
 ![Oldboy](https://image.tmdb.org/t/p/original/iX93YdBrZA1EpGbphmjf4ARj1Za.jpg)
 
@@ -413,7 +413,7 @@ Ask not why you were imprisoned. Ask why you were set free.
 <hr>
 
 
-## 10. [Kill Your Darlings](https://serp.ly/@serpmedia/github/amazon/Kill+Your+Darlings)
+## 10. [Kill Your Darlings](https://serp.ly/amazon/Kill+Your+Darlings)
 
 ![Kill Your Darlings](https://image.tmdb.org/t/p/original/cnki2mlujf32d3MYspZQFYlVsoL.jpg)
 
@@ -455,7 +455,7 @@ In 1944, the Beat Generation's most influential poets - Allen Ginsberg, Jack Ker
 <hr>
 
 
-## 11. [Red Lights](https://serp.ly/@serpmedia/github/amazon/Red+Lights)
+## 11. [Red Lights](https://serp.ly/amazon/Red+Lights)
 
 ![Red Lights](https://image.tmdb.org/t/p/original/sukxYMaUTNizM7bcEJ4YeH80e8h.jpg)
 
@@ -498,7 +498,7 @@ When legendary blind psychic Simon Silver returns after a 30-year absence, he pr
 <hr>
 
 
-## 12. [Ingrid Goes West](https://serp.ly/@serpmedia/github/amazon/Ingrid+Goes+West)
+## 12. [Ingrid Goes West](https://serp.ly/amazon/Ingrid+Goes+West)
 
 ![Ingrid Goes West](https://image.tmdb.org/t/p/original/3LEyW11onDltXHo0L1X23j9Nnvg.jpg)
 
@@ -539,7 +539,7 @@ She'll follow you.
 <hr>
 
 
-## 13. [Martha Marcy May Marlene](https://serp.ly/@serpmedia/github/amazon/Martha+Marcy+May+Marlene)
+## 13. [Martha Marcy May Marlene](https://serp.ly/amazon/Martha+Marcy+May+Marlene)
 
 ![Martha Marcy May Marlene](https://image.tmdb.org/t/p/original/oDPZ6lch424c1BVZ7jP5tSwrJ6X.jpg)
 
@@ -582,7 +582,7 @@ After escaping a cult that's haunted her for years, Martha Marcy May Marlene see
 <hr>
 
 
-## 14. [Liberal Arts](https://serp.ly/@serpmedia/github/amazon/Liberal+Arts)
+## 14. [Liberal Arts](https://serp.ly/amazon/Liberal+Arts)
 
 ![Liberal Arts](https://image.tmdb.org/t/p/original/4PRmHa3YqOkhzwhuSyhbgEYAG7w.jpg)
 
@@ -621,7 +621,7 @@ When middle-aged Jesse Fisher returns to his alma mater to speak at his former p
 <hr>
 
 
-## 15. [Kodachrome](https://serp.ly/@serpmedia/github/amazon/Kodachrome)
+## 15. [Kodachrome](https://serp.ly/amazon/Kodachrome)
 
 ![Kodachrome](https://image.tmdb.org/t/p/original/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf.jpg)
 
@@ -660,7 +660,7 @@ When Matt Ryder agrees to drive his estranged and dying father across the countr
 <hr>
 
 
-## 16. [Very Good Girls](https://serp.ly/@serpmedia/github/amazon/Very+Good+Girls)
+## 16. [Very Good Girls](https://serp.ly/amazon/Very+Good+Girls)
 
 ![Very Good Girls](https://image.tmdb.org/t/p/original/4TmLzB5bEUUQbFqMgWQjkDC2mUN.jpg)
 
@@ -697,7 +697,7 @@ Two New York City girls make a pact to lose their virginity during their first s
 <hr>
 
 
-## 17. [Silent House](https://serp.ly/@serpmedia/github/amazon/Silent+House)
+## 17. [Silent House](https://serp.ly/amazon/Silent+House)
 
 ![Silent House](https://image.tmdb.org/t/p/original/mbkvYlx1scovMi80rOOkNBvgU11.jpg)
 
@@ -737,7 +737,7 @@ Sarah returns to her family's summerhouse with her father and uncle to find the 
 <hr>
 
 
-## 18. [In Secret](https://serp.ly/@serpmedia/github/amazon/In+Secret)
+## 18. [In Secret](https://serp.ly/amazon/In+Secret)
 
 ![In Secret](https://image.tmdb.org/t/p/original/VkxiXAt1zl3aw2cID8Xpgl643T.jpg)
 
@@ -774,7 +774,7 @@ In 1860s Paris, a young woman named Therese finds herself trapped in a loveless 
 <hr>
 
 
-## 19. [I Saw the Light](https://serp.ly/@serpmedia/github/amazon/I+Saw+the+Light)
+## 19. [I Saw the Light](https://serp.ly/amazon/I+Saw+the+Light)
 
 ![I Saw the Light](https://image.tmdb.org/t/p/original/A2AryRwBcPDhet25eyQCyupXl0D.jpg)
 
@@ -814,7 +814,7 @@ The story of Hank Williams
 <hr>
 
 
-## 20. [Peace, Love & Misunderstanding](https://serp.ly/@serpmedia/github/amazon/Peace%2C+Love+%26+Misunderstanding)
+## 20. [Peace, Love & Misunderstanding](https://serp.ly/amazon/Peace%2C+Love+%26+Misunderstanding)
 
 ![Peace, Love & Misunderstanding](https://image.tmdb.org/t/p/original/ay3DVrC9pkUCZmH5eUx1sElj52J.jpg)
 
@@ -857,7 +857,7 @@ When conservative lawyer Diane decides to take her two teenage children, Jake an
 <hr>
 
 
-## 21. [Chadwick Boseman: A Tribute for a King](https://serp.ly/@serpmedia/github/amazon/Chadwick+Boseman%3A+A+Tribute+for+a+King)
+## 21. [Chadwick Boseman: A Tribute for a King](https://serp.ly/amazon/Chadwick+Boseman%3A+A+Tribute+for+a+King)
 
 ![Chadwick Boseman: A Tribute for a King](https://image.tmdb.org/t/p/original/3TKR326AjEOtizPqfiKdEeb6IrR.jpg)
 
@@ -890,7 +890,7 @@ Chadwick Boseman: A Tribute for a King celebrates the life and legacy of the bel
 <hr>
 
 
-## 22. [How the West Was Fun](https://serp.ly/@serpmedia/github/amazon/How+the+West+Was+Fun)
+## 22. [How the West Was Fun](https://serp.ly/amazon/How+the+West+Was+Fun)
 
 ![How the West Was Fun](https://image.tmdb.org/t/p/original/x7Kkp6ZXMSeKMYqTgh81eBTuMKS.jpg)
 
@@ -924,7 +924,7 @@ When a woman tries to save her family's ranch from being turned into a theme par
 <hr>
 
 
-## 23. [Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Doctor+Strange+in+the+Multiverse+of+Madness)
+## 23. [Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness](https://serp.ly/amazon/Marvel+Studios+Assembled%3A+The+Making+of+Doctor+Strange+in+the+Multiverse+of+Madness)
 
 ![Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness](https://image.tmdb.org/t/p/original/eIzPe62s12uHsIPhGWY1yp68DY9.jpg)
 
@@ -955,7 +955,7 @@ When a woman tries to save her family's ranch from being turned into a theme par
 <hr>
 
 
-## 24. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
+## 24. [Marvel Studios' 2021 Disney+ Day Special](https://serp.ly/amazon/Marvel+Studios%27+2021+Disney%2B+Day+Special)
 
 ![Marvel Studios' 2021 Disney+ Day Special](https://image.tmdb.org/t/p/original/zh0B5DDP93e3zokktb5aHHfIh01.jpg)
 
@@ -986,7 +986,7 @@ When a woman tries to save her family's ranch from being turned into a theme par
 <hr>
 
 
-## 25. [Marvel Studios: Expanding the Universe](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios%3A+Expanding+the+Universe)
+## 25. [Marvel Studios: Expanding the Universe](https://serp.ly/amazon/Marvel+Studios%3A+Expanding+the+Universe)
 
 ![Marvel Studios: Expanding the Universe](https://image.tmdb.org/t/p/original/dU7qXzttvOUvSlwwpEFQDsLnThK.jpg)
 
@@ -1017,7 +1017,7 @@ When a woman tries to save her family's ranch from being turned into a theme par
 <hr>
 
 
-## 26. [Celebrating Marvel's Stan Lee](https://serp.ly/@serpmedia/github/amazon/Celebrating+Marvel%27s+Stan+Lee)
+## 26. [Celebrating Marvel's Stan Lee](https://serp.ly/amazon/Celebrating+Marvel%27s+Stan+Lee)
 
 ![Celebrating Marvel's Stan Lee](https://image.tmdb.org/t/p/original/8qlFNCxQQOLfnqwRcHY6WMkb7tF.jpg)
 
@@ -1048,7 +1048,7 @@ This tribute to Stan Lee brings together never-before-seen interviews and archiv
 <hr>
 
 
-## 27. [Godzilla: Force of Nature](https://serp.ly/@serpmedia/github/amazon/Godzilla%3A+Force+of+Nature)
+## 27. [Godzilla: Force of Nature](https://serp.ly/amazon/Godzilla%3A+Force+of+Nature)
 
 ![Godzilla: Force of Nature](https://image.tmdb.org/t/p/original/3A2TMMGTLoTmKHrYs78gzcl0RCb.jpg)
 
@@ -1082,7 +1082,7 @@ This tribute to Stan Lee brings together never-before-seen interviews and archiv
 <hr>
 
 
-## 28. [Our First Video](https://serp.ly/@serpmedia/github/amazon/Our+First+Video)
+## 28. [Our First Video](https://serp.ly/amazon/Our+First+Video)
 
 <br>
 
@@ -1114,7 +1114,7 @@ Join Mary-Kate and Ashley in this charming collection of 7 music videos from the
 <hr>
 
 
-## 29. [The Adventures of Mary-Kate & Ashley: The Case of the Mystery Cruise](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+the+Mystery+Cruise)
+## 29. [The Adventures of Mary-Kate & Ashley: The Case of the Mystery Cruise](https://serp.ly/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+the+Mystery+Cruise)
 
 ![The Adventures of Mary-Kate & Ashley: The Case of the Mystery Cruise](https://image.tmdb.org/t/p/original/wQCcsEIiSdh1eAB8ShxqLVSUcmg.jpg)
 
@@ -1148,7 +1148,7 @@ Mary-Kate and Ashley are back for another adventure on the high seas! This time,
 <hr>
 
 
-## 30. [The Adventures of Mary-Kate & Ashley: The Case of the Christmas Caper](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+the+Christmas+Caper)
+## 30. [The Adventures of Mary-Kate & Ashley: The Case of the Christmas Caper](https://serp.ly/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+the+Christmas+Caper)
 
 ![The Adventures of Mary-Kate & Ashley: The Case of the Christmas Caper](https://image.tmdb.org/t/p/original/5a5pDj74wa1TZ6G2HSK6hZzV1V5.jpg)
 
@@ -1184,7 +1184,7 @@ Mary-Kate and Ashley are in for a holiday adventure when the Three Wise Men ask 
 <hr>
 
 
-## 31. [The Adventures of Mary-Kate & Ashley: The Case of Thorn Mansion](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+Thorn+Mansion)
+## 31. [The Adventures of Mary-Kate & Ashley: The Case of Thorn Mansion](https://serp.ly/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+Thorn+Mansion)
 
 ![The Adventures of Mary-Kate & Ashley: The Case of Thorn Mansion](https://image.tmdb.org/t/p/original/f0PQyyiTYQEi0kRHwknncLWwELp.jpg)
 
@@ -1218,7 +1218,7 @@ Join Detectives Mary-Kate and Ashley as they travel to Transylvania to solve the
 <hr>
 
 
-## 32. [The Adventures of Mary-Kate & Ashley: The Case of the U.S. Space Camp Mission](https://serp.ly/@serpmedia/github/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+the+U.S.+Space+Camp+Mission)
+## 32. [The Adventures of Mary-Kate & Ashley: The Case of the U.S. Space Camp Mission](https://serp.ly/amazon/The+Adventures+of+Mary-Kate+%26+Ashley%3A+The+Case+of+the+U.S.+Space+Camp+Mission)
 
 <br>
 
@@ -1250,7 +1250,7 @@ When strange ticking sounds ground the U. S. Space Shuttle, the Adventures of Ma
 <hr>
 
 
-## 33. [Love Child](https://serp.ly/@serpmedia/github/amazon/Love+Child)
+## 33. [Love Child](https://serp.ly/amazon/Love+Child)
 
 <br>
 
@@ -1274,7 +1274,7 @@ In a small Texas town, a young boy's inventive plans to free his mother from a l
 <hr>
 
 
-## 34. [His Three Daughters](https://serp.ly/@serpmedia/github/amazon/His+Three+Daughters)
+## 34. [His Three Daughters](https://serp.ly/amazon/His+Three+Daughters)
 
 ![His Three Daughters](https://image.tmdb.org/t/p/original/w6RmeagaERpeMruVnWmRuNyoFH.jpg)
 
@@ -1305,7 +1305,7 @@ When their father's health deteriorates, three estranged sisters must reconcile 
 <hr>
 
 
-## 35. [Eternity](https://serp.ly/@serpmedia/github/amazon/Eternity)
+## 35. [Eternity](https://serp.ly/amazon/Eternity)
 
 <br>
 
@@ -1326,7 +1326,7 @@ After death, everyone gets one week to choose where to spend eternity. For Joan,
 <hr>
 
 
-## 36. [The Age of Love](https://serp.ly/@serpmedia/github/amazon/The+Age+of+Love)
+## 36. [The Age of Love](https://serp.ly/amazon/The+Age+of+Love)
 
 <br>
 
@@ -1350,7 +1350,7 @@ When a young caregiver at a nursing home discovers that several of the home's pa
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1394,7 +1394,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1440,7 +1440,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1486,7 +1486,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 4. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -1530,7 +1530,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 5. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -1574,7 +1574,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 6. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 6. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -1616,7 +1616,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 7. [The Graham Norton Show](https://serp.ly/@serpmedia/github/amazon/The+Graham+Norton+Show)
+## 7. [The Graham Norton Show](https://serp.ly/amazon/The+Graham+Norton+Show)
 
 ![The Graham Norton Show](https://image.tmdb.org/t/p/original/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg)
 
@@ -1660,7 +1660,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 8. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 8. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -1704,7 +1704,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 9. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 9. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -1750,7 +1750,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 10. [Full House](https://serp.ly/@serpmedia/github/amazon/Full+House)
+## 10. [Full House](https://serp.ly/amazon/Full+House)
 
 ![Full House](https://image.tmdb.org/t/p/original/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg)
 
@@ -1794,7 +1794,7 @@ When Danny's wife passes away, he turns to his best friend and brother-in-law fo
 <hr>
 
 
-## 11. [What If...?](https://serp.ly/@serpmedia/github/amazon/What+If...%3F)
+## 11. [What If...?](https://serp.ly/amazon/What+If...%3F)
 
 ![What If...?](https://image.tmdb.org/t/p/original/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg)
 
@@ -1840,7 +1840,7 @@ What if classic Marvel moments unfolded differently? This animated anthology ser
 <hr>
 
 
-## 12. [Marvel Studios Legends](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Legends)
+## 12. [Marvel Studios Legends](https://serp.ly/amazon/Marvel+Studios+Legends)
 
 ![Marvel Studios Legends](https://image.tmdb.org/t/p/original/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg)
 
@@ -1886,7 +1886,7 @@ As the universe expands, explore the stories of those destined to become legends
 <hr>
 
 
-## 13. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 13. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -1930,7 +1930,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 14. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 14. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -1974,7 +1974,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 15. [Off Camera with Sam Jones](https://serp.ly/@serpmedia/github/amazon/Off+Camera+with+Sam+Jones)
+## 15. [Off Camera with Sam Jones](https://serp.ly/amazon/Off+Camera+with+Sam+Jones)
 
 ![Off Camera with Sam Jones](https://image.tmdb.org/t/p/original/wFzCudeLabyjvwh0n5C9rEtCqVy.jpg)
 
@@ -2020,7 +2020,7 @@ The best conversations happen off camera.
 <hr>
 
 
-## 16. [WandaVision](https://serp.ly/@serpmedia/github/amazon/WandaVision)
+## 16. [WandaVision](https://serp.ly/amazon/WandaVision)
 
 ![WandaVision](https://image.tmdb.org/t/p/original/glKDfE6btIRcVB5zrjspRIs4r52.jpg)
 
@@ -2064,7 +2064,7 @@ When two super-powered beings, Wanda Maximoff and Vision, start living idealized
 <hr>
 
 
-## 17. [Marvel Studios Assembled](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled)
+## 17. [Marvel Studios Assembled](https://serp.ly/amazon/Marvel+Studios+Assembled)
 
 ![Marvel Studios Assembled](https://image.tmdb.org/t/p/original/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg)
 
@@ -2106,7 +2106,7 @@ When two super-powered beings, Wanda Maximoff and Vision, start living idealized
 <hr>
 
 
-## 18. [Love & Death](https://serp.ly/@serpmedia/github/amazon/Love+%26+Death)
+## 18. [Love & Death](https://serp.ly/amazon/Love+%26+Death)
 
 ![Love & Death](https://image.tmdb.org/t/p/original/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg)
 
@@ -2150,7 +2150,7 @@ In a small Texas town, two churchgoing couples - the Montgomerys and the Gores -
 <hr>
 
 
-## 19. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 19. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -2194,7 +2194,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 20. [Sorry For Your Loss](https://serp.ly/@serpmedia/github/amazon/Sorry+For+Your+Loss)
+## 20. [Sorry For Your Loss](https://serp.ly/amazon/Sorry+For+Your+Loss)
 
 ![Sorry For Your Loss](https://image.tmdb.org/t/p/original/eUtM5shJF0CZn3MhEMmdSxyHJ0W.jpg)
 
@@ -2238,7 +2238,7 @@ When Leigh Shaw's husband passes away unexpectedly, it shakes the very foundatio
 <hr>
 
 
-## 21. [HarmonQuest](https://serp.ly/@serpmedia/github/amazon/HarmonQuest)
+## 21. [HarmonQuest](https://serp.ly/amazon/HarmonQuest)
 
 ![HarmonQuest](https://image.tmdb.org/t/p/original/jeBr5TZoh3uZNqHqve12jKzkRUd.jpg)
 
@@ -2280,7 +2280,7 @@ When three comedians gather around a kitchen table to play a fantasy adventure g
 <hr>
 
 
-## 22. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 22. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -2324,7 +2324,7 @@ When three comedians gather around a kitchen table to play a fantasy adventure g
 <hr>
 
 
-## 23. [Sock or Hat?](https://serp.ly/@serpmedia/github/amazon/Sock+or+Hat%3F)
+## 23. [Sock or Hat?](https://serp.ly/amazon/Sock+or+Hat%3F)
 
 ![Sock or Hat?](https://image.tmdb.org/t/p/original/szhC7jO1rQ2uwFHKCNMYap4zAFa.jpg)
 
@@ -2363,7 +2363,7 @@ When three comedians gather around a kitchen table to play a fantasy adventure g
 <hr>
 
 
-## 24. [MPower](https://serp.ly/@serpmedia/github/amazon/MPower)
+## 24. [MPower](https://serp.ly/amazon/MPower)
 
 ![MPower](https://image.tmdb.org/t/p/original/gscHqNHaRYp4GiqOgbe6R2EQOoW.jpg)
 
@@ -2407,7 +2407,7 @@ MPower celebrates the women of Marvel, from Carol Danvers and Wanda Maximoff to 
 <hr>
 
 
-## 25. [Once There Were Wolves](https://serp.ly/@serpmedia/github/amazon/Once+There+Were+Wolves)
+## 25. [Once There Were Wolves](https://serp.ly/amazon/Once+There+Were+Wolves)
 
 <br>
 

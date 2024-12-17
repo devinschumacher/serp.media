@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Wolf of Wall Street](https://serp.ly/@serpmedia/github/amazon/The+Wolf+of+Wall+Street)
+## 1. [The Wolf of Wall Street](https://serp.ly/amazon/The+Wolf+of+Wall+Street)
 
 ![The Wolf of Wall Street](https://image.tmdb.org/t/p/original/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg)
 
@@ -77,7 +77,7 @@ Based on Jordan Belfort's controversial Wall Street career, this film chronicles
 <hr>
 
 
-## 2. [Palm Springs](https://serp.ly/@serpmedia/github/amazon/Palm+Springs)
+## 2. [Palm Springs](https://serp.ly/amazon/Palm+Springs)
 
 ![Palm Springs](https://image.tmdb.org/t/p/original/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg)
 
@@ -120,7 +120,7 @@ When carefree Nyles runs into Sarah, the reluctant maid of honor, at a Palm Spri
 <hr>
 
 
-## 3. [Death to 2020](https://serp.ly/@serpmedia/github/amazon/Death+to+2020)
+## 3. [Death to 2020](https://serp.ly/amazon/Death+to+2020)
 
 ![Death to 2020](https://image.tmdb.org/t/p/original/xpvq9Ds8XuDvrfmmYbyP9zthKln.jpg)
 
@@ -156,7 +156,7 @@ Death to 2020 documents the remarkable events of the past year through a unique 
 <hr>
 
 
-## 4. [The Brass Teapot](https://serp.ly/@serpmedia/github/amazon/The+Brass+Teapot)
+## 4. [The Brass Teapot](https://serp.ly/amazon/The+Brass+Teapot)
 
 ![The Brass Teapot](https://image.tmdb.org/t/p/original/6txTmb8OIimrQezgD8ERMmrrbnT.jpg)
 
@@ -195,7 +195,7 @@ A quirky little movie about a couple who find themselves in possession of a myst
 <hr>
 
 
-## 5. [Death to 2021](https://serp.ly/@serpmedia/github/amazon/Death+to+2021)
+## 5. [Death to 2021](https://serp.ly/amazon/Death+to+2021)
 
 ![Death to 2021](https://image.tmdb.org/t/p/original/qGt48Z1j4TuzPti8ZNWqqypa6w.jpg)
 
@@ -229,7 +229,7 @@ A quirky little movie about a couple who find themselves in possession of a myst
 <hr>
 
 
-## 6. [Sleepwalk with Me](https://serp.ly/@serpmedia/github/amazon/Sleepwalk+with+Me)
+## 6. [Sleepwalk with Me](https://serp.ly/amazon/Sleepwalk+with+Me)
 
 ![Sleepwalk with Me](https://image.tmdb.org/t/p/original/vs2wxfMrV48VWKTGbsYstIWrwI1.jpg)
 
@@ -270,7 +270,7 @@ When stress turns bedtime into a stand-up comedy show, a young performer's perso
 <hr>
 
 
-## 7. [It Had to Be You](https://serp.ly/@serpmedia/github/amazon/It+Had+to+Be+You)
+## 7. [It Had to Be You](https://serp.ly/amazon/It+Had+to+Be+You)
 
 ![It Had to Be You](https://image.tmdb.org/t/p/original/s4Y9aARoFp4DuBnrCyRi9pE83Lj.jpg)
 
@@ -306,7 +306,7 @@ Sonia, a jingle writer with big dreams, gets an unexpected proposal from her boy
 <hr>
 
 
-## 8. [Greetings from the Shore](https://serp.ly/@serpmedia/github/amazon/Greetings+from+the+Shore)
+## 8. [Greetings from the Shore](https://serp.ly/amazon/Greetings+from+the+Shore)
 
 ![Greetings from the Shore](https://image.tmdb.org/t/p/original/gXUlXHIDrKTuwLgMNnrwQbSnhH0.jpg)
 
@@ -340,7 +340,7 @@ Still reeling from her father's death, a young girl spends one last summer at th
 <hr>
 
 
-## 9. [Breakable You](https://serp.ly/@serpmedia/github/amazon/Breakable+You)
+## 9. [Breakable You](https://serp.ly/amazon/Breakable+You)
 
 ![Breakable You](https://image.tmdb.org/t/p/original/kNUPKCP7FN5apCbR7gn7aDlFtUM.jpg)
 
@@ -374,7 +374,7 @@ When a successful playwright's marriage ends, he finds himself navigating a comp
 <hr>
 
 
-## 10. [The Occupants](https://serp.ly/@serpmedia/github/amazon/The+Occupants)
+## 10. [The Occupants](https://serp.ly/amazon/The+Occupants)
 
 ![The Occupants](https://image.tmdb.org/t/p/original/kX1HjmtN3MNkDjTvR4Ja4QWvK1I.jpg)
 
@@ -410,7 +410,7 @@ In "The Occupants", Lucy gains a new husband, home, and baby, but her past work 
 <hr>
 
 
-## 11. [Year of the Carnivore](https://serp.ly/@serpmedia/github/amazon/Year+of+the+Carnivore)
+## 11. [Year of the Carnivore](https://serp.ly/amazon/Year+of+the+Carnivore)
 
 ![Year of the Carnivore](https://image.tmdb.org/t/p/original/5C3CuOjY0uoJnhGo55LXCmlKcsH.jpg)
 
@@ -446,7 +446,7 @@ A story about finding love... sex... love
 <hr>
 
 
-## 12. [Bert and Arnie's Guide to Friendship](https://serp.ly/@serpmedia/github/amazon/Bert+and+Arnie%27s+Guide+to+Friendship)
+## 12. [Bert and Arnie's Guide to Friendship](https://serp.ly/amazon/Bert+and+Arnie%27s+Guide+to+Friendship)
 
 ![Bert and Arnie's Guide to Friendship](https://image.tmdb.org/t/p/original/4prrv7bHwNi5oO5OdyIKP8tuyKP.jpg)
 
@@ -488,7 +488,7 @@ Bert Sheering, a sophisticated author, and Arnie Hubert, an executive and ladies
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -534,7 +534,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -580,7 +580,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [How I Met Your Mother](https://serp.ly/@serpmedia/github/amazon/How+I+Met+Your+Mother)
+## 3. [How I Met Your Mother](https://serp.ly/amazon/How+I+Met+Your+Mother)
 
 ![How I Met Your Mother](https://image.tmdb.org/t/p/original/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg)
 
@@ -624,7 +624,7 @@ How I Met Your Mother is a cleverly constructed love story that unfolds through 
 <hr>
 
 
-## 4. [Bob's Burgers](https://serp.ly/@serpmedia/github/amazon/Bob%27s+Burgers)
+## 4. [Bob's Burgers](https://serp.ly/amazon/Bob%27s+Burgers)
 
 ![Bob's Burgers](https://image.tmdb.org/t/p/original/couFnWryh9JRmmfDyPU6hUyTKIa.jpg)
 
@@ -668,7 +668,7 @@ When third-generation restaurateur Bob runs Bob's Burgers with his wife and thre
 <hr>
 
 
-## 5. [The Late Late Show with James Corden](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show+with+James+Corden)
+## 5. [The Late Late Show with James Corden](https://serp.ly/amazon/The+Late+Late+Show+with+James+Corden)
 
 ![The Late Late Show with James Corden](https://image.tmdb.org/t/p/original/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg)
 
@@ -710,7 +710,7 @@ When Craig Ferguson decides to retire, he hands over The Late Late Show to James
 <hr>
 
 
-## 6. [The Good Wife](https://serp.ly/@serpmedia/github/amazon/The+Good+Wife)
+## 6. [The Good Wife](https://serp.ly/amazon/The+Good+Wife)
 
 ![The Good Wife](https://image.tmdb.org/t/p/original/lasNCd45fpPLirlA7QxkuopWro.jpg)
 
@@ -754,7 +754,7 @@ Alicia Florrick's world changes overnight when her husband's sex and political c
 <hr>
 
 
-## 7. [The Simpsons](https://serp.ly/@serpmedia/github/amazon/The+Simpsons)
+## 7. [The Simpsons](https://serp.ly/amazon/The+Simpsons)
 
 ![The Simpsons](https://image.tmdb.org/t/p/original/vHqeLzYl3dEAutojCO26g0LIkom.jpg)
 
@@ -800,7 +800,7 @@ Join the lovable yet dysfunctional Simpson family in this long-running animated 
 <hr>
 
 
-## 8. [The Mindy Project](https://serp.ly/@serpmedia/github/amazon/The+Mindy+Project)
+## 8. [The Mindy Project](https://serp.ly/amazon/The+Mindy+Project)
 
 ![The Mindy Project](https://image.tmdb.org/t/p/original/5YFui8dtEGUglm6pHWbBzD01c0t.jpg)
 
@@ -844,7 +844,7 @@ Mindy Lahiri is an obstetrician/gynecologist working in a small medical practice
 <hr>
 
 
-## 9. [Family Guy](https://serp.ly/@serpmedia/github/amazon/Family+Guy)
+## 9. [Family Guy](https://serp.ly/amazon/Family+Guy)
 
 ![Family Guy](https://image.tmdb.org/t/p/original/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg)
 
@@ -890,7 +890,7 @@ Parental Discretion Advised, that's how you know it's good.
 <hr>
 
 
-## 10. [Fargo](https://serp.ly/@serpmedia/github/amazon/Fargo)
+## 10. [Fargo](https://serp.ly/amazon/Fargo)
 
 ![Fargo](https://image.tmdb.org/t/p/original/6U9CPeD8obHzweikFhiLhpc7YBT.jpg)
 
@@ -938,7 +938,7 @@ Fargo delves into the darker side of Minnesota life through five seasons of scri
 <hr>
 
 
-## 11. [The Sopranos](https://serp.ly/@serpmedia/github/amazon/The+Sopranos)
+## 11. [The Sopranos](https://serp.ly/amazon/The+Sopranos)
 
 ![The Sopranos](https://image.tmdb.org/t/p/original/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg)
 
@@ -982,7 +982,7 @@ When a successful mobster runs a criminal organization in New Jersey, he faces m
 <hr>
 
 
-## 12. [Black Mirror](https://serp.ly/@serpmedia/github/amazon/Black+Mirror)
+## 12. [Black Mirror](https://serp.ly/amazon/Black+Mirror)
 
 ![Black Mirror](https://image.tmdb.org/t/p/original/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg)
 
@@ -1028,7 +1028,7 @@ Over the last decade, technology has revolutionized every facet of our lives bef
 <hr>
 
 
-## 13. [Modern Love](https://serp.ly/@serpmedia/github/amazon/Modern+Love)
+## 13. [Modern Love](https://serp.ly/amazon/Modern+Love)
 
 ![Modern Love](https://image.tmdb.org/t/p/original/cP9CJ9nvPT3cnnBSlGFgwq7odIR.jpg)
 
@@ -1070,7 +1070,7 @@ Over the last decade, technology has revolutionized every facet of our lives bef
 <hr>
 
 
-## 14. [30 Rock](https://serp.ly/@serpmedia/github/amazon/30+Rock)
+## 14. [30 Rock](https://serp.ly/amazon/30+Rock)
 
 ![30 Rock](https://image.tmdb.org/t/p/original/eYYQWACx7ttUzRwTNYuo6zveqpE.jpg)
 
@@ -1114,7 +1114,7 @@ Liz Lemon runs a late-night TV variety show in New York, where her job managing 
 <hr>
 
 
-## 15. [The Venture Bros.](https://serp.ly/@serpmedia/github/amazon/The+Venture+Bros.)
+## 15. [The Venture Bros.](https://serp.ly/amazon/The+Venture+Bros.)
 
 ![The Venture Bros.](https://image.tmdb.org/t/p/original/ckQE1aLYQkRpp2HmHljiELAiOr1.jpg)
 
@@ -1158,7 +1158,7 @@ Join the Venture family as they zoom through the air in their custom-built rocke
 <hr>
 
 
-## 16. [Mythic Quest](https://serp.ly/@serpmedia/github/amazon/Mythic+Quest)
+## 16. [Mythic Quest](https://serp.ly/amazon/Mythic+Quest)
 
 ![Mythic Quest](https://image.tmdb.org/t/p/original/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg)
 
@@ -1204,7 +1204,7 @@ Join the creators of a mythical video game universe where dragons Soar through d
 <hr>
 
 
-## 17. [Nurse Jackie](https://serp.ly/@serpmedia/github/amazon/Nurse+Jackie)
+## 17. [Nurse Jackie](https://serp.ly/amazon/Nurse+Jackie)
 
 ![Nurse Jackie](https://image.tmdb.org/t/p/original/efKrmVB9Jwmh6HxFjED6FyeOUpW.jpg)
 
@@ -1248,7 +1248,7 @@ Nurse Jackie trades bandages for betrayal in this seven-season saga set in New Y
 <hr>
 
 
-## 18. [No Activity](https://serp.ly/@serpmedia/github/amazon/No+Activity)
+## 18. [No Activity](https://serp.ly/amazon/No+Activity)
 
 ![No Activity](https://image.tmdb.org/t/p/original/qQTmlqa0jlaMxQ2FZXkKAcMP547.jpg)
 
@@ -1292,7 +1292,7 @@ When a major drug cartel operation goes down, it kicks off one wild ride through
 <hr>
 
 
-## 19. [A to Z](https://serp.ly/@serpmedia/github/amazon/A+to+Z)
+## 19. [A to Z](https://serp.ly/amazon/A+to+Z)
 
 ![A to Z](https://image.tmdb.org/t/p/original/rVamVIBP8JoKfPRBbmFCtmHF0nv.jpg)
 
@@ -1334,7 +1334,7 @@ When Andrew, an internet dating site employee, crosses paths with Zelda, a spiri
 <hr>
 
 
-## 20. [Made for Love](https://serp.ly/@serpmedia/github/amazon/Made+for+Love)
+## 20. [Made for Love](https://serp.ly/amazon/Made+for+Love)
 
 ![Made for Love](https://image.tmdb.org/t/p/original/mfQiuyhFM4Yv98WWV0BTswKG8rM.jpg)
 
@@ -1380,7 +1380,7 @@ When Hazel Green, a thirty-something wife, tries to escape her suffocating marri
 <hr>
 
 
-## 21. [The Unusuals](https://serp.ly/@serpmedia/github/amazon/The+Unusuals)
+## 21. [The Unusuals](https://serp.ly/amazon/The+Unusuals)
 
 ![The Unusuals](https://image.tmdb.org/t/p/original/eeLCu2PDFoqWeHWLyCv7WNYJDAR.jpg)
 
@@ -1424,7 +1424,7 @@ The Unusuals is a 2009 comedy-drama series that aired on ABC, created by former 
 <hr>
 
 
-## 22. [The Resort](https://serp.ly/@serpmedia/github/amazon/The+Resort)
+## 22. [The Resort](https://serp.ly/amazon/The+Resort)
 
 ![The Resort](https://image.tmdb.org/t/p/original/6pHkt81gCdR3bw41xHyzsoQccrj.jpg)
 
@@ -1468,7 +1468,7 @@ The Resort aired as a scripted series in summer 2022, presenting eight episodes 
 <hr>
 
 
-## 23. [The Penguin](https://serp.ly/@serpmedia/github/amazon/The+Penguin)
+## 23. [The Penguin](https://serp.ly/amazon/The+Penguin)
 
 ![The Penguin](https://image.tmdb.org/t/p/original/7hE6LffWtMccJjXxc20Xnh1JbRG.jpg)
 
@@ -1507,7 +1507,7 @@ In the shadow of Gotham's most infamous killings, a new criminal mastermind emer
 <hr>
 
 
-## 24. [3 LBS](https://serp.ly/@serpmedia/github/amazon/3+LBS)
+## 24. [3 LBS](https://serp.ly/amazon/3+LBS)
 
 ![3 LBS](https://image.tmdb.org/t/p/original/ag1BWbuttURLSzJuINPT843HBg0.jpg)
 
@@ -1549,7 +1549,7 @@ In the shadow of Gotham's most infamous killings, a new criminal mastermind emer
 <hr>
 
 
-## 25. [Ziwe](https://serp.ly/@serpmedia/github/amazon/Ziwe)
+## 25. [Ziwe](https://serp.ly/amazon/Ziwe)
 
 ![Ziwe](https://image.tmdb.org/t/p/original/w38InL3XBKIOU7x6KRo5q8xYWlD.jpg)
 

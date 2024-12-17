@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Suicide Squad](https://serp.ly/@serpmedia/github/amazon/The+Suicide+Squad)
+## 1. [The Suicide Squad](https://serp.ly/amazon/The+Suicide+Squad)
 
 ![The Suicide Squad](https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg)
 
@@ -80,7 +80,7 @@ When the world's most dangerous supervillains are offered a chance to redeem the
 <hr>
 
 
-## 2. [Guardians of the Galaxy Vol. 3](https://serp.ly/@serpmedia/github/amazon/Guardians+of+the+Galaxy+Vol.+3)
+## 2. [Guardians of the Galaxy Vol. 3](https://serp.ly/amazon/Guardians+of+the+Galaxy+Vol.+3)
 
 ![Guardians of the Galaxy Vol. 3](https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg)
 
@@ -121,7 +121,7 @@ On the heels of Gamora's tragic passing, Peter Quill channels his grief into a d
 <hr>
 
 
-## 3. [Fast X](https://serp.ly/@serpmedia/github/amazon/Fast+X)
+## 3. [Fast X](https://serp.ly/amazon/Fast+X)
 
 ![Fast X](https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg)
 
@@ -164,7 +164,7 @@ When Dom Toretto and his family face their most dangerous enemy yet, their high-
 <hr>
 
 
-## 4. [Transformers: Rise of the Beasts](https://serp.ly/@serpmedia/github/amazon/Transformers%3A+Rise+of+the+Beasts)
+## 4. [Transformers: Rise of the Beasts](https://serp.ly/amazon/Transformers%3A+Rise+of+the+Beasts)
 
 ![Transformers: Rise of the Beasts](https://image.tmdb.org/t/p/original/gPbM0MK8CP8A174rmUwGsADNYKD.jpg)
 
@@ -207,7 +207,7 @@ When a new threat emerges that could destroy the entire planet, Optimus Prime le
 <hr>
 
 
-## 5. [Set It Up](https://serp.ly/@serpmedia/github/amazon/Set+It+Up)
+## 5. [Set It Up](https://serp.ly/amazon/Set+It+Up)
 
 ![Set It Up](https://image.tmdb.org/t/p/original/2HiCq8sPNRGjFaFCyKJh0607Hso.jpg)
 
@@ -246,7 +246,7 @@ When two underappreciated assistants hit their wit's end dealing with their dema
 <hr>
 
 
-## 6. [Trainwreck](https://serp.ly/@serpmedia/github/amazon/Trainwreck)
+## 6. [Trainwreck](https://serp.ly/amazon/Trainwreck)
 
 ![Trainwreck](https://image.tmdb.org/t/p/original/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg)
 
@@ -286,7 +286,7 @@ We All Know One.
 <hr>
 
 
-## 7. [The Angry Birds Movie 2](https://serp.ly/@serpmedia/github/amazon/The+Angry+Birds+Movie+2)
+## 7. [The Angry Birds Movie 2](https://serp.ly/amazon/The+Angry+Birds+Movie+2)
 
 ![The Angry Birds Movie 2](https://image.tmdb.org/t/p/original/fKk4bfnouKEY5iPzYDMcVmtgDEy.jpg)
 
@@ -329,7 +329,7 @@ Red, Chuck, Bomb and their feathered friends are at odds when a green pig propos
 <hr>
 
 
-## 8. [The Dirt](https://serp.ly/@serpmedia/github/amazon/The+Dirt)
+## 8. [The Dirt](https://serp.ly/amazon/The+Dirt)
 
 ![The Dirt](https://image.tmdb.org/t/p/original/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg)
 
@@ -368,7 +368,7 @@ The Dirt chronicles Mötley Crüe's meteoric rise from the Sunset Strip club sce
 <hr>
 
 
-## 9. [What Men Want](https://serp.ly/@serpmedia/github/amazon/What+Men+Want)
+## 9. [What Men Want](https://serp.ly/amazon/What+Men+Want)
 
 ![What Men Want](https://image.tmdb.org/t/p/original/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg)
 
@@ -411,7 +411,7 @@ When a sports agent discovers she can hear men's thoughts, she turns everyday si
 <hr>
 
 
-## 10. [The King of Staten Island](https://serp.ly/@serpmedia/github/amazon/The+King+of+Staten+Island)
+## 10. [The King of Staten Island](https://serp.ly/amazon/The+King+of+Staten+Island)
 
 ![The King of Staten Island](https://image.tmdb.org/t/p/original/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg)
 
@@ -454,7 +454,7 @@ When his firefighter father died at age seven, Scott's development came to a sta
 <hr>
 
 
-## 11. [Bodies Bodies Bodies](https://serp.ly/@serpmedia/github/amazon/Bodies+Bodies+Bodies)
+## 11. [Bodies Bodies Bodies](https://serp.ly/amazon/Bodies+Bodies+Bodies)
 
 ![Bodies Bodies Bodies](https://image.tmdb.org/t/p/original/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg)
 
@@ -497,7 +497,7 @@ In an isolated family mansion, a group of rich 20-somethings decides to play Bod
 <hr>
 
 
-## 12. [Dumb Money](https://serp.ly/@serpmedia/github/amazon/Dumb+Money)
+## 12. [Dumb Money](https://serp.ly/amazon/Dumb+Money)
 
 ![Dumb Money](https://image.tmdb.org/t/p/original/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg)
 
@@ -540,7 +540,7 @@ Keith Gill's life savings turn into digital currency when he bets on GameStop st
 <hr>
 
 
-## 13. [Big Time Adolescence](https://serp.ly/@serpmedia/github/amazon/Big+Time+Adolescence)
+## 13. [Big Time Adolescence](https://serp.ly/amazon/Big+Time+Adolescence)
 
 ![Big Time Adolescence](https://image.tmdb.org/t/p/original/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg)
 
@@ -579,7 +579,7 @@ When a straight-laced 16-year-old meets an charismatic college dropout, their pe
 <hr>
 
 
-## 14. [I Want You Back](https://serp.ly/@serpmedia/github/amazon/I+Want+You+Back)
+## 14. [I Want You Back](https://serp.ly/amazon/I+Want+You+Back)
 
 ![I Want You Back](https://image.tmdb.org/t/p/original/AtCGLuDaft5PuELnxaFJf2gxbBd.jpg)
 
@@ -615,7 +615,7 @@ Peter and Emma were mere steps away from life's biggest milestones - marriage, c
 <hr>
 
 
-## 15. [Meet Cute](https://serp.ly/@serpmedia/github/amazon/Meet+Cute)
+## 15. [Meet Cute](https://serp.ly/amazon/Meet+Cute)
 
 ![Meet Cute](https://image.tmdb.org/t/p/original/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg)
 
@@ -654,7 +654,7 @@ What if you could travel back in time to meet your significant other before all 
 <hr>
 
 
-## 16. [School Dance](https://serp.ly/@serpmedia/github/amazon/School+Dance)
+## 16. [School Dance](https://serp.ly/amazon/School+Dance)
 
 ![School Dance](https://image.tmdb.org/t/p/original/3ZOGTjjzmwN1QdeQUqKXOswBzeV.jpg)
 
@@ -688,7 +688,7 @@ When high schooler Jason spots the gorgeous Anastacia, he knows she's his dream 
 <hr>
 
 
-## 17. [Comedy Central Roast of Justin Bieber](https://serp.ly/@serpmedia/github/amazon/Comedy+Central+Roast+of+Justin+Bieber)
+## 17. [Comedy Central Roast of Justin Bieber](https://serp.ly/amazon/Comedy+Central+Roast+of+Justin+Bieber)
 
 ![Comedy Central Roast of Justin Bieber](https://image.tmdb.org/t/p/original/3UcygBPTvT9InzaeIDbQrsElbxk.jpg)
 
@@ -719,7 +719,7 @@ When Justin Bieber walks into a room, he knows he's the center of attention. But
 <hr>
 
 
-## 18. [The Jesus Rolls](https://serp.ly/@serpmedia/github/amazon/The+Jesus+Rolls)
+## 18. [The Jesus Rolls](https://serp.ly/amazon/The+Jesus+Rolls)
 
 ![The Jesus Rolls](https://image.tmdb.org/t/p/original/wxXZXYNn1H5eVRbpTZVFvWBvjlY.jpg)
 
@@ -760,7 +760,7 @@ When Jesus Quintana hits the streets after serving time in prison, he teams up w
 <hr>
 
 
-## 19. [Pete Davidson: Alive from New York](https://serp.ly/@serpmedia/github/amazon/Pete+Davidson%3A+Alive+from+New+York)
+## 19. [Pete Davidson: Alive from New York](https://serp.ly/amazon/Pete+Davidson%3A+Alive+from+New+York)
 
 ![Pete Davidson: Alive from New York](https://image.tmdb.org/t/p/original/9pY930ZfwF5WnDG4X6IBfxAcQeq.jpg)
 
@@ -794,7 +794,7 @@ When Jesus Quintana hits the streets after serving time in prison, he teams up w
 <hr>
 
 
-## 20. [Good Burger 2](https://serp.ly/@serpmedia/github/amazon/Good+Burger+2)
+## 20. [Good Burger 2](https://serp.ly/amazon/Good+Burger+2)
 
 ![Good Burger 2](https://image.tmdb.org/t/p/original/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg)
 
@@ -835,7 +835,7 @@ Join Dexter Reed as he returns to Good Burger, the only place that understands h
 <hr>
 
 
-## 21. [Marmaduke](https://serp.ly/@serpmedia/github/amazon/Marmaduke)
+## 21. [Marmaduke](https://serp.ly/amazon/Marmaduke)
 
 ![Marmaduke](https://image.tmdb.org/t/p/original/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg)
 
@@ -876,7 +876,7 @@ When the lovable yet grumpy Great Dane Marmaduke joins the Winslow family at one
 <hr>
 
 
-## 22. [Who Killed Santa? A Murderville Murder Mystery](https://serp.ly/@serpmedia/github/amazon/Who+Killed+Santa%3F+A+Murderville+Murder+Mystery)
+## 22. [Who Killed Santa? A Murderville Murder Mystery](https://serp.ly/amazon/Who+Killed+Santa%3F+A+Murderville+Murder+Mystery)
 
 ![Who Killed Santa? A Murderville Murder Mystery](https://image.tmdb.org/t/p/original/uO0EJVJmy2RC0YRgcvu8ETFBUZO.jpg)
 
@@ -907,7 +907,7 @@ When a beloved holiday character is murdered in Murderville, the case falls to a
 <hr>
 
 
-## 23. [Jonas Brothers Family Roast](https://serp.ly/@serpmedia/github/amazon/Jonas+Brothers+Family+Roast)
+## 23. [Jonas Brothers Family Roast](https://serp.ly/amazon/Jonas+Brothers+Family+Roast)
 
 ![Jonas Brothers Family Roast](https://image.tmdb.org/t/p/original/eEEj1mC2N2oTrluubqA5dYRwvOb.jpg)
 
@@ -941,7 +941,7 @@ When the Jonas Brothers take their quick wit and deep cuts from the small screen
 <hr>
 
 
-## 24. [Comedy Central Roast of Rob Lowe](https://serp.ly/@serpmedia/github/amazon/Comedy+Central+Roast+of+Rob+Lowe)
+## 24. [Comedy Central Roast of Rob Lowe](https://serp.ly/amazon/Comedy+Central+Roast+of+Rob+Lowe)
 
 ![Comedy Central Roast of Rob Lowe](https://image.tmdb.org/t/p/original/29JVnqeWVbQINhePRvtwXhxaAVV.jpg)
 
@@ -974,7 +974,7 @@ Rob Lowe takes his wit and charm from the small screen to the Comedy Central Roa
 <hr>
 
 
-## 25. [Good Mourning](https://serp.ly/@serpmedia/github/amazon/Good+Mourning)
+## 25. [Good Mourning](https://serp.ly/amazon/Good+Mourning)
 
 ![Good Mourning](https://image.tmdb.org/t/p/original/sCKD2tbldX3jDtsOVU2QVGTw6Ua.jpg)
 
@@ -1015,7 +1015,7 @@ When movie star London Clash's personal life hits rock bottom, he's offered a ch
 <hr>
 
 
-## 26. [Pete Davidson: SMD](https://serp.ly/@serpmedia/github/amazon/Pete+Davidson%3A+SMD)
+## 26. [Pete Davidson: SMD](https://serp.ly/amazon/Pete+Davidson%3A+SMD)
 
 ![Pete Davidson: SMD](https://image.tmdb.org/t/p/original/1nxELIjdkfA8izoGmfp9Y6RVzWD.jpg)
 
@@ -1049,7 +1049,7 @@ Join Pete Davidson in front of a sold-out crowd in New York City for his Comedy 
 <hr>
 
 
-## 27. [Pete Davidson: Turbo Fonzarelli](https://serp.ly/@serpmedia/github/amazon/Pete+Davidson%3A+Turbo+Fonzarelli)
+## 27. [Pete Davidson: Turbo Fonzarelli](https://serp.ly/amazon/Pete+Davidson%3A+Turbo+Fonzarelli)
 
 ![Pete Davidson: Turbo Fonzarelli](https://image.tmdb.org/t/p/original/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg)
 
@@ -1083,7 +1083,7 @@ Join Pete Davidson in front of a sold-out crowd in New York City for his Comedy 
 <hr>
 
 
-## 28. [Pete Davidson Presents: The Best Friends](https://serp.ly/@serpmedia/github/amazon/Pete+Davidson+Presents%3A+The+Best+Friends)
+## 28. [Pete Davidson Presents: The Best Friends](https://serp.ly/amazon/Pete+Davidson+Presents%3A+The+Best+Friends)
 
 ![Pete Davidson Presents: The Best Friends](https://image.tmdb.org/t/p/original/qGDYnu6cqF5T9Hgh5WoOtofE2tj.jpg)
 
@@ -1117,7 +1117,7 @@ Pete Davidson invites his closest friends to join him on stage for an hilarious 
 <hr>
 
 
-## 29. [The Hall: Honoring the Greats of Stand-Up](https://serp.ly/@serpmedia/github/amazon/The+Hall%3A+Honoring+the+Greats+of+Stand-Up)
+## 29. [The Hall: Honoring the Greats of Stand-Up](https://serp.ly/amazon/The+Hall%3A+Honoring+the+Greats+of+Stand-Up)
 
 ![The Hall: Honoring the Greats of Stand-Up](https://image.tmdb.org/t/p/original/dwFflLDrSD6RcBBEnG8Ov3c7oPm.jpg)
 
@@ -1151,7 +1151,7 @@ Join Jon Stewart, John Mulaney, Chelsea Handler, and Dave Chappelle as they hono
 <hr>
 
 
-## 30. [Saturday Night Live: 40th Anniversary Special](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live%3A+40th+Anniversary+Special)
+## 30. [Saturday Night Live: 40th Anniversary Special](https://serp.ly/amazon/Saturday+Night+Live%3A+40th+Anniversary+Special)
 
 ![Saturday Night Live: 40th Anniversary Special](https://image.tmdb.org/t/p/original/cda1A0SQ0C9511GSCVnEQ0821bh.jpg)
 
@@ -1187,7 +1187,7 @@ Join Jon Stewart, John Mulaney, Chelsea Handler, and Dave Chappelle as they hono
 <hr>
 
 
-## 31. [Jon Stewart: The Kennedy Center Mark Twain Prize](https://serp.ly/@serpmedia/github/amazon/Jon+Stewart%3A+The+Kennedy+Center+Mark+Twain+Prize)
+## 31. [Jon Stewart: The Kennedy Center Mark Twain Prize](https://serp.ly/amazon/Jon+Stewart%3A+The+Kennedy+Center+Mark+Twain+Prize)
 
 ![Jon Stewart: The Kennedy Center Mark Twain Prize](https://image.tmdb.org/t/p/original/iqEYPiIEiy6zPsuuvIVfwxdh1If.jpg)
 
@@ -1221,7 +1221,7 @@ Join an unforgettable evening at the Kennedy Center Concert Hall where comedy's 
 <hr>
 
 
-## 32. [Click, Clack, Moo: Christmas at the Farm](https://serp.ly/@serpmedia/github/amazon/Click%2C+Clack%2C+Moo%3A+Christmas+at+the+Farm)
+## 32. [Click, Clack, Moo: Christmas at the Farm](https://serp.ly/amazon/Click%2C+Clack%2C+Moo%3A+Christmas+at+the+Farm)
 
 ![Click, Clack, Moo: Christmas at the Farm](https://image.tmdb.org/t/p/original/o1PSGHLNW0NBnLLR1WQCsajjC4L.jpg)
 
@@ -1259,7 +1259,7 @@ It's Christmas time at the farm, and the animals have a big problem: how to buy 
 <hr>
 
 
-## 33. [Comedy Central Roast of Justin Bieber](https://serp.ly/@serpmedia/github/amazon/Comedy+Central+Roast+of+Justin+Bieber)
+## 33. [Comedy Central Roast of Justin Bieber](https://serp.ly/amazon/Comedy+Central+Roast+of+Justin+Bieber)
 
 ![Comedy Central Roast of Justin Bieber](https://image.tmdb.org/t/p/original/qe7PsIRHTqKhQyMKR2WzH9YeW6G.jpg)
 
@@ -1292,7 +1292,7 @@ When it comes to roasting Justin Bieber, Kevin Hart brings his A-game along with
 <hr>
 
 
-## 34. [The Goddamn Comedy Jam](https://serp.ly/@serpmedia/github/amazon/The+Goddamn+Comedy+Jam)
+## 34. [The Goddamn Comedy Jam](https://serp.ly/amazon/The+Goddamn+Comedy+Jam)
 
 ![The Goddamn Comedy Jam](https://image.tmdb.org/t/p/original/jiK0q4vaf2Jdos0EDhGNH6oTCO9.jpg)
 
@@ -1326,7 +1326,7 @@ When five of Hollywood's funniest comedians sit down to share their favorite son
 <hr>
 
 
-## 35. [Wizards!](https://serp.ly/@serpmedia/github/amazon/Wizards%21)
+## 35. [Wizards!](https://serp.ly/amazon/Wizards%21)
 
 ![Wizards!](https://image.tmdb.org/t/p/original/8J5rMKSC4Vrm81AKJvWaW7HCG92.jpg)
 
@@ -1349,7 +1349,7 @@ When two beach bar operators stumble upon some stolen loot, their luck runs out.
 <hr>
 
 
-## 36. [Riff Raff](https://serp.ly/@serpmedia/github/amazon/Riff+Raff)
+## 36. [Riff Raff](https://serp.ly/amazon/Riff+Raff)
 
 <br>
 
@@ -1370,7 +1370,7 @@ When a former criminal's ordinary life takes an unexpected turn, his carefully c
 <hr>
 
 
-## 37. [The Pickup](https://serp.ly/@serpmedia/github/amazon/The+Pickup)
+## 37. [The Pickup](https://serp.ly/amazon/The+Pickup)
 
 <br>
 
@@ -1391,7 +1391,7 @@ When a young man falls unexpectedly in love, his new relationship draws him into
 <hr>
 
 
-## 38. [The Things They Carried](https://serp.ly/@serpmedia/github/amazon/The+Things+They+Carried)
+## 38. [The Things They Carried](https://serp.ly/amazon/The+Things+They+Carried)
 
 ![The Things They Carried](https://image.tmdb.org/t/p/original/uWvkzeDD6Q0ptuKzQQ6gjy2Rp7T.jpg)
 
@@ -1414,7 +1414,7 @@ Based on Tim O'Brien's acclaimed novel, this rumoured film adaptation follows th
 <hr>
 
 
-## 39. [Dog Man](https://serp.ly/@serpmedia/github/amazon/Dog+Man)
+## 39. [Dog Man](https://serp.ly/amazon/Dog+Man)
 
 ![Dog Man](https://image.tmdb.org/t/p/original/gMXhXmZOnjmr4p1xVKJJOBGz24v.jpg)
 
@@ -1439,7 +1439,7 @@ When a dog and a police officer are injured together on the job, a life-saving s
 <hr>
 
 
-## 40. [Blood Brothers](https://serp.ly/@serpmedia/github/amazon/Blood+Brothers)
+## 40. [Blood Brothers](https://serp.ly/amazon/Blood+Brothers)
 
 <br>
 
@@ -1462,7 +1462,7 @@ When two vampire best friends, Nick and Tree, hit a century of smoking opium wit
 <hr>
 
 
-## 41. [The Home](https://serp.ly/@serpmedia/github/amazon/The+Home)
+## 41. [The Home](https://serp.ly/amazon/The+Home)
 
 <br>
 
@@ -1483,7 +1483,7 @@ When a man with a troubled past becomes a caregiver at a retirement home, he stu
 <hr>
 
 
-## 42. [Worst Man](https://serp.ly/@serpmedia/github/amazon/Worst+Man)
+## 42. [Worst Man](https://serp.ly/amazon/Worst+Man)
 
 <br>
 
@@ -1504,7 +1504,7 @@ When a young couple announces their engagement, their joyful news sets off a cha
 <hr>
 
 
-## 43. [Just For Laughs All Access - With Pete Davidson](https://serp.ly/@serpmedia/github/amazon/Just+For+Laughs+All+Access+-+With+Pete+Davidson)
+## 43. [Just For Laughs All Access - With Pete Davidson](https://serp.ly/amazon/Just+For+Laughs+All+Access+-+With+Pete+Davidson)
 
 The biggest comedians come together for the Just For Laughs All Access Show!
 
@@ -1535,7 +1535,7 @@ When it comes to comedy, the Just For Laughs All Access Show brings out the best
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1581,7 +1581,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 2. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1627,7 +1627,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 3. [The Rookie](https://serp.ly/@serpmedia/github/amazon/The+Rookie)
+## 3. [The Rookie](https://serp.ly/amazon/The+Rookie)
 
 ![The Rookie](https://image.tmdb.org/t/p/original/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg)
 
@@ -1673,7 +1673,7 @@ When small-town guy John Nolan decides to pursue his dream of becoming an LAPD o
 <hr>
 
 
-## 4. [American Dad!](https://serp.ly/@serpmedia/github/amazon/American+Dad%21)
+## 4. [American Dad!](https://serp.ly/amazon/American+Dad%21)
 
 ![American Dad!](https://image.tmdb.org/t/p/original/xnFFz3etm1vftF0ns8RMHA8XdqT.jpg)
 
@@ -1719,7 +1719,7 @@ When the quirky Smith family welcomes an alien named Roger into their lives, the
 <hr>
 
 
-## 5. [Brooklyn Nine-Nine](https://serp.ly/@serpmedia/github/amazon/Brooklyn+Nine-Nine)
+## 5. [Brooklyn Nine-Nine](https://serp.ly/amazon/Brooklyn+Nine-Nine)
 
 ![Brooklyn Nine-Nine](https://image.tmdb.org/t/p/original/hgRMSOt7a1b8qyQR68vUixJPang.jpg)
 
@@ -1763,7 +1763,7 @@ Join an eclectic group of detectives in a New York precinct where the law meets 
 <hr>
 
 
-## 6. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 6. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -1809,7 +1809,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 7. [The Kardashians](https://serp.ly/@serpmedia/github/amazon/The+Kardashians)
+## 7. [The Kardashians](https://serp.ly/amazon/The+Kardashians)
 
 ![The Kardashians](https://image.tmdb.org/t/p/original/y5tqHu7Rly3RS9uJZqTTraf7mQ2.jpg)
 
@@ -1855,7 +1855,7 @@ The Kardashians are back with an all-new series that brings viewers closer than 
 <hr>
 
 
-## 8. [Honest Trailers](https://serp.ly/@serpmedia/github/amazon/Honest+Trailers)
+## 8. [Honest Trailers](https://serp.ly/amazon/Honest+Trailers)
 
 ![Honest Trailers](https://image.tmdb.org/t/p/original/5wZDu7JVXqmzJLthh1ngIfLmKIS.jpg)
 
@@ -1899,7 +1899,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 9. [Lip Sync Battle](https://serp.ly/@serpmedia/github/amazon/Lip+Sync+Battle)
+## 9. [Lip Sync Battle](https://serp.ly/amazon/Lip+Sync+Battle)
 
 ![Lip Sync Battle](https://image.tmdb.org/t/p/original/AYmEExaBgjiEIwrLPb7AoH4nqy.jpg)
 
@@ -1941,7 +1941,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 10. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 10. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -1987,7 +1987,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 11. [Gotham Comedy Live](https://serp.ly/@serpmedia/github/amazon/Gotham+Comedy+Live)
+## 11. [Gotham Comedy Live](https://serp.ly/amazon/Gotham+Comedy+Live)
 
 ![Gotham Comedy Live](https://image.tmdb.org/t/p/original/hZpMmD7hWIDG3cwYZEDrZo7L037.jpg)
 
@@ -2031,7 +2031,7 @@ Honest Trailers is the wildly popular series that's taken the entertainment worl
 <hr>
 
 
-## 12. [John Mulaney Presents: Everybody's in L.A.](https://serp.ly/@serpmedia/github/amazon/John+Mulaney+Presents%3A+Everybody%27s+in+L.A.)
+## 12. [John Mulaney Presents: Everybody's in L.A.](https://serp.ly/amazon/John+Mulaney+Presents%3A+Everybody%27s+in+L.A.)
 
 ![John Mulaney Presents: Everybody's in L.A.](https://image.tmdb.org/t/p/original/hPMKS5wwAIdh6SFcJKq2J2likTx.jpg)
 
@@ -2073,7 +2073,7 @@ When it comes to stand-up comedy, Los Angeles is the place to be - and this mini
 <hr>
 
 
-## 13. [Nick Cannon Presents: Wild 'N Out](https://serp.ly/@serpmedia/github/amazon/Nick+Cannon+Presents%3A+Wild+%27N+Out)
+## 13. [Nick Cannon Presents: Wild 'N Out](https://serp.ly/amazon/Nick+Cannon+Presents%3A+Wild+%27N+Out)
 
 ![Nick Cannon Presents: Wild 'N Out](https://image.tmdb.org/t/p/original/9I00u4M54u5tulUQT6qVFOZKMvt.jpg)
 
@@ -2117,7 +2117,7 @@ When Nick Cannon isn't handling the entertainment, an A-list celebrity takes the
 <hr>
 
 
-## 14. [Comedy Central Roasts](https://serp.ly/@serpmedia/github/amazon/Comedy+Central+Roasts)
+## 14. [Comedy Central Roasts](https://serp.ly/amazon/Comedy+Central+Roasts)
 
 ![Comedy Central Roasts](https://image.tmdb.org/t/p/original/iyp1Db5noOA0G5lXK0VezKnDLuR.jpg)
 
@@ -2158,7 +2158,7 @@ From 2003 to 2019, "Comedy Central Roasts" brought celebrities and comedians tog
 <hr>
 
 
-## 15. [Miley's New Year's Eve Party](https://serp.ly/@serpmedia/github/amazon/Miley%27s+New+Year%27s+Eve+Party)
+## 15. [Miley's New Year's Eve Party](https://serp.ly/amazon/Miley%27s+New+Year%27s+Eve+Party)
 
 ![Miley's New Year's Eve Party](https://image.tmdb.org/t/p/original/iSYmO6CHVmMUTOmnaJlu17tQGsz.jpg)
 
@@ -2202,7 +2202,7 @@ From 2003 to 2019, "Comedy Central Roasts" brought celebrities and comedians tog
 <hr>
 
 
-## 16. [Hart to Heart](https://serp.ly/@serpmedia/github/amazon/Hart+to+Heart)
+## 16. [Hart to Heart](https://serp.ly/amazon/Hart+to+Heart)
 
 ![Hart to Heart](https://image.tmdb.org/t/p/original/gSowuLagjVqGIQS6IgIBi14hoRy.jpg)
 
@@ -2248,7 +2248,7 @@ Join Kevin Hart for an intimate conversation with today's most fascinating perso
 <hr>
 
 
-## 17. [Bupkis](https://serp.ly/@serpmedia/github/amazon/Bupkis)
+## 17. [Bupkis](https://serp.ly/amazon/Bupkis)
 
 ![Bupkis](https://image.tmdb.org/t/p/original/y2hAQhAwE9fRe4cpq2OrcPLRxNO.jpg)
 
@@ -2290,7 +2290,7 @@ Pete Davidson faces the unique challenge of balancing his personal life with the
 <hr>
 
 
-## 18. [Harry Potter: Hogwarts Tournament of Houses](https://serp.ly/@serpmedia/github/amazon/Harry+Potter%3A+Hogwarts+Tournament+of+Houses)
+## 18. [Harry Potter: Hogwarts Tournament of Houses](https://serp.ly/amazon/Harry+Potter%3A+Hogwarts+Tournament+of+Houses)
 
 ![Harry Potter: Hogwarts Tournament of Houses](https://image.tmdb.org/t/p/original/tEHHfzqHnfNJUp4L30wQeYl2xRo.jpg)
 
@@ -2334,7 +2334,7 @@ Calling all wizarding world fans! Put your Harry Potter knowledge to the ultimat
 <hr>
 
 
-## 19. [Adam Devine's House Party](https://serp.ly/@serpmedia/github/amazon/Adam+Devine%27s+House+Party)
+## 19. [Adam Devine's House Party](https://serp.ly/amazon/Adam+Devine%27s+House+Party)
 
 ![Adam Devine's House Party](https://image.tmdb.org/t/p/original/dx95fgWaWyCjyg5asvTYUzG0GxG.jpg)
 
@@ -2376,7 +2376,7 @@ Calling all wizarding world fans! Put your Harry Potter knowledge to the ultimat
 <hr>
 
 
-## 20. [All That](https://serp.ly/@serpmedia/github/amazon/All+That)
+## 20. [All That](https://serp.ly/amazon/All+That)
 
 ![All That](https://image.tmdb.org/t/p/original/ctfnJPAJxGSM5imeNolEZMEoaxH.jpg)
 
@@ -2422,7 +2422,7 @@ Calling all wizarding world fans! Put your Harry Potter knowledge to the ultimat
 <hr>
 
 
-## 21. [The Freak Brothers](https://serp.ly/@serpmedia/github/amazon/The+Freak+Brothers)
+## 21. [The Freak Brothers](https://serp.ly/amazon/The+Freak+Brothers)
 
 ![The Freak Brothers](https://image.tmdb.org/t/p/original/2vOAmkxJHItO6jBlO77vSwZUGSM.jpg)
 
@@ -2468,7 +2468,7 @@ After smoking a magical strain of weed in 1969, three stoner anti-establishment 
 <hr>
 
 
-## 22. [Eighty-Sixed](https://serp.ly/@serpmedia/github/amazon/Eighty-Sixed)
+## 22. [Eighty-Sixed](https://serp.ly/amazon/Eighty-Sixed)
 
 ![Eighty-Sixed](https://image.tmdb.org/t/p/original/7W29jDKcKxB8MFYA98hD0fwu2rR.jpg)
 

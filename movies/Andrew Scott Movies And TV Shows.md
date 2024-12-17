@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Saving Private Ryan](https://serp.ly/@serpmedia/github/amazon/Saving+Private+Ryan)
+## 1. [Saving Private Ryan](https://serp.ly/amazon/Saving+Private+Ryan)
 
 ![Saving Private Ryan](https://image.tmdb.org/t/p/original/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg)
 
@@ -80,7 +80,7 @@ In this epic 1998 war film, Ranger captain John Miller leads a daring mission be
 <hr>
 
 
-## 2. [1917](https://serp.ly/@serpmedia/github/amazon/1917)
+## 2. [1917](https://serp.ly/amazon/1917)
 
 ![1917](https://image.tmdb.org/t/p/original/iZf0KyrE25z1sage4SYFLCCrMi9.jpg)
 
@@ -123,7 +123,7 @@ During World War I, two young British soldiers are given a dangerous mission tha
 <hr>
 
 
-## 3. [Spectre](https://serp.ly/@serpmedia/github/amazon/Spectre)
+## 3. [Spectre](https://serp.ly/amazon/Spectre)
 
 ![Spectre](https://image.tmdb.org/t/p/original/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg)
 
@@ -164,7 +164,7 @@ During World War I, two young British soldiers are given a dangerous mission tha
 <hr>
 
 
-## 4. [Alice Through the Looking Glass](https://serp.ly/@serpmedia/github/amazon/Alice+Through+the+Looking+Glass)
+## 4. [Alice Through the Looking Glass](https://serp.ly/amazon/Alice+Through+the+Looking+Glass)
 
 ![Alice Through the Looking Glass](https://image.tmdb.org/t/p/original/4g043PWVXkjHkxEEsEfwuAxlM8i.jpg)
 
@@ -207,7 +207,7 @@ In "Alice Through the Looking Glass", Alice Kingsleigh returns to the whimsical 
 <hr>
 
 
-## 5. [Locke](https://serp.ly/@serpmedia/github/amazon/Locke)
+## 5. [Locke](https://serp.ly/amazon/Locke)
 
 ![Locke](https://image.tmdb.org/t/p/original/mZTMFDk5VRQuvkJaCFFAXFV65G6.jpg)
 
@@ -250,7 +250,7 @@ Ivan Locke has built a successful life, but everything changes in an instant whe
 <hr>
 
 
-## 6. [Sherlock: The Abominable Bride](https://serp.ly/@serpmedia/github/amazon/Sherlock%3A+The+Abominable+Bride)
+## 6. [Sherlock: The Abominable Bride](https://serp.ly/amazon/Sherlock%3A+The+Abominable+Bride)
 
 ![Sherlock: The Abominable Bride](https://image.tmdb.org/t/p/original/hibE8cyZs2Bm0o4WaWd1pppvjO2.jpg)
 
@@ -283,7 +283,7 @@ Welcome to Sherlock 1895!
 <hr>
 
 
-## 7. [Victor Frankenstein](https://serp.ly/@serpmedia/github/amazon/Victor+Frankenstein)
+## 7. [Victor Frankenstein](https://serp.ly/amazon/Victor+Frankenstein)
 
 ![Victor Frankenstein](https://image.tmdb.org/t/p/original/bYUmSLPtWylFKbEBHOXT1kt9l5b.jpg)
 
@@ -326,7 +326,7 @@ Discover the origin of the monster and his creation.
 <hr>
 
 
-## 8. [Pride](https://serp.ly/@serpmedia/github/amazon/Pride)
+## 8. [Pride](https://serp.ly/amazon/Pride)
 
 ![Pride](https://image.tmdb.org/t/p/original/mrITqHNw0XzT7egAPByDuiE3QZf.jpg)
 
@@ -367,7 +367,7 @@ In 1984, a group of LGBT activists decides to raise money for the striking Natio
 <hr>
 
 
-## 9. [Handsome Devil](https://serp.ly/@serpmedia/github/amazon/Handsome+Devil)
+## 9. [Handsome Devil](https://serp.ly/amazon/Handsome+Devil)
 
 ![Handsome Devil](https://image.tmdb.org/t/p/original/xlHOWQFgcGV4KcZKLzYBZ21gjGT.jpg)
 
@@ -405,7 +405,7 @@ When a musical 16-year-old finds himself the odd one out at a rugby-mad boarding
 <hr>
 
 
-## 10. [Denial](https://serp.ly/@serpmedia/github/amazon/Denial)
+## 10. [Denial](https://serp.ly/amazon/Denial)
 
 ![Denial](https://image.tmdb.org/t/p/original/cJLbcWqV6sKwPpX5uT4xaklTgQz.jpg)
 
@@ -450,7 +450,7 @@ Academic and historian Deborah E. Lipstadt faces her toughest challenge yet when
 <hr>
 
 
-## 11. [All of Us Strangers](https://serp.ly/@serpmedia/github/amazon/All+of+Us+Strangers)
+## 11. [All of Us Strangers](https://serp.ly/amazon/All+of+Us+Strangers)
 
 ![All of Us Strangers](https://image.tmdb.org/t/p/original/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg)
 
@@ -491,7 +491,7 @@ In contemporary London, Adam's ordinary life takes an unexpected turn when he me
 <hr>
 
 
-## 12. [This Beautiful Fantastic](https://serp.ly/@serpmedia/github/amazon/This+Beautiful+Fantastic)
+## 12. [This Beautiful Fantastic](https://serp.ly/amazon/This+Beautiful+Fantastic)
 
 ![This Beautiful Fantastic](https://image.tmdb.org/t/p/original/22b9jLGJ8OVzlEnWzqF0yRy5Na3.jpg)
 
@@ -530,7 +530,7 @@ In the heart of London, a young woman's creative dreams take root amidst her neg
 <hr>
 
 
-## 13. [Jimmy's Hall](https://serp.ly/@serpmedia/github/amazon/Jimmy%27s+Hall)
+## 13. [Jimmy's Hall](https://serp.ly/amazon/Jimmy%27s+Hall)
 
 ![Jimmy's Hall](https://image.tmdb.org/t/p/original/lo5MjmuMTTcgGVsup5RvjtDj4T7.jpg)
 
@@ -571,7 +571,7 @@ When Jimmy Gralton returns from New York to reopen his beloved community hall, h
 <hr>
 
 
-## 14. [A Dark Place](https://serp.ly/@serpmedia/github/amazon/A+Dark+Place)
+## 14. [A Dark Place](https://serp.ly/amazon/A+Dark+Place)
 
 ![A Dark Place](https://image.tmdb.org/t/p/original/7QqFn9UzuSnh1uOPeSfYL1MFjkB.jpg)
 
@@ -608,7 +608,7 @@ In a small Pennsylvania town, a young boy's tragic death sets off a chain of eve
 <hr>
 
 
-## 15. [Catherine Called Birdy](https://serp.ly/@serpmedia/github/amazon/Catherine+Called+Birdy)
+## 15. [Catherine Called Birdy](https://serp.ly/amazon/Catherine+Called+Birdy)
 
 ![Catherine Called Birdy](https://image.tmdb.org/t/p/original/a6welBP7DtjHDsr6fwT5IuCS33f.jpg)
 
@@ -647,7 +647,7 @@ In Medieval England, a young girl named Catherine must navigate the complexities
 <hr>
 
 
-## 16. [Oslo](https://serp.ly/@serpmedia/github/amazon/Oslo)
+## 16. [Oslo](https://serp.ly/amazon/Oslo)
 
 ![Oslo](https://image.tmdb.org/t/p/original/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg)
 
@@ -686,7 +686,7 @@ How do enemies find common ground?
 <hr>
 
 
-## 17. [The Stag](https://serp.ly/@serpmedia/github/amazon/The+Stag)
+## 17. [The Stag](https://serp.ly/amazon/The+Stag)
 
 ![The Stag](https://image.tmdb.org/t/p/original/yKW97IU1Wijj6rc3EJr47xHTVVp.jpg)
 
@@ -727,7 +727,7 @@ In this 2013 Irish drama, a modern groom-to-be reluctantly agrees to a wildernes
 <hr>
 
 
-## 18. [Being James Bond](https://serp.ly/@serpmedia/github/amazon/Being+James+Bond)
+## 18. [Being James Bond](https://serp.ly/amazon/Being+James+Bond)
 
 ![Being James Bond](https://image.tmdb.org/t/p/original/jLaAbwPDzHNbJfZ0Xj0CkeM56CO.jpg)
 
@@ -763,7 +763,7 @@ The Daniel Craig story.
 <hr>
 
 
-## 19. [Swallows and Amazons](https://serp.ly/@serpmedia/github/amazon/Swallows+and+Amazons)
+## 19. [Swallows and Amazons](https://serp.ly/amazon/Swallows+and+Amazons)
 
 ![Swallows and Amazons](https://image.tmdb.org/t/p/original/y5ZVbjos0CqhKLMV77YzX6r12Ls.jpg)
 
@@ -802,7 +802,7 @@ When four children are finally allowed to camp on their own on an island in the 
 <hr>
 
 
-## 20. [King Lear](https://serp.ly/@serpmedia/github/amazon/King+Lear)
+## 20. [King Lear](https://serp.ly/amazon/King+Lear)
 
 ![King Lear](https://image.tmdb.org/t/p/original/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg)
 
@@ -838,7 +838,7 @@ In this 2018 British adaptation of Shakespeare's "King Lear", an aging monarch m
 <hr>
 
 
-## 21. [The Scapegoat](https://serp.ly/@serpmedia/github/amazon/The+Scapegoat)
+## 21. [The Scapegoat](https://serp.ly/amazon/The+Scapegoat)
 
 ![The Scapegoat](https://image.tmdb.org/t/p/original/qm7405EUohvZvGjINJkGYNsqU03.jpg)
 
@@ -874,7 +874,7 @@ In 1952, as England prepares for the coronation, two very different men share an
 <hr>
 
 
-## 22. [Unlocking Sherlock](https://serp.ly/@serpmedia/github/amazon/Unlocking+Sherlock)
+## 22. [Unlocking Sherlock](https://serp.ly/amazon/Unlocking+Sherlock)
 
 ![Unlocking Sherlock](https://image.tmdb.org/t/p/original/496SKJTYO4sluXyoUUT8eyTX9F7.jpg)
 
@@ -908,7 +908,7 @@ In 1952, as England prepares for the coronation, two very different men share an
 <hr>
 
 
-## 23. [The Delinquent Season](https://serp.ly/@serpmedia/github/amazon/The+Delinquent+Season)
+## 23. [The Delinquent Season](https://serp.ly/amazon/The+Delinquent+Season)
 
 ![The Delinquent Season](https://image.tmdb.org/t/p/original/xX43qZzsqqMZwzqwtUHX5P6PwZ4.jpg)
 
@@ -949,7 +949,7 @@ In Dublin, two couples - Jim and Danielle, and Yvonne and Chris - appear to have
 <hr>
 
 
-## 24. [Longitude](https://serp.ly/@serpmedia/github/amazon/Longitude)
+## 24. [Longitude](https://serp.ly/amazon/Longitude)
 
 ![Longitude](https://image.tmdb.org/t/p/original/n0pNsQ2JiUoEI40v6zbA6yf9KfC.jpg)
 
@@ -983,7 +983,7 @@ In this 2000 British drama, an 18th-century clockmaker named Harrison develops t
 <hr>
 
 
-## 25. [Dead Bodies](https://serp.ly/@serpmedia/github/amazon/Dead+Bodies)
+## 25. [Dead Bodies](https://serp.ly/amazon/Dead+Bodies)
 
 ![Dead Bodies](https://image.tmdb.org/t/p/original/apGKZgD3eCuMcyg1pLRmEM7W1Tp.jpg)
 
@@ -1017,7 +1017,7 @@ When a vengeful ex-girlfriend returns to stake her claim on Tommy's apartment, t
 <hr>
 
 
-## 26. [Lennon Naked](https://serp.ly/@serpmedia/github/amazon/Lennon+Naked)
+## 26. [Lennon Naked](https://serp.ly/amazon/Lennon+Naked)
 
 ![Lennon Naked](https://image.tmdb.org/t/p/original/4807dYOvJSq3dppLJe21Ga3XlLE.jpg)
 
@@ -1054,7 +1054,7 @@ When a vengeful ex-girlfriend returns to stake her claim on Tommy's apartment, t
 <hr>
 
 
-## 27. [Miracle at Midnight](https://serp.ly/@serpmedia/github/amazon/Miracle+at+Midnight)
+## 27. [Miracle at Midnight](https://serp.ly/amazon/Miracle+at+Midnight)
 
 ![Miracle at Midnight](https://image.tmdb.org/t/p/original/xMPiWA66gST1XONqLtceHfe6xpi.jpg)
 
@@ -1085,7 +1085,7 @@ In Nazi-occupied Denmark, a courageous family risks everything to save their Jew
 <hr>
 
 
-## 28. [Sea Wall](https://serp.ly/@serpmedia/github/amazon/Sea+Wall)
+## 28. [Sea Wall](https://serp.ly/amazon/Sea+Wall)
 
 ![Sea Wall](https://image.tmdb.org/t/p/original/zOCAWqswIUM4UrNjqzBUNEXRR79.jpg)
 
@@ -1121,7 +1121,7 @@ In this heartfelt British drama, a man stands at the crossroads of love and fait
 <hr>
 
 
-## 29. [The Quatermass Experiment](https://serp.ly/@serpmedia/github/amazon/The+Quatermass+Experiment)
+## 29. [The Quatermass Experiment](https://serp.ly/amazon/The+Quatermass+Experiment)
 
 ![The Quatermass Experiment](https://image.tmdb.org/t/p/original/m9Nz47BhcSVSYtiFMxebRvvXGxk.jpg)
 
@@ -1155,7 +1155,7 @@ When the Experimental Rocket Group's most ambitious mission ends in disaster, th
 <hr>
 
 
-## 30. [Nora](https://serp.ly/@serpmedia/github/amazon/Nora)
+## 30. [Nora](https://serp.ly/amazon/Nora)
 
 ![Nora](https://image.tmdb.org/t/p/original/3G1dPq5hf9g7m98uKrksBIu1kbL.jpg)
 
@@ -1196,7 +1196,7 @@ In 1904 Dublin, a hotel maid named Nora Barnacle catches the eye of writer James
 <hr>
 
 
-## 31. [Anton Chekhov's The Duel](https://serp.ly/@serpmedia/github/amazon/Anton+Chekhov%27s+The+Duel)
+## 31. [Anton Chekhov's The Duel](https://serp.ly/amazon/Anton+Chekhov%27s+The+Duel)
 
 ![Anton Chekhov's The Duel](https://image.tmdb.org/t/p/original/jIvxvr06PSUbNHkrnpHqF2Ksfb4.jpg)
 
@@ -1230,7 +1230,7 @@ In a seaside resort in the Caucasus, a compelling drama unfolds as doctor Laevsk
 <hr>
 
 
-## 32. [Silent Things](https://serp.ly/@serpmedia/github/amazon/Silent+Things)
+## 32. [Silent Things](https://serp.ly/amazon/Silent+Things)
 
 ![Silent Things](https://image.tmdb.org/t/p/original/9szlAbEHbihN31hY4xeTz8BFTQz.jpg)
 
@@ -1264,7 +1264,7 @@ When a 15-year-old girl moves in down the street, the close friendship between a
 <hr>
 
 
-## 33. [National Theatre Live: Present Laughter](https://serp.ly/@serpmedia/github/amazon/National+Theatre+Live%3A+Present+Laughter)
+## 33. [National Theatre Live: Present Laughter](https://serp.ly/amazon/National+Theatre+Live%3A+Present+Laughter)
 
 ![National Theatre Live: Present Laughter](https://image.tmdb.org/t/p/original/AmdPtvTLmqBwYvT1mc9fjuIpacG.jpg)
 
@@ -1298,7 +1298,7 @@ When star actor Garry Essendine returns home for a brief visit before an oversea
 <hr>
 
 
-## 34. [Hamlet](https://serp.ly/@serpmedia/github/amazon/Hamlet)
+## 34. [Hamlet](https://serp.ly/amazon/Hamlet)
 
 ![Hamlet](https://image.tmdb.org/t/p/original/dEH8V1pTNd5ZBJuHz4tbELBzJKu.jpg)
 
@@ -1332,7 +1332,7 @@ Hamlet captures the Almeida Theatre's acclaimed 2017 production, transferred to 
 <hr>
 
 
-## 35. [Chasing Cotards](https://serp.ly/@serpmedia/github/amazon/Chasing+Cotards)
+## 35. [Chasing Cotards](https://serp.ly/amazon/Chasing+Cotards)
 
 ![Chasing Cotards](https://image.tmdb.org/t/p/original/6fL6IXNjSb62PCMvemKaWflGHjl.jpg)
 
@@ -1368,7 +1368,7 @@ Once a successful artist, Hart is now a shadow of his former self, his world tor
 <hr>
 
 
-## 36. [National Theatre Live: Vanya](https://serp.ly/@serpmedia/github/amazon/National+Theatre+Live%3A+Vanya)
+## 36. [National Theatre Live: Vanya](https://serp.ly/amazon/National+Theatre+Live%3A+Vanya)
 
 ![National Theatre Live: Vanya](https://image.tmdb.org/t/p/original/kFcd3qYJ4KrbW6pqMPrelRsD7yE.jpg)
 
@@ -1404,7 +1404,7 @@ Uncle Vanya comes to life through Andrew Scott's masterful adaptation, bringing 
 <hr>
 
 
-## 37. [Quintessentially Irish](https://serp.ly/@serpmedia/github/amazon/Quintessentially+Irish)
+## 37. [Quintessentially Irish](https://serp.ly/amazon/Quintessentially+Irish)
 
 ![Quintessentially Irish](https://image.tmdb.org/t/p/original/98B7qOrkuT6VqA8kZSFyltnEi57.jpg)
 
@@ -1437,7 +1437,7 @@ A love letter to everything great and Irish.
 <hr>
 
 
-## 38. [The Love She Sought](https://serp.ly/@serpmedia/github/amazon/The+Love+She+Sought)
+## 38. [The Love She Sought](https://serp.ly/amazon/The+Love+She+Sought)
 
 ![The Love She Sought](https://image.tmdb.org/t/p/original/vAxtxEr690ENuYFextS6lWVs7TT.jpg)
 
@@ -1471,7 +1471,7 @@ In a Catholic grammar school in Minnesota, an aging teacher's world changes when
 <hr>
 
 
-## 39. [An Audience with Kylie](https://serp.ly/@serpmedia/github/amazon/An+Audience+with+Kylie)
+## 39. [An Audience with Kylie](https://serp.ly/amazon/An+Audience+with+Kylie)
 
 ![An Audience with Kylie](https://image.tmdb.org/t/p/original/t7jedcCHWtOAEmAa2dCk9jKKC3w.jpg)
 
@@ -1505,7 +1505,7 @@ In a Catholic grammar school in Minnesota, an aging teacher's world changes when
 <hr>
 
 
-## 40. [Legacy](https://serp.ly/@serpmedia/github/amazon/Legacy)
+## 40. [Legacy](https://serp.ly/amazon/Legacy)
 
 ![Legacy](https://image.tmdb.org/t/p/original/qdJjjTNNbMOCUVD8FBJDYrGNfPQ.jpg)
 
@@ -1541,7 +1541,7 @@ When a KGB plot threatens to engulf the UK in crisis, MI6 recruits Charles to re
 <hr>
 
 
-## 41. [Sweety Barrett](https://serp.ly/@serpmedia/github/amazon/Sweety+Barrett)
+## 41. [Sweety Barrett](https://serp.ly/amazon/Sweety+Barrett)
 
 ![Sweety Barrett](https://image.tmdb.org/t/p/original/aj3lg18SbgPjsTcPSPjTnroytjk.jpg)
 
@@ -1575,7 +1575,7 @@ When a giant of a man with the mind of a child becomes an easy target in a corru
 <hr>
 
 
-## 42. [Killing Hitler](https://serp.ly/@serpmedia/github/amazon/Killing+Hitler)
+## 42. [Killing Hitler](https://serp.ly/amazon/Killing+Hitler)
 
 ![Killing Hitler](https://image.tmdb.org/t/p/original/hXlYcQb23TdjEylYNYAIw4DeOXs.jpg)
 
@@ -1608,7 +1608,7 @@ Travel back to 1944 with this gripping drama-documentary about Operation Foxley,
 <hr>
 
 
-## 43. [The American](https://serp.ly/@serpmedia/github/amazon/The+American)
+## 43. [The American](https://serp.ly/amazon/The+American)
 
 ![The American](https://image.tmdb.org/t/p/original/31TRnwone1u6OsC27VPQK1xZVkC.jpg)
 
@@ -1642,7 +1642,7 @@ In the aftermath of the Civil War, Christopher Newman embarks on a cultural odys
 <hr>
 
 
-## 44. [National Theatre Live: 50 Years on Stage](https://serp.ly/@serpmedia/github/amazon/National+Theatre+Live%3A+50+Years+on+Stage)
+## 44. [National Theatre Live: 50 Years on Stage](https://serp.ly/amazon/National+Theatre+Live%3A+50+Years+on+Stage)
 
 ![National Theatre Live: 50 Years on Stage](https://image.tmdb.org/t/p/original/9UkqM7TEBsG6dNIgBGjac9n5hsy.jpg)
 
@@ -1676,7 +1676,7 @@ Britain's National Theatre celebrates its 50th anniversary with an extraordinary
 <hr>
 
 
-## 45. [Korea](https://serp.ly/@serpmedia/github/amazon/Korea)
+## 45. [Korea](https://serp.ly/amazon/Korea)
 
 ![Korea](https://image.tmdb.org/t/p/original/5TbNMZ9UxOnTQu6C3uQmtRFovko.jpg)
 
@@ -1714,7 +1714,7 @@ In rural 1950s Ireland, a devastating Korean War tragedy tests the honor and sil
 <hr>
 
 
-## 46. [Cognition](https://serp.ly/@serpmedia/github/amazon/Cognition)
+## 46. [Cognition](https://serp.ly/amazon/Cognition)
 
 ![Cognition](https://image.tmdb.org/t/p/original/2bDU488IramQqRDhSSGCLluKOgK.jpg)
 
@@ -1750,7 +1750,7 @@ Sometimes the most dangerous journey is to the centre of your own mind.
 <hr>
 
 
-## 47. [Little White Lie](https://serp.ly/@serpmedia/github/amazon/Little+White+Lie)
+## 47. [Little White Lie](https://serp.ly/amazon/Little+White+Lie)
 
 ![Little White Lie](https://image.tmdb.org/t/p/original/7MjJ519xPP0EEPI8VVKTpGMWqyi.jpg)
 
@@ -1784,7 +1784,7 @@ When unlucky actor Barry splits from his girlfriend, he finds an unexpected crus
 <hr>
 
 
-## 48. [The Hope Rooms](https://serp.ly/@serpmedia/github/amazon/The+Hope+Rooms)
+## 48. [The Hope Rooms](https://serp.ly/amazon/The+Hope+Rooms)
 
 ![The Hope Rooms](https://image.tmdb.org/t/p/original/g98hQX5Gq5OykwO5taccOCG6q77.jpg)
 
@@ -1815,7 +1815,7 @@ When Eamonn, a father who's been estranged from his son for 15 years, gets a cha
 <hr>
 
 
-## 49. [Three Kings](https://serp.ly/@serpmedia/github/amazon/Three+Kings)
+## 49. [Three Kings](https://serp.ly/amazon/Three+Kings)
 
 ![Three Kings](https://image.tmdb.org/t/p/original/455kghJxVcr2D4ow9ZE9ab7yFv8.jpg)
 
@@ -1846,7 +1846,7 @@ When Patrick is eight years old, his absent father returns for a brief but memor
 <hr>
 
 
-## 50. [Back in Action](https://serp.ly/@serpmedia/github/amazon/Back+in+Action)
+## 50. [Back in Action](https://serp.ly/amazon/Back+in+Action)
 
 ![Back in Action](https://image.tmdb.org/t/p/original/n65EpCRdC2Hg3ZoXB46RDNede14.jpg)
 
@@ -1873,7 +1873,7 @@ Years after hanging up their CIA badges to start families, two former spies are 
 <hr>
 
 
-## 51. [Heart of Darkness](https://serp.ly/@serpmedia/github/amazon/Heart+of+Darkness)
+## 51. [Heart of Darkness](https://serp.ly/amazon/Heart+of+Darkness)
 
 ![Heart of Darkness](https://image.tmdb.org/t/p/original/c5ML623LP7RLtyQHcpfD6E4ftP9.jpg)
 
@@ -1899,7 +1899,7 @@ In this adaptation of Joseph Conrad's seminal novel, Marlow captains a dilapidat
 <hr>
 
 
-## 52. [On the Red Carpet Presents: All of Us Strangers](https://serp.ly/@serpmedia/github/amazon/On+the+Red+Carpet+Presents%3A+All+of+Us+Strangers)
+## 52. [On the Red Carpet Presents: All of Us Strangers](https://serp.ly/amazon/On+the+Red+Carpet+Presents%3A+All+of+Us+Strangers)
 
 ![On the Red Carpet Presents: All of Us Strangers](https://image.tmdb.org/t/p/original/sBQJ4YkZJtowx0suQ897QfUjj62.jpg)
 
@@ -1927,7 +1927,7 @@ In this adaptation of Joseph Conrad's seminal novel, Marlow captains a dilapidat
 <hr>
 
 
-## 53. [Wake Up Dead Man: A Knives Out Mystery](https://serp.ly/@serpmedia/github/amazon/Wake+Up+Dead+Man%3A+A+Knives+Out+Mystery)
+## 53. [Wake Up Dead Man: A Knives Out Mystery](https://serp.ly/amazon/Wake+Up+Dead+Man%3A+A+Knives+Out+Mystery)
 
 ![Wake Up Dead Man: A Knives Out Mystery](https://image.tmdb.org/t/p/original/ioDzsrV1OZgIaYYIP1Vi4J2QVOF.jpg)
 
@@ -1950,7 +1950,7 @@ Benoit Blanc returns in his most dangerous case yet. When a prominent figure is 
 <hr>
 
 
-## 54. [Blue Moon](https://serp.ly/@serpmedia/github/amazon/Blue+Moon)
+## 54. [Blue Moon](https://serp.ly/amazon/Blue+Moon)
 
 <br>
 
@@ -1971,7 +1971,7 @@ In 1943, an ailing Lorenz Hart attends the opening night of "Oklahoma! ", the hi
 <hr>
 
 
-## 55. [Drinking Crude](https://serp.ly/@serpmedia/github/amazon/Drinking+Crude)
+## 55. [Drinking Crude](https://serp.ly/amazon/Drinking+Crude)
 
 ![Drinking Crude](https://image.tmdb.org/t/p/original/dk3yVHJSG11vUDqsTJ04hxSZYE9.jpg)
 
@@ -2005,7 +2005,7 @@ After failing school, Irish heads to London where he lands a job at an oil refin
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -2049,7 +2049,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -2095,7 +2095,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Graham Norton Show](https://serp.ly/@serpmedia/github/amazon/The+Graham+Norton+Show)
+## 3. [The Graham Norton Show](https://serp.ly/amazon/The+Graham+Norton+Show)
 
 ![The Graham Norton Show](https://image.tmdb.org/t/p/original/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg)
 
@@ -2139,7 +2139,7 @@ The Graham Norton Show invites celebrity guests to share their thoughts on the w
 <hr>
 
 
-## 4. [Band of Brothers](https://serp.ly/@serpmedia/github/amazon/Band+of+Brothers)
+## 4. [Band of Brothers](https://serp.ly/amazon/Band+of+Brothers)
 
 ![Band of Brothers](https://image.tmdb.org/t/p/original/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg)
 
@@ -2183,7 +2183,7 @@ There was a time when the world asked ordinary men to do extraordinary things.
 <hr>
 
 
-## 5. [Black Mirror](https://serp.ly/@serpmedia/github/amazon/Black+Mirror)
+## 5. [Black Mirror](https://serp.ly/amazon/Black+Mirror)
 
 ![Black Mirror](https://image.tmdb.org/t/p/original/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg)
 
@@ -2229,7 +2229,7 @@ Over the last decade, technology has revolutionized every facet of our lives bef
 <hr>
 
 
-## 6. [Modern Love](https://serp.ly/@serpmedia/github/amazon/Modern+Love)
+## 6. [Modern Love](https://serp.ly/amazon/Modern+Love)
 
 ![Modern Love](https://image.tmdb.org/t/p/original/cP9CJ9nvPT3cnnBSlGFgwq7odIR.jpg)
 
@@ -2271,7 +2271,7 @@ Over the last decade, technology has revolutionized every facet of our lives bef
 <hr>
 
 
-## 7. [Sherlock](https://serp.ly/@serpmedia/github/amazon/Sherlock)
+## 7. [Sherlock](https://serp.ly/amazon/Sherlock)
 
 ![Sherlock](https://image.tmdb.org/t/p/original/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg)
 
@@ -2315,7 +2315,7 @@ When a modern update relocates Sherlock Holmes and his partner to 21st century L
 <hr>
 
 
-## 8. [Jimmy Kimmel Live!](https://serp.ly/@serpmedia/github/amazon/Jimmy+Kimmel+Live%21)
+## 8. [Jimmy Kimmel Live!](https://serp.ly/amazon/Jimmy+Kimmel+Live%21)
 
 ![Jimmy Kimmel Live!](https://image.tmdb.org/t/p/original/6uKEYejjR88GwHgNq6NAQ30glTx.jpg)
 
@@ -2359,7 +2359,7 @@ Jimmy Kimmel Live! marks the comedic genius of Jimmy Kimmel, bringing viewers ov
 <hr>
 
 
-## 9. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 9. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -2403,7 +2403,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 10. [His Dark Materials](https://serp.ly/@serpmedia/github/amazon/His+Dark+Materials)
+## 10. [His Dark Materials](https://serp.ly/amazon/His+Dark+Materials)
 
 ![His Dark Materials](https://image.tmdb.org/t/p/original/1ljcoM9hFNiXpcoevZQwwc7oCYT.jpg)
 
@@ -2449,7 +2449,7 @@ In a cosmos where science and magic unite, orphan Lyra embarks on a desperate hu
 <hr>
 
 
-## 11. [Horizon](https://serp.ly/@serpmedia/github/amazon/Horizon)
+## 11. [Horizon](https://serp.ly/amazon/Horizon)
 
 ![Horizon](https://image.tmdb.org/t/p/original/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg)
 
@@ -2493,7 +2493,7 @@ In a cosmos where science and magic unite, orphan Lyra embarks on a desperate hu
 <hr>
 
 
-## 12. [The Hollow Crown](https://serp.ly/@serpmedia/github/amazon/The+Hollow+Crown)
+## 12. [The Hollow Crown](https://serp.ly/amazon/The+Hollow+Crown)
 
 ![The Hollow Crown](https://image.tmdb.org/t/p/original/1Q8m6nI5m66DjnQ5V661anWqpVu.jpg)
 
@@ -2535,7 +2535,7 @@ The Hollow Crown brings together William Shakespeare's most famous history plays
 <hr>
 
 
-## 13. [RIPLEY](https://serp.ly/@serpmedia/github/amazon/RIPLEY)
+## 13. [RIPLEY](https://serp.ly/amazon/RIPLEY)
 
 ![RIPLEY](https://image.tmdb.org/t/p/original/rpSo8z9alultGVTqQ3dkLEyU8xx.jpg)
 
@@ -2579,7 +2579,7 @@ In 1960s New York, a master grifter is hired to retrieve a wealthy man's son fro
 <hr>
 
 
-## 14. [Fleabag](https://serp.ly/@serpmedia/github/amazon/Fleabag)
+## 14. [Fleabag](https://serp.ly/amazon/Fleabag)
 
 ![Fleabag](https://image.tmdb.org/t/p/original/27vEYsRKa3eAniwmoccOoluEXQ1.jpg)
 
@@ -2623,7 +2623,7 @@ What if someone created a show that perfectly captures the messy, often contradi
 <hr>
 
 
-## 15. [John Adams](https://serp.ly/@serpmedia/github/amazon/John+Adams)
+## 15. [John Adams](https://serp.ly/amazon/John+Adams)
 
 ![John Adams](https://image.tmdb.org/t/p/original/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg)
 
@@ -2667,7 +2667,7 @@ Travel back in time with this seven-part miniseries that brings John Adams' rema
 <hr>
 
 
-## 16. [Off Script with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Off+Script+with+The+Hollywood+Reporter)
+## 16. [Off Script with The Hollywood Reporter](https://serp.ly/amazon/Off+Script+with+The+Hollywood+Reporter)
 
 ![Off Script with The Hollywood Reporter](https://image.tmdb.org/t/p/original/iM11nrgp0kcl3k68JZjV796T1T6.jpg)
 
@@ -2708,7 +2708,7 @@ The Hollywood Reporter's iconic Roundtables take their wit and wisdom from page 
 <hr>
 
 
-## 17. [Garrow's Law](https://serp.ly/@serpmedia/github/amazon/Garrow%27s+Law)
+## 17. [Garrow's Law](https://serp.ly/amazon/Garrow%27s+Law)
 
 ![Garrow's Law](https://image.tmdb.org/t/p/original/sIIt2wPo5sGiJyCq5zXGFkj9Jel.jpg)
 
@@ -2750,7 +2750,7 @@ The Hollywood Reporter's iconic Roundtables take their wit and wisdom from page 
 <hr>
 
 
-## 18. [School of Roars](https://serp.ly/@serpmedia/github/amazon/School+of+Roars)
+## 18. [School of Roars](https://serp.ly/amazon/School+of+Roars)
 
 ![School of Roars](https://image.tmdb.org/t/p/original/dqd5Du8kNprU6MI2j7JmmGRqPvB.jpg)
 
@@ -2794,7 +2794,7 @@ Join mini-monsters Wufflebump, Meepa, Icklewoo, Wingston, and Yummble for 104 ep
 <hr>
 
 
-## 19. [Dates](https://serp.ly/@serpmedia/github/amazon/Dates)
+## 19. [Dates](https://serp.ly/amazon/Dates)
 
 ![Dates](https://image.tmdb.org/t/p/original/cc4hP9Mr8C9TLcVRw8QNcxj0GkV.jpg)
 
@@ -2836,7 +2836,7 @@ Channel 4's "Dates" landed in living rooms across the UK from June 2013 to Augus
 <hr>
 
 
-## 20. [The Late Late Show](https://serp.ly/@serpmedia/github/amazon/The+Late+Late+Show)
+## 20. [The Late Late Show](https://serp.ly/amazon/The+Late+Late+Show)
 
 ![The Late Late Show](https://image.tmdb.org/t/p/original/l40HJQAzbAmjpIin1iEGO7fLjPS.jpg)
 
@@ -2882,7 +2882,7 @@ Chat shows have been a staple of television since the medium's inception, but fe
 <hr>
 
 
-## 21. [The Pursuit of Love](https://serp.ly/@serpmedia/github/amazon/The+Pursuit+of+Love)
+## 21. [The Pursuit of Love](https://serp.ly/amazon/The+Pursuit+of+Love)
 
 ![The Pursuit of Love](https://image.tmdb.org/t/p/original/4jFyvf5TYHp91hYee22chl4i4w.jpg)
 
@@ -2924,7 +2924,7 @@ Chat shows have been a staple of television since the medium's inception, but fe
 <hr>
 
 
-## 22. [Simon Schama's Shakespeare](https://serp.ly/@serpmedia/github/amazon/Simon+Schama%27s+Shakespeare)
+## 22. [Simon Schama's Shakespeare](https://serp.ly/amazon/Simon+Schama%27s+Shakespeare)
 
 ![Simon Schama's Shakespeare](https://image.tmdb.org/t/p/original/2U1Vv6FW4KfSsoQpJPMXHlIT3AG.jpg)
 
@@ -2963,7 +2963,7 @@ Chat shows have been a staple of television since the medium's inception, but fe
 <hr>
 
 
-## 23. [My Life in Film](https://serp.ly/@serpmedia/github/amazon/My+Life+in+Film)
+## 23. [My Life in Film](https://serp.ly/amazon/My+Life+in+Film)
 
 ![My Life in Film](https://image.tmdb.org/t/p/original/yYZL29Y2eTSFrCyxbpnrH1v3vSn.jpg)
 
@@ -3005,7 +3005,7 @@ When a passionate filmmaker's grand ideas are met with indifference, he turns ev
 <hr>
 
 
-## 24. [The Town](https://serp.ly/@serpmedia/github/amazon/The+Town)
+## 24. [The Town](https://serp.ly/amazon/The+Town)
 
 ![The Town](https://image.tmdb.org/t/p/original/hk3C2NOosTOOzWkocksSWRjubxl.jpg)
 
@@ -3047,7 +3047,7 @@ When Mark Nicholas returns to his hometown after a decade away, he faces challen
 <hr>
 
 
-## 25. [Blackout](https://serp.ly/@serpmedia/github/amazon/Blackout)
+## 25. [Blackout](https://serp.ly/amazon/Blackout)
 
 ![Blackout](https://image.tmdb.org/t/p/original/qZgVzKf2JPocAZQY2tV95OeABSA.jpg)
 
@@ -3089,7 +3089,7 @@ In this British miniseries, Daniel Demoys transforms from an idealistic young ma
 <hr>
 
 
-## 26. [Secret Safari: Into the Wild](https://serp.ly/@serpmedia/github/amazon/Secret+Safari%3A+Into+the+Wild)
+## 26. [Secret Safari: Into the Wild](https://serp.ly/amazon/Secret+Safari%3A+Into+the+Wild)
 
 ![Secret Safari: Into the Wild](https://image.tmdb.org/t/p/original/qhCPeoPzBHXs9JzoDJKT3Q1cx7E.jpg)
 
@@ -3128,7 +3128,7 @@ Join a thrilling exploration of Kenya's iconic Ol Pejeta conservancy, where rare
 <hr>
 
 
-## 27. [Earth's Seasonal Secrets](https://serp.ly/@serpmedia/github/amazon/Earth%27s+Seasonal+Secrets)
+## 27. [Earth's Seasonal Secrets](https://serp.ly/amazon/Earth%27s+Seasonal+Secrets)
 
 ![Earth's Seasonal Secrets](https://image.tmdb.org/t/p/original/67rZRQoTdU75a95ceNpaec2a7jR.jpg)
 

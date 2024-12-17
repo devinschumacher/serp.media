@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Final Destination](https://serp.ly/@serpmedia/github/amazon/The+Final+Destination)
+## 1. [The Final Destination](https://serp.ly/amazon/The+Final+Destination)
 
 ![The Final Destination](https://image.tmdb.org/t/p/original/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg)
 
@@ -80,7 +80,7 @@ When a young man's unsettling premonition of a deadly race-car crash comes true,
 <hr>
 
 
-## 2. [American Murderer](https://serp.ly/@serpmedia/github/amazon/American+Murderer)
+## 2. [American Murderer](https://serp.ly/amazon/American+Murderer)
 
 ![American Murderer](https://image.tmdb.org/t/p/original/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg)
 
@@ -116,7 +116,7 @@ Based on the incredible true crime story.
 <hr>
 
 
-## 3. [A Golden Christmas 3](https://serp.ly/@serpmedia/github/amazon/A+Golden+Christmas+3)
+## 3. [A Golden Christmas 3](https://serp.ly/amazon/A+Golden+Christmas+3)
 
 ![A Golden Christmas 3](https://image.tmdb.org/t/p/original/q6VCRCPYpOvoLh4noG5OWbCrNts.jpg)
 
@@ -152,7 +152,7 @@ When charming free-spirited Heather runs a theater production of 'A Christmas Ca
 <hr>
 
 
-## 4. [Love Blossoms](https://serp.ly/@serpmedia/github/amazon/Love+Blossoms)
+## 4. [Love Blossoms](https://serp.ly/amazon/Love+Blossoms)
 
 ![Love Blossoms](https://image.tmdb.org/t/p/original/wlpBFrmPsMsh6upoGg2Zuqog07a.jpg)
 
@@ -186,7 +186,7 @@ When Violet's father passes away, she inherits the family's Belgian perfume comp
 <hr>
 
 
-## 5. [Remembrance](https://serp.ly/@serpmedia/github/amazon/Remembrance)
+## 5. [Remembrance](https://serp.ly/amazon/Remembrance)
 
 ![Remembrance](https://image.tmdb.org/t/p/original/bLPZxlv5rtejd6j6uT0w5eOtdzt.jpg)
 
@@ -220,7 +220,7 @@ When Violet's father passes away, she inherits the family's Belgian perfume comp
 <hr>
 
 
-## 6. [You and I](https://serp.ly/@serpmedia/github/amazon/You+and+I)
+## 6. [You and I](https://serp.ly/amazon/You+and+I)
 
 ![You and I](https://image.tmdb.org/t/p/original/sxBziq7H5aKlwvLg0lJFXrfLzyM.jpg)
 
@@ -258,7 +258,7 @@ When American teenager Janie Sawyer is forced to live in Moscow due to her fathe
 <hr>
 
 
-## 7. [Something Wicked](https://serp.ly/@serpmedia/github/amazon/Something+Wicked)
+## 7. [Something Wicked](https://serp.ly/amazon/Something+Wicked)
 
 ![Something Wicked](https://image.tmdb.org/t/p/original/ojVLq72BxBiiYaT9vrMheowk86P.jpg)
 
@@ -296,7 +296,7 @@ In the shadowy forests of the Pacific Northwest, a young couple's honeymoon turn
 <hr>
 
 
-## 8. [The Open Door](https://serp.ly/@serpmedia/github/amazon/The+Open+Door)
+## 8. [The Open Door](https://serp.ly/amazon/The+Open+Door)
 
 ![The Open Door](https://image.tmdb.org/t/p/original/pAkALsKoAJThsZYIyZEOjLjK3V0.jpg)
 
@@ -332,7 +332,7 @@ The Open Door combines an innovative pirate radio concept with compelling perfor
 <hr>
 
 
-## 9. [In My Pocket](https://serp.ly/@serpmedia/github/amazon/In+My+Pocket)
+## 9. [In My Pocket](https://serp.ly/amazon/In+My+Pocket)
 
 <br>
 
@@ -364,7 +364,7 @@ When Stephen Jameson's life spirals out of control, he discovers that his carefu
 <hr>
 
 
-## 10. [Savage Spirit](https://serp.ly/@serpmedia/github/amazon/Savage+Spirit)
+## 10. [Savage Spirit](https://serp.ly/amazon/Savage+Spirit)
 
 ![Savage Spirit](https://image.tmdb.org/t/p/original/3FvYfpcRtnkMt3ETYFjng1vdscw.jpg)
 
@@ -405,7 +405,7 @@ In this 2006 horror novella, a young couple moves into their dream home, where a
 <hr>
 
 
-## 1. [The Boys](https://serp.ly/@serpmedia/github/amazon/The+Boys)
+## 1. [The Boys](https://serp.ly/amazon/The+Boys)
 
 ![The Boys](https://image.tmdb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg)
 
@@ -451,7 +451,7 @@ In a world where superheroes walk among us, a ragtag group of vigilantes known a
 <hr>
 
 
-## 2. [The Flash](https://serp.ly/@serpmedia/github/amazon/The+Flash)
+## 2. [The Flash](https://serp.ly/amazon/The+Flash)
 
 ![The Flash](https://image.tmdb.org/t/p/original/yZevl2vHQgmosfwUdVNzviIfaWS.jpg)
 
@@ -495,7 +495,7 @@ When CSI investigator Barry Allen wakes from a nine-month coma after a lightning
 <hr>
 
 
-## 3. [One Tree Hill](https://serp.ly/@serpmedia/github/amazon/One+Tree+Hill)
+## 3. [One Tree Hill](https://serp.ly/amazon/One+Tree+Hill)
 
 ![One Tree Hill](https://image.tmdb.org/t/p/original/sOrelBaAhp7DZbPTivDwKEyPslC.jpg)
 
@@ -539,7 +539,7 @@ In Tree Hill, North Carolina, two half brothers share a last name but nothing el
 <hr>
 
 
-## 4. [FBI](https://serp.ly/@serpmedia/github/amazon/FBI)
+## 4. [FBI](https://serp.ly/amazon/FBI)
 
 ![FBI](https://image.tmdb.org/t/p/original/tBDxVLHCsiA3fp9D2eWrq8QImEC.jpg)
 
@@ -583,7 +583,7 @@ The FBI's New York office combines cutting-edge technology with old-fashioned de
 <hr>
 
 
-## 5. [Scorpion](https://serp.ly/@serpmedia/github/amazon/Scorpion)
+## 5. [Scorpion](https://serp.ly/amazon/Scorpion)
 
 ![Scorpion](https://image.tmdb.org/t/p/original/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg)
 
@@ -627,7 +627,7 @@ When the government faces threats that require more than just military might, th
 <hr>
 
 
-## 6. [Timeless](https://serp.ly/@serpmedia/github/amazon/Timeless)
+## 6. [Timeless](https://serp.ly/amazon/Timeless)
 
 ![Timeless](https://image.tmdb.org/t/p/original/wFaS9kROwztTWNxIKBbOLwIgApV.jpg)
 
@@ -671,7 +671,7 @@ When a secret time machine falls into the wrong hands, a diverse team of experts
 <hr>
 
 
-## 7. [FBI: Most Wanted](https://serp.ly/@serpmedia/github/amazon/FBI%3A+Most+Wanted)
+## 7. [FBI: Most Wanted](https://serp.ly/amazon/FBI%3A+Most+Wanted)
 
 ![FBI: Most Wanted](https://image.tmdb.org/t/p/original/yZeV8gIPo27rL965Htb7LQJrFJU.jpg)
 
@@ -717,7 +717,7 @@ The Fugitive Task Force operates as a mobile undercover unit, tracking the notor
 <hr>
 
 
-## 8. [For All Mankind](https://serp.ly/@serpmedia/github/amazon/For+All+Mankind)
+## 8. [For All Mankind](https://serp.ly/amazon/For+All+Mankind)
 
 ![For All Mankind](https://image.tmdb.org/t/p/original/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg)
 
@@ -763,7 +763,7 @@ In this four-season series, NASA remains a priority as we follow astronauts, eng
 <hr>
 
 
-## 9. [INVINCIBLE](https://serp.ly/@serpmedia/github/amazon/INVINCIBLE)
+## 9. [INVINCIBLE](https://serp.ly/amazon/INVINCIBLE)
 
 ![INVINCIBLE](https://image.tmdb.org/t/p/original/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg)
 
@@ -809,7 +809,7 @@ When a normal teenager discovers he's the son of Earth's most powerful superhero
 <hr>
 
 
-## 10. [CSI: NY](https://serp.ly/@serpmedia/github/amazon/CSI%3A+NY)
+## 10. [CSI: NY](https://serp.ly/amazon/CSI%3A+NY)
 
 ![CSI: NY](https://image.tmdb.org/t/p/original/xqiTpKqKhBwcBWh9jUm7anyatzD.jpg)
 
@@ -855,7 +855,7 @@ When a crime hits New York City, the detectives at the scene have backup from an
 <hr>
 
 
-## 11. [FBI: International](https://serp.ly/@serpmedia/github/amazon/FBI%3A+International)
+## 11. [FBI: International](https://serp.ly/amazon/FBI%3A+International)
 
 ![FBI: International](https://image.tmdb.org/t/p/original/smHB9FDqxdJePYwE2aUyIkrNdcA.jpg)
 
@@ -899,7 +899,7 @@ When American citizens need protection abroad, a specialized team of FBI agents 
 <hr>
 
 
-## 12. [Carpool Karaoke: The Series](https://serp.ly/@serpmedia/github/amazon/Carpool+Karaoke%3A+The+Series)
+## 12. [Carpool Karaoke: The Series](https://serp.ly/amazon/Carpool+Karaoke%3A+The+Series)
 
 ![Carpool Karaoke: The Series](https://image.tmdb.org/t/p/original/bA6tpDMoyQO8fRmXC8sHh7LQoqW.jpg)
 
@@ -945,7 +945,7 @@ When celebrities hit the road, their personal playlists turn ordinary commutes i
 <hr>
 
 
-## 13. [Shooter](https://serp.ly/@serpmedia/github/amazon/Shooter)
+## 13. [Shooter](https://serp.ly/amazon/Shooter)
 
 ![Shooter](https://image.tmdb.org/t/p/original/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg)
 
@@ -987,7 +987,7 @@ When expert marksman Bob Lee Swagger learns of a plot to kill the president, he'
 <hr>
 
 
-## 14. [Rush Hour](https://serp.ly/@serpmedia/github/amazon/Rush+Hour)
+## 14. [Rush Hour](https://serp.ly/amazon/Rush+Hour)
 
 ![Rush Hour](https://image.tmdb.org/t/p/original/7vDMkZnP3pHruaqwiVfGi29lJOe.jpg)
 
@@ -1029,7 +1029,7 @@ When a radical LAPD detective runs afoul of the system, he's paired with a by-th
 <hr>
 
 
-## 15. [Gang Related](https://serp.ly/@serpmedia/github/amazon/Gang+Related)
+## 15. [Gang Related](https://serp.ly/amazon/Gang+Related)
 
 ![Gang Related](https://image.tmdb.org/t/p/original/pQSAiKxKaA79UoraSUh1UyaGTrE.jpg)
 
@@ -1071,7 +1071,7 @@ Detective Ryan Lopez rises through the ranks of Los Angeles' elite Gang Task For
 <hr>
 
 
-## 16. [The Messengers](https://serp.ly/@serpmedia/github/amazon/The+Messengers)
+## 16. [The Messengers](https://serp.ly/amazon/The+Messengers)
 
 ![The Messengers](https://image.tmdb.org/t/p/original/8kLGrSeupZQh4XFU95DcHiWC7sL.jpg)
 
@@ -1115,7 +1115,7 @@ When a mysterious object crashes to Earth, a group of unconnected strangers dies
 <hr>
 
 
-## 17. [Sports Illustrated Swimsuit Model Search](https://serp.ly/@serpmedia/github/amazon/Sports+Illustrated+Swimsuit+Model+Search)
+## 17. [Sports Illustrated Swimsuit Model Search](https://serp.ly/amazon/Sports+Illustrated+Swimsuit+Model+Search)
 
 ![Sports Illustrated Swimsuit Model Search](https://image.tmdb.org/t/p/original/3Zq9cb9IzWWVRE4pVyJHiK8C3iz.jpg)
 

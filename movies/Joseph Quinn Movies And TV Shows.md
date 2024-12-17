@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Overlord](https://serp.ly/@serpmedia/github/amazon/Overlord)
+## 1. [Overlord](https://serp.ly/amazon/Overlord)
 
 ![Overlord](https://image.tmdb.org/t/p/original/l76Rgp32z2UxjULApxGXAPpYdAP.jpg)
 
@@ -80,7 +80,7 @@ In a small French village near the Normandy beaches, a group of American paratro
 <hr>
 
 
-## 2. [A Quiet Place: Day One](https://serp.ly/@serpmedia/github/amazon/A+Quiet+Place%3A%C2%A0Day+One)
+## 2. [A Quiet Place: Day One](https://serp.ly/amazon/A+Quiet+Place%3A%C2%A0Day+One)
 
 ![A Quiet Place: Day One](https://image.tmdb.org/t/p/original/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg)
 
@@ -117,7 +117,7 @@ In the thrilling "A Quiet Place: Day One", Sam struggles to survive as New York 
 <hr>
 
 
-## 3. [Make Up](https://serp.ly/@serpmedia/github/amazon/Make+Up)
+## 3. [Make Up](https://serp.ly/amazon/Make+Up)
 
 ![Make Up](https://image.tmdb.org/t/p/original/t9hOwlERpcTkMhXFBJiVq39V0hn.jpg)
 
@@ -156,7 +156,7 @@ Ruth's move to a remote holiday park with her boyfriend turns everyday life into
 <hr>
 
 
-## 4. [Hoard](https://serp.ly/@serpmedia/github/amazon/Hoard)
+## 4. [Hoard](https://serp.ly/amazon/Hoard)
 
 ![Hoard](https://image.tmdb.org/t/p/original/81VQOyGSnyMxE2SWf0bgnHAAKeT.jpg)
 
@@ -190,7 +190,7 @@ Maria, a teenager living in a 1990s foster home, reconnects with her childhood m
 <hr>
 
 
-## 5. [National Theatre Live: Mosquitoes](https://serp.ly/@serpmedia/github/amazon/National+Theatre+Live%3A+Mosquitoes)
+## 5. [National Theatre Live: Mosquitoes](https://serp.ly/amazon/National+Theatre+Live%3A+Mosquitoes)
 
 ![National Theatre Live: Mosquitoes](https://image.tmdb.org/t/p/original/1ofmgZgI26sOdRdCXUWBGXl9ii8.jpg)
 
@@ -221,7 +221,7 @@ When tragedy strikes in 2008, two sisters are thrown together amidst the groundb
 <hr>
 
 
-## 6. [KIN](https://serp.ly/@serpmedia/github/amazon/KIN)
+## 6. [KIN](https://serp.ly/amazon/KIN)
 
 ![KIN](https://image.tmdb.org/t/p/original/zoQnciBoQYVPfCiCujH2j97NHbG.jpg)
 
@@ -252,7 +252,7 @@ When Jamie, a 20-year-old orphan, tries to bring his 13-year-old brother Harry h
 <hr>
 
 
-## 7. [Postcode](https://serp.ly/@serpmedia/github/amazon/Postcode)
+## 7. [Postcode](https://serp.ly/amazon/Postcode)
 
 ![Postcode](https://image.tmdb.org/t/p/original/vgrVumkaxFhDD74un3Lea5vQGTG.jpg)
 
@@ -285,7 +285,7 @@ In this 15-minute British drama, Clive's world of street loyalties and debts tak
 <hr>
 
 
-## 8. [Gladiator II](https://serp.ly/@serpmedia/github/amazon/Gladiator+II)
+## 8. [Gladiator II](https://serp.ly/amazon/Gladiator+II)
 
 ![Gladiator II](https://image.tmdb.org/t/p/original/f54mzACTFdiAxnQ30BK4GjrKzyn.jpg)
 
@@ -314,7 +314,7 @@ Returning to Rome in "Gladiator II", Lucius discovers his home under the tyranni
 <hr>
 
 
-## 9. [The Fantastic Four](https://serp.ly/@serpmedia/github/amazon/The+Fantastic+Four)
+## 9. [The Fantastic Four](https://serp.ly/amazon/The+Fantastic+Four)
 
 ![The Fantastic Four](https://image.tmdb.org/t/p/original/sMKUqSj3qrq86cOdP23pSqpUIC3.jpg)
 
@@ -339,7 +339,7 @@ Join the Marvel Cinematic Universe as four ordinary people are transformed into 
 <hr>
 
 
-## 10. [Warfare](https://serp.ly/@serpmedia/github/amazon/Warfare)
+## 10. [Warfare](https://serp.ly/amazon/Warfare)
 
 ![Warfare](https://image.tmdb.org/t/p/original/a2Aj4KrAEKsDAJ2H7SyLMtmGjwc.jpg)
 
@@ -364,7 +364,7 @@ Join the Marvel Cinematic Universe as four ordinary people are transformed into 
 <hr>
 
 
-## 11. [Relapse](https://serp.ly/@serpmedia/github/amazon/Relapse)
+## 11. [Relapse](https://serp.ly/amazon/Relapse)
 
 ![Relapse](https://image.tmdb.org/t/p/original/qLtcujBmgSS6Gg8Jcu1JBlN2xWi.jpg)
 
@@ -387,7 +387,7 @@ Matt Cullen checks into rehab after a horrific party incident, only to face new 
 <hr>
 
 
-## 12. [The Hoist](https://serp.ly/@serpmedia/github/amazon/The+Hoist)
+## 12. [The Hoist](https://serp.ly/amazon/The+Hoist)
 
 ![The Hoist](https://image.tmdb.org/t/p/original/r8oPWyrByODfOc8Iv5PaMUyWpQ0.jpg)
 
@@ -418,7 +418,7 @@ In this 2018 British drama, two friends navigate the risky world of small-time c
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -464,7 +464,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [Game of Thrones](https://serp.ly/@serpmedia/github/amazon/Game+of+Thrones)
+## 2. [Game of Thrones](https://serp.ly/amazon/Game+of+Thrones)
 
 ![Game of Thrones](https://image.tmdb.org/t/p/original/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg)
 
@@ -508,7 +508,7 @@ In a land where magic and assassination are part of everyday life, seven noble f
 <hr>
 
 
-## 3. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 3. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -552,7 +552,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 4. [Stranger Things](https://serp.ly/@serpmedia/github/amazon/Stranger+Things)
+## 4. [Stranger Things](https://serp.ly/amazon/Stranger+Things)
 
 ![Stranger Things](https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg)
 
@@ -598,7 +598,7 @@ When a young boy disappears, a small town uncovers a mystery that goes beyond or
 <hr>
 
 
-## 5. [Strike](https://serp.ly/@serpmedia/github/amazon/Strike)
+## 5. [Strike](https://serp.ly/amazon/Strike)
 
 ![Strike](https://image.tmdb.org/t/p/original/oPTJfwuMLz6Lr3suGK4584MAJAC.jpg)
 
@@ -642,7 +642,7 @@ In this gritty London detective series, a military policeman-turned-private inve
 <hr>
 
 
-## 6. [Catherine the Great](https://serp.ly/@serpmedia/github/amazon/Catherine+the+Great)
+## 6. [Catherine the Great](https://serp.ly/amazon/Catherine+the+Great)
 
 ![Catherine the Great](https://image.tmdb.org/t/p/original/s50flEj06i7HmZx0lVMTHD4p6MF.jpg)
 
@@ -686,7 +686,7 @@ Take what you desire.
 <hr>
 
 
-## 7. [Les Misérables](https://serp.ly/@serpmedia/github/amazon/Les+Mis%C3%A9rables)
+## 7. [Les Misérables](https://serp.ly/amazon/Les+Mis%C3%A9rables)
 
 ![Les Misérables](https://image.tmdb.org/t/p/original/vD5gUfFYEuYXwfOVJQjLIQTGs0s.jpg)
 
@@ -728,7 +728,7 @@ France, 1815. After serving 19 years in prison, Jean Valjean is released and beg
 <hr>
 
 
-## 8. [Small Axe](https://serp.ly/@serpmedia/github/amazon/Small+Axe)
+## 8. [Small Axe](https://serp.ly/amazon/Small+Axe)
 
 ![Small Axe](https://image.tmdb.org/t/p/original/hI9SLdaMK3tENQTNYnyCCsIx0Wi.jpg)
 
@@ -772,7 +772,7 @@ Small Axe presents five interconnected stories set within London's West Indian c
 <hr>
 
 
-## 9. [Howards End](https://serp.ly/@serpmedia/github/amazon/Howards+End)
+## 9. [Howards End](https://serp.ly/amazon/Howards+End)
 
 ![Howards End](https://image.tmdb.org/t/p/original/ixhPFHnwuYZT0D9UPcE9tyZ8uNU.jpg)
 
@@ -814,7 +814,7 @@ Small Axe presents five interconnected stories set within London's West Indian c
 <hr>
 
 
-## 10. [Timewasters](https://serp.ly/@serpmedia/github/amazon/Timewasters)
+## 10. [Timewasters](https://serp.ly/amazon/Timewasters)
 
 ![Timewasters](https://image.tmdb.org/t/p/original/zbIpdsflN7fc4O8NoEIOxQ6XYcY.jpg)
 
@@ -860,7 +860,7 @@ When a struggling South London jazz band stumbles into a dilapidated block of fl
 <hr>
 
 
-## 11. [Dickensian](https://serp.ly/@serpmedia/github/amazon/Dickensian)
+## 11. [Dickensian](https://serp.ly/amazon/Dickensian)
 
 ![Dickensian](https://image.tmdb.org/t/p/original/aGnQallmqBXVPiG2KDskyXB8jC4.jpg)
 

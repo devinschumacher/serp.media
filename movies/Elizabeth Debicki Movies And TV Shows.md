@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Guardians of the Galaxy Vol. 2](https://serp.ly/@serpmedia/github/amazon/Guardians+of+the+Galaxy+Vol.+2)
+## 1. [Guardians of the Galaxy Vol. 2](https://serp.ly/amazon/Guardians+of+the+Galaxy+Vol.+2)
 
 ![Guardians of the Galaxy Vol. 2](https://image.tmdb.org/t/p/original/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg)
 
@@ -80,7 +80,7 @@ Join the Guardians of the Galaxy as they blast off for their most thrilling adve
 <hr>
 
 
-## 2. [The Great Gatsby](https://serp.ly/@serpmedia/github/amazon/The+Great+Gatsby)
+## 2. [The Great Gatsby](https://serp.ly/amazon/The+Great+Gatsby)
 
 ![The Great Gatsby](https://image.tmdb.org/t/p/original/tyxfCBQv6Ap74jcu3xd7aBiaa29.jpg)
 
@@ -121,7 +121,7 @@ In 1920s New York, writer Nick Carraway moves next door to the mysterious millio
 <hr>
 
 
-## 3. [Tenet](https://serp.ly/@serpmedia/github/amazon/Tenet)
+## 3. [Tenet](https://serp.ly/amazon/Tenet)
 
 ![Tenet](https://image.tmdb.org/t/p/original/k68nPLbIST6NP96JmTxmZijEvCA.jpg)
 
@@ -164,7 +164,7 @@ Tenet unravels as a master of international espionage races against time to prev
 <hr>
 
 
-## 4. [Guardians of the Galaxy Vol. 3](https://serp.ly/@serpmedia/github/amazon/Guardians+of+the+Galaxy+Vol.+3)
+## 4. [Guardians of the Galaxy Vol. 3](https://serp.ly/amazon/Guardians+of+the+Galaxy+Vol.+3)
 
 ![Guardians of the Galaxy Vol. 3](https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg)
 
@@ -205,7 +205,7 @@ On the heels of Gamora's tragic passing, Peter Quill channels his grief into a d
 <hr>
 
 
-## 5. [Valerian and the City of a Thousand Planets](https://serp.ly/@serpmedia/github/amazon/Valerian+and+the+City+of+a+Thousand+Planets)
+## 5. [Valerian and the City of a Thousand Planets](https://serp.ly/amazon/Valerian+and+the+City+of+a+Thousand+Planets)
 
 ![Valerian and the City of a Thousand Planets](https://image.tmdb.org/t/p/original/aCDrPEfvxcPNRynd2uZyXql7aj.jpg)
 
@@ -245,7 +245,7 @@ Valerian and the City of a Thousand Planets hurtles viewers into the 28th centur
 <hr>
 
 
-## 6. [The Man from U.N.C.L.E.](https://serp.ly/@serpmedia/github/amazon/The+Man+from+U.N.C.L.E.)
+## 6. [The Man from U.N.C.L.E.](https://serp.ly/amazon/The+Man+from+U.N.C.L.E.)
 
 ![The Man from U.N.C.L.E.](https://image.tmdb.org/t/p/original/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg)
 
@@ -285,7 +285,7 @@ In the shadowy world of Cold War espionage, CIA agent Napoleon Solo forms an unl
 <hr>
 
 
-## 7. [Everest](https://serp.ly/@serpmedia/github/amazon/Everest)
+## 7. [Everest](https://serp.ly/amazon/Everest)
 
 ![Everest](https://image.tmdb.org/t/p/original/4xmndWnTYTE4bDdlWrkZyaGcZlo.jpg)
 
@@ -328,7 +328,7 @@ The storm awaits.
 <hr>
 
 
-## 8. [The Cloverfield Paradox](https://serp.ly/@serpmedia/github/amazon/The+Cloverfield+Paradox)
+## 8. [The Cloverfield Paradox](https://serp.ly/amazon/The+Cloverfield+Paradox)
 
 ![The Cloverfield Paradox](https://image.tmdb.org/t/p/original/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg)
 
@@ -366,7 +366,7 @@ When you're floating above a war-torn planet, testing gadgets for future energy,
 <hr>
 
 
-## 9. [Widows](https://serp.ly/@serpmedia/github/amazon/Widows)
+## 9. [Widows](https://serp.ly/amazon/Widows)
 
 ![Widows](https://image.tmdb.org/t/p/original/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg)
 
@@ -409,7 +409,7 @@ When four thieves die in a Chicago shootout, their widows - left with nothing bu
 <hr>
 
 
-## 10. [Peter Rabbit](https://serp.ly/@serpmedia/github/amazon/Peter+Rabbit)
+## 10. [Peter Rabbit](https://serp.ly/amazon/Peter+Rabbit)
 
 ![Peter Rabbit](https://image.tmdb.org/t/p/original/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg)
 
@@ -454,7 +454,7 @@ In this spirited tale, Peter Rabbit's playful pranks lead him into a spirited ri
 <hr>
 
 
-## 11. [Macbeth](https://serp.ly/@serpmedia/github/amazon/Macbeth)
+## 11. [Macbeth](https://serp.ly/amazon/Macbeth)
 
 ![Macbeth](https://image.tmdb.org/t/p/original/a5NEpil29Uns1wEYF8k99qVgj1T.jpg)
 
@@ -494,7 +494,7 @@ All hail Macbeth that shall be king
 <hr>
 
 
-## 12. [Peter Rabbit 2: The Runaway](https://serp.ly/@serpmedia/github/amazon/Peter+Rabbit+2%3A+The+Runaway)
+## 12. [Peter Rabbit 2: The Runaway](https://serp.ly/amazon/Peter+Rabbit+2%3A+The+Runaway)
 
 ![Peter Rabbit 2: The Runaway](https://image.tmdb.org/t/p/original/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg)
 
@@ -534,7 +534,7 @@ When Peter Rabbit learns his human family plans to portray him negatively in the
 <hr>
 
 
-## 13. [The Tale](https://serp.ly/@serpmedia/github/amazon/The+Tale)
+## 13. [The Tale](https://serp.ly/amazon/The+Tale)
 
 ![The Tale](https://image.tmdb.org/t/p/original/aguq47xq3qhN807rSyz4lJyhAkX.jpg)
 
@@ -570,7 +570,7 @@ The Tale delves into one woman's intimate journey as she's forced to re-examine 
 <hr>
 
 
-## 14. [A Few Best Men](https://serp.ly/@serpmedia/github/amazon/A+Few+Best+Men)
+## 14. [A Few Best Men](https://serp.ly/amazon/A+Few+Best+Men)
 
 ![A Few Best Men](https://image.tmdb.org/t/p/original/4GUeDoAykxWNOLe5yah7AQQa6c9.jpg)
 
@@ -610,7 +610,7 @@ When a groom and his three best men travel to the Australian outback for a weddi
 <hr>
 
 
-## 15. [Vita & Virginia](https://serp.ly/@serpmedia/github/amazon/Vita+%26+Virginia)
+## 15. [Vita & Virginia](https://serp.ly/amazon/Vita+%26+Virginia)
 
 ![Vita & Virginia](https://image.tmdb.org/t/p/original/kNsMRldqZgsinyFjwNn1UzC0iln.jpg)
 
@@ -649,7 +649,7 @@ In 1920s London, socialite Vita Sackville-West and literary icon Virginia Woolf 
 <hr>
 
 
-## 16. [The Burnt Orange Heresy](https://serp.ly/@serpmedia/github/amazon/The+Burnt+Orange+Heresy)
+## 16. [The Burnt Orange Heresy](https://serp.ly/amazon/The+Burnt+Orange+Heresy)
 
 ![The Burnt Orange Heresy](https://image.tmdb.org/t/p/original/rPO6yDif5TKSoO3lb3kFp44OR6Q.jpg)
 
@@ -685,7 +685,7 @@ When an ambitious art dealer is hired to steal a rare painting from one of histo
 <hr>
 
 
-## 17. [Breath](https://serp.ly/@serpmedia/github/amazon/Breath)
+## 17. [Breath](https://serp.ly/amazon/Breath)
 
 ![Breath](https://image.tmdb.org/t/p/original/a5VZBFNObZQiuKkzAarrQ2R91EA.jpg)
 
@@ -722,7 +722,7 @@ In a small town on Western Australia's coast, two teenagers sign up for surfing 
 <hr>
 
 
-## 18. [MaXXXine](https://serp.ly/@serpmedia/github/amazon/MaXXXine)
+## 18. [MaXXXine](https://serp.ly/amazon/MaXXXine)
 
 ![MaXXXine](https://image.tmdb.org/t/p/original/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg)
 
@@ -757,7 +757,7 @@ In 1980s Hollywood, adult film star Maxine Minx finally gets her big break. But 
 <hr>
 
 
-## 19. [Looking at the World in a New Way: The Making of 'Tenet'](https://serp.ly/@serpmedia/github/amazon/Looking+at+the+World+in+a+New+Way%3A+The+Making+of+%27Tenet%27)
+## 19. [Looking at the World in a New Way: The Making of 'Tenet'](https://serp.ly/amazon/Looking+at+the+World+in+a+New+Way%3A+The+Making+of+%27Tenet%27)
 
 ![Looking at the World in a New Way: The Making of 'Tenet'](https://image.tmdb.org/t/p/original/mwj189nph5bM0lc4fsjbEjI8V5M.jpg)
 
@@ -791,7 +791,7 @@ In 1980s Hollywood, adult film star Maxine Minx finally gets her big break. But 
 <hr>
 
 
-## 20. [Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Assembled%3A+The+Making+of+the+Guardians+of+the+Galaxy+Vol.+3)
+## 20. [Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3](https://serp.ly/amazon/Marvel+Studios+Assembled%3A+The+Making+of+the+Guardians+of+the+Galaxy+Vol.+3)
 
 ![Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3](https://image.tmdb.org/t/p/original/w9rY9CT7pI3pl6ATcAS7bXrIDc5.jpg)
 
@@ -824,7 +824,7 @@ Join visionary director James Gunn alongside superstars Chris Pratt and Zoe Sald
 <hr>
 
 
-## 21. [Flopsy Turvy](https://serp.ly/@serpmedia/github/amazon/Flopsy+Turvy)
+## 21. [Flopsy Turvy](https://serp.ly/amazon/Flopsy+Turvy)
 
 ![Flopsy Turvy](https://image.tmdb.org/t/p/original/iL7Y8xJCpezZUGA6aCLrBf8zK9R.jpg)
 
@@ -858,7 +858,7 @@ Flopsy Turvy is a heartwarming story about a young rabbit who sets out to prove 
 <hr>
 
 
-## 22. [7 from Etheria](https://serp.ly/@serpmedia/github/amazon/7+from+Etheria)
+## 22. [7 from Etheria](https://serp.ly/amazon/7+from+Etheria)
 
 ![7 from Etheria](https://image.tmdb.org/t/p/original/vE9NcdL6ChDPkFo1rYtOSNS3kq6.jpg)
 
@@ -894,7 +894,7 @@ Seven female directors present seven short films in this 2017 collection. From v
 <hr>
 
 
-## 23. [Gödel Incomplete](https://serp.ly/@serpmedia/github/amazon/G%C3%B6del+Incomplete)
+## 23. [Gödel Incomplete](https://serp.ly/amazon/G%C3%B6del+Incomplete)
 
 ![Gödel Incomplete](https://image.tmdb.org/t/p/original/qouhvejN7nWS62U25HfBQGPCJOR.jpg)
 
@@ -928,7 +928,7 @@ Seven female directors present seven short films in this 2017 collection. From v
 <hr>
 
 
-## 24. [#SHE](https://serp.ly/@serpmedia/github/amazon/%23SHE)
+## 24. [#SHE](https://serp.ly/amazon/%23SHE)
 
 ![#SHE](https://image.tmdb.org/t/p/original/ihTDUqZsmeKjoJpAMTCQs8LyWpC.jpg)
 
@@ -961,7 +961,7 @@ Take the Ride
 <hr>
 
 
-## 25. [Farnsworth House](https://serp.ly/@serpmedia/github/amazon/Farnsworth+House)
+## 25. [Farnsworth House](https://serp.ly/amazon/Farnsworth+House)
 
 <br>
 
@@ -982,7 +982,7 @@ In 1947, legendary architect Mies Van der Rohe met his match when he started wor
 <hr>
 
 
-## 26. [Andorra](https://serp.ly/@serpmedia/github/amazon/Andorra)
+## 26. [Andorra](https://serp.ly/amazon/Andorra)
 
 ![Andorra](https://image.tmdb.org/t/p/original/4HzduFabklRsLL4U4HUHW6yUQt4.jpg)
 
@@ -1005,7 +1005,7 @@ In the breathtakingly beautiful sovereign state of Andorra, an American named Al
 <hr>
 
 
-## 27. [This Blue Is Mine](https://serp.ly/@serpmedia/github/amazon/This+Blue+Is+Mine)
+## 27. [This Blue Is Mine](https://serp.ly/amazon/This+Blue+Is+Mine)
 
 <br>
 
@@ -1029,7 +1029,7 @@ After a devastating miscarriage, Connie escapes to a tropical paradise with her 
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -1073,7 +1073,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -1119,7 +1119,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -1165,7 +1165,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [The Crown](https://serp.ly/@serpmedia/github/amazon/The+Crown)
+## 4. [The Crown](https://serp.ly/amazon/The+Crown)
 
 ![The Crown](https://image.tmdb.org/t/p/original/1M876KPjulVwppEpldhdc8V4o68.jpg)
 
@@ -1209,7 +1209,7 @@ The Crown delivers an intimate window into the British monarchy and political la
 <hr>
 
 
-## 5. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 5. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -1253,7 +1253,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 6. [Marvel Studios Legends](https://serp.ly/@serpmedia/github/amazon/Marvel+Studios+Legends)
+## 6. [Marvel Studios Legends](https://serp.ly/amazon/Marvel+Studios+Legends)
 
 ![Marvel Studios Legends](https://image.tmdb.org/t/p/original/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg)
 
@@ -1299,7 +1299,7 @@ As the universe expands, explore the stories of those destined to become legends
 <hr>
 
 
-## 7. [The Night Manager](https://serp.ly/@serpmedia/github/amazon/The+Night+Manager)
+## 7. [The Night Manager](https://serp.ly/amazon/The+Night+Manager)
 
 ![The Night Manager](https://image.tmdb.org/t/p/original/hdCC5N42cXERbzIn6ED7oqTKtkq.jpg)
 
@@ -1343,7 +1343,7 @@ When former British soldier Jonathan Pine accepts a dangerous mission to infiltr
 <hr>
 
 
-## 8. [The Kettering Incident](https://serp.ly/@serpmedia/github/amazon/The+Kettering+Incident)
+## 8. [The Kettering Incident](https://serp.ly/amazon/The+Kettering+Incident)
 
 ![The Kettering Incident](https://image.tmdb.org/t/p/original/cHvjyl7y7kqXpciGfYsFCyYmjVp.jpg)
 

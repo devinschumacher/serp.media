@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Bad Santa](https://serp.ly/@serpmedia/github/amazon/Bad+Santa)
+## 1. [Bad Santa](https://serp.ly/amazon/Bad+Santa)
 
 ![Bad Santa](https://image.tmdb.org/t/p/original/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg)
 
@@ -80,7 +80,7 @@ Bad Santa follows a miserable conman who poses as the holiday icon to rob depart
 <hr>
 
 
-## 2. [Bride of Chucky](https://serp.ly/@serpmedia/github/amazon/Bride+of+Chucky)
+## 2. [Bride of Chucky](https://serp.ly/amazon/Bride+of+Chucky)
 
 ![Bride of Chucky](https://image.tmdb.org/t/p/original/mAGviFp1ufYM3EaZBSrjPiKPBt6.jpg)
 
@@ -120,7 +120,7 @@ When Chucky's old flame, Tiffany, rescues his battered doll parts from police im
 <hr>
 
 
-## 3. [Sling Blade](https://serp.ly/@serpmedia/github/amazon/Sling+Blade)
+## 3. [Sling Blade](https://serp.ly/amazon/Sling+Blade)
 
 ![Sling Blade](https://image.tmdb.org/t/p/original/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg)
 
@@ -160,7 +160,7 @@ After spending his entire adult life in a state hospital, a mentally disabled ma
 <hr>
 
 
-## 4. [Problem Child](https://serp.ly/@serpmedia/github/amazon/Problem+Child)
+## 4. [Problem Child](https://serp.ly/amazon/Problem+Child)
 
 ![Problem Child](https://image.tmdb.org/t/p/original/kgckcpAiBrI5l78MrxCw2ZakycU.jpg)
 
@@ -203,7 +203,7 @@ When Ben Healy and his wife Flo adopt a fun-loving seven-year-old named Junior, 
 <hr>
 
 
-## 5. [Problem Child 2](https://serp.ly/@serpmedia/github/amazon/Problem+Child+2)
+## 5. [Problem Child 2](https://serp.ly/amazon/Problem+Child+2)
 
 ![Problem Child 2](https://image.tmdb.org/t/p/original/npr7j2HuRgvsKrXLIxIiXevTH8A.jpg)
 
@@ -243,7 +243,7 @@ When Junior and his father, Ben, move from Cold River to Mortville, Junior's wor
 <hr>
 
 
-## 6. [Noises Off...](https://serp.ly/@serpmedia/github/amazon/Noises+Off...)
+## 6. [Noises Off...](https://serp.ly/amazon/Noises+Off...)
 
 ![Noises Off...](https://image.tmdb.org/t/p/original/aFWMbR5Qb7AxlPktsPslaHrT6rh.jpg)
 
@@ -283,7 +283,7 @@ When director Lloyd Fellowes takes on an Americanized version of a British play,
 <hr>
 
 
-## 7. [North](https://serp.ly/@serpmedia/github/amazon/North)
+## 7. [North](https://serp.ly/amazon/North)
 
 ![North](https://image.tmdb.org/t/p/original/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg)
 
@@ -321,7 +321,7 @@ When 11-year-old North files a lawsuit against his parents, it kicks off one wil
 <hr>
 
 
-## 8. [Never Sleep Again: The Elm Street Legacy](https://serp.ly/@serpmedia/github/amazon/Never+Sleep+Again%3A+The+Elm+Street+Legacy)
+## 8. [Never Sleep Again: The Elm Street Legacy](https://serp.ly/amazon/Never+Sleep+Again%3A+The+Elm+Street+Legacy)
 
 ![Never Sleep Again: The Elm Street Legacy](https://image.tmdb.org/t/p/original/wjo0erw7vqzI3gGfbapCkZjxehV.jpg)
 
@@ -357,7 +357,7 @@ The Ultimate Nightmare Documentary
 <hr>
 
 
-## 9. [Nowhere](https://serp.ly/@serpmedia/github/amazon/Nowhere)
+## 9. [Nowhere](https://serp.ly/amazon/Nowhere)
 
 ![Nowhere](https://image.tmdb.org/t/p/original/c1TZKfzvATep5x5DthqWjjWtU2l.jpg)
 
@@ -398,7 +398,7 @@ Los Angeles becomes the backdrop for an unconventional tale as four unique indiv
 <hr>
 
 
-## 10. [Stay Tuned](https://serp.ly/@serpmedia/github/amazon/Stay+Tuned)
+## 10. [Stay Tuned](https://serp.ly/amazon/Stay+Tuned)
 
 ![Stay Tuned](https://image.tmdb.org/t/p/original/yd2MN9zA30eGjf89DaaNoUXbRNp.jpg)
 
@@ -443,7 +443,7 @@ When TV enthusiast Roy Knable installs a mysterious satellite dish offering 666 
 <hr>
 
 
-## 11. [The Other](https://serp.ly/@serpmedia/github/amazon/The+Other)
+## 11. [The Other](https://serp.ly/amazon/The+Other)
 
 ![The Other](https://image.tmdb.org/t/p/original/4SQCPnf5QKviigy6Q2sxAiSWhar.jpg)
 
@@ -479,7 +479,7 @@ In the summer of 1935, a devastating series of accidents rocks a small American 
 <hr>
 
 
-## 12. [Panic](https://serp.ly/@serpmedia/github/amazon/Panic)
+## 12. [Panic](https://serp.ly/amazon/Panic)
 
 ![Panic](https://image.tmdb.org/t/p/original/gCaWBW6qQ0otWliRi0Gs4bAzgDX.jpg)
 
@@ -522,7 +522,7 @@ Alex is in the midst of a brutal midlife crisis that's affecting every aspect of
 <hr>
 
 
-## 13. [The Flight of Dragons](https://serp.ly/@serpmedia/github/amazon/The+Flight+of+Dragons)
+## 13. [The Flight of Dragons](https://serp.ly/amazon/The+Flight+of+Dragons)
 
 ![The Flight of Dragons](https://image.tmdb.org/t/p/original/oRrovK6ZcyFtNPEBVvEvG2pn4tk.jpg)
 
@@ -558,7 +558,7 @@ In a world where magic meets science, Carolinus the green wizard enlists Peter D
 <hr>
 
 
-## 14. [Tadpole](https://serp.ly/@serpmedia/github/amazon/Tadpole)
+## 14. [Tadpole](https://serp.ly/amazon/Tadpole)
 
 ![Tadpole](https://image.tmdb.org/t/p/original/wGwYycW8hI1GxG9HyQSfThetaPO.jpg)
 
@@ -601,7 +601,7 @@ Oscar Grubman is a sensitive young soul who finds himself irresistibly drawn to 
 <hr>
 
 
-## 15. [Skin Deep](https://serp.ly/@serpmedia/github/amazon/Skin+Deep)
+## 15. [Skin Deep](https://serp.ly/amazon/Skin+Deep)
 
 ![Skin Deep](https://image.tmdb.org/t/p/original/mNFq1Bk9oXD774hVyvdPlNCtwPt.jpg)
 
@@ -641,7 +641,7 @@ When novelist Zach Hutton's personal life implodes, he crashes into a dark spira
 <hr>
 
 
-## 16. [The Stone Killer](https://serp.ly/@serpmedia/github/amazon/The+Stone+Killer)
+## 16. [The Stone Killer](https://serp.ly/amazon/The+Stone+Killer)
 
 ![The Stone Killer](https://image.tmdb.org/t/p/original/4q5gLjMEfV0JV10KK59Lfp2kuX.jpg)
 
@@ -677,7 +677,7 @@ When a Los Angeles detective is sent to New York to solve a case, he stumbles in
 <hr>
 
 
-## 17. [Real Men](https://serp.ly/@serpmedia/github/amazon/Real+Men)
+## 17. [Real Men](https://serp.ly/amazon/Real+Men)
 
 ![Real Men](https://image.tmdb.org/t/p/original/48RNciPt5K9myWDPcfNhLWUYLgf.jpg)
 
@@ -715,7 +715,7 @@ When a womanizing CIA agent runs a background check on his latest conquest, he s
 <hr>
 
 
-## 18. [The Prisoner of Second Avenue](https://serp.ly/@serpmedia/github/amazon/The+Prisoner+of+Second+Avenue)
+## 18. [The Prisoner of Second Avenue](https://serp.ly/amazon/The+Prisoner+of+Second+Avenue)
 
 ![The Prisoner of Second Avenue](https://image.tmdb.org/t/p/original/5UjoKjMQt7oE5PcKanfLLFwvAUL.jpg)
 
@@ -751,7 +751,7 @@ Mel Edison has just lost his job after many years and now has to cope with being
 <hr>
 
 
-## 19. [Terror Tract](https://serp.ly/@serpmedia/github/amazon/Terror+Tract)
+## 19. [Terror Tract](https://serp.ly/amazon/Terror+Tract)
 
 ![Terror Tract](https://image.tmdb.org/t/p/original/L3EUS8zLQ7tLiB7KtXN1le0WQc.jpg)
 
@@ -787,7 +787,7 @@ Horror has a new home.
 <hr>
 
 
-## 20. [Hero at Large](https://serp.ly/@serpmedia/github/amazon/Hero+at+Large)
+## 20. [Hero at Large](https://serp.ly/amazon/Hero+at+Large)
 
 ![Hero at Large](https://image.tmdb.org/t/p/original/s5y93WClZAZfYXNRB9uuw4VWIzY.jpg)
 
@@ -827,7 +827,7 @@ When an aspiring actor stumbles into the spotlight wearing Captain Avenger's cos
 <hr>
 
 
-## 21. [They All Laughed](https://serp.ly/@serpmedia/github/amazon/They+All+Laughed)
+## 21. [They All Laughed](https://serp.ly/amazon/They+All+Laughed)
 
 ![They All Laughed](https://image.tmdb.org/t/p/original/cyHc92xZ4i6rjRTwOzxvAEwJ218.jpg)
 
@@ -866,7 +866,7 @@ When the Odyssey Detective Agency takes on two separate cases involving women su
 <hr>
 
 
-## 22. [Nickelodeon](https://serp.ly/@serpmedia/github/amazon/Nickelodeon)
+## 22. [Nickelodeon](https://serp.ly/amazon/Nickelodeon)
 
 ![Nickelodeon](https://image.tmdb.org/t/p/original/fBEfJdUAyTdyPcXwo41Pp3w5PDb.jpg)
 
@@ -907,7 +907,7 @@ In the 1976 Western drama "Nickelodeon", an attorney and a gunslinger are hired 
 <hr>
 
 
-## 23. [Clifford's Really Big Movie](https://serp.ly/@serpmedia/github/amazon/Clifford%27s+Really+Big+Movie)
+## 23. [Clifford's Really Big Movie](https://serp.ly/amazon/Clifford%27s+Really+Big+Movie)
 
 ![Clifford's Really Big Movie](https://image.tmdb.org/t/p/original/cpaynGAqDjr0N5I92JEEqW0dpTl.jpg)
 
@@ -950,7 +950,7 @@ Join Clifford the Big Red Dog on an exciting adventure as he trades his familiar
 <hr>
 
 
-## 24. [The Barefoot Executive](https://serp.ly/@serpmedia/github/amazon/The+Barefoot+Executive)
+## 24. [The Barefoot Executive](https://serp.ly/amazon/The+Barefoot+Executive)
 
 ![The Barefoot Executive](https://image.tmdb.org/t/p/original/7Lkgqyr7Z209dgnHQcKPcp74uUn.jpg)
 
@@ -989,7 +989,7 @@ When a young Kurt Russell turns a mailroom job at a second-rate TV network into 
 <hr>
 
 
-## 25. [Wholly Moses](https://serp.ly/@serpmedia/github/amazon/Wholly+Moses)
+## 25. [Wholly Moses](https://serp.ly/amazon/Wholly+Moses)
 
 ![Wholly Moses](https://image.tmdb.org/t/p/original/2k9h9F9gf3YJAJojl2TzevTZaaa.jpg)
 
@@ -1027,7 +1027,7 @@ In Israel, two tourists uncover an ancient scroll revealing the tale of Herschel
 <hr>
 
 
-## 26. [Shadow of Doubt](https://serp.ly/@serpmedia/github/amazon/Shadow+of+Doubt)
+## 26. [Shadow of Doubt](https://serp.ly/amazon/Shadow+of+Doubt)
 
 ![Shadow of Doubt](https://image.tmdb.org/t/p/original/sz9bB5aPNTgJJb7A15Bc3eewCR3.jpg)
 
@@ -1065,7 +1065,7 @@ When a wealthy young woman is brutally murdered, an attorney unearths a politica
 <hr>
 
 
-## 27. [Montana](https://serp.ly/@serpmedia/github/amazon/Montana)
+## 27. [Montana](https://serp.ly/amazon/Montana)
 
 ![Montana](https://image.tmdb.org/t/p/original/e7QS7mfMvIbjXpq2r57OKONTdA.jpg)
 
@@ -1101,7 +1101,7 @@ When a seasoned enforcer is tasked with finding the Boss's runaway mistress, Kit
 <hr>
 
 
-## 28. [Lethal Vows](https://serp.ly/@serpmedia/github/amazon/Lethal+Vows)
+## 28. [Lethal Vows](https://serp.ly/amazon/Lethal+Vows)
 
 ![Lethal Vows](https://image.tmdb.org/t/p/original/oGX1TkWehn0uPLqdZPhOAoW3073.jpg)
 
@@ -1135,7 +1135,7 @@ In this 1999 thriller, a man's meticulously constructed life changes when his ex
 <hr>
 
 
-## 29. [Mickey's 60th Birthday](https://serp.ly/@serpmedia/github/amazon/Mickey%27s+60th+Birthday)
+## 29. [Mickey's 60th Birthday](https://serp.ly/amazon/Mickey%27s+60th+Birthday)
 
 ![Mickey's 60th Birthday](https://image.tmdb.org/t/p/original/5Ya6F4xEBjWZZHsBcbft7WtKSiY.jpg)
 
@@ -1169,7 +1169,7 @@ When Mickey Mouse steals a magic hat from a sorcerer, he unleashes a spell that 
 <hr>
 
 
-## 30. [The Night That Panicked America](https://serp.ly/@serpmedia/github/amazon/The+Night+That+Panicked+America)
+## 30. [The Night That Panicked America](https://serp.ly/amazon/The+Night+That+Panicked+America)
 
 ![The Night That Panicked America](https://image.tmdb.org/t/p/original/lHu6G0jwVBY4kZpsNvf5VEfTJ3U.jpg)
 
@@ -1205,7 +1205,7 @@ On October 30, 1938, millions of Americans tuned in to Orson Welles' radio adapt
 <hr>
 
 
-## 31. [A Smoky Mountain Christmas](https://serp.ly/@serpmedia/github/amazon/A+Smoky+Mountain+Christmas)
+## 31. [A Smoky Mountain Christmas](https://serp.ly/amazon/A+Smoky+Mountain+Christmas)
 
 ![A Smoky Mountain Christmas](https://image.tmdb.org/t/p/original/aSId7LLral6TWDuLTCryAigbXbS.jpg)
 
@@ -1239,7 +1239,7 @@ In this 1986 country-western tale, a singer travels through Tennessee's mountain
 <hr>
 
 
-## 32. [Evil Roy Slade](https://serp.ly/@serpmedia/github/amazon/Evil+Roy+Slade)
+## 32. [Evil Roy Slade](https://serp.ly/amazon/Evil+Roy+Slade)
 
 ![Evil Roy Slade](https://image.tmdb.org/t/p/original/krhonyWItfMWCEqu5lqvkar29GA.jpg)
 
@@ -1273,7 +1273,7 @@ In a wild turn of events, the meanest villain in the West falls unexpectedly in 
 <hr>
 
 
-## 33. [I Woke Up Early the Day I Died](https://serp.ly/@serpmedia/github/amazon/I+Woke+Up+Early+the+Day+I+Died)
+## 33. [I Woke Up Early the Day I Died](https://serp.ly/amazon/I+Woke+Up+Early+the+Day+I+Died)
 
 ![I Woke Up Early the Day I Died](https://image.tmdb.org/t/p/original/3IYszAjnvCyUw08YgQV9FTgrSSN.jpg)
 
@@ -1307,7 +1307,7 @@ In a wild turn of events, the meanest villain in the West falls unexpectedly in 
 <hr>
 
 
-## 34. [Mercenary](https://serp.ly/@serpmedia/github/amazon/Mercenary)
+## 34. [Mercenary](https://serp.ly/amazon/Mercenary)
 
 ![Mercenary](https://image.tmdb.org/t/p/original/3FfeIuIJAeQv8P0wnncZsIQmxCA.jpg)
 
@@ -1341,7 +1341,7 @@ When Jonas Ambler's wife is brutally murdered by kidnappers, the grieving busine
 <hr>
 
 
-## 35. [The Dreamer of Oz](https://serp.ly/@serpmedia/github/amazon/The+Dreamer+of+Oz)
+## 35. [The Dreamer of Oz](https://serp.ly/amazon/The+Dreamer+of+Oz)
 
 ![The Dreamer of Oz](https://image.tmdb.org/t/p/original/3in27cpmw34wMI7ebCpaUTTYmdO.jpg)
 
@@ -1375,7 +1375,7 @@ When Jonas Ambler's wife is brutally murdered by kidnappers, the grieving busine
 <hr>
 
 
-## 36. [It Came From the Sky](https://serp.ly/@serpmedia/github/amazon/It+Came+From+the+Sky)
+## 36. [It Came From the Sky](https://serp.ly/amazon/It+Came+From+the+Sky)
 
 ![It Came From the Sky](https://image.tmdb.org/t/p/original/89nE7Cfm4Sb06IsMD2YHSOLIUZe.jpg)
 
@@ -1411,7 +1411,7 @@ When Jarvis and Pepper crash land their small plane on the Bridges family's roof
 <hr>
 
 
-## 37. [The Comeback Kid](https://serp.ly/@serpmedia/github/amazon/The+Comeback+Kid)
+## 37. [The Comeback Kid](https://serp.ly/amazon/The+Comeback+Kid)
 
 ![The Comeback Kid](https://image.tmdb.org/t/p/original/qYQ38IIjseEPpmTmUPNga9Sfroi.jpg)
 
@@ -1447,7 +1447,7 @@ When a struggling baseball pitcher coaches a group of underprivileged kids, he d
 <hr>
 
 
-## 38. [Scandalous John](https://serp.ly/@serpmedia/github/amazon/Scandalous+John)
+## 38. [Scandalous John](https://serp.ly/amazon/Scandalous+John)
 
 ![Scandalous John](https://image.tmdb.org/t/p/original/sG5h0NEpmBbzAxIPYy04ZG2q3EG.jpg)
 
@@ -1483,7 +1483,7 @@ When a grumpy old rancher refuses to follow the rules, his spirited defiance lea
 <hr>
 
 
-## 39. [Leave Yesterday Behind](https://serp.ly/@serpmedia/github/amazon/Leave+Yesterday+Behind)
+## 39. [Leave Yesterday Behind](https://serp.ly/amazon/Leave+Yesterday+Behind)
 
 ![Leave Yesterday Behind](https://image.tmdb.org/t/p/original/aENv2HTyFiRloxUu6vZykJGcZfw.jpg)
 
@@ -1517,7 +1517,7 @@ When a college polo match leaves a veterinary student paralyzed, he discovers an
 <hr>
 
 
-## 40. [The Colony](https://serp.ly/@serpmedia/github/amazon/The+Colony)
+## 40. [The Colony](https://serp.ly/amazon/The+Colony)
 
 ![The Colony](https://image.tmdb.org/t/p/original/6otx5i30afoUN6n0U3pPO2P7p11.jpg)
 
@@ -1553,7 +1553,7 @@ In "The Colony", a man relocates his family from a dangerous inner-city neighbor
 <hr>
 
 
-## 41. [The Golden Girls: Lifetime Intimate Portrait Series](https://serp.ly/@serpmedia/github/amazon/The+Golden+Girls%3A+Lifetime+Intimate+Portrait+Series)
+## 41. [The Golden Girls: Lifetime Intimate Portrait Series](https://serp.ly/amazon/The+Golden+Girls%3A+Lifetime+Intimate+Portrait+Series)
 
 ![The Golden Girls: Lifetime Intimate Portrait Series](https://image.tmdb.org/t/p/original/bQ3d65uu2hh3dgjxG4RKaGIp3FC.jpg)
 
@@ -1584,7 +1584,7 @@ In "The Colony", a man relocates his family from a dangerous inner-city neighbor
 <hr>
 
 
-## 42. [Americathon](https://serp.ly/@serpmedia/github/amazon/Americathon)
+## 42. [Americathon](https://serp.ly/amazon/Americathon)
 
 ![Americathon](https://image.tmdb.org/t/p/original/yzQGN1wPAUvHJG2u2mLt9GYGiF0.jpg)
 
@@ -1620,7 +1620,7 @@ When the President of a bankrupt USA picks a young TV consultant for an impossib
 <hr>
 
 
-## 43. [Robin Williams: Off the Wall](https://serp.ly/@serpmedia/github/amazon/Robin+Williams%3A+Off+the+Wall)
+## 43. [Robin Williams: Off the Wall](https://serp.ly/amazon/Robin+Williams%3A+Off+the+Wall)
 
 ![Robin Williams: Off the Wall](https://image.tmdb.org/t/p/original/9NUTYsUGjDyIQLkbpKpkxTGbcSC.jpg)
 
@@ -1654,7 +1654,7 @@ When the President of a bankrupt USA picks a young TV consultant for an impossib
 <hr>
 
 
-## 44. [Unforgivable](https://serp.ly/@serpmedia/github/amazon/Unforgivable)
+## 44. [Unforgivable](https://serp.ly/amazon/Unforgivable)
 
 ![Unforgivable](https://image.tmdb.org/t/p/original/3A37wZ1tYhi0JIkU2wn38cyJMkm.jpg)
 
@@ -1690,7 +1690,7 @@ When a respected family man's dark side emerges, his world changes forever. Orde
 <hr>
 
 
-## 45. [Sunset Limousine](https://serp.ly/@serpmedia/github/amazon/Sunset+Limousine)
+## 45. [Sunset Limousine](https://serp.ly/amazon/Sunset+Limousine)
 
 ![Sunset Limousine](https://image.tmdb.org/t/p/original/mg4q663fOO1vgwIvfufjHgNsONy.jpg)
 
@@ -1724,7 +1724,7 @@ When comic Alan O'Black gets a job driving a limo, it kicks off one wild ride af
 <hr>
 
 
-## 46. [Unnatural Causes](https://serp.ly/@serpmedia/github/amazon/Unnatural+Causes)
+## 46. [Unnatural Causes](https://serp.ly/amazon/Unnatural+Causes)
 
 ![Unnatural Causes](https://image.tmdb.org/t/p/original/kJSBJ81DbbkBv9W7X1xDHWTnUHn.jpg)
 
@@ -1758,7 +1758,7 @@ When Vietnam veteran Frank Coleman becomes terminally ill from Agent Orange expo
 <hr>
 
 
-## 47. [A Child's Wish](https://serp.ly/@serpmedia/github/amazon/A+Child%27s+Wish)
+## 47. [A Child's Wish](https://serp.ly/amazon/A+Child%27s+Wish)
 
 ![A Child's Wish](https://image.tmdb.org/t/p/original/2fJygoSTX3WI4149jowvI0YUyoG.jpg)
 
@@ -1794,7 +1794,7 @@ When a family discovers their youngest daughter has cancer, they think their str
 <hr>
 
 
-## 48. [The Last Fling](https://serp.ly/@serpmedia/github/amazon/The+Last+Fling)
+## 48. [The Last Fling](https://serp.ly/amazon/The+Last+Fling)
 
 ![The Last Fling](https://image.tmdb.org/t/p/original/paMoAwysezX0QmECulLPwR4pkF.jpg)
 
@@ -1830,7 +1830,7 @@ The Last Fling tells the story of a young woman who decides to have one final ro
 <hr>
 
 
-## 49. [Heartbeat](https://serp.ly/@serpmedia/github/amazon/Heartbeat)
+## 49. [Heartbeat](https://serp.ly/amazon/Heartbeat)
 
 ![Heartbeat](https://image.tmdb.org/t/p/original/kCaTsHcuBw9qXBNU6oxrfSLutaM.jpg)
 
@@ -1864,7 +1864,7 @@ When a divorced father meets a pregnant woman whose husband abandoned her, an un
 <hr>
 
 
-## 50. [A Gun, a Car, a Blonde](https://serp.ly/@serpmedia/github/amazon/A+Gun%2C+a+Car%2C+a+Blonde)
+## 50. [A Gun, a Car, a Blonde](https://serp.ly/amazon/A+Gun%2C+a+Car%2C+a+Blonde)
 
 ![A Gun, a Car, a Blonde](https://image.tmdb.org/t/p/original/xPvPwmUrIh7FvN5zKEaB4nH8P0Y.jpg)
 
@@ -1902,7 +1902,7 @@ When a striking blonde moves into the house across from him, a wheelchair-bound 
 <hr>
 
 
-## 51. [Lost in the Pershing Point Hotel](https://serp.ly/@serpmedia/github/amazon/Lost+in+the+Pershing+Point+Hotel)
+## 51. [Lost in the Pershing Point Hotel](https://serp.ly/amazon/Lost+in+the+Pershing+Point+Hotel)
 
 ![Lost in the Pershing Point Hotel](https://image.tmdb.org/t/p/original/mrXT0ckPgeMj2QN5V9d1VUSnn5y.jpg)
 
@@ -1938,7 +1938,7 @@ In 1970s Atlanta, a young gay man runs from the religious dogma that fills him w
 <hr>
 
 
-## 52. [Gramps](https://serp.ly/@serpmedia/github/amazon/Gramps)
+## 52. [Gramps](https://serp.ly/amazon/Gramps)
 
 ![Gramps](https://image.tmdb.org/t/p/original/z20YRv9TTwV18udsX7dA53ayfh.jpg)
 
@@ -1972,7 +1972,7 @@ After a successful career as a lawyer, Clarke MacGruder's personal life takes an
 <hr>
 
 
-## 53. [Ringo](https://serp.ly/@serpmedia/github/amazon/Ringo)
+## 53. [Ringo](https://serp.ly/amazon/Ringo)
 
 ![Ringo](https://image.tmdb.org/t/p/original/oFHmzyHg7ZVKZ6iu9CigGwQytym.jpg)
 
@@ -2006,7 +2006,7 @@ When Ringo, a famous musician, trades places with an ordinary guy who looks just
 <hr>
 
 
-## 54. [Nuncrackers](https://serp.ly/@serpmedia/github/amazon/Nuncrackers)
+## 54. [Nuncrackers](https://serp.ly/amazon/Nuncrackers)
 
 ![Nuncrackers](https://image.tmdb.org/t/p/original/5jlpXi8raJdBMTT6eQuwYlv538Z.jpg)
 
@@ -2040,7 +2040,7 @@ When Ringo, a famous musician, trades places with an ordinary guy who looks just
 <hr>
 
 
-## 55. [The Fantastic Miss Piggy Show](https://serp.ly/@serpmedia/github/amazon/The+Fantastic+Miss+Piggy+Show)
+## 55. [The Fantastic Miss Piggy Show](https://serp.ly/amazon/The+Fantastic+Miss+Piggy+Show)
 
 ![The Fantastic Miss Piggy Show](https://image.tmdb.org/t/p/original/cnxjOFlMjyG9fRLdhJhGQUEkltL.jpg)
 
@@ -2074,7 +2074,7 @@ When Miss Piggy takes over a Toronto studio, she transforms everyday situations 
 <hr>
 
 
-## 56. [Prison for Children](https://serp.ly/@serpmedia/github/amazon/Prison+for+Children)
+## 56. [Prison for Children](https://serp.ly/amazon/Prison+for+Children)
 
 <br>
 
@@ -2106,7 +2106,7 @@ When a compassionate teacher and the superintendent of a juvenile detention cent
 <hr>
 
 
-## 57. [Tricks of the Trade](https://serp.ly/@serpmedia/github/amazon/Tricks+of+the+Trade)
+## 57. [Tricks of the Trade](https://serp.ly/amazon/Tricks+of+the+Trade)
 
 ![Tricks of the Trade](https://image.tmdb.org/t/p/original/A76jz9ukiPAtafXIBU0Od1RJW8O.jpg)
 
@@ -2142,7 +2142,7 @@ When a perfect marriage turns deadly, a devastated wife teams up with the only p
 <hr>
 
 
-## 58. [Chance of a Lifetime](https://serp.ly/@serpmedia/github/amazon/Chance+of+a+Lifetime)
+## 58. [Chance of a Lifetime](https://serp.ly/amazon/Chance+of+a+Lifetime)
 
 ![Chance of a Lifetime](https://image.tmdb.org/t/p/original/3LJnG1EBnal8Ng2egOlcwoWdBOA.jpg)
 
@@ -2176,7 +2176,7 @@ When freelance reporter Tom Maguire hits rock bottom, sympathetic editor Irene D
 <hr>
 
 
-## 59. [Hacks](https://serp.ly/@serpmedia/github/amazon/Hacks)
+## 59. [Hacks](https://serp.ly/amazon/Hacks)
 
 ![Hacks](https://image.tmdb.org/t/p/original/2I8vUf1Sax6diWNyHAk3yRSOSmM.jpg)
 
@@ -2210,7 +2210,7 @@ When television writer-producer Brian moves into a new flat, he discovers an une
 <hr>
 
 
-## 60. [Sex, Censorship and the Silver Screen](https://serp.ly/@serpmedia/github/amazon/Sex%2C+Censorship+and+the+Silver+Screen)
+## 60. [Sex, Censorship and the Silver Screen](https://serp.ly/amazon/Sex%2C+Censorship+and+the+Silver+Screen)
 
 <br>
 
@@ -2244,7 +2244,7 @@ When television writer-producer Brian moves into a new flat, he discovers an une
 <hr>
 
 
-## 61. [Dead Husbands](https://serp.ly/@serpmedia/github/amazon/Dead+Husbands)
+## 61. [Dead Husbands](https://serp.ly/amazon/Dead+Husbands)
 
 ![Dead Husbands](https://image.tmdb.org/t/p/original/2z7BJUl5ROdyXpjzPmZw2iHMpHf.jpg)
 
@@ -2280,7 +2280,7 @@ When Dr. Carter Elson discovers his name on a mysterious list among his wife Ale
 <hr>
 
 
-## 62. [Manhood](https://serp.ly/@serpmedia/github/amazon/Manhood)
+## 62. [Manhood](https://serp.ly/amazon/Manhood)
 
 ![Manhood](https://image.tmdb.org/t/p/original/kEIKqVrBMHJo3nXEoifnYvkalPs.jpg)
 
@@ -2316,7 +2316,7 @@ When a reformed womanizer struggles to keep his family together, their perfect l
 <hr>
 
 
-## 63. [Man of Miracles](https://serp.ly/@serpmedia/github/amazon/Man+of+Miracles)
+## 63. [Man of Miracles](https://serp.ly/amazon/Man+of+Miracles)
 
 ![Man of Miracles](https://image.tmdb.org/t/p/original/6LUCkg8nqTVFRWsUoinZog75j3V.jpg)
 
@@ -2352,7 +2352,7 @@ In the quiet town of Vine Creek, preacher Joe Cass faces his biggest challenge y
 <hr>
 
 
-## 64. [Donald Duck's 50th Birthday](https://serp.ly/@serpmedia/github/amazon/Donald+Duck%27s+50th+Birthday)
+## 64. [Donald Duck's 50th Birthday](https://serp.ly/amazon/Donald+Duck%27s+50th+Birthday)
 
 ![Donald Duck's 50th Birthday](https://image.tmdb.org/t/p/original/iZGimjMQsOcGIwL10ZvONNx1zwg.jpg)
 
@@ -2386,7 +2386,7 @@ Join Donald Duck as he celebrates his 50th birthday with a special parade at Dis
 <hr>
 
 
-## 65. [Loss of Faith](https://serp.ly/@serpmedia/github/amazon/Loss+of+Faith)
+## 65. [Loss of Faith](https://serp.ly/amazon/Loss+of+Faith)
 
 <br>
 
@@ -2418,7 +2418,7 @@ When a baby goes missing, a successful crime novelist puts his skills to the ult
 <hr>
 
 
-## 66. [For Hope](https://serp.ly/@serpmedia/github/amazon/For+Hope)
+## 66. [For Hope](https://serp.ly/amazon/For+Hope)
 
 ![For Hope](https://image.tmdb.org/t/p/original/x1XEE0BeV2V7dRxwEObiXjjgkeA.jpg)
 
@@ -2454,7 +2454,7 @@ When a vibrant young woman is diagnosed with scleroderma, her world changes in w
 <hr>
 
 
-## 67. [TripFall](https://serp.ly/@serpmedia/github/amazon/TripFall)
+## 67. [TripFall](https://serp.ly/amazon/TripFall)
 
 ![TripFall](https://image.tmdb.org/t/p/original/oCjEUEe1X3VvGJyJwFKUVqsnbiG.jpg)
 
@@ -2488,7 +2488,7 @@ When a family heads to the mountains for a relaxing vacation, they become the un
 <hr>
 
 
-## 68. [Man of the Year](https://serp.ly/@serpmedia/github/amazon/Man+of+the+Year)
+## 68. [Man of the Year](https://serp.ly/amazon/Man+of+the+Year)
 
 ![Man of the Year](https://image.tmdb.org/t/p/original/hBOpBfqI9oyVUxInIevhOUVEtO2.jpg)
 
@@ -2524,7 +2524,7 @@ Bill, the powerful head of a major energy company, is the guest of honor at a la
 <hr>
 
 
-## 69. [John Ritter: Being of Sound Mind and Body](https://serp.ly/@serpmedia/github/amazon/John+Ritter%3A+Being+of+Sound+Mind+and+Body)
+## 69. [John Ritter: Being of Sound Mind and Body](https://serp.ly/amazon/John+Ritter%3A+Being+of+Sound+Mind+and+Body)
 
 ![John Ritter: Being of Sound Mind and Body](https://image.tmdb.org/t/p/original/f6sQ7lWrSzKRt1jiSf39RSQd75K.jpg)
 
@@ -2558,7 +2558,7 @@ John Ritter demonstrates his comedic skills through a collection of comedy sketc
 <hr>
 
 
-## 70. [Letting Go](https://serp.ly/@serpmedia/github/amazon/Letting+Go)
+## 70. [Letting Go](https://serp.ly/amazon/Letting+Go)
 
 ![Letting Go](https://image.tmdb.org/t/p/original/wEQZ9iBwtxiKUyckn9XYXkOJY1T.jpg)
 
@@ -2596,7 +2596,7 @@ Letting Go is a 1985 romantic comedy about a widower and a lonely woman who meet
 <hr>
 
 
-## 71. [Love Thy Neighbor](https://serp.ly/@serpmedia/github/amazon/Love+Thy+Neighbor)
+## 71. [Love Thy Neighbor](https://serp.ly/amazon/Love+Thy+Neighbor)
 
 ![Love Thy Neighbor](https://image.tmdb.org/t/p/original/66MnhtG1fnekaktQaOLRtastfd2.jpg)
 
@@ -2632,7 +2632,7 @@ Danny's wife has just run off with Linda's husband, leaving both men to pick up 
 <hr>
 
 
-## 72. [Mr. Thornton Goes to Hollywood](https://serp.ly/@serpmedia/github/amazon/Mr.+Thornton+Goes+to+Hollywood)
+## 72. [Mr. Thornton Goes to Hollywood](https://serp.ly/amazon/Mr.+Thornton+Goes+to+Hollywood)
 
 ![Mr. Thornton Goes to Hollywood](https://image.tmdb.org/t/p/original/oKthzDaRX6PW2DI9I12kjX0xXzD.jpg)
 
@@ -2663,7 +2663,7 @@ Danny's wife has just run off with Linda's husband, leaving both men to pick up 
 <hr>
 
 
-## 73. [Stanley's Dinosaur Round-Up](https://serp.ly/@serpmedia/github/amazon/Stanley%27s+Dinosaur+Round-Up)
+## 73. [Stanley's Dinosaur Round-Up](https://serp.ly/amazon/Stanley%27s+Dinosaur+Round-Up)
 
 Stanley's first-ever full-length movie
 
@@ -2697,7 +2697,7 @@ When Stanley visits his great uncle's ranch, he discovers an exciting mystery th
 <hr>
 
 
-## 74. [The Lie](https://serp.ly/@serpmedia/github/amazon/The+Lie)
+## 74. [The Lie](https://serp.ly/amazon/The+Lie)
 
 ![The Lie](https://image.tmdb.org/t/p/original/klF1dJQtC7RHbtOjhlyf5lzwYfh.jpg)
 
@@ -2731,7 +2731,7 @@ When an American couple is trapped in their marriage and way of life, they becom
 <hr>
 
 
-## 75. [All Star Party for Lucille Ball](https://serp.ly/@serpmedia/github/amazon/All+Star+Party+for+Lucille+Ball)
+## 75. [All Star Party for Lucille Ball](https://serp.ly/amazon/All+Star+Party+for+Lucille+Ball)
 
 <br>
 
@@ -2763,7 +2763,7 @@ When an American couple is trapped in their marriage and way of life, they becom
 <hr>
 
 
-## 76. [Strong Kids, Safe Kids](https://serp.ly/@serpmedia/github/amazon/Strong+Kids%2C+Safe+Kids)
+## 76. [Strong Kids, Safe Kids](https://serp.ly/amazon/Strong+Kids%2C+Safe+Kids)
 
 ![Strong Kids, Safe Kids](https://image.tmdb.org/t/p/original/kjPrZ2oOwCx7Y4L0cyNo1yN5CkE.jpg)
 
@@ -2797,7 +2797,7 @@ Strong Kids, Safe Kids is a 1984 film that tackles the tough topic of teaching c
 <hr>
 
 
-## 77. [The Making of High Noon](https://serp.ly/@serpmedia/github/amazon/The+Making+of+High+Noon)
+## 77. [The Making of High Noon](https://serp.ly/amazon/The+Making+of+High+Noon)
 
 ![The Making of High Noon](https://image.tmdb.org/t/p/original/tSfr0wLfebOdbeEDDzVae996SWB.jpg)
 
@@ -2831,7 +2831,7 @@ Strong Kids, Safe Kids is a 1984 film that tackles the tough topic of teaching c
 <hr>
 
 
-## 78. [The Only Way Out](https://serp.ly/@serpmedia/github/amazon/The+Only+Way+Out)
+## 78. [The Only Way Out](https://serp.ly/amazon/The+Only+Way+Out)
 
 ![The Only Way Out](https://image.tmdb.org/t/p/original/k3c1rJlkkxWNPZXOupHQm43sTs2.jpg)
 
@@ -2865,7 +2865,7 @@ When Jeremy Carlisle's ex-wife Lynn runs into trouble with her dangerously distu
 <hr>
 
 
-## 79. [In Love with an Older Woman](https://serp.ly/@serpmedia/github/amazon/In+Love+with+an+Older+Woman)
+## 79. [In Love with an Older Woman](https://serp.ly/amazon/In+Love+with+an+Older+Woman)
 
 ![In Love with an Older Woman](https://image.tmdb.org/t/p/original/afZiewBbYSQ1P6pOmsEsXztVFVp.jpg)
 
@@ -2899,7 +2899,7 @@ When a 29-year-old lawyer's life changes unexpectedly, he finds himself falling 
 <hr>
 
 
-## 80. [The Martin & Lewis Story: The Last Great Comedy Team](https://serp.ly/@serpmedia/github/amazon/The+Martin+%26+Lewis+Story%3A+The+Last+Great+Comedy+Team)
+## 80. [The Martin & Lewis Story: The Last Great Comedy Team](https://serp.ly/amazon/The+Martin+%26+Lewis+Story%3A+The+Last+Great+Comedy+Team)
 
 ![The Martin & Lewis Story: The Last Great Comedy Team](https://image.tmdb.org/t/p/original/n7TnPIWxgDjlIDzPp8ycyQsBOIb.jpg)
 
@@ -2932,7 +2932,7 @@ In the 1950s, Dean Martin and Jerry Lewis were the hottest comedy team in Americ
 <hr>
 
 
-## 81. [Echoes of the Sixties: A Musical Trip](https://serp.ly/@serpmedia/github/amazon/Echoes+of+the+Sixties%3A+A+Musical+Trip)
+## 81. [Echoes of the Sixties: A Musical Trip](https://serp.ly/amazon/Echoes+of+the+Sixties%3A+A+Musical+Trip)
 
 ![Echoes of the Sixties: A Musical Trip](https://image.tmdb.org/t/p/original/jQtba8P3Um6Gzhtw6HUn7NTd3Ei.jpg)
 
@@ -2960,7 +2960,7 @@ This 1979 documentary takes viewers on a musical trip through the pop culture la
 <hr>
 
 
-## 82. [Holy Joe](https://serp.ly/@serpmedia/github/amazon/Holy+Joe)
+## 82. [Holy Joe](https://serp.ly/amazon/Holy+Joe)
 
 <br>
 
@@ -2981,7 +2981,7 @@ In this French drama, a young man named Joe navigates the complexities of faith 
 <hr>
 
 
-## 83. [Time Machine: When Cowboys Were King](https://serp.ly/@serpmedia/github/amazon/Time+Machine%3A+When+Cowboys+Were+King)
+## 83. [Time Machine: When Cowboys Were King](https://serp.ly/amazon/Time+Machine%3A+When+Cowboys+Were+King)
 
 ![Time Machine: When Cowboys Were King](https://image.tmdb.org/t/p/original/4sFEJBRIOq5BUxVp0AWkdTD06Re.jpg)
 
@@ -3012,7 +3012,7 @@ In this French drama, a young man named Joe navigates the complexities of faith 
 <hr>
 
 
-## 84. [Harry Anderson: The Tricks of His Trade](https://serp.ly/@serpmedia/github/amazon/Harry+Anderson%3A+The+Tricks+of+His+Trade)
+## 84. [Harry Anderson: The Tricks of His Trade](https://serp.ly/amazon/Harry+Anderson%3A+The+Tricks+of+His+Trade)
 
 ![Harry Anderson: The Tricks of His Trade](https://image.tmdb.org/t/p/original/llDJjywyORkuBAmurCXSEWxupj8.jpg)
 
@@ -3043,7 +3043,7 @@ Harry Anderson's television special brings together his most memorable close-up 
 <hr>
 
 
-## 85. [The Real Story of O Christmas Tree](https://serp.ly/@serpmedia/github/amazon/The+Real+Story+of+O+Christmas+Tree)
+## 85. [The Real Story of O Christmas Tree](https://serp.ly/amazon/The+Real+Story+of+O+Christmas+Tree)
 
 ![The Real Story of O Christmas Tree](https://image.tmdb.org/t/p/original/3pf2CM2IUKRHPxSfc4gtS4H7EuT.jpg)
 
@@ -3076,7 +3076,7 @@ When a young girl makes a heartfelt request to a small pine tree, she sets off a
 <hr>
 
 
-## 86. [My Brother's Wife](https://serp.ly/@serpmedia/github/amazon/My+Brother%27s+Wife)
+## 86. [My Brother's Wife](https://serp.ly/amazon/My+Brother%27s+Wife)
 
 ![My Brother's Wife](https://image.tmdb.org/t/p/original/uMuNRYlQ4Y0teShpdCN1bhNSo4k.jpg)
 
@@ -3109,7 +3109,7 @@ Barney returns home for his father's funeral, where he runs into his former high
 <hr>
 
 
-## 87. [Pray TV](https://serp.ly/@serpmedia/github/amazon/Pray+TV)
+## 87. [Pray TV](https://serp.ly/amazon/Pray+TV)
 
 ![Pray TV](https://image.tmdb.org/t/p/original/iShzGCVVIDnogYqth9PVUtwmcN3.jpg)
 
@@ -3140,7 +3140,7 @@ When a young minister accepts a summer job with a renowned TV evangelist, he enc
 <hr>
 
 
-## 88. [How to Survive the '70s and Maybe Even Bump Into Happiness](https://serp.ly/@serpmedia/github/amazon/How+to+Survive+the+%2770s+and+Maybe+Even+Bump+Into+Happiness)
+## 88. [How to Survive the '70s and Maybe Even Bump Into Happiness](https://serp.ly/amazon/How+to+Survive+the+%2770s+and+Maybe+Even+Bump+Into+Happiness)
 
 ![How to Survive the '70s and Maybe Even Bump Into Happiness](https://image.tmdb.org/t/p/original/p7Qw30tfZuCnRgM1cASUBdjG0tB.jpg)
 
@@ -3171,7 +3171,7 @@ Join Mary Tyler Moore, Harvey Korman, and John Ritter in this 1978 special that 
 <hr>
 
 
-## 89. [The Goldie Hawn Special](https://serp.ly/@serpmedia/github/amazon/The+Goldie+Hawn+Special)
+## 89. [The Goldie Hawn Special](https://serp.ly/amazon/The+Goldie+Hawn+Special)
 
 ![The Goldie Hawn Special](https://image.tmdb.org/t/p/original/eH4TaCjXLeqdHuK6BHIGlNlKQ6.jpg)
 
@@ -3204,7 +3204,7 @@ Revisit a golden age of television with "The Goldie Hawn Special, " the 1978 var
 <hr>
 
 
-## 90. [The Summer My Father Grew Up](https://serp.ly/@serpmedia/github/amazon/The+Summer+My+Father+Grew+Up)
+## 90. [The Summer My Father Grew Up](https://serp.ly/amazon/The+Summer+My+Father+Grew+Up)
 
 <br>
 
@@ -3235,7 +3235,7 @@ When a successful doctor's personal life takes an unexpected turn, he finds hims
 <hr>
 
 
-## 91. [Clifford the Big Red Dog: Rock N' Roll Clifford](https://serp.ly/@serpmedia/github/amazon/Clifford+the+Big+Red+Dog%3A+Rock+N%27+Roll+Clifford)
+## 91. [Clifford the Big Red Dog: Rock N' Roll Clifford](https://serp.ly/amazon/Clifford+the+Big+Red+Dog%3A+Rock+N%27+Roll+Clifford)
 
 <br>
 
@@ -3261,7 +3261,7 @@ Join Clifford the Big Red Dog for a rockin' adventure filled with fun and surpri
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -3307,7 +3307,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [M\*A\*S\*H](https://serp.ly/@serpmedia/github/amazon/M%2AA%2AS%2AH)
+## 2. [M\*A\*S\*H](https://serp.ly/amazon/M%2AA%2AS%2AH)
 
 ![M\*A\*S\*H](https://image.tmdb.org/t/p/original/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg)
 
@@ -3351,7 +3351,7 @@ Set in the Korean War, M\*A\*S\*H follows the 4077th Mobile Army Surgical Hospit
 <hr>
 
 
-## 3. [Buffy the Vampire Slayer](https://serp.ly/@serpmedia/github/amazon/Buffy+the+Vampire+Slayer)
+## 3. [Buffy the Vampire Slayer](https://serp.ly/amazon/Buffy+the+Vampire+Slayer)
 
 ![Buffy the Vampire Slayer](https://image.tmdb.org/t/p/original/41jsOEYsh9lJBc6AZqGpR1ETpx5.jpg)
 
@@ -3395,7 +3395,7 @@ Buffy the Vampire Slayer is a supernatural drama that follows a high school girl
 <hr>
 
 
-## 4. [The Waltons](https://serp.ly/@serpmedia/github/amazon/The+Waltons)
+## 4. [The Waltons](https://serp.ly/amazon/The+Waltons)
 
 ![The Waltons](https://image.tmdb.org/t/p/original/yFuTgqxBFfRcf4YX2QZ2L6vp0H9.jpg)
 
@@ -3439,7 +3439,7 @@ The Waltons brings an authentic slice of American history to life through its po
 <hr>
 
 
-## 5. [The Love Boat](https://serp.ly/@serpmedia/github/amazon/The+Love+Boat)
+## 5. [The Love Boat](https://serp.ly/amazon/The+Love+Boat)
 
 ![The Love Boat](https://image.tmdb.org/t/p/original/fnsnazlj2bt3Fuj0pJ7wBPmuMLO.jpg)
 
@@ -3481,7 +3481,7 @@ The Love Boat welcomes you aboard for a unforgettable voyage through the heart o
 <hr>
 
 
-## 6. [The Mike Douglas Show](https://serp.ly/@serpmedia/github/amazon/The+Mike+Douglas+Show)
+## 6. [The Mike Douglas Show](https://serp.ly/amazon/The+Mike+Douglas+Show)
 
 ![The Mike Douglas Show](https://image.tmdb.org/t/p/original/qNk97cbF3dZyhkfIcJhjFDD64sM.jpg)
 
@@ -3525,7 +3525,7 @@ Revisit a golden age of television with "The Mike Douglas Show, " the beloved pr
 <hr>
 
 
-## 7. [King of the Hill](https://serp.ly/@serpmedia/github/amazon/King+of+the+Hill)
+## 7. [King of the Hill](https://serp.ly/amazon/King+of+the+Hill)
 
 ![King of the Hill](https://image.tmdb.org/t/p/original/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg)
 
@@ -3569,7 +3569,7 @@ Revisit a golden age of animation with "King of the Hill, " the beloved series t
 <hr>
 
 
-## 8. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 8. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -3613,7 +3613,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 9. [LIVE with Kelly and Mark](https://serp.ly/@serpmedia/github/amazon/LIVE+with+Kelly+and+Mark)
+## 9. [LIVE with Kelly and Mark](https://serp.ly/amazon/LIVE+with+Kelly+and+Mark)
 
 ![LIVE with Kelly and Mark](https://image.tmdb.org/t/p/original/b90Z7Nlw1EzPz38oL3utlvFjmFR.jpg)
 
@@ -3657,7 +3657,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 10. [Hawaii Five-O](https://serp.ly/@serpmedia/github/amazon/Hawaii+Five-O)
+## 10. [Hawaii Five-O](https://serp.ly/amazon/Hawaii+Five-O)
 
 ![Hawaii Five-O](https://image.tmdb.org/t/p/original/6jwEtk9UgHoQCVrqHuRmbgSvwMS.jpg)
 
@@ -3703,7 +3703,7 @@ Join Detective Lieutenant Steve McGarrett and his team as they solve crimes acro
 <hr>
 
 
-## 11. [8 Simple Rules... for Dating My Teenage Daughter](https://serp.ly/@serpmedia/github/amazon/8+Simple+Rules...+for+Dating+My+Teenage+Daughter)
+## 11. [8 Simple Rules... for Dating My Teenage Daughter](https://serp.ly/amazon/8+Simple+Rules...+for+Dating+My+Teenage+Daughter)
 
 ![8 Simple Rules... for Dating My Teenage Daughter](https://image.tmdb.org/t/p/original/81bJijYZedZ4TSm34rYmW9gEDvN.jpg)
 
@@ -3745,7 +3745,7 @@ When middle-class mom Cate Hennessy leaves for a full-time nursing job, she turn
 <hr>
 
 
-## 12. [Late Night with Conan O'Brien](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Conan+O%27Brien)
+## 12. [Late Night with Conan O'Brien](https://serp.ly/amazon/Late+Night+with+Conan+O%27Brien)
 
 ![Late Night with Conan O'Brien](https://image.tmdb.org/t/p/original/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg)
 
@@ -3787,7 +3787,7 @@ When middle-class mom Cate Hennessy leaves for a full-time nursing job, she turn
 <hr>
 
 
-## 13. [Three's Company](https://serp.ly/@serpmedia/github/amazon/Three%27s+Company)
+## 13. [Three's Company](https://serp.ly/amazon/Three%27s+Company)
 
 ![Three's Company](https://image.tmdb.org/t/p/original/kvnolCAcN1yfPReVFIsxGceXdLS.jpg)
 
@@ -3829,7 +3829,7 @@ Three's Company tells the story of Janet Wood, Chrissy Snow, and Jack Tripper, t
 <hr>
 
 
-## 14. [Intimate Portrait](https://serp.ly/@serpmedia/github/amazon/Intimate+Portrait)
+## 14. [Intimate Portrait](https://serp.ly/amazon/Intimate+Portrait)
 
 ![Intimate Portrait](https://image.tmdb.org/t/p/original/3S3G8DTeWrXcQn1QQSfAZ9sWXk2.jpg)
 
@@ -3871,7 +3871,7 @@ Travel back in time with Lifetime's "Intimate Portrait" to meet some of America'
 <hr>
 
 
-## 15. [Scrubs](https://serp.ly/@serpmedia/github/amazon/Scrubs)
+## 15. [Scrubs](https://serp.ly/amazon/Scrubs)
 
 ![Scrubs](https://image.tmdb.org/t/p/original/u1z05trCA7AuSuDhi365grwdos1.jpg)
 
@@ -3913,7 +3913,7 @@ When John "J. D. " Dorian steps into Sacred Heart Hospital, he kicks off one wil
 <hr>
 
 
-## 16. [Batman Beyond](https://serp.ly/@serpmedia/github/amazon/Batman+Beyond)
+## 16. [Batman Beyond](https://serp.ly/amazon/Batman+Beyond)
 
 ![Batman Beyond](https://image.tmdb.org/t/p/original/3hsxYIV0uJDK2eHVZgrv0z0PLHd.jpg)
 
@@ -3955,7 +3955,7 @@ In a future Gotham City overrun by new villains, an aging Bruce Wayne hangs up t
 <hr>
 
 
-## 17. [Behind Closed Doors with Natalie Morales](https://serp.ly/@serpmedia/github/amazon/Behind+Closed+Doors+with+Natalie+Morales)
+## 17. [Behind Closed Doors with Natalie Morales](https://serp.ly/amazon/Behind+Closed+Doors+with+Natalie+Morales)
 
 ![Behind Closed Doors with Natalie Morales](https://image.tmdb.org/t/p/original/1G7wVE2cTFEUBF0LnEIaXwR5feo.jpg)
 
@@ -3996,7 +3996,7 @@ In a future Gotham City overrun by new villains, an aging Bruce Wayne hangs up t
 <hr>
 
 
-## 18. [The Cosby Show](https://serp.ly/@serpmedia/github/amazon/The+Cosby+Show)
+## 18. [The Cosby Show](https://serp.ly/amazon/The+Cosby+Show)
 
 ![The Cosby Show](https://image.tmdb.org/t/p/original/dc6sR5FWN4uX8fZENq2UTsrSg3x.jpg)
 
@@ -4038,7 +4038,7 @@ The Cosby Show welcomes viewers into the Huxtable family's lively African-Americ
 <hr>
 
 
-## 19. [Felicity](https://serp.ly/@serpmedia/github/amazon/Felicity)
+## 19. [Felicity](https://serp.ly/amazon/Felicity)
 
 ![Felicity](https://image.tmdb.org/t/p/original/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg)
 
@@ -4082,7 +4082,7 @@ Felicity Porter, a bright and sensitive teen from the San Francisco Bay Area, ma
 <hr>
 
 
-## 20. [Touched by an Angel](https://serp.ly/@serpmedia/github/amazon/Touched+by+an+Angel)
+## 20. [Touched by an Angel](https://serp.ly/amazon/Touched+by+an+Angel)
 
 ![Touched by an Angel](https://image.tmdb.org/t/p/original/jiSv0xNx6MGhAFfv05Ov7DgDELJ.jpg)
 
@@ -4126,7 +4126,7 @@ When a woman named Monica is called to be an angel, she embarks on a divine miss
 <hr>
 
 
-## 21. [The Bob Newhart Show](https://serp.ly/@serpmedia/github/amazon/The+Bob+Newhart+Show)
+## 21. [The Bob Newhart Show](https://serp.ly/amazon/The+Bob+Newhart+Show)
 
 ![The Bob Newhart Show](https://image.tmdb.org/t/p/original/cPI10fZ2c896h5pAc1oP6TrOW0G.jpg)
 
@@ -4170,7 +4170,7 @@ When a psychologist runs a practice in the same building as his comedy club, his
 <hr>
 
 
-## 22. [Chicago Hope](https://serp.ly/@serpmedia/github/amazon/Chicago+Hope)
+## 22. [Chicago Hope](https://serp.ly/amazon/Chicago+Hope)
 
 ![Chicago Hope](https://image.tmdb.org/t/p/original/x8ic33t4NurJul1oXmvKwKtWH28.jpg)
 
@@ -4212,7 +4212,7 @@ Set in a bustling private charity hospital in Chicago, this medical drama follow
 <hr>
 
 
-## 23. [Starsky & Hutch](https://serp.ly/@serpmedia/github/amazon/Starsky+%26+Hutch)
+## 23. [Starsky & Hutch](https://serp.ly/amazon/Starsky+%26+Hutch)
 
 ![Starsky & Hutch](https://image.tmdb.org/t/p/original/aBj5oTi1uibVcXDoCJeKseJNY2d.jpg)
 
@@ -4256,7 +4256,7 @@ When streetwise Detective David Starsky meets his match in the intellectually fo
 <hr>
 
 
-## 24. [It](https://serp.ly/@serpmedia/github/amazon/It)
+## 24. [It](https://serp.ly/amazon/It)
 
 ![It](https://image.tmdb.org/t/p/original/4ybQ6gopB3H3cu0seVZLznDnIKo.jpg)
 
@@ -4300,7 +4300,7 @@ Based on Stephen King's iconic novel, this miniseries follows seven outcast kids
 <hr>
 
 
-## 25. [The Bob Hope Show](https://serp.ly/@serpmedia/github/amazon/The+Bob+Hope+Show)
+## 25. [The Bob Hope Show](https://serp.ly/amazon/The+Bob+Hope+Show)
 
 ![The Bob Hope Show](https://image.tmdb.org/t/p/original/155ZMISJkCkTleBKKoNlubt51bB.jpg)
 
@@ -4344,7 +4344,7 @@ Revisit a golden age of television with "The Bob Hope Show, " the beloved variet
 <hr>
 
 
-## 26. [Dave's World](https://serp.ly/@serpmedia/github/amazon/Dave%27s+World)
+## 26. [Dave's World](https://serp.ly/amazon/Dave%27s+World)
 
 ![Dave's World](https://image.tmdb.org/t/p/original/pAv15TI2wRZiS07D2z5rgdPtdKv.jpg)
 
@@ -4386,7 +4386,7 @@ Dave's World is an American sitcom that aired on CBS from 1993 to 1997, bringing
 <hr>
 
 
-## 27. [Great Performances](https://serp.ly/@serpmedia/github/amazon/Great+Performances)
+## 27. [Great Performances](https://serp.ly/amazon/Great+Performances)
 
 ![Great Performances](https://image.tmdb.org/t/p/original/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg)
 
@@ -4430,7 +4430,7 @@ Dave's World is an American sitcom that aired on CBS from 1993 to 1997, bringing
 <hr>
 
 
-## 28. [The Streets of San Francisco](https://serp.ly/@serpmedia/github/amazon/The+Streets+of+San+Francisco)
+## 28. [The Streets of San Francisco](https://serp.ly/amazon/The+Streets+of+San+Francisco)
 
 ![The Streets of San Francisco](https://image.tmdb.org/t/p/original/9Hpeu6FfEsWuy2rED3JuAMdNKhk.jpg)
 
@@ -4474,7 +4474,7 @@ The Streets of San Francisco invites you to ride along with two very different p
 <hr>
 
 
-## 29. [Nature](https://serp.ly/@serpmedia/github/amazon/Nature)
+## 29. [Nature](https://serp.ly/amazon/Nature)
 
 ![Nature](https://image.tmdb.org/t/p/original/9kyp84Phe5W55zCimC40JZvKPLg.jpg)
 
@@ -4518,7 +4518,7 @@ The Streets of San Francisco invites you to ride along with two very different p
 <hr>
 
 
-## 30. [Mannix](https://serp.ly/@serpmedia/github/amazon/Mannix)
+## 30. [Mannix](https://serp.ly/amazon/Mannix)
 
 ![Mannix](https://image.tmdb.org/t/p/original/sEqRn4uIFoxuDKMOL9Ufxq2OHd0.jpg)
 
@@ -4562,7 +4562,7 @@ When a private investigator named Joe Mannix walks into a room, he brings both e
 <hr>
 
 
-## 31. [The Larry Sanders Show](https://serp.ly/@serpmedia/github/amazon/The+Larry+Sanders+Show)
+## 31. [The Larry Sanders Show](https://serp.ly/amazon/The+Larry+Sanders+Show)
 
 ![The Larry Sanders Show](https://image.tmdb.org/t/p/original/qMRVylcs6y2naOp7s6RIawELTAL.jpg)
 
@@ -4606,7 +4606,7 @@ Join Garry Shandling as he transforms his real-life talk show experiences into s
 <hr>
 
 
-## 32. [The Rookies](https://serp.ly/@serpmedia/github/amazon/The+Rookies)
+## 32. [The Rookies](https://serp.ly/amazon/The+Rookies)
 
 ![The Rookies](https://image.tmdb.org/t/p/original/Aprq6E5NO2GiBwKwjFop7kOGiO1.jpg)
 
@@ -4648,7 +4648,7 @@ The Rookies offers an intimate look at police work through the eyes of three new
 <hr>
 
 
-## 33. [Clifford the Big Red Dog](https://serp.ly/@serpmedia/github/amazon/Clifford+the+Big+Red+Dog)
+## 33. [Clifford the Big Red Dog](https://serp.ly/amazon/Clifford+the+Big+Red+Dog)
 
 ![Clifford the Big Red Dog](https://image.tmdb.org/t/p/original/z1iZDanC2hlBF5puxAdxaLg5h4M.jpg)
 
@@ -4690,7 +4690,7 @@ Join Clifford, a lovable giant red dog, as he bounds through 130 episodes across
 <hr>
 
 
-## 34. [Medical Center](https://serp.ly/@serpmedia/github/amazon/Medical+Center)
+## 34. [Medical Center](https://serp.ly/amazon/Medical+Center)
 
 ![Medical Center](https://image.tmdb.org/t/p/original/qxjZg4q1C9BrnwOY7WzWsuwsfjC.jpg)
 
@@ -4732,7 +4732,7 @@ Medical Center is aCBS medical drama series that aired from 1969 to 1976, produc
 <hr>
 
 
-## 35. [Wings](https://serp.ly/@serpmedia/github/amazon/Wings)
+## 35. [Wings](https://serp.ly/amazon/Wings)
 
 ![Wings](https://image.tmdb.org/t/p/original/eqf5p8fU7liYAMznUBMWMeSYfCQ.jpg)
 
@@ -4776,7 +4776,7 @@ When brothers Brian and Joe Hackett take their quirky personalities from the gro
 <hr>
 
 
-## 36. [Rhoda](https://serp.ly/@serpmedia/github/amazon/Rhoda)
+## 36. [Rhoda](https://serp.ly/amazon/Rhoda)
 
 ![Rhoda](https://image.tmdb.org/t/p/original/7nVSlqyqtlXuTiEYjku7fzWYav5.jpg)
 
@@ -4818,7 +4818,7 @@ When brothers Brian and Joe Hackett take their quirky personalities from the gro
 <hr>
 
 
-## 37. [Kojak](https://serp.ly/@serpmedia/github/amazon/Kojak)
+## 37. [Kojak](https://serp.ly/amazon/Kojak)
 
 ![Kojak](https://image.tmdb.org/t/p/original/7F1eH97Bpi8zQbc172drbJCsOsG.jpg)
 
@@ -4862,7 +4862,7 @@ When a bald detective with a lollipop habit steps into the criminal underworld o
 <hr>
 
 
-## 38. [NewsRadio](https://serp.ly/@serpmedia/github/amazon/NewsRadio)
+## 38. [NewsRadio](https://serp.ly/amazon/NewsRadio)
 
 ![NewsRadio](https://image.tmdb.org/t/p/original/bX8HcTfON8dwt4fQWwY1mXxG0Uo.jpg)
 
@@ -4904,7 +4904,7 @@ NewsRadio provides an intimate glimpse into the inner workings of WNYX, New York
 <hr>
 
 
-## 39. [Three's a Crowd](https://serp.ly/@serpmedia/github/amazon/Three%27s+a+Crowd)
+## 39. [Three's a Crowd](https://serp.ly/amazon/Three%27s+a+Crowd)
 
 ![Three's a Crowd](https://image.tmdb.org/t/p/original/vqXiKqsU9Ziva3iY2022kSDHhbi.jpg)
 
@@ -4946,7 +4946,7 @@ When three single friends move in together, their personalities and living situa
 <hr>
 
 
-## 40. [Petrocelli](https://serp.ly/@serpmedia/github/amazon/Petrocelli)
+## 40. [Petrocelli](https://serp.ly/amazon/Petrocelli)
 
 ![Petrocelli](https://image.tmdb.org/t/p/original/4YffWt26OAnYG7aeB1O1Z1QeXBb.jpg)
 
@@ -4992,7 +4992,7 @@ When an Italian-American Harvard lawyer trades the bright lights of big-city pra
 <hr>
 
 
-## 41. [Family Law](https://serp.ly/@serpmedia/github/amazon/Family+Law)
+## 41. [Family Law](https://serp.ly/amazon/Family+Law)
 
 ![Family Law](https://image.tmdb.org/t/p/original/5JeRg8YGj4EjaQU6QwetJG22RIY.jpg)
 
@@ -5034,7 +5034,7 @@ When family attorney Lynn Holt's husband takes most of their law practice with h
 <hr>
 
 
-## 42. [Muppet Babies](https://serp.ly/@serpmedia/github/amazon/Muppet+Babies)
+## 42. [Muppet Babies](https://serp.ly/amazon/Muppet+Babies)
 
 ![Muppet Babies](https://image.tmdb.org/t/p/original/oJc14qy42hABKKWlQwEguFdeTdU.jpg)
 
@@ -5076,7 +5076,7 @@ Travel back to the 1980s with "Muppet Babies, " the beloved series that follows 
 <hr>
 
 
-## 43. [Ally McBeal](https://serp.ly/@serpmedia/github/amazon/Ally+McBeal)
+## 43. [Ally McBeal](https://serp.ly/amazon/Ally+McBeal)
 
 ![Ally McBeal](https://image.tmdb.org/t/p/original/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg)
 
@@ -5120,7 +5120,7 @@ When Ally McBeal joins the Boston law firm of Cage and Fish, she brings with her
 <hr>
 
 
-## 44. [Life with Lucy](https://serp.ly/@serpmedia/github/amazon/Life+with+Lucy)
+## 44. [Life with Lucy](https://serp.ly/amazon/Life+with+Lucy)
 
 ![Life with Lucy](https://image.tmdb.org/t/p/original/4d3zFogaoseNEQRL1vNlIe6Mwi4.jpg)
 
@@ -5162,7 +5162,7 @@ When Ally McBeal joins the Boston law firm of Cage and Fish, she brings with her
 <hr>
 
 
-## 45. [Wednesday 9:30 (8:30 Central)](https://serp.ly/@serpmedia/github/amazon/Wednesday+9%3A30+%288%3A30+Central%29)
+## 45. [Wednesday 9:30 (8:30 Central)](https://serp.ly/amazon/Wednesday+9%3A30+%288%3A30+Central%29)
 
 ![Wednesday 9:30 (8:30 Central)](https://image.tmdb.org/t/p/original/oocgyanKacCUpt4ozrQOIOGgvMi.jpg)
 
@@ -5201,7 +5201,7 @@ When Ally McBeal joins the Boston law firm of Cage and Fish, she brings with her
 <hr>
 
 
-## 46. [Hearts Afire](https://serp.ly/@serpmedia/github/amazon/Hearts+Afire)
+## 46. [Hearts Afire](https://serp.ly/amazon/Hearts+Afire)
 
 ![Hearts Afire](https://image.tmdb.org/t/p/original/6osVVs02pAoO5yEwF9xrFtZRfKN.jpg)
 
@@ -5243,7 +5243,7 @@ Hearts Afire bursts onto the small screen with its unforgettable blend of romanc
 <hr>
 
 
-## 47. [The Bob Crane Show](https://serp.ly/@serpmedia/github/amazon/The+Bob+Crane+Show)
+## 47. [The Bob Crane Show](https://serp.ly/amazon/The+Bob+Crane+Show)
 
 <br>
 
@@ -5283,7 +5283,7 @@ When Bob Wilcox quits his insurance job to return to medical school, it kicks of
 <hr>
 
 
-## 48. [Entertainment Tonight](https://serp.ly/@serpmedia/github/amazon/Entertainment+Tonight)
+## 48. [Entertainment Tonight](https://serp.ly/amazon/Entertainment+Tonight)
 
 ![Entertainment Tonight](https://image.tmdb.org/t/p/original/rVAMCmlyDqhw20NHg5jk9sMuMNg.jpg)
 
@@ -5327,7 +5327,7 @@ When Bob Wilcox quits his insurance job to return to medical school, it kicks of
 <hr>
 
 
-## 49. [Superstar](https://serp.ly/@serpmedia/github/amazon/Superstar)
+## 49. [Superstar](https://serp.ly/amazon/Superstar)
 
 ![Superstar](https://image.tmdb.org/t/p/original/3mOmJCOsGIWVFlKyoHqytcF2Z6i.jpg)
 
@@ -5371,7 +5371,7 @@ When Bob Wilcox quits his insurance job to return to medical school, it kicks of
 <hr>
 
 
-## 50. [TV Land Awards: A Celebration of Classic TV](https://serp.ly/@serpmedia/github/amazon/TV+Land+Awards%3A+A+Celebration+of+Classic+TV)
+## 50. [TV Land Awards: A Celebration of Classic TV](https://serp.ly/amazon/TV+Land+Awards%3A+A+Celebration+of+Classic+TV)
 
 <br>
 
@@ -5412,7 +5412,7 @@ When Bob Wilcox quits his insurance job to return to medical school, it kicks of
 <hr>
 
 
-## 51. [Breaking News](https://serp.ly/@serpmedia/github/amazon/Breaking+News)
+## 51. [Breaking News](https://serp.ly/amazon/Breaking+News)
 
 ![Breaking News](https://image.tmdb.org/t/p/original/9JA2qZcOeOIjczg6ESyLE1of4bT.jpg)
 
@@ -5454,7 +5454,7 @@ When a fictional 24-hour news network emerges in Milwaukee, it kicks off one wil
 <hr>
 
 
-## 52. [Doc](https://serp.ly/@serpmedia/github/amazon/Doc)
+## 52. [Doc](https://serp.ly/amazon/Doc)
 
 <br>
 
@@ -5491,7 +5491,7 @@ When a doctor opens a clinic in a small town, he brings his quirky personality a
 <hr>
 
 
-## 53. [E! True Hollywood Story](https://serp.ly/@serpmedia/github/amazon/E%21+True+Hollywood+Story)
+## 53. [E! True Hollywood Story](https://serp.ly/amazon/E%21+True+Hollywood+Story)
 
 ![E! True Hollywood Story](https://image.tmdb.org/t/p/original/zuXXivVEjOkMswJvNFFRmJW0bTZ.jpg)
 
@@ -5535,7 +5535,7 @@ When a doctor opens a clinic in a small town, he brings his quirky personality a
 <hr>
 
 
-## 54. [Hooperman](https://serp.ly/@serpmedia/github/amazon/Hooperman)
+## 54. [Hooperman](https://serp.ly/amazon/Hooperman)
 
 ![Hooperman](https://image.tmdb.org/t/p/original/koZX2kubM1GpjOVmo6mWuwuqQhE.jpg)
 
@@ -5577,7 +5577,7 @@ When it comes to solving cases in San Francisco, nobody does it quite like Harry
 <hr>
 
 
-## 55. [Martin & Lewis: Their Golden Age of Comedy](https://serp.ly/@serpmedia/github/amazon/Martin+%26+Lewis%3A+Their+Golden+Age+of+Comedy)
+## 55. [Martin & Lewis: Their Golden Age of Comedy](https://serp.ly/amazon/Martin+%26+Lewis%3A+Their+Golden+Age+of+Comedy)
 
 <br>
 
@@ -5616,7 +5616,7 @@ Travel back in time with Dean Martin and Jerry Lewis to relive their golden age 
 <hr>
 
 
-## 56. [Over the Top](https://serp.ly/@serpmedia/github/amazon/Over+the+Top)
+## 56. [Over the Top](https://serp.ly/amazon/Over+the+Top)
 
 ![Over the Top](https://image.tmdb.org/t/p/original/fSpb4JJU4wnjvdLfsIKkMcNjWMz.jpg)
 
@@ -5658,7 +5658,7 @@ When an American sitcom featuring Tim Curry, Annie Potts, and Steve Carell premi
 <hr>
 
 
-## 57. [Fish Police](https://serp.ly/@serpmedia/github/amazon/Fish+Police)
+## 57. [Fish Police](https://serp.ly/amazon/Fish+Police)
 
 ![Fish Police](https://image.tmdb.org/t/p/original/dW7N0oEfYQBMwJE6MyFsAZWUtkl.jpg)
 
@@ -5700,7 +5700,7 @@ When an American sitcom featuring Tim Curry, Annie Potts, and Steve Carell premi
 <hr>
 
 
-## 58. [Life's Most Embarrassing Moments](https://serp.ly/@serpmedia/github/amazon/Life%27s+Most+Embarrassing+Moments)
+## 58. [Life's Most Embarrassing Moments](https://serp.ly/amazon/Life%27s+Most+Embarrassing+Moments)
 
 ![Life's Most Embarrassing Moments](https://image.tmdb.org/t/p/original/sYiDZBkDsirLWWU6N9NP2QIPtyC.jpg)
 
@@ -5742,7 +5742,7 @@ When an American sitcom featuring Tim Curry, Annie Potts, and Steve Carell premi
 <hr>
 
 
-## 59. [TV Funhouse](https://serp.ly/@serpmedia/github/amazon/TV+Funhouse)
+## 59. [TV Funhouse](https://serp.ly/amazon/TV+Funhouse)
 
 ![TV Funhouse](https://image.tmdb.org/t/p/original/hcPC1gTPmyRIL9TIzVPhIAWNpvK.jpg)
 
@@ -5784,7 +5784,7 @@ Join Doug as he hosts an outrageous children's show where anything goes! Each da
 <hr>
 
 
-## 60. [The Early Show](https://serp.ly/@serpmedia/github/amazon/The+Early+Show)
+## 60. [The Early Show](https://serp.ly/amazon/The+Early+Show)
 
 ![The Early Show](https://image.tmdb.org/t/p/original/iJvwr7kL0Q7BtrYC38KQ5baPw7g.jpg)
 
@@ -5828,7 +5828,7 @@ Wake up with The Early Show, the friendly morning program that brought you news 
 <hr>
 
 
-## 61. [The Ropers](https://serp.ly/@serpmedia/github/amazon/The+Ropers)
+## 61. [The Ropers](https://serp.ly/amazon/The+Ropers)
 
 ![The Ropers](https://image.tmdb.org/t/p/original/tmKtdtAHrYlJkWLgh79yj9FSnPE.jpg)
 

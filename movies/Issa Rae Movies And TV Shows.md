@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Barbie](https://serp.ly/@serpmedia/github/amazon/Barbie)
+## 1. [Barbie](https://serp.ly/amazon/Barbie)
 
 ![Barbie](https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg)
 
@@ -77,7 +77,7 @@ Join Barbie and Ken in Barbie Land, where life is colorful and extraordinary. Wh
 <hr>
 
 
-## 2. [Spider-Man: Across the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Across+the+Spider-Verse)
+## 2. [Spider-Man: Across the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Across+the+Spider-Verse)
 
 ![Spider-Man: Across the Spider-Verse](https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg)
 
@@ -117,7 +117,7 @@ Join Miles Morales as he races across the Spider-Verse to save Gwen Stacy and pr
 <hr>
 
 
-## 3. [The Hate U Give](https://serp.ly/@serpmedia/github/amazon/The+Hate+U+Give)
+## 3. [The Hate U Give](https://serp.ly/amazon/The+Hate+U+Give)
 
 ![The Hate U Give](https://image.tmdb.org/t/p/original/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg)
 
@@ -157,7 +157,7 @@ Starr, a 16-year-old African American girl, navigates between her tough inner-ci
 <hr>
 
 
-## 4. [American Fiction](https://serp.ly/@serpmedia/github/amazon/American+Fiction)
+## 4. [American Fiction](https://serp.ly/amazon/American+Fiction)
 
 ![American Fiction](https://image.tmdb.org/t/p/original/57MFWGHarg9jid7yfDTka4RmcMU.jpg)
 
@@ -198,7 +198,7 @@ In "American Fiction", a successful novelist frustrated with the entertainment i
 <hr>
 
 
-## 5. [Little](https://serp.ly/@serpmedia/github/amazon/Little)
+## 5. [Little](https://serp.ly/amazon/Little)
 
 ![Little](https://image.tmdb.org/t/p/original/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg)
 
@@ -241,7 +241,7 @@ When tech mogul Jordan Sanders wakes up in the body of her 13-year-old self, she
 <hr>
 
 
-## 6. [The Lovebirds](https://serp.ly/@serpmedia/github/amazon/The+Lovebirds)
+## 6. [The Lovebirds](https://serp.ly/amazon/The+Lovebirds)
 
 ![The Lovebirds](https://image.tmdb.org/t/p/original/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg)
 
@@ -280,7 +280,7 @@ When an ordinary couple goes out for a quiet night, they end up in the middle of
 <hr>
 
 
-## 7. [Hair Love](https://serp.ly/@serpmedia/github/amazon/Hair+Love)
+## 7. [Hair Love](https://serp.ly/amazon/Hair+Love)
 
 ![Hair Love](https://image.tmdb.org/t/p/original/pm9uRa7031Z56unxNE8AqE8f2wg.jpg)
 
@@ -316,7 +316,7 @@ When Dad has to unexpectedly step in to do his daughter Zuri's hair before a big
 <hr>
 
 
-## 8. [Vengeance](https://serp.ly/@serpmedia/github/amazon/Vengeance)
+## 8. [Vengeance](https://serp.ly/amazon/Vengeance)
 
 ![Vengeance](https://image.tmdb.org/t/p/original/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg)
 
@@ -357,7 +357,7 @@ When a New York journalist travels to West Texas to report on the tragic death o
 <hr>
 
 
-## 9. [The Photograph](https://serp.ly/@serpmedia/github/amazon/The+Photograph)
+## 9. [The Photograph](https://serp.ly/amazon/The+Photograph)
 
 ![The Photograph](https://image.tmdb.org/t/p/original/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg)
 
@@ -398,7 +398,7 @@ When esteemed photographer Christina Eames passes away, she leaves behind a pain
 <hr>
 
 
-## 10. [Coastal Elites](https://serp.ly/@serpmedia/github/amazon/Coastal+Elites)
+## 10. [Coastal Elites](https://serp.ly/amazon/Coastal+Elites)
 
 ![Coastal Elites](https://image.tmdb.org/t/p/original/oKe5dPzGHXCgDHqlVoqVcAM3qeN.jpg)
 
@@ -436,7 +436,7 @@ When five coastal dwellers meet for socially distanced confessions, their person
 <hr>
 
 
-## 11. [Insecure: The End](https://serp.ly/@serpmedia/github/amazon/Insecure%3A+The+End)
+## 11. [Insecure: The End](https://serp.ly/amazon/Insecure%3A+The+End)
 
 ![Insecure: The End](https://image.tmdb.org/t/p/original/h6p5ntDwl7Vb6lSDI7R5hlQ5Mxl.jpg)
 
@@ -472,7 +472,7 @@ From the set of HBO's Insecure comes a documentary tracing the beloved show's cu
 <hr>
 
 
-## 12. [Rubberhead](https://serp.ly/@serpmedia/github/amazon/Rubberhead)
+## 12. [Rubberhead](https://serp.ly/amazon/Rubberhead)
 
 ![Rubberhead](https://image.tmdb.org/t/p/original/32EVr2LZE4VNAXSsnNIPhb0gaL8.jpg)
 
@@ -506,7 +506,7 @@ Sarah Silverman kicks off Rubberhead with a star-studded lineup of her most trus
 <hr>
 
 
-## 13. [A Bitter Lime](https://serp.ly/@serpmedia/github/amazon/A+Bitter+Lime)
+## 13. [A Bitter Lime](https://serp.ly/amazon/A+Bitter+Lime)
 
 ![A Bitter Lime](https://image.tmdb.org/t/p/original/cAN4FNISPVDwxAzbVOMaCsFQdf8.jpg)
 
@@ -542,7 +542,7 @@ When a young, wealthy couple trades their corporate life in Los Angeles for a my
 <hr>
 
 
-## 14. [Spider-Man: Beyond the Spider-Verse](https://serp.ly/@serpmedia/github/amazon/Spider-Man%3A+Beyond+the+Spider-Verse)
+## 14. [Spider-Man: Beyond the Spider-Verse](https://serp.ly/amazon/Spider-Man%3A+Beyond+the+Spider-Verse)
 
 ![Spider-Man: Beyond the Spider-Verse](https://image.tmdb.org/t/p/original/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg)
 
@@ -565,7 +565,7 @@ When Miles Morales disappears into the home dimension of the spider that bit him
 <hr>
 
 
-## 15. [American Princess](https://serp.ly/@serpmedia/github/amazon/American+Princess)
+## 15. [American Princess](https://serp.ly/amazon/American+Princess)
 
 <br>
 
@@ -586,7 +586,7 @@ When an American woman travels to London, she unexpectedly falls in love and fin
 <hr>
 
 
-## 16. [Perfect Strangers](https://serp.ly/@serpmedia/github/amazon/Perfect+Strangers)
+## 16. [Perfect Strangers](https://serp.ly/amazon/Perfect+Strangers)
 
 <br>
 
@@ -610,7 +610,7 @@ When a group of friends gathers for dinner, their innocent evening takes an unex
 <hr>
 
 
-## 1. [The Late Show with Stephen Colbert](https://serp.ly/@serpmedia/github/amazon/The+Late+Show+with+Stephen+Colbert)
+## 1. [The Late Show with Stephen Colbert](https://serp.ly/amazon/The+Late+Show+with+Stephen+Colbert)
 
 ![The Late Show with Stephen Colbert](https://image.tmdb.org/t/p/original/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg)
 
@@ -654,7 +654,7 @@ Stephen Colbert's late-night talk show returns for its ninth season, bringing to
 <hr>
 
 
-## 2. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 2. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -700,7 +700,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 3. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -746,7 +746,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 4. [Tamron Hall](https://serp.ly/@serpmedia/github/amazon/Tamron+Hall)
+## 4. [Tamron Hall](https://serp.ly/amazon/Tamron+Hall)
 
 ![Tamron Hall](https://image.tmdb.org/t/p/original/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg)
 
@@ -790,7 +790,7 @@ Tamron Hall brings her extensive experience as a news host and journalist to thi
 <hr>
 
 
-## 5. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 5. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -834,7 +834,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 6. [The Daily Show](https://serp.ly/@serpmedia/github/amazon/The+Daily+Show)
+## 6. [The Daily Show](https://serp.ly/amazon/The+Daily+Show)
 
 ![The Daily Show](https://image.tmdb.org/t/p/original/ixcfyK7it6FjRM36Te4OdblAq4X.jpg)
 
@@ -880,7 +880,7 @@ When news breaks, The Daily Show's fake news team is the first to fix it. Join t
 <hr>
 
 
-## 7. [Watch What Happens Live with Andy Cohen](https://serp.ly/@serpmedia/github/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
+## 7. [Watch What Happens Live with Andy Cohen](https://serp.ly/amazon/Watch+What+Happens+Live+with+Andy+Cohen)
 
 ![Watch What Happens Live with Andy Cohen](https://image.tmdb.org/t/p/original/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg)
 
@@ -924,7 +924,7 @@ Bravo network executive Andy Cohen brings his wit and charm to this long-running
 <hr>
 
 
-## 8. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 8. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -968,7 +968,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 9. [Saturday Night Live](https://serp.ly/@serpmedia/github/amazon/Saturday+Night+Live)
+## 9. [Saturday Night Live](https://serp.ly/amazon/Saturday+Night+Live)
 
 ![Saturday Night Live](https://image.tmdb.org/t/p/original/sHGuKFjIBisPk8cvtCZTDVktYfs.jpg)
 
@@ -1014,7 +1014,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 10. [Close Up with The Hollywood Reporter](https://serp.ly/@serpmedia/github/amazon/Close+Up+with+The+Hollywood+Reporter)
+## 10. [Close Up with The Hollywood Reporter](https://serp.ly/amazon/Close+Up+with+The+Hollywood+Reporter)
 
 ![Close Up with The Hollywood Reporter](https://image.tmdb.org/t/p/original/h7X59O3T4VWVAUzZ00LEpbwA3GP.jpg)
 
@@ -1058,7 +1058,7 @@ Saturday Night Live, the groundbreaking sketch comedy series that debuted in 197
 <hr>
 
 
-## 11. [The Jennifer Hudson Show](https://serp.ly/@serpmedia/github/amazon/The+Jennifer+Hudson+Show)
+## 11. [The Jennifer Hudson Show](https://serp.ly/amazon/The+Jennifer+Hudson+Show)
 
 ![The Jennifer Hudson Show](https://image.tmdb.org/t/p/original/6VBNeo8XG90sNKWYQ0yTEmVBXHJ.jpg)
 
@@ -1104,7 +1104,7 @@ Lighting Up Daytime!
 <hr>
 
 
-## 12. [BoJack Horseman](https://serp.ly/@serpmedia/github/amazon/BoJack+Horseman)
+## 12. [BoJack Horseman](https://serp.ly/amazon/BoJack+Horseman)
 
 ![BoJack Horseman](https://image.tmdb.org/t/p/original/pB9L0jAnEQLMKgexqCEocEW8TA.jpg)
 
@@ -1148,7 +1148,7 @@ BoJack Horseman was once the shining star of the 1990s TV show "Horsin' Around,"
 <hr>
 
 
-## 13. [Variety Studio: Actors on Actors](https://serp.ly/@serpmedia/github/amazon/Variety+Studio%3A+Actors+on+Actors)
+## 13. [Variety Studio: Actors on Actors](https://serp.ly/amazon/Variety+Studio%3A+Actors+on+Actors)
 
 ![Variety Studio: Actors on Actors](https://image.tmdb.org/t/p/original/pgWZXYG0gTKkwRH9pTxoscFmq4H.jpg)
 
@@ -1192,7 +1192,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 14. [Hot Ones](https://serp.ly/@serpmedia/github/amazon/Hot+Ones)
+## 14. [Hot Ones](https://serp.ly/amazon/Hot+Ones)
 
 ![Hot Ones](https://image.tmdb.org/t/p/original/4uudasFgKCVQFNGqfanD6wEGVS1.jpg)
 
@@ -1236,7 +1236,7 @@ When it comes to the small screen, Clayton Davis and Elizabeth Wagmeister have s
 <hr>
 
 
-## 15. [Desus & Mero](https://serp.ly/@serpmedia/github/amazon/Desus+%26+Mero)
+## 15. [Desus & Mero](https://serp.ly/amazon/Desus+%26+Mero)
 
 ![Desus & Mero](https://image.tmdb.org/t/p/original/8dORUJPK1JSprVK8vkfejtZ2HiQ.jpg)
 
@@ -1280,7 +1280,7 @@ When two popular personalities sit down for a weekly chat, their conversation sp
 <hr>
 
 
-## 16. [Finding Your Roots](https://serp.ly/@serpmedia/github/amazon/Finding+Your+Roots)
+## 16. [Finding Your Roots](https://serp.ly/amazon/Finding+Your+Roots)
 
 ![Finding Your Roots](https://image.tmdb.org/t/p/original/d4CSYByEefe43AXMlMyKEihEPGU.jpg)
 
@@ -1324,7 +1324,7 @@ When two popular personalities sit down for a weekly chat, their conversation sp
 <hr>
 
 
-## 17. [Sherri](https://serp.ly/@serpmedia/github/amazon/Sherri)
+## 17. [Sherri](https://serp.ly/amazon/Sherri)
 
 ![Sherri](https://image.tmdb.org/t/p/original/tNpISQ0ymMpZmfRCeJXceAjyzev.jpg)
 
@@ -1368,7 +1368,7 @@ Sherri Shepherd brings her Emmy Award-winning experience as a co-host of "The Vi
 <hr>
 
 
-## 18. [A Black Lady Sketch Show](https://serp.ly/@serpmedia/github/amazon/A+Black+Lady+Sketch+Show)
+## 18. [A Black Lady Sketch Show](https://serp.ly/amazon/A+Black+Lady+Sketch+Show)
 
 ![A Black Lady Sketch Show](https://image.tmdb.org/t/p/original/kPuwNtJRzpFhUVMCFpNc5Proiyd.jpg)
 
@@ -1412,7 +1412,7 @@ Let the good times role.
 <hr>
 
 
-## 19. [Insecure](https://serp.ly/@serpmedia/github/amazon/Insecure)
+## 19. [Insecure](https://serp.ly/amazon/Insecure)
 
 ![Insecure](https://image.tmdb.org/t/p/original/sGMwPIE6m9QI3LzCRXnZG8opZtB.jpg)
 
@@ -1456,7 +1456,7 @@ She's trying hard AF.
 <hr>
 
 
-## 20. [The Oscars](https://serp.ly/@serpmedia/github/amazon/The+Oscars)
+## 20. [The Oscars](https://serp.ly/amazon/The+Oscars)
 
 ![The Oscars](https://image.tmdb.org/t/p/original/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg)
 
@@ -1502,7 +1502,7 @@ The Oscars, a renowned film industry event celebrating cinematic excellence, has
 <hr>
 
 
-## 21. [Roar](https://serp.ly/@serpmedia/github/amazon/Roar)
+## 21. [Roar](https://serp.ly/amazon/Roar)
 
 ![Roar](https://image.tmdb.org/t/p/original/eht88y50jvgWCI3Q0Sfyu4o3ad1.jpg)
 
@@ -1546,7 +1546,7 @@ Eight stories. Full volume.
 <hr>
 
 
-## 22. [Young Love](https://serp.ly/@serpmedia/github/amazon/Young+Love)
+## 22. [Young Love](https://serp.ly/amazon/Young+Love)
 
 ![Young Love](https://image.tmdb.org/t/p/original/gC3oBr8es4hFr6zwvXIMMBFi5c2.jpg)
 
@@ -1592,7 +1592,7 @@ When millennial parents Stephen and Angela Young welcome their daughter Zuri int
 <hr>
 
 
-## 23. [The Hair Tales](https://serp.ly/@serpmedia/github/amazon/The+Hair+Tales)
+## 23. [The Hair Tales](https://serp.ly/amazon/The+Hair+Tales)
 
 ![The Hair Tales](https://image.tmdb.org/t/p/original/ntkIkO4EJwWw1GOjYXy7La7JoMj.jpg)
 
@@ -1636,7 +1636,7 @@ The Hair Tales presents six extraordinary Black women whose intimate stories abo
 <hr>
 
 
-## 24. [Legendary](https://serp.ly/@serpmedia/github/amazon/Legendary)
+## 24. [Legendary](https://serp.ly/amazon/Legendary)
 
 ![Legendary](https://image.tmdb.org/t/p/original/4ZIPELWwcKnR6cG11a6mbn7lc4J.jpg)
 
@@ -1680,7 +1680,7 @@ Ball or nothing.
 <hr>
 
 
-## 25. [#blackAF](https://serp.ly/@serpmedia/github/amazon/%23blackAF)
+## 25. [#blackAF](https://serp.ly/amazon/%23blackAF)
 
 ![#blackAF](https://image.tmdb.org/t/p/original/xccT6BWUYLf41UNHUWdvtqdH8rN.jpg)
 
@@ -1724,7 +1724,7 @@ When it comes to parenting and relationships, this father has a unique perspecti
 <hr>
 
 
-## 26. [Project Greenlight](https://serp.ly/@serpmedia/github/amazon/Project+Greenlight)
+## 26. [Project Greenlight](https://serp.ly/amazon/Project+Greenlight)
 
 ![Project Greenlight](https://image.tmdb.org/t/p/original/fpqneq560pCRaD1DhdSQZIJXP2D.jpg)
 

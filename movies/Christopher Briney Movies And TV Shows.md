@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Mean Girls](https://serp.ly/@serpmedia/github/amazon/Mean+Girls)
+## 1. [Mean Girls](https://serp.ly/amazon/Mean+Girls)
 
 ![Mean Girls](https://image.tmdb.org/t/p/original/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg)
 
@@ -80,7 +80,7 @@ When new student Cady Heron is invited into the exclusive circle of popular girl
 <hr>
 
 
-## 2. [Dalíland](https://serp.ly/@serpmedia/github/amazon/Dal%C3%ADland)
+## 2. [Dalíland](https://serp.ly/amazon/Dal%C3%ADland)
 
 ![Dalíland](https://image.tmdb.org/t/p/original/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg)
 
@@ -121,7 +121,7 @@ The journey into excess starts with a moustache.
 <hr>
 
 
-## 3. [Under the Covers](https://serp.ly/@serpmedia/github/amazon/Under+the+Covers)
+## 3. [Under the Covers](https://serp.ly/amazon/Under+the+Covers)
 
 ![Under the Covers](https://image.tmdb.org/t/p/original/7lQKofrz7hIiqti2VD4bk8VmsgT.jpg)
 
@@ -152,7 +152,7 @@ Keyra thought she knew everything about her own bed - until she discovered somet
 <hr>
 
 
-## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/@serpmedia/github/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
+## 1. [The Tonight Show Starring Jimmy Fallon](https://serp.ly/amazon/The+Tonight+Show+Starring+Jimmy+Fallon)
 
 ![The Tonight Show Starring Jimmy Fallon](https://image.tmdb.org/t/p/original/d735cGL2G07Tb0ysLHStu8c0uo8.jpg)
 
@@ -198,7 +198,7 @@ When Jay Leno retired for the second time, Jimmy Fallon took the Tonight Show ba
 <hr>
 
 
-## 2. [The Kelly Clarkson Show](https://serp.ly/@serpmedia/github/amazon/The+Kelly+Clarkson+Show)
+## 2. [The Kelly Clarkson Show](https://serp.ly/amazon/The+Kelly+Clarkson+Show)
 
 ![The Kelly Clarkson Show](https://image.tmdb.org/t/p/original/9Gg1oM8Us8gCS5aJA8e0ZRuIHnf.jpg)
 
@@ -242,7 +242,7 @@ The Kelly Clarkson Show brings together celebrities and everyday heroes in one i
 <hr>
 
 
-## 3. [The Summer I Turned Pretty](https://serp.ly/@serpmedia/github/amazon/The+Summer+I+Turned+Pretty)
+## 3. [The Summer I Turned Pretty](https://serp.ly/amazon/The+Summer+I+Turned+Pretty)
 
 ![The Summer I Turned Pretty](https://image.tmdb.org/t/p/original/A7ziP4QaTRAwWqGhHyknN5UULlf.jpg)
 

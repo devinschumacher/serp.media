@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [The Purge: Election Year](https://serp.ly/@serpmedia/github/amazon/The+Purge%3A+Election+Year)
+## 1. [The Purge: Election Year](https://serp.ly/amazon/The+Purge%3A+Election+Year)
 
 ![The Purge: Election Year](https://image.tmdb.org/t/p/original/dx5pKJpGbJc9xrFQ8UR1XrrqmPj.jpg)
 
@@ -80,7 +80,7 @@ In "The Purge: Election Year", former police sergeant Leo Barnes trades his badg
 <hr>
 
 
-## 2. [Frequency](https://serp.ly/@serpmedia/github/amazon/Frequency)
+## 2. [Frequency](https://serp.ly/amazon/Frequency)
 
 ![Frequency](https://image.tmdb.org/t/p/original/aFuw2yow5Og0e2M7uEHQtpS5GPz.jpg)
 
@@ -123,7 +123,7 @@ John Sullivan, a police officer, gets a second chance to speak to his father, 30
 <hr>
 
 
-## 3. [The Santa Clause 2](https://serp.ly/@serpmedia/github/amazon/The+Santa+Clause+2)
+## 3. [The Santa Clause 2](https://serp.ly/amazon/The+Santa+Clause+2)
 
 ![The Santa Clause 2](https://image.tmdb.org/t/p/original/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg)
 
@@ -163,7 +163,7 @@ Join Scott Calvin, the man who became Santa Claus, as he faces his biggest chall
 <hr>
 
 
-## 4. [Running Scared](https://serp.ly/@serpmedia/github/amazon/Running+Scared)
+## 4. [Running Scared](https://serp.ly/amazon/Running+Scared)
 
 ![Running Scared](https://image.tmdb.org/t/p/original/wVlwZbwJlI5C33STslTyVNRGjg6.jpg)
 
@@ -203,7 +203,7 @@ When a low-ranking thug is tasked with disposing of a gun that killed corrupt co
 <hr>
 
 
-## 5. [The Santa Clause 3: The Escape Clause](https://serp.ly/@serpmedia/github/amazon/The+Santa+Clause+3%3A+The+Escape+Clause)
+## 5. [The Santa Clause 3: The Escape Clause](https://serp.ly/amazon/The+Santa+Clause+3%3A+The+Escape+Clause)
 
 ![The Santa Clause 3: The Escape Clause](https://image.tmdb.org/t/p/original/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg)
 
@@ -243,7 +243,7 @@ Join Santa and Mrs. Claus at the North Pole, where an emergency meeting with the
 <hr>
 
 
-## 6. [Gia](https://serp.ly/@serpmedia/github/amazon/Gia)
+## 6. [Gia](https://serp.ly/amazon/Gia)
 
 ![Gia](https://image.tmdb.org/t/p/original/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg)
 
@@ -279,7 +279,7 @@ Traveling to New York City with dreams of becoming a fashion model, Gia Carangi 
 <hr>
 
 
-## 7. [Nurse Betty](https://serp.ly/@serpmedia/github/amazon/Nurse+Betty)
+## 7. [Nurse Betty](https://serp.ly/amazon/Nurse+Betty)
 
 ![Nurse Betty](https://image.tmdb.org/t/p/original/1OCHR9z9k7go669AsShOkTj4CFb.jpg)
 
@@ -320,7 +320,7 @@ In a small Kansas town, a waitress named Betty becomes obsessed with reuniting h
 <hr>
 
 
-## 8. [Witch Hunt](https://serp.ly/@serpmedia/github/amazon/Witch+Hunt)
+## 8. [Witch Hunt](https://serp.ly/amazon/Witch+Hunt)
 
 ![Witch Hunt](https://image.tmdb.org/t/p/original/vHKlIci8f38GaAd361EW0VSx91k.jpg)
 
@@ -358,7 +358,7 @@ In a modern America where witches walk among us and their magic is outlawed, a s
 <hr>
 
 
-## 9. [Queen Bees](https://serp.ly/@serpmedia/github/amazon/Queen+Bees)
+## 9. [Queen Bees](https://serp.ly/amazon/Queen+Bees)
 
 ![Queen Bees](https://image.tmdb.org/t/p/original/peYRpielBbRHMGNYJnWyCsG7apA.jpg)
 
@@ -394,7 +394,7 @@ When Helen, an independent widow, moves into the Pine Grove Senior Community, sh
 <hr>
 
 
-## 10. [Kristin's Christmas Past](https://serp.ly/@serpmedia/github/amazon/Kristin%27s+Christmas+Past)
+## 10. [Kristin's Christmas Past](https://serp.ly/amazon/Kristin%27s+Christmas+Past)
 
 ![Kristin's Christmas Past](https://image.tmdb.org/t/p/original/olbZsVg71mQpImzZEMxITlwTNMg.jpg)
 
@@ -432,7 +432,7 @@ Given the opportunity to revisit her estranged family on Christmas Eve, 1996, Kr
 <hr>
 
 
-## 11. [Molly](https://serp.ly/@serpmedia/github/amazon/Molly)
+## 11. [Molly](https://serp.ly/amazon/Molly)
 
 ![Molly](https://image.tmdb.org/t/p/original/bKyRoZ8uutxdCMMmrVoivZJ0Mc7.jpg)
 
@@ -470,7 +470,7 @@ Molly McKay is a twenty-something woman with autism who has lived in an institut
 <hr>
 
 
-## 12. [The Christmas Club](https://serp.ly/@serpmedia/github/amazon/The+Christmas+Club)
+## 12. [The Christmas Club](https://serp.ly/amazon/The+Christmas+Club)
 
 ![The Christmas Club](https://image.tmdb.org/t/p/original/sXOTaZi8uo6DLJ4G0qiL8lYgV6K.jpg)
 
@@ -504,7 +504,7 @@ In the heartwarming holiday tale "The Christmas Club, " two busy strangers meet 
 <hr>
 
 
-## 13. [3: The Dale Earnhardt Story](https://serp.ly/@serpmedia/github/amazon/3%3A+The+Dale+Earnhardt+Story)
+## 13. [3: The Dale Earnhardt Story](https://serp.ly/amazon/3%3A+The+Dale+Earnhardt+Story)
 
 ![3: The Dale Earnhardt Story](https://image.tmdb.org/t/p/original/htyvtvpWgGjJarRKqrXkUpSIKKw.jpg)
 
@@ -538,7 +538,7 @@ In the heartwarming holiday tale "The Christmas Club, " two busy strangers meet 
 <hr>
 
 
-## 14. [What We Found](https://serp.ly/@serpmedia/github/amazon/What+We+Found)
+## 14. [What We Found](https://serp.ly/amazon/What+We+Found)
 
 ![What We Found](https://image.tmdb.org/t/p/original/7AfgLRtFAEWW9GDC1ahHNAMtmQc.jpg)
 
@@ -572,7 +572,7 @@ Marcus and Holly start their freshman year at a challenging public high school i
 <hr>
 
 
-## 15. [Prosecuting Casey Anthony](https://serp.ly/@serpmedia/github/amazon/Prosecuting+Casey+Anthony)
+## 15. [Prosecuting Casey Anthony](https://serp.ly/amazon/Prosecuting+Casey+Anthony)
 
 ![Prosecuting Casey Anthony](https://image.tmdb.org/t/p/original/bDdKlweMcTQVKXOs9aepO7V5Mkn.jpg)
 
@@ -608,7 +608,7 @@ When Caylee Anthony's mother, Casey, was acquitted of killing her daughter, it s
 <hr>
 
 
-## 16. [Answers to Nothing](https://serp.ly/@serpmedia/github/amazon/Answers+to+Nothing)
+## 16. [Answers to Nothing](https://serp.ly/amazon/Answers+to+Nothing)
 
 ![Answers to Nothing](https://image.tmdb.org/t/p/original/aX7ZGiuNFiUyZDhNuNkHd84g1k4.jpg)
 
@@ -642,7 +642,7 @@ When a young girl goes missing in Los Angeles, her disappearance sets off a chai
 <hr>
 
 
-## 17. [Aliens Abducted My Parents and Now I Feel Kinda Left Out](https://serp.ly/@serpmedia/github/amazon/Aliens+Abducted+My+Parents+and+Now+I+Feel+Kinda+Left+Out)
+## 17. [Aliens Abducted My Parents and Now I Feel Kinda Left Out](https://serp.ly/amazon/Aliens+Abducted+My+Parents+and+Now+I+Feel+Kinda+Left+Out)
 
 ![Aliens Abducted My Parents and Now I Feel Kinda Left Out](https://image.tmdb.org/t/p/original/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg)
 
@@ -678,7 +678,7 @@ Its new in town and life seems over until she meets her space-obsessed neighbor 
 <hr>
 
 
-## 18. [The Linda McCartney Story](https://serp.ly/@serpmedia/github/amazon/The+Linda+McCartney+Story)
+## 18. [The Linda McCartney Story](https://serp.ly/amazon/The+Linda+McCartney+Story)
 
 ![The Linda McCartney Story](https://image.tmdb.org/t/p/original/rspIfMZYPR6DDrGdUldjdeaVCe3.jpg)
 
@@ -712,7 +712,7 @@ When Linda Eastman lands a job at Rolling Stone Magazine, she stumbles into a ro
 <hr>
 
 
-## 19. [When Time Got Louder](https://serp.ly/@serpmedia/github/amazon/When+Time+Got+Louder)
+## 19. [When Time Got Louder](https://serp.ly/amazon/When+Time+Got+Louder)
 
 ![When Time Got Louder](https://image.tmdb.org/t/p/original/2PlRCaaxNoQ4m2ZAlK0Gvgx41Ga.jpg)
 
@@ -746,7 +746,7 @@ When Abbie heads off to college, she leaves behind her parents and her brother w
 <hr>
 
 
-## 20. [Double Bang](https://serp.ly/@serpmedia/github/amazon/Double+Bang)
+## 20. [Double Bang](https://serp.ly/amazon/Double+Bang)
 
 ![Double Bang](https://image.tmdb.org/t/p/original/CPsMFypMeHDNNutcWc9UrJYCG1.jpg)
 
@@ -782,7 +782,7 @@ When a principled police detective is pulled into a web of murder and corruption
 <hr>
 
 
-## 21. [Sound of Hope: The Story of Possum Trot](https://serp.ly/@serpmedia/github/amazon/Sound+of+Hope%3A+The+Story+of+Possum+Trot)
+## 21. [Sound of Hope: The Story of Possum Trot](https://serp.ly/amazon/Sound+of+Hope%3A+The+Story+of+Possum+Trot)
 
 ![Sound of Hope: The Story of Possum Trot](https://image.tmdb.org/t/p/original/fj8zjuUND04DQ49gfQL2OUGWMH3.jpg)
 
@@ -819,7 +819,7 @@ In the rural East Texas community of Possum Trot, an extraordinary initiative un
 <hr>
 
 
-## 22. [A Family Is a Family Is a Family: A Rosie O'Donnell Celebration](https://serp.ly/@serpmedia/github/amazon/A+Family+Is+a+Family+Is+a+Family%3A+A+Rosie+O%27Donnell+Celebration)
+## 22. [A Family Is a Family Is a Family: A Rosie O'Donnell Celebration](https://serp.ly/amazon/A+Family+Is+a+Family+Is+a+Family%3A+A+Rosie+O%27Donnell+Celebration)
 
 ![A Family Is a Family Is a Family: A Rosie O'Donnell Celebration](https://image.tmdb.org/t/p/original/6zvEfpSPPrJaK5wvcbk1poGEpoW.jpg)
 
@@ -850,7 +850,7 @@ In the rural East Texas community of Possum Trot, an extraordinary initiative un
 <hr>
 
 
-## 23. [Man and Boy](https://serp.ly/@serpmedia/github/amazon/Man+and+Boy)
+## 23. [Man and Boy](https://serp.ly/amazon/Man+and+Boy)
 
 ![Man and Boy](https://image.tmdb.org/t/p/original/sZ1eerABr6KfoHrlEYBtSF0Fb5E.jpg)
 
@@ -884,7 +884,7 @@ When television executive Harry has a one-night stand, his wife Gina walks out o
 <hr>
 
 
-## 24. [Hollywood Palms](https://serp.ly/@serpmedia/github/amazon/Hollywood+Palms)
+## 24. [Hollywood Palms](https://serp.ly/amazon/Hollywood+Palms)
 
 ![Hollywood Palms](https://image.tmdb.org/t/p/original/oEIqbMP9cTkfaoKr2gaV4KFMutZ.jpg)
 
@@ -918,7 +918,7 @@ When television executive Harry has a one-night stand, his wife Gina walks out o
 <hr>
 
 
-## 25. [Getting LOST](https://serp.ly/@serpmedia/github/amazon/Getting+LOST)
+## 25. [Getting LOST](https://serp.ly/amazon/Getting+LOST)
 
 ![Getting LOST](https://image.tmdb.org/t/p/original/9lv9Bb4L4pZjeZigTpZYZ2uY5LC.jpg)
 
@@ -943,7 +943,7 @@ When television executive Harry has a one-night stand, his wife Gina walks out o
 <hr>
 
 
-## 26. [Comfort, Texas](https://serp.ly/@serpmedia/github/amazon/Comfort%2C+Texas)
+## 26. [Comfort, Texas](https://serp.ly/amazon/Comfort%2C+Texas)
 
 <br>
 
@@ -967,7 +967,7 @@ When television executive Harry has a one-night stand, his wife Gina walks out o
 <hr>
 
 
-## 27. [Gramercy Park](https://serp.ly/@serpmedia/github/amazon/Gramercy+Park)
+## 27. [Gramercy Park](https://serp.ly/amazon/Gramercy+Park)
 
 <br>
 
@@ -993,7 +993,7 @@ When television executive Harry has a one-night stand, his wife Gina walks out o
 <hr>
 
 
-## 28. [Kepley](https://serp.ly/@serpmedia/github/amazon/Kepley)
+## 28. [Kepley](https://serp.ly/amazon/Kepley)
 
 ![Kepley](https://image.tmdb.org/t/p/original/1wlMykqaF2q0PbQM8LdAtX6F54c.jpg)
 
@@ -1018,7 +1018,7 @@ When a seasoned detective takes on a missing persons case, her careful investiga
 <hr>
 
 
-## 29. [The Huntsman](https://serp.ly/@serpmedia/github/amazon/The+Huntsman)
+## 29. [The Huntsman](https://serp.ly/amazon/The+Huntsman)
 
 <br>
 
@@ -1042,7 +1042,7 @@ After six women are brutally murdered, a reserved ICU nurse agrees to help a rec
 <hr>
 
 
-## 1. [Law & Order: Special Victims Unit](https://serp.ly/@serpmedia/github/amazon/Law+%26+Order%3A+Special+Victims+Unit)
+## 1. [Law & Order: Special Victims Unit](https://serp.ly/amazon/Law+%26+Order%3A+Special+Victims+Unit)
 
 ![Law & Order: Special Victims Unit](https://image.tmdb.org/t/p/original/onmSVwYsPMYtO8OjLdjS8FfRNKb.jpg)
 
@@ -1088,7 +1088,7 @@ The dedicated detectives of the Special Victims Unit investigate the most heinou
 <hr>
 
 
-## 2. [House](https://serp.ly/@serpmedia/github/amazon/House)
+## 2. [House](https://serp.ly/amazon/House)
 
 ![House](https://image.tmdb.org/t/p/original/wfxsizfb7NV9uwy9QCqqvfR20F2.jpg)
 
@@ -1132,7 +1132,7 @@ When it comes to medical mysteries, Dr. Gregory House is the master detective. T
 <hr>
 
 
-## 3. [The Good Doctor](https://serp.ly/@serpmedia/github/amazon/The+Good+Doctor)
+## 3. [The Good Doctor](https://serp.ly/amazon/The+Good+Doctor)
 
 ![The Good Doctor](https://image.tmdb.org/t/p/original/53P8oHo9cfOsgb1cLxBi4pFY0ja.jpg)
 
@@ -1176,7 +1176,7 @@ When a brilliant young surgeon with autism and savant syndrome joins a prestigio
 <hr>
 
 
-## 4. [CSI: Crime Scene Investigation](https://serp.ly/@serpmedia/github/amazon/CSI%3A+Crime+Scene+Investigation)
+## 4. [CSI: Crime Scene Investigation](https://serp.ly/amazon/CSI%3A+Crime+Scene+Investigation)
 
 ![CSI: Crime Scene Investigation](https://image.tmdb.org/t/p/original/i5hmoRjHNWady4AtAGICTUXknKH.jpg)
 
@@ -1218,7 +1218,7 @@ Join a Las Vegas team of forensic investigators as they piece together the evide
 <hr>
 
 
-## 5. [Once Upon a Time](https://serp.ly/@serpmedia/github/amazon/Once+Upon+a+Time)
+## 5. [Once Upon a Time](https://serp.ly/amazon/Once+Upon+a+Time)
 
 ![Once Upon a Time](https://image.tmdb.org/t/p/original/u95scYysMZvBoekSLmMNJjeqXcY.jpg)
 
@@ -1262,7 +1262,7 @@ Once Upon a Time unfolds in a tranquil Maine town where fairy tale characters dw
 <hr>
 
 
-## 6. [Lost](https://serp.ly/@serpmedia/github/amazon/Lost)
+## 6. [Lost](https://serp.ly/amazon/Lost)
 
 ![Lost](https://image.tmdb.org/t/p/original/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg)
 
@@ -1306,7 +1306,7 @@ When a plane crashes into the ocean, the survivors find themselves stranded on a
 <hr>
 
 
-## 7. [The Expanse](https://serp.ly/@serpmedia/github/amazon/The+Expanse)
+## 7. [The Expanse](https://serp.ly/amazon/The+Expanse)
 
 ![The Expanse](https://image.tmdb.org/t/p/original/8djpxDeWpINnGhjpFXQjnBe6zbx.jpg)
 
@@ -1350,7 +1350,7 @@ In this futuristic thriller, a missing young woman leads a hardened detective an
 <hr>
 
 
-## 8. [JAG](https://serp.ly/@serpmedia/github/amazon/JAG)
+## 8. [JAG](https://serp.ly/amazon/JAG)
 
 ![JAG](https://image.tmdb.org/t/p/original/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg)
 
@@ -1394,7 +1394,7 @@ When a military pilot becomes a lawyer, he joins an elite legal team that defend
 <hr>
 
 
-## 9. [The View](https://serp.ly/@serpmedia/github/amazon/The+View)
+## 9. [The View](https://serp.ly/amazon/The+View)
 
 ![The View](https://image.tmdb.org/t/p/original/zn5ZtKXYo8XOoXUgtQxw7q2CjVt.jpg)
 
@@ -1438,7 +1438,7 @@ Join the nation's most iconic morning chatfest where Whoopi Goldberg leads an un
 <hr>
 
 
-## 10. [Revolution](https://serp.ly/@serpmedia/github/amazon/Revolution)
+## 10. [Revolution](https://serp.ly/amazon/Revolution)
 
 ![Revolution](https://image.tmdb.org/t/p/original/pNyg4V6kuDstSSxk6Q9GgaBn4B8.jpg)
 
@@ -1484,7 +1484,7 @@ When electricity stops working and the world spirals into darkness, a young woma
 <hr>
 
 
-## 11. [Blindspot](https://serp.ly/@serpmedia/github/amazon/Blindspot)
+## 11. [Blindspot](https://serp.ly/amazon/Blindspot)
 
 ![Blindspot](https://image.tmdb.org/t/p/original/4AeYzamQmd9Fa6hawDmYKbdvBSe.jpg)
 
@@ -1528,7 +1528,7 @@ When a mysterious woman is found in Times Square with no memory of her past, the
 <hr>
 
 
-## 12. [Spin City](https://serp.ly/@serpmedia/github/amazon/Spin+City)
+## 12. [Spin City](https://serp.ly/amazon/Spin+City)
 
 ![Spin City](https://image.tmdb.org/t/p/original/3Ksmbpg33PigXKWncD8rFMl24vF.jpg)
 
@@ -1570,7 +1570,7 @@ When workaholic Mike Flaherty becomes Deputy Mayor of New York City, he transfor
 <hr>
 
 
-## 13. [Boston Legal](https://serp.ly/@serpmedia/github/amazon/Boston+Legal)
+## 13. [Boston Legal](https://serp.ly/amazon/Boston+Legal)
 
 ![Boston Legal](https://image.tmdb.org/t/p/original/eQyJoKFGUTlytx9f2zNjqmMOR82.jpg)
 
@@ -1614,7 +1614,7 @@ When brilliant but emotionally challenging lawyers meet in an upscale Boston law
 <hr>
 
 
-## 14. [V](https://serp.ly/@serpmedia/github/amazon/V)
+## 14. [V](https://serp.ly/amazon/V)
 
 ![V](https://image.tmdb.org/t/p/original/b2w3vq0uvfmahS6dB41WeWByhVy.jpg)
 
@@ -1658,7 +1658,7 @@ In this 2009 reimagining of the '80s miniseries, humanity's first contact with a
 <hr>
 
 
-## 15. [ER](https://serp.ly/@serpmedia/github/amazon/ER)
+## 15. [ER](https://serp.ly/amazon/ER)
 
 ![ER](https://image.tmdb.org/t/p/original/rAxd8H0zGH61RWMPVZiR9zT4Nqk.jpg)
 
@@ -1702,7 +1702,7 @@ ER dives into the high-stakes world of emergency medicine through the eyes of th
 <hr>
 
 
-## 16. [Everwood](https://serp.ly/@serpmedia/github/amazon/Everwood)
+## 16. [Everwood](https://serp.ly/amazon/Everwood)
 
 ![Everwood](https://image.tmdb.org/t/p/original/4zmuA2Ql1QdUtw9OM6MdmtXnZEF.jpg)
 
@@ -1744,7 +1744,7 @@ When world-class neurosurgeon Dr. Andrew Brown loses his wife, he makes a bold m
 <hr>
 
 
-## 17. [FBI: International](https://serp.ly/@serpmedia/github/amazon/FBI%3A+International)
+## 17. [FBI: International](https://serp.ly/amazon/FBI%3A+International)
 
 ![FBI: International](https://image.tmdb.org/t/p/original/smHB9FDqxdJePYwE2aUyIkrNdcA.jpg)
 
@@ -1788,7 +1788,7 @@ When American citizens need protection abroad, a specialized team of FBI agents 
 <hr>
 
 
-## 18. [Outer Banks](https://serp.ly/@serpmedia/github/amazon/Outer+Banks)
+## 18. [Outer Banks](https://serp.ly/amazon/Outer+Banks)
 
 ![Outer Banks](https://image.tmdb.org/t/p/original/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg)
 
@@ -1834,7 +1834,7 @@ When a group of Outer Banks teens discovers a long-buried secret, it kicks off a
 <hr>
 
 
-## 19. [Crossing Lines](https://serp.ly/@serpmedia/github/amazon/Crossing+Lines)
+## 19. [Crossing Lines](https://serp.ly/amazon/Crossing+Lines)
 
 ![Crossing Lines](https://image.tmdb.org/t/p/original/ow8RQrZJUQfOeR5alsj9OAXoxic.jpg)
 
@@ -1878,7 +1878,7 @@ In a world where globalization has erased traditional borders, a elite team of i
 <hr>
 
 
-## 20. [The Sentinel](https://serp.ly/@serpmedia/github/amazon/The+Sentinel)
+## 20. [The Sentinel](https://serp.ly/amazon/The+Sentinel)
 
 ![The Sentinel](https://image.tmdb.org/t/p/original/cj1moyLJKpmvR0fR9AqsZuXYxAm.jpg)
 
@@ -1922,7 +1922,7 @@ In the rugged jungles of Peru, Detective Jim Ellison transformed from a ordinary
 <hr>
 
 
-## 21. [The Santa Clauses](https://serp.ly/@serpmedia/github/amazon/The+Santa+Clauses)
+## 21. [The Santa Clauses](https://serp.ly/amazon/The+Santa+Clauses)
 
 ![The Santa Clauses](https://image.tmdb.org/t/p/original/nikImY1rz7ItlZD8qeUjNWx18u1.jpg)
 
@@ -1968,7 +1968,7 @@ After nearly three decades of being Santa Claus, Scott Calvin's magic begins to 
 <hr>
 
 
-## 22. [Dead of Summer](https://serp.ly/@serpmedia/github/amazon/Dead+of+Summer)
+## 22. [Dead of Summer](https://serp.ly/amazon/Dead+of+Summer)
 
 ![Dead of Summer](https://image.tmdb.org/t/p/original/aYnBbx6VA9soKqFZcj0iEwGM47B.jpg)
 
@@ -2010,7 +2010,7 @@ Set in the sun-drenched woods of Camp Clearwater, this 1980s series follows a gr
 <hr>
 
 
-## 23. [Time of Your Life](https://serp.ly/@serpmedia/github/amazon/Time+of+Your+Life)
+## 23. [Time of Your Life](https://serp.ly/amazon/Time+of+Your+Life)
 
 ![Time of Your Life](https://image.tmdb.org/t/p/original/cNJuxpPhWlMVYCQUgKVUUyvsy4G.jpg)
 
@@ -2054,7 +2054,7 @@ Sarah Reeves Merrin trades her small-town life for the bright lights of New York
 <hr>
 
 
-## 24. [First Kill](https://serp.ly/@serpmedia/github/amazon/First+Kill)
+## 24. [First Kill](https://serp.ly/amazon/First+Kill)
 
 ![First Kill](https://image.tmdb.org/t/p/original/hwSy1vVaRzV70ZvAEsl6FGOHNlH.jpg)
 
@@ -2098,7 +2098,7 @@ When supernatural beings walk among us, high school becomes a battlefield betwee
 <hr>
 
 
-## 25. [Face Off](https://serp.ly/@serpmedia/github/amazon/Face+Off)
+## 25. [Face Off](https://serp.ly/amazon/Face+Off)
 
 ![Face Off](https://image.tmdb.org/t/p/original/rlEzwvdlBJ0PvUVr4nzZbau9yKX.jpg)
 
@@ -2140,7 +2140,7 @@ When supernatural beings walk among us, high school becomes a battlefield betwee
 <hr>
 
 
-## 26. [Fire Co. 132](https://serp.ly/@serpmedia/github/amazon/Fire+Co.+132)
+## 26. [Fire Co. 132](https://serp.ly/amazon/Fire+Co.+132)
 
 ![Fire Co. 132](https://image.tmdb.org/t/p/original/3IZ2fkdfs8WmK01TdHXrPQDchwZ.jpg)
 
@@ -2179,7 +2179,7 @@ When firefighters aren't battling blazes, what do they get up to? Join the crew 
 <hr>
 
 
-## 27. [The Lyon's Den](https://serp.ly/@serpmedia/github/amazon/The+Lyon%27s+Den)
+## 27. [The Lyon's Den](https://serp.ly/amazon/The+Lyon%27s+Den)
 
 ![The Lyon's Den](https://image.tmdb.org/t/p/original/jGawQXrQq6TsaFleNoCFmpyQuPh.jpg)
 
@@ -2221,7 +2221,7 @@ In "The Lyon's Den," John "Jack" Turner emerges as a lawyer from a political lin
 <hr>
 
 
-## 28. [The Beast](https://serp.ly/@serpmedia/github/amazon/The+Beast)
+## 28. [The Beast](https://serp.ly/amazon/The+Beast)
 
 ![The Beast](https://image.tmdb.org/t/p/original/jQZZOvY9UoyUKtJ5N7I4jRklQQ.jpg)
 
@@ -2263,7 +2263,7 @@ When a mysterious creature surfaces in New York City, it kicks off one of the mo
 <hr>
 
 
-## 29. [Significant Others](https://serp.ly/@serpmedia/github/amazon/Significant+Others)
+## 29. [Significant Others](https://serp.ly/amazon/Significant+Others)
 
 ![Significant Others](https://image.tmdb.org/t/p/original/49S7DM3Helq1JcjbY83mcDqVrXj.jpg)
 
@@ -2302,7 +2302,7 @@ When successful executive Tom Schwab suddenly loses his memory, he wakes up in a
 <hr>
 
 
-## 30. [Whatever Turns You On](https://serp.ly/@serpmedia/github/amazon/Whatever+Turns+You+On)
+## 30. [Whatever Turns You On](https://serp.ly/amazon/Whatever+Turns+You+On)
 
 ![Whatever Turns You On](https://image.tmdb.org/t/p/original/uGUlQkfDxUSpwMF9DcthirTATed.jpg)
 

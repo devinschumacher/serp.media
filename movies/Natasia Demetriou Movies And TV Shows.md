@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Eurovision Song Contest: The Story of Fire Saga](https://serp.ly/@serpmedia/github/amazon/Eurovision+Song+Contest%3A+The+Story+of+Fire+Saga)
+## 1. [Eurovision Song Contest: The Story of Fire Saga](https://serp.ly/amazon/Eurovision+Song+Contest%3A+The+Story+of+Fire+Saga)
 
 ![Eurovision Song Contest: The Story of Fire Saga](https://image.tmdb.org/t/p/original/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg)
 
@@ -73,7 +73,7 @@ When two small-town musicians chase their pop star dreams at the Eurovision Song
 <hr>
 
 
-## 2. [Teenage Mutant Ninja Turtles: Mutant Mayhem](https://serp.ly/@serpmedia/github/amazon/Teenage+Mutant+Ninja+Turtles%3A+Mutant+Mayhem)
+## 2. [Teenage Mutant Ninja Turtles: Mutant Mayhem](https://serp.ly/amazon/Teenage+Mutant+Ninja+Turtles%3A+Mutant+Mayhem)
 
 ![Teenage Mutant Ninja Turtles: Mutant Mayhem](https://image.tmdb.org/t/p/original/4oLd3iipWYgX4HatkJ8Bi65Ck3P.jpg)
 
@@ -113,7 +113,7 @@ After years of being sheltered from the human world, the Turtle brothers set out
 <hr>
 
 
-## 3. [Orion and the Dark](https://serp.ly/@serpmedia/github/amazon/Orion+and+the+Dark)
+## 3. [Orion and the Dark](https://serp.ly/amazon/Orion+and+the+Dark)
 
 ![Orion and the Dark](https://image.tmdb.org/t/p/original/k6iHs4daxm0RQqFQsE8oE5wWJjj.jpg)
 
@@ -149,7 +149,7 @@ When a mysterious creature appears in the night, it transforms a boy's fears int
 <hr>
 
 
-## 4. [The Magician's Elephant](https://serp.ly/@serpmedia/github/amazon/The+Magician%27s+Elephant)
+## 4. [The Magician's Elephant](https://serp.ly/amazon/The+Magician%27s+Elephant)
 
 ![The Magician's Elephant](https://image.tmdb.org/t/p/original/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg)
 
@@ -188,7 +188,7 @@ In a town where magic meets reality, young Peter's desperate search for his lost
 <hr>
 
 
-## 5. [The Festival](https://serp.ly/@serpmedia/github/amazon/The+Festival)
+## 5. [The Festival](https://serp.ly/amazon/The+Festival)
 
 ![The Festival](https://image.tmdb.org/t/p/original/zokQMbuBst9z0dP5UKi9EkCSSnV.jpg)
 
@@ -222,7 +222,7 @@ Nick's world changes when his girlfriend makes her exit, but his best friend Sha
 <hr>
 
 
-## 6. [Mr. Bean: Funeral](https://serp.ly/@serpmedia/github/amazon/Mr.+Bean%3A+Funeral)
+## 6. [Mr. Bean: Funeral](https://serp.ly/amazon/Mr.+Bean%3A+Funeral)
 
 ![Mr. Bean: Funeral](https://image.tmdb.org/t/p/original/hr4JGvW3JJm5VnmuVl7BMNK5PRf.jpg)
 
@@ -256,7 +256,7 @@ Join Mr. Bean as he returns in a special sketch celebrating his 25th anniversary
 <hr>
 
 
-## 7. [Man of the Hour](https://serp.ly/@serpmedia/github/amazon/Man+of+the+Hour)
+## 7. [Man of the Hour](https://serp.ly/amazon/Man+of+the+Hour)
 
 ![Man of the Hour](https://image.tmdb.org/t/p/original/5P97UryM0uDtySz88ktUmvYbyK2.jpg)
 
@@ -290,7 +290,7 @@ Gemma receives a mysterious invitation to the birthday party of an enigmatic mil
 <hr>
 
 
-## 8. [The Road to Brexit](https://serp.ly/@serpmedia/github/amazon/The+Road+to+Brexit)
+## 8. [The Road to Brexit](https://serp.ly/amazon/The+Road+to+Brexit)
 
 ![The Road to Brexit](https://image.tmdb.org/t/p/original/7cPVVxY0VmoMBM9NzHZPJhk1Zs3.jpg)
 
@@ -324,7 +324,7 @@ When the Article 50 deadline passes, join rogue historian Michael Squeamish on a
 <hr>
 
 
-## 9. [Aria](https://serp.ly/@serpmedia/github/amazon/Aria)
+## 9. [Aria](https://serp.ly/amazon/Aria)
 
 ![Aria](https://image.tmdb.org/t/p/original/sSvUGL2jZfWTQ5fTu8fpiOSOslm.jpg)
 
@@ -359,7 +359,7 @@ When Jenny and Tom install a new Aria smart security system in their home, it ki
 <hr>
 
 
-## 1. [Late Night with Seth Meyers](https://serp.ly/@serpmedia/github/amazon/Late+Night+with+Seth+Meyers)
+## 1. [Late Night with Seth Meyers](https://serp.ly/amazon/Late+Night+with+Seth+Meyers)
 
 ![Late Night with Seth Meyers](https://image.tmdb.org/t/p/original/g6MrJxNaHYGYU7Sxo72e5B8gKOV.jpg)
 
@@ -405,7 +405,7 @@ When Seth Meyers steps away from his Emmy-winning role as "SNL's" longest-servin
 <hr>
 
 
-## 2. [8 Out of 10 Cats Does Countdown](https://serp.ly/@serpmedia/github/amazon/8+Out+of+10+Cats+Does+Countdown)
+## 2. [8 Out of 10 Cats Does Countdown](https://serp.ly/amazon/8+Out+of+10+Cats+Does+Countdown)
 
 ![8 Out of 10 Cats Does Countdown](https://image.tmdb.org/t/p/original/domE5WHGW7f3Fh8sYQszPtEmwSL.jpg)
 
@@ -449,7 +449,7 @@ When the crew of 8 Out of 10 Cats takes over the words and numbers quiz, their p
 <hr>
 
 
-## 3. [8 Out of 10 Cats](https://serp.ly/@serpmedia/github/amazon/8+Out+of+10+Cats)
+## 3. [8 Out of 10 Cats](https://serp.ly/amazon/8+Out+of+10+Cats)
 
 ![8 Out of 10 Cats](https://image.tmdb.org/t/p/original/c7XHi9Grxd2b0EIkX9kPEl2Aq5Z.jpg)
 
@@ -491,7 +491,7 @@ When the crew of 8 Out of 10 Cats takes over the words and numbers quiz, their p
 <hr>
 
 
-## 4. [What We Do in the Shadows](https://serp.ly/@serpmedia/github/amazon/What+We+Do+in+the+Shadows)
+## 4. [What We Do in the Shadows](https://serp.ly/amazon/What+We+Do+in+the+Shadows)
 
 ![What We Do in the Shadows](https://image.tmdb.org/t/p/original/chckIPxBbvyFCcCFz8VPHgWCIHL.jpg)
 
@@ -537,7 +537,7 @@ When it comes to vampire shows, this Staten Island tale stands out with its docu
 <hr>
 
 
-## 5. [The Cuphead Show!](https://serp.ly/@serpmedia/github/amazon/The+Cuphead+Show%21)
+## 5. [The Cuphead Show!](https://serp.ly/amazon/The+Cuphead+Show%21)
 
 ![The Cuphead Show!](https://image.tmdb.org/t/p/original/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg)
 
@@ -579,7 +579,7 @@ Join the adventurous Cuphead and his brother Mugman in this animated series base
 <hr>
 
 
-## 6. [The Great British Bake Off: An Extra Slice](https://serp.ly/@serpmedia/github/amazon/The+Great+British+Bake+Off%3A+An+Extra+Slice)
+## 6. [The Great British Bake Off: An Extra Slice](https://serp.ly/amazon/The+Great+British+Bake+Off%3A+An+Extra+Slice)
 
 ![The Great British Bake Off: An Extra Slice](https://image.tmdb.org/t/p/original/t0nPEXPG0MBjlMCTH2oUkVso9NN.jpg)
 
@@ -623,7 +623,7 @@ Join the adventurous Cuphead and his brother Mugman in this animated series base
 <hr>
 
 
-## 7. [Dara O Briain's Go 8 Bit](https://serp.ly/@serpmedia/github/amazon/Dara+O+Briain%27s+Go+8+Bit)
+## 7. [Dara O Briain's Go 8 Bit](https://serp.ly/amazon/Dara+O+Briain%27s+Go+8+Bit)
 
 ![Dara O Briain's Go 8 Bit](https://image.tmdb.org/t/p/original/zIryc0AH0l45mNyOByXDouYcmEn.jpg)
 
@@ -665,7 +665,7 @@ Join gaming enthusiast Dara O Briain for 26 episodes of digital fun. As team cap
 <hr>
 
 
-## 8. [Live at the Moth Club](https://serp.ly/@serpmedia/github/amazon/Live+at+the+Moth+Club)
+## 8. [Live at the Moth Club](https://serp.ly/amazon/Live+at+the+Moth+Club)
 
 ![Live at the Moth Club](https://image.tmdb.org/t/p/original/oPAZVKqwqvsKI3Uj9FrvY0Z31hW.jpg)
 
@@ -706,7 +706,7 @@ Join gaming enthusiast Dara O Briain for 26 episodes of digital fun. As team cap
 <hr>
 
 
-## 9. [Toast of Tinseltown](https://serp.ly/@serpmedia/github/amazon/Toast+of+Tinseltown)
+## 9. [Toast of Tinseltown](https://serp.ly/amazon/Toast+of+Tinseltown)
 
 ![Toast of Tinseltown](https://image.tmdb.org/t/p/original/uizUt2k0ygFPRXkchapN7UYOyAw.jpg)
 
@@ -750,7 +750,7 @@ Join the painfully self-aware Steven Toast as he plants himself in Hollywood, co
 <hr>
 
 
-## 10. [Urban Myths](https://serp.ly/@serpmedia/github/amazon/Urban+Myths)
+## 10. [Urban Myths](https://serp.ly/amazon/Urban+Myths)
 
 ![Urban Myths](https://image.tmdb.org/t/p/original/aiL7kSSL0XNh4j4TIE4pO97cLZY.jpg)
 
@@ -794,7 +794,7 @@ Urban Myths explores stories that have become part of urban folklore, questionin
 <hr>
 
 
-## 11. [Kite Man: Hell Yeah!](https://serp.ly/@serpmedia/github/amazon/Kite+Man%3A+Hell+Yeah%21)
+## 11. [Kite Man: Hell Yeah!](https://serp.ly/amazon/Kite+Man%3A+Hell+Yeah%21)
 
 ![Kite Man: Hell Yeah!](https://image.tmdb.org/t/p/original/cebce4aQiO4gRLiILxoZbzWUoEJ.jpg)
 
@@ -835,7 +835,7 @@ When the lovable loser Kite Man runs a Gotham dive bar with his new squeeze, Gol
 <hr>
 
 
-## 12. [Stath Lets Flats](https://serp.ly/@serpmedia/github/amazon/Stath+Lets+Flats)
+## 12. [Stath Lets Flats](https://serp.ly/amazon/Stath+Lets+Flats)
 
 ![Stath Lets Flats](https://image.tmdb.org/t/p/original/6jsY1d4IfHa9ytsgWn1lxSMdMAb.jpg)
 
@@ -877,7 +877,7 @@ When incompetent Greek-Cypriot lettings agent Stath runs a family business with 
 <hr>
 
 
-## 13. [Rob Beckett's Smart TV](https://serp.ly/@serpmedia/github/amazon/Rob+Beckett%27s+Smart+TV)
+## 13. [Rob Beckett's Smart TV](https://serp.ly/amazon/Rob+Beckett%27s+Smart+TV)
 
 ![Rob Beckett's Smart TV](https://image.tmdb.org/t/p/original/eJBK5rbafUvtW9zLBh1mptYLUNj.jpg)
 
@@ -920,7 +920,7 @@ A quiz about TV, on TV.
 <hr>
 
 
-## 14. [This Time with Alan Partridge](https://serp.ly/@serpmedia/github/amazon/This+Time+with+Alan+Partridge)
+## 14. [This Time with Alan Partridge](https://serp.ly/amazon/This+Time+with+Alan+Partridge)
 
 ![This Time with Alan Partridge](https://image.tmdb.org/t/p/original/nbMIrXFKCNyuOTRN3TA7YlHtWw7.jpg)
 
@@ -962,7 +962,7 @@ When Alan Partridge is given the chance to co-host This Time, a popular weekday 
 <hr>
 
 
-## 15. [Ellie & Natasia](https://serp.ly/@serpmedia/github/amazon/Ellie+%26+Natasia)
+## 15. [Ellie & Natasia](https://serp.ly/amazon/Ellie+%26+Natasia)
 
 ![Ellie & Natasia](https://image.tmdb.org/t/p/original/bDPcDGeP4Gn0KcJST1yp6u2lWLN.jpg)
 
@@ -1006,7 +1006,7 @@ When Alan Partridge is given the chance to co-host This Time, a popular weekday 
 <hr>
 
 
-## 16. [Teenage Euthanasia](https://serp.ly/@serpmedia/github/amazon/Teenage+Euthanasia)
+## 16. [Teenage Euthanasia](https://serp.ly/amazon/Teenage+Euthanasia)
 
 ![Teenage Euthanasia](https://image.tmdb.org/t/p/original/f0g3CYX31s5LUAw882h6r4QbpeT.jpg)
 
@@ -1050,7 +1050,7 @@ When a former runaway teen mom is accidentally resurrected in her family's funer
 <hr>
 
 
-## 17. [The Big Flower Fight](https://serp.ly/@serpmedia/github/amazon/The+Big+Flower+Fight)
+## 17. [The Big Flower Fight](https://serp.ly/amazon/The+Big+Flower+Fight)
 
 ![The Big Flower Fight](https://image.tmdb.org/t/p/original/2ZOi6NYiYECJmpAqIXanzMEiYPH.jpg)
 
@@ -1092,7 +1092,7 @@ The Big Flower Fight brings together ten pairs of floral artists for a series of
 <hr>
 
 
-## 18. [Jamie Demetriou: Channel 4 Comedy Blaps](https://serp.ly/@serpmedia/github/amazon/Jamie+Demetriou%3A+Channel+4+Comedy+Blaps)
+## 18. [Jamie Demetriou: Channel 4 Comedy Blaps](https://serp.ly/amazon/Jamie+Demetriou%3A+Channel+4+Comedy+Blaps)
 
 ![Jamie Demetriou: Channel 4 Comedy Blaps](https://image.tmdb.org/t/p/original/1Y8yOTE9IEIBa6Yq2uWKhY7SAWJ.jpg)
 

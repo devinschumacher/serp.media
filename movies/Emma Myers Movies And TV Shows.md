@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Girl in the Basement](https://serp.ly/@serpmedia/github/amazon/Girl+in+the+Basement)
+## 1. [Girl in the Basement](https://serp.ly/amazon/Girl+in+the+Basement)
 
 ![Girl in the Basement](https://image.tmdb.org/t/p/original/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg)
 
@@ -71,7 +71,7 @@ Sara's 18th birthday should be a celebration of new beginnings, but her controll
 <hr>
 
 
-## 2. [Family Switch](https://serp.ly/@serpmedia/github/amazon/Family+Switch)
+## 2. [Family Switch](https://serp.ly/amazon/Family+Switch)
 
 ![Family Switch](https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg)
 
@@ -110,7 +110,7 @@ The Walker family is about to experience a once-in-a-lifetime event that will te
 <hr>
 
 
-## 3. [Letters to God](https://serp.ly/@serpmedia/github/amazon/Letters+to+God)
+## 3. [Letters to God](https://serp.ly/amazon/Letters+to+God)
 
 ![Letters to God](https://image.tmdb.org/t/p/original/vkOXEUy9J0GNtrqXY9Z9rl9pDHf.jpg)
 
@@ -148,7 +148,7 @@ When a young boy fighting cancer writes heartfelt letters to God, his inspiring 
 <hr>
 
 
-## 4. [A Taste of Christmas](https://serp.ly/@serpmedia/github/amazon/A+Taste+of+Christmas)
+## 4. [A Taste of Christmas](https://serp.ly/amazon/A+Taste+of+Christmas)
 
 ![A Taste of Christmas](https://image.tmdb.org/t/p/original/kKddZ0tgSMjNAmFlgyLbvPQrHmm.jpg)
 
@@ -182,7 +182,7 @@ When Natalie's cousin Francesca must cancel her new Italian restaurant's Christm
 <hr>
 
 
-## 5. [Southern Gospel](https://serp.ly/@serpmedia/github/amazon/Southern+Gospel)
+## 5. [Southern Gospel](https://serp.ly/amazon/Southern+Gospel)
 
 ![Southern Gospel](https://image.tmdb.org/t/p/original/uskzrZyYKP1cKxnhTunfUVbl1Xi.jpg)
 
@@ -218,7 +218,7 @@ When Samuel Allen's carefully constructed life changes in an instant, he's faced
 <hr>
 
 
-## 6. [Minecraft](https://serp.ly/@serpmedia/github/amazon/Minecraft)
+## 6. [Minecraft](https://serp.ly/amazon/Minecraft)
 
 ![Minecraft](https://image.tmdb.org/t/p/original/8QXztkfy0y7nLgUhy8fGfokSloM.jpg)
 
@@ -246,7 +246,7 @@ When Samuel Allen's carefully constructed life changes in an instant, he's faced
 <hr>
 
 
-## 1. [Wednesday](https://serp.ly/@serpmedia/github/amazon/Wednesday)
+## 1. [Wednesday](https://serp.ly/amazon/Wednesday)
 
 ![Wednesday](https://image.tmdb.org/t/p/original/9PFonBhy4cQy7Jz20NpMygczOkv.jpg)
 
@@ -292,7 +292,7 @@ When Wednesday Addams is sent to the peculiar Nevermore Academy, she expects her
 <hr>
 
 
-## 2. [The Glades](https://serp.ly/@serpmedia/github/amazon/The+Glades)
+## 2. [The Glades](https://serp.ly/amazon/The+Glades)
 
 ![The Glades](https://image.tmdb.org/t/p/original/44mkq0KpOngpJSs22m0LdP37Jpp.jpg)
 
@@ -336,7 +336,7 @@ When Chicago cop Jim Matthews is shot and wrongfully accused of having an affair
 <hr>
 
 
-## 3. [A Good Girl's Guide to Murder](https://serp.ly/@serpmedia/github/amazon/A+Good+Girl%27s+Guide+to+Murder)
+## 3. [A Good Girl's Guide to Murder](https://serp.ly/amazon/A+Good+Girl%27s+Guide+to+Murder)
 
 ![A Good Girl's Guide to Murder](https://image.tmdb.org/t/p/original/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg)
 
@@ -380,7 +380,7 @@ When schoolgirl Andie Bell dies, her boyfriend Sal Singh confesses to the murder
 <hr>
 
 
-## 4. [The Baker and the Beauty](https://serp.ly/@serpmedia/github/amazon/The+Baker+and+the+Beauty)
+## 4. [The Baker and the Beauty](https://serp.ly/amazon/The+Baker+and+the+Beauty)
 
 ![The Baker and the Beauty](https://image.tmdb.org/t/p/original/i0AB2fH7KZNlrh9SBNY3a5ooD0Q.jpg)
 

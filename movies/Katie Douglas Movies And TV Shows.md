@@ -37,7 +37,7 @@ With our special deals for free trials at HBO, Amazon Prime Video & Paramount+ y
 <hr>
 
 
-## 1. [Every Day](https://serp.ly/@serpmedia/github/amazon/Every+Day)
+## 1. [Every Day](https://serp.ly/amazon/Every+Day)
 
 ![Every Day](https://image.tmdb.org/t/p/original/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg)
 
@@ -77,7 +77,7 @@ Every day, 16-year-old Rhiannon falls in love with a different boy. It's not her
 <hr>
 
 
-## 2. [Believe Me: The Abduction of Lisa McVey](https://serp.ly/@serpmedia/github/amazon/Believe+Me%3A+The+Abduction+of+Lisa+McVey)
+## 2. [Believe Me: The Abduction of Lisa McVey](https://serp.ly/amazon/Believe+Me%3A+The+Abduction+of+Lisa+McVey)
 
 ![Believe Me: The Abduction of Lisa McVey](https://image.tmdb.org/t/p/original/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg)
 
@@ -111,7 +111,7 @@ On the night she plans to take her own life, 17-year-old Lisa McVey is kidnapped
 <hr>
 
 
-## 3. [Level 16](https://serp.ly/@serpmedia/github/amazon/Level+16)
+## 3. [Level 16](https://serp.ly/amazon/Level+16)
 
 ![Level 16](https://image.tmdb.org/t/p/original/kILAL9kJdW3f6wk9Ai0tavgi6mp.jpg)
 
@@ -152,7 +152,7 @@ The teenage girls of Vestalis Academy are meticulously trained in the art of bei
 <hr>
 
 
-## 4. [The Girl Who Escaped: The Kara Robinson Story](https://serp.ly/@serpmedia/github/amazon/The+Girl+Who+Escaped%3A+The+Kara+Robinson+Story)
+## 4. [The Girl Who Escaped: The Kara Robinson Story](https://serp.ly/amazon/The+Girl+Who+Escaped%3A+The+Kara+Robinson+Story)
 
 ![The Girl Who Escaped: The Kara Robinson Story](https://image.tmdb.org/t/p/original/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg)
 
@@ -186,7 +186,7 @@ When 15-year-old Kara Robinson is kidnapped and held captive for 18 hours, she m
 <hr>
 
 
-## 5. [Compulsion](https://serp.ly/@serpmedia/github/amazon/Compulsion)
+## 5. [Compulsion](https://serp.ly/amazon/Compulsion)
 
 ![Compulsion](https://image.tmdb.org/t/p/original/z4kJGHSn2BLh8EdJTvi7SCV12xR.jpg)
 
@@ -224,7 +224,7 @@ When a successful chef runs a restaurant next to a former child actress's home, 
 <hr>
 
 
-## 6. [Thicker Than Water](https://serp.ly/@serpmedia/github/amazon/Thicker+Than+Water)
+## 6. [Thicker Than Water](https://serp.ly/amazon/Thicker+Than+Water)
 
 ![Thicker Than Water](https://image.tmdb.org/t/p/original/cw02KZWwpURUXUzk03PpxOJCuIU.jpg)
 
@@ -258,7 +258,7 @@ When the Petrovic family loses their teenage son Zach in a tragic accident, they
 <hr>
 
 
-## 7. [The Walk](https://serp.ly/@serpmedia/github/amazon/The+Walk)
+## 7. [The Walk](https://serp.ly/amazon/The+Walk)
 
 ![The Walk](https://image.tmdb.org/t/p/original/tg1dJHA60iuLxAHtUYD01LL7P10.jpg)
 
@@ -294,7 +294,7 @@ The first step is the hardest.
 <hr>
 
 
-## 8. [Lazareth](https://serp.ly/@serpmedia/github/amazon/Lazareth)
+## 8. [Lazareth](https://serp.ly/amazon/Lazareth)
 
 ![Lazareth](https://image.tmdb.org/t/p/original/36o8ancoKDKW1sstzMi0YYkQkpU.jpg)
 
@@ -327,7 +327,7 @@ In a world on the brink of collapse, Lee dedicates herself to protecting her orp
 <hr>
 
 
-## 9. [Double Edged](https://serp.ly/@serpmedia/github/amazon/Double+Edged)
+## 9. [Double Edged](https://serp.ly/amazon/Double+Edged)
 
 ![Double Edged](https://image.tmdb.org/t/p/original/wS3vrJ8wAFWd0djkVncanraU2KC.jpg)
 
@@ -360,7 +360,7 @@ When a young woman without a twin struggles to understand her identity, she cros
 <hr>
 
 
-## 10. [Sunshine Sketches of a Little Town](https://serp.ly/@serpmedia/github/amazon/Sunshine+Sketches+of+a+Little+Town)
+## 10. [Sunshine Sketches of a Little Town](https://serp.ly/amazon/Sunshine+Sketches+of+a+Little+Town)
 
 <br>
 
@@ -391,7 +391,7 @@ Stephen Leacock's memoir transports readers to his hometown of Mariposa, Ontario
 <hr>
 
 
-## 11. [Clown in a Cornfield](https://serp.ly/@serpmedia/github/amazon/Clown+in+a+Cornfield)
+## 11. [Clown in a Cornfield](https://serp.ly/amazon/Clown+in+a+Cornfield)
 
 ![Clown in a Cornfield](https://image.tmdb.org/t/p/original/nOACBqqGRuqHhD4tSBBMSQdgLbM.jpg)
 
@@ -416,7 +416,7 @@ Quinn Maybrook just wants to make it to graduation. After moving to the fading m
 <hr>
 
 
-## 12. [What Would Jesus Do?](https://serp.ly/@serpmedia/github/amazon/What+Would+Jesus+Do%3F)
+## 12. [What Would Jesus Do?](https://serp.ly/amazon/What+Would+Jesus+Do%3F)
 
 <br>
 
@@ -442,7 +442,7 @@ When three Los Angeles girls accidentally run over a man with their car, they dr
 <hr>
 
 
-## 1. [Saving Hope](https://serp.ly/@serpmedia/github/amazon/Saving+Hope)
+## 1. [Saving Hope](https://serp.ly/amazon/Saving+Hope)
 
 ![Saving Hope](https://image.tmdb.org/t/p/original/1OGQisCT1T5ChkzZVdFqhX4O1G.jpg)
 
@@ -486,7 +486,7 @@ When Charlie Harris falls into a coma, he leaves Hope-Zion Hospital in chaos - a
 <hr>
 
 
-## 2. [Flashpoint](https://serp.ly/@serpmedia/github/amazon/Flashpoint)
+## 2. [Flashpoint](https://serp.ly/amazon/Flashpoint)
 
 ![Flashpoint](https://image.tmdb.org/t/p/original/3Bp3vJrPxnrN8iRDaclsVUPwgWa.jpg)
 
@@ -530,7 +530,7 @@ When seconds count and stakes are high, the Strategic Response Unit (SRU) spring
 <hr>
 
 
-## 3. [Mary Kills People](https://serp.ly/@serpmedia/github/amazon/Mary+Kills+People)
+## 3. [Mary Kills People](https://serp.ly/amazon/Mary+Kills+People)
 
 ![Mary Kills People](https://image.tmdb.org/t/p/original/4zOZzlSjHjUJgc2Gp20iFfpkRBV.jpg)
 
@@ -574,7 +574,7 @@ When Dr. Mary Harris isn't saving lives as an emergency doctor, she's helping te
 <hr>
 
 
-## 4. [Ginny & Georgia](https://serp.ly/@serpmedia/github/amazon/Ginny+%26+Georgia)
+## 4. [Ginny & Georgia](https://serp.ly/amazon/Ginny+%26+Georgia)
 
 ![Ginny & Georgia](https://image.tmdb.org/t/p/original/j1yqOSVVskSYpYreNT0VeD1S3Dq.jpg)
 
@@ -618,7 +618,7 @@ When fifteen-year-old Ginny Miller moves to picturesque New England with her thi
 <hr>
 
 
-## 5. [Burden of Truth](https://serp.ly/@serpmedia/github/amazon/Burden+of+Truth)
+## 5. [Burden of Truth](https://serp.ly/amazon/Burden+of+Truth)
 
 ![Burden of Truth](https://image.tmdb.org/t/p/original/2YLg5PQ27kgRp6uncqUhKHoXXUC.jpg)
 
@@ -660,7 +660,7 @@ When a prominent lawyer returns to her hometown, she takes on the challenging ca
 <hr>
 
 
-## 6. [Nurses](https://serp.ly/@serpmedia/github/amazon/Nurses)
+## 6. [Nurses](https://serp.ly/amazon/Nurses)
 
 ![Nurses](https://image.tmdb.org/t/p/original/cpA3nNFtf09RxXQxVY8IpttzOeT.jpg)
 
@@ -704,7 +704,7 @@ When five young nurses step into the chaos of a downtown Toronto hospital, they 
 <hr>
 
 
-## 7. [Less Than Kind](https://serp.ly/@serpmedia/github/amazon/Less+Than+Kind)
+## 7. [Less Than Kind](https://serp.ly/amazon/Less+Than+Kind)
 
 ![Less Than Kind](https://image.tmdb.org/t/p/original/e2nlMnB2no2CZwAKAEwjTqGq6BZ.jpg)
 
@@ -748,7 +748,7 @@ Less Than Kind invites you into the hilarious and heartwarming life of Sheldon B
 <hr>
 
 
-## 8. [Defiance](https://serp.ly/@serpmedia/github/amazon/Defiance)
+## 8. [Defiance](https://serp.ly/amazon/Defiance)
 
 ![Defiance](https://image.tmdb.org/t/p/original/4Xo2D2MX8v4FoHi70Y9jEghJGUI.jpg)
 
@@ -792,7 +792,7 @@ When seven distinct alien races unexpectedly arrive on Earth, they bring with th
 <hr>
 
 
-## 9. [Pretty Hard Cases](https://serp.ly/@serpmedia/github/amazon/Pretty+Hard+Cases)
+## 9. [Pretty Hard Cases](https://serp.ly/amazon/Pretty+Hard+Cases)
 
 ![Pretty Hard Cases](https://image.tmdb.org/t/p/original/logy60poXm2R5RKPE0YaArgcZv1.jpg)
 
@@ -834,7 +834,7 @@ When two tough detectives in their early 40s aren't cracking cases, they're batt
 <hr>
 
 
-## 10. [Alphas](https://serp.ly/@serpmedia/github/amazon/Alphas)
+## 10. [Alphas](https://serp.ly/amazon/Alphas)
 
 ![Alphas](https://image.tmdb.org/t/p/original/z4pjaJPojPTue3tGcualzwQqo1Y.jpg)
 
@@ -880,7 +880,7 @@ When five ordinary people discover they possess extraordinary physical and menta
 <hr>
 
 
-## 11. [Spooksville](https://serp.ly/@serpmedia/github/amazon/Spooksville)
+## 11. [Spooksville](https://serp.ly/amazon/Spooksville)
 
 ![Spooksville](https://image.tmdb.org/t/p/original/3V0hFx8NgYXVfHfoMOuAXs3rb1J.jpg)
 
@@ -922,7 +922,7 @@ When Adam Freeman's mother disappears under mysterious circumstances, he and his
 <hr>
 
 
-## 12. [Creeped Out](https://serp.ly/@serpmedia/github/amazon/Creeped+Out)
+## 12. [Creeped Out](https://serp.ly/amazon/Creeped+Out)
 
 ![Creeped Out](https://image.tmdb.org/t/p/original/dj7dzQsVv2Gh21g8NUjij90pGB.jpg)
 
@@ -964,7 +964,7 @@ Travel with "The Curious" through 23 episodes of dark magic and otherworldly won
 <hr>
 
 
-## 13. [Defiance: The Lost Ones](https://serp.ly/@serpmedia/github/amazon/Defiance%3A+The+Lost+Ones)
+## 13. [Defiance: The Lost Ones](https://serp.ly/amazon/Defiance%3A+The+Lost+Ones)
 
 ![Defiance: The Lost Ones](https://image.tmdb.org/t/p/original/3MGEFNzObyNXYRFSSD0Qk0GBiK9.jpg)
 
@@ -1005,7 +1005,7 @@ When five strangers wake up in a mysterious facility with no memory of how they 
 <hr>
 
 
-## 14. [Raising Expectations](https://serp.ly/@serpmedia/github/amazon/Raising+Expectations)
+## 14. [Raising Expectations](https://serp.ly/amazon/Raising+Expectations)
 
 ![Raising Expectations](https://image.tmdb.org/t/p/original/y2W8e5QRpEKTAwN7N2yI69Mo7b.jpg)
 
@@ -1049,7 +1049,7 @@ Paige and Wayne have successfully raised four of their five children, but their 
 <hr>
 
 
-## 15. [Ghosting](https://serp.ly/@serpmedia/github/amazon/Ghosting)
+## 15. [Ghosting](https://serp.ly/amazon/Ghosting)
 
 ![Ghosting](https://image.tmdb.org/t/p/original/pfgQRiiC5q7PNJjynKPYXHwI118.jpg)
 
@@ -1090,7 +1090,7 @@ When script horror actors Luke Hutchie and Matthew Finlan aren't filming scary m
 <hr>
 
 
-## 16. [Max & Shred](https://serp.ly/@serpmedia/github/amazon/Max+%26+Shred)
+## 16. [Max & Shred](https://serp.ly/amazon/Max+%26+Shred)
 
 ![Max & Shred](https://image.tmdb.org/t/p/original/fPFsT1BnaxlptqVGzYKxuaAVtNC.jpg)
 
